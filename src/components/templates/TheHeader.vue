@@ -3,7 +3,11 @@
 <template>
   <header>
     <div class="header_items">
-      <img src="logo.svg" alt="" @click="router.push({ name: 'home' })" />
+      <img
+        src="/public/logo.svg"
+        alt=""
+        @click="router.push({ name: 'home' })"
+      />
 
       <div class="botones">
         <img
