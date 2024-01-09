@@ -3,11 +3,11 @@
 <template>
   <div id="slider">
     <figure>
-      <img src="hero.png" alt="" />
-      <img src="hero.png" alt="" />
-      <img src="hero.png" alt="" />
-      <img src="hero.png" alt="" />
-      <img src="hero.png" alt="" />
+      <img src="/hero.png" alt="" />
+      <img src="/hero.png" alt="" />
+      <img src="/hero.png" alt="" />
+      <img src="/hero.png" alt="" />
+      <img src="/hero.png" alt="" />
     </figure>
   </div>
 </template>
