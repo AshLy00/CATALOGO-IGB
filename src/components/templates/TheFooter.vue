@@ -2,7 +2,7 @@
 <template>
   <footer>
     <div class="footer_container">
-      <p>COPYRIGHT © 2024 - INVERSIONES GOMEZ BARRAZA</p>
+      <p>COPYRIGHT © 2024 - IGB</p>
     </div>
   </footer>
 </template>
