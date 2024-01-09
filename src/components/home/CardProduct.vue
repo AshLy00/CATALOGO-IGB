@@ -3,7 +3,7 @@
   <div class="card_container">
     <div class="card">
       <div class="img_container">
-        <img src="olla.jpg" alt="" />
+        <img src="/olla.jpg" alt="" />
       </div>
       <p class="product">LAVADORA SEMIAUTOMATICA 12 LITROS KALLEY</p>
       <p class="price">$1.100.000</p>
