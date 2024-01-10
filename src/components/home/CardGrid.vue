@@ -1,13 +1,12 @@
 <script setup>
 import CardProduct from "../home/CardProduct.vue";
+import { database } from "../../database";
+import { ref, onMounted, watch } from "vue";
+import { useRoute } from "vue-router";
 </script>
 <template>
   <div class="grid_cards">
-    <CardProduct />
-    <CardProduct />
-    <CardProduct />
-    <CardProduct />
-    <CardProduct />
+    <CardProduct v-for="(project, i) in database" :key="i" :project="project" />
   </div>
 </template>
 
@@ -43,6 +42,13 @@ import CardProduct from "../home/CardProduct.vue";
 @media screen and (max-width: 1040px) {
   .grid_cards {
     width: 70%;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 880px) {
+  .grid_cards {
+    width: 80%;
     grid-template-columns: repeat(2, 1fr);
   }
 }

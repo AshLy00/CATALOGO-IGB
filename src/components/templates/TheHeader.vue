@@ -1,26 +1,41 @@
-<script setup></script>
+<script setup>
+import { ref } from "vue";
+import { useRouter } from "vue-router";
+import TheMenu from "../home/TheMenu.vue";
+
+const router = useRouter();
+const showMenu = ref(false);
+
+const toggleMenu = () => {
+  showMenu.value = !showMenu.value;
+};
+</script>
 
 <template>
+  <div class="menu" :class="{ show: showMenu }">
+    <TheMenu />
+  </div>
+
   <header>
     <div class="header_items">
       <img
-        src="/public/logo.svg"
+        src="/src/images/logo.svg"
         alt=""
-        @click="router.push({ name: 'home' })"
+        @click="$router.push({ name: 'home' })"
       />
 
       <div class="botones">
         <img
           class="boton"
-          src="cart_black.svg"
+          src="/src/images/cart_black.svg"
           alt=""
-          @click="router.push({ name: 'product' })"
+          @click="$router.push({ name: 'product' })"
         />
         <img
           class="boton"
-          src="menu_icon.svg"
+          src="/src/images/menu_icon.svg"
           alt=""
-          @click="router.push({ name: 'product' })"
+          @click="toggleMenu"
         />
       </div>
     </div>
@@ -28,6 +43,17 @@
 </template>
 
 <style scoped>
+.menu {
+  z-index: 3;
+  right: 0%;
+  display: none;
+  position: fixed;
+}
+
+.menu.show {
+  display: inherit;
+  opacity: 100%;
+}
 header {
   width: 100%;
   background-color: var(--color-white);
