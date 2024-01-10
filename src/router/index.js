@@ -10,7 +10,7 @@ const router = createRouter({
     },
 
     {
-      path: "/product",
+      path: "/",
       name: "product",
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
