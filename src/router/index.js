@@ -1,4 +1,3 @@
-import { createApp } from "vue";
 import { createRouter, createWebHistory } from "vue-router";
 
 const router = createRouter({
@@ -11,7 +10,7 @@ const router = createRouter({
     },
 
     {
-      path: "/",
+      path: "/product",
       name: "product",
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
