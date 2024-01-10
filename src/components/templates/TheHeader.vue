@@ -65,7 +65,7 @@ img {
   transition-duration: 0.5s;
 }
 .boton {
-  width: 50px;
+  width: 40px;
   cursor: pointer;
   transition-property: width;
   transition-duration: 0.5s;
@@ -90,6 +90,7 @@ header {
 .botones {
   display: flex;
   gap: 15px;
+  align-items: center;
 }
 
 @media screen and (max-width: 600px) {
@@ -97,7 +98,7 @@ header {
     width: 110px;
   }
   .boton {
-    width: 40px;
+    width: 35px;
   }
   .header_items {
     width: 85%;
@@ -106,10 +107,21 @@ header {
     height: 80px;
   }
 }
+@media screen and (max-width: 590px) {
+  img {
+    width: 80px;
+  }
+  .boton {
+    width: 30px;
+  }
 
+  header {
+    height: 70px;
+  }
+}
 @media screen and (max-width: 420px) {
   img {
-    width: 90px;
+    width: 80px;
   }
   .boton {
     width: 30px;

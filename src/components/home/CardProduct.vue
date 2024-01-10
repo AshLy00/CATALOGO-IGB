@@ -232,7 +232,7 @@ img {
     height: 150px;
   }
   .card_container {
-    height: 420px;
+    height: 380px;
     width: 230px;
   }
   .product {
@@ -257,14 +257,56 @@ img {
     padding-left: 20px;
     gap: 10px;
     padding-right: 10px;
-    font-size: 0.7rem;
+    font-size: 0.6rem;
   }
   .cart_button p {
     width: 60%;
   }
   .cart {
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .img_container {
+    width: 120px;
+    height: 120px;
+  }
+  .card_container {
+    height: 400px;
+    width: 200px;
+  }
+  .product {
+    font-size: 0.5rem;
+    width: 80%;
+  }
+  .price {
+    font-size: 0.9rem;
+    font-weight: bold;
+  }
+  .card {
+    height: 350px;
+    border-radius: 15px;
+    border: solid 1.5px #e6e6e688;
+    gap: 20px;
+  }
+  .cart_button {
+    width: 80px;
+    height: 60px;
+    border-radius: 10px;
+    bottom: 6%;
+    padding-left: 10px;
+    gap: 10px;
+    padding-right: 9px;
+    font-size: 0.6rem;
+  }
+  .cart_button p {
+    width: 60%;
+  }
+  .cart {
+    width: 10px;
+    height: 10px;
   }
 }
 </style>
