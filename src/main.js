@@ -9,6 +9,3 @@ const app = createApp(App);
 
 app.use(router);
 app.mount("#app");
-
-window.addEventListener("resize", initSlider);
-window.addEventListener("load", initSlider);
