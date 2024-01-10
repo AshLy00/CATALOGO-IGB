@@ -6,7 +6,7 @@
         <img src="/src/images/close.svg" alt="" />
       </button>
     </div>
-    <div class="menu_content"><h1>MENU</h1></div>
+    <div class="menu_content"><h1>menu</h1></div>
   </div>
 </template>
 <style scooped>

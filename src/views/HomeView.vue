@@ -13,7 +13,4 @@ const router = useRouter();
   <CardGrid />
 </template>
 
-<style scoped>
-@media screen and (max-width: 1000px) {
-}
-</style>
+<style scoped></style>

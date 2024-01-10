@@ -9,22 +9,24 @@ const props = defineProps(["project"]);
     <div class="card">
       <div class="img_container">
         <div class="no-disponible">
-          <h1>NO DISPONIBLE</h1>
+          <h1>no disponible</h1>
         </div>
         <img :src="project.images_url" alt="" />
       </div>
       <p class="product">{{ project.product }}</p>
       <p class="price">${{ project.price }}</p>
     </div>
-    <div class="cart_button">
+    <button class="cart_button">
       <img class="cart" src="/src/images/cart_white.svg" alt="" />
-      <p>AÑADIR AL CARRITO</p>
-    </div>
+      <p>añadir al carrito</p>
+    </button>
   </div>
 </template>
 <style scooped>
 img {
   height: 100%;
+
+  width: fit-content;
   transition-property: width;
   transition-duration: 0.5s;
 }
@@ -51,6 +53,14 @@ img {
   align-items: center;
   cursor: pointer;
 }
+
+.img_container img {
+  width: 90%;
+  height: fit-content;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
 .agotado img {
   filter: grayscale(100%);
 }
@@ -113,10 +123,11 @@ img {
   display: flex;
   align-items: center;
   font-style: italic;
+  text-align: start;
   color: var(--color-white);
   border-style: none;
-  padding-left: 20px;
-  gap: 15px;
+  padding-left: 15px;
+  gap: 5px;
   font-size: 0.9rem;
   transition-property: width;
   transition-property: height;
@@ -167,9 +178,9 @@ img {
     height: 80px;
     border-radius: 20px;
     bottom: 6%;
-    padding-left: 20px;
-    gap: 10px;
     font-size: 0.75rem;
+    padding-left: 15px;
+    gap: 10px;
   }
   .cart_button p {
     width: 60%;
@@ -208,14 +219,14 @@ img {
     gap: 20px;
   }
   .cart_button {
-    width: 120px;
+    width: 140px;
     height: 70px;
     border-radius: 20px;
     bottom: 6%;
-    padding-left: 20px;
-    gap: 10px;
     padding-right: 10px;
     font-size: 0.7rem;
+    padding-left: 15px;
+    gap: 10px;
   }
   .cart_button p {
     width: 60%;
@@ -226,14 +237,14 @@ img {
   }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 690px) {
   .img_container {
     width: 150px;
     height: 150px;
   }
   .card_container {
     height: 380px;
-    width: 230px;
+    width: 210px;
   }
   .product {
     font-size: 0.6rem;
@@ -250,11 +261,11 @@ img {
     gap: 20px;
   }
   .cart_button {
-    width: 100px;
+    width: 120px;
     height: 60px;
     border-radius: 10px;
     bottom: 6%;
-    padding-left: 20px;
+    padding-left: 10px;
     gap: 10px;
     padding-right: 10px;
     font-size: 0.6rem;
@@ -266,16 +277,68 @@ img {
     width: 25px;
     height: 25px;
   }
+
+  .agotado .no-disponible {
+    width: 100%;
+    font-size: 0.5rem;
+  }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 500px) {
   .img_container {
     width: 120px;
     height: 120px;
   }
   .card_container {
-    height: 400px;
-    width: 200px;
+    height: 300px;
+    width: 180px;
+  }
+  .product {
+    font-size: 0.6rem;
+    width: 85%;
+  }
+  .price {
+    font-size: 0.9rem;
+    font-weight: bold;
+  }
+  .card {
+    height: 380px;
+    border-radius: 15px;
+    border: solid 1.5px #e6e6e688;
+    gap: 15px;
+  }
+  .cart_button {
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    bottom: 6%;
+    padding-left: 10px;
+    gap: 8px;
+    padding-right: 10px;
+    font-size: 0.5rem;
+  }
+  .cart_button p {
+    width: 60%;
+  }
+  .cart {
+    width: 22px;
+    height: 22px;
+  }
+
+  .agotado .no-disponible {
+    width: 110%;
+    font-size: 0.45rem;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .img_container {
+    width: 100px;
+    height: 100px;
+  }
+  .card_container {
+    height: 240px;
+    width: 160px;
   }
   .product {
     font-size: 0.5rem;
@@ -286,27 +349,78 @@ img {
     font-weight: bold;
   }
   .card {
-    height: 350px;
+    height: 380px;
     border-radius: 15px;
     border: solid 1.5px #e6e6e688;
-    gap: 20px;
+    gap: 10px;
   }
   .cart_button {
-    width: 80px;
-    height: 60px;
+    width: 90px;
+    height: 70px;
     border-radius: 10px;
     bottom: 6%;
     padding-left: 10px;
-    gap: 10px;
-    padding-right: 9px;
-    font-size: 0.6rem;
+    gap: 8px;
+    padding-right: 5px;
+    font-size: 0.45rem;
   }
   .cart_button p {
     width: 60%;
   }
   .cart {
-    width: 10px;
-    height: 10px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .agotado .no-disponible {
+    width: 110%;
+    font-size: 0.4rem;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .img_container {
+    width: 90px;
+    height: 90px;
+  }
+  .card_container {
+    height: 230px;
+    width: 140px;
+  }
+  .product {
+    font-size: 0.45rem;
+    width: 80%;
+  }
+  .price {
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+  .card {
+    height: 380px;
+    border-radius: 15px;
+    border: solid 1.5px #e6e6e688;
+    gap: 10px;
+  }
+  .cart_button {
+    width: 90px;
+    height: 70px;
+    border-radius: 10px;
+    bottom: 6%;
+    padding-left: 10px;
+    gap: 8px;
+    padding-right: 5px;
+    font-size: 0.45rem;
+  }
+  .cart_button p {
+    width: 60%;
+  }
+  .cart {
+    width: 20px;
+    height: 20px;
+  }
+  .agotado .no-disponible {
+    width: 120%;
+    font-size: 0.35rem;
   }
 }
 </style>

@@ -2,7 +2,7 @@
 <template>
   <footer>
     <div class="footer_container">
-      <p>COPYRIGHT © 2024 - IGB</p>
+      <p>copyright © 2024 - inversiones gomez barraza</p>
     </div>
   </footer>
 </template>
@@ -13,17 +13,24 @@ footer {
   display: flex;
   align-items: center;
   background-color: var(--color-white);
-  height: 90px;
+  height: 80px;
   box-shadow: rgba(0, 0, 0, 0.11) 0px -25px 20px -20px;
   font-size: 1rem;
   transition-property: font-size;
   transition-duration: 0.5s;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   footer {
-    height: 70px;
-    font-size: 0.6rem;
+    height: 60px;
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  footer {
+    height: 50px;
+    font-size: 0.7rem;
   }
 }
 </style>

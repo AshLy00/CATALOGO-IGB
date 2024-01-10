@@ -3,11 +3,26 @@
 <template>
   <div id="slider">
     <figure>
-      <img src="/src/images/hero.png" alt="" />
-      <img src="/src/images/hero.png" alt="" />
-      <img src="/src/images/hero.png" alt="" />
-      <img src="/src/images/hero.png" alt="" />
-      <img src="/src/images/hero.png" alt="" />
+      <img
+        src="https://tinypic.host/images/2024/01/10/banner-tamano-100.jpeg"
+        alt=""
+      />
+      <img
+        src="https://tinypic.host/images/2024/01/10/banner-tamano-100.jpeg"
+        alt=""
+      />
+      <img
+        src="https://tinypic.host/images/2024/01/10/banner-tamano-100.jpeg"
+        alt=""
+      />
+      <img
+        src="https://tinypic.host/images/2024/01/10/banner-tamano-100.jpeg"
+        alt=""
+      />
+      <img
+        src="https://tinypic.host/images/2024/01/10/banner-tamano-100.jpeg"
+        alt=""
+      />
     </figure>
   </div>
 </template>

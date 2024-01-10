@@ -52,7 +52,6 @@ const toggleMenu = () => {
 
 .menu.show {
   display: inherit;
-  opacity: 100%;
 }
 header {
   width: 100%;
@@ -65,7 +64,7 @@ img {
   transition-duration: 0.5s;
 }
 .boton {
-  width: 40px;
+  width: 50px;
   cursor: pointer;
   transition-property: width;
   transition-duration: 0.5s;
@@ -93,9 +92,23 @@ header {
   align-items: center;
 }
 
+@media screen and (max-width: 900px) {
+  img {
+    width: 95px;
+  }
+  .boton {
+    width: 35px;
+  }
+  .header_items {
+    width: 85%;
+  }
+  header {
+    height: 85px;
+  }
+}
 @media screen and (max-width: 600px) {
   img {
-    width: 110px;
+    width: 95px;
   }
   .boton {
     width: 35px;
@@ -121,16 +134,16 @@ header {
 }
 @media screen and (max-width: 420px) {
   img {
-    width: 80px;
+    width: 70px;
   }
   .boton {
-    width: 30px;
+    width: 25px;
   }
   .header_items {
     width: 85%;
   }
   header {
-    height: 70px;
+    height: 60px;
   }
 }
 </style>

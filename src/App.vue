@@ -12,4 +12,8 @@ import TheFooter from "./components/templates/TheFooter.vue";
   <TheFooter />
 </template>
 
-<style scoped></style>
+<style scoped>
+main {
+  margin-bottom: 20px;
+}
+</style>

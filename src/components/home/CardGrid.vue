@@ -48,8 +48,13 @@ import { useRoute } from "vue-router";
 
 @media screen and (max-width: 880px) {
   .grid_cards {
-    width: 80%;
-    grid-template-columns: repeat(2, 1fr);
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .grid_cards {
+    width: 95%;
   }
 }
 </style>

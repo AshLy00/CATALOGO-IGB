@@ -13,7 +13,7 @@
   justify-content: space-between;
   width: 100%;
   align-items: center;
-  height: 150px;
+  height: 100px;
 }
 .right {
   height: 50px;
@@ -44,7 +44,7 @@ h1 {
 }
 @media screen and (max-width: 1090px) {
   .container {
-    height: 130px;
+    height: 120px;
   }
   .right {
     height: 40px;
@@ -63,15 +63,15 @@ h1 {
 
 @media screen and (max-width: 800px) {
   .container {
-    height: 100px;
+    height: 80px;
   }
   .right {
-    height: 40px;
+    height: 30px;
     width: 20%;
   }
 
   .left {
-    height: 40px;
+    height: 30px;
     width: 20%;
   }
 
@@ -82,15 +82,15 @@ h1 {
 
 @media screen and (max-width: 500px) {
   .container {
-    height: 90px;
+    height: 70px;
   }
   .right {
-    height: 30px;
+    height: 25px;
     width: 20%;
   }
 
   .left {
-    height: 30px;
+    height: 25px;
     width: 20%;
   }
 
@@ -100,15 +100,15 @@ h1 {
 }
 @media screen and (max-width: 400px) {
   .container {
-    height: 70px;
+    height: 60px;
   }
   .right {
-    height: 30px;
+    height: 20px;
     width: 18%;
   }
 
   .left {
-    height: 30px;
+    height: 20px;
     width: 18%;
   }
 
