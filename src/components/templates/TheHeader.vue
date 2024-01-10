@@ -12,7 +12,7 @@ const toggleMenu = () => {
 </script>
 
 <template>
-  <div class="menu" :class="{ show: showMenu }">
+  <div class="themenu" :class="{ show: showMenu }">
     <TheMenu />
   </div>
 
@@ -43,14 +43,14 @@ const toggleMenu = () => {
 </template>
 
 <style scoped>
-.menu {
+.themenu {
   z-index: 3;
+  position: absolute;
+  width: 50%;
   right: 0%;
-  display: none;
-  position: fixed;
 }
 
-.menu.show {
+.themenu.show {
   display: inherit;
 }
 header {

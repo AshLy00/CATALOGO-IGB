@@ -2,14 +2,19 @@
 <template>
   <div class="menu_container">
     <div class="menu">
+      <h1>categorías</h1>
       <button class="close">
-        <img src="/src/images/close.svg" alt="" />
+        <img src="/src/images/menu_icon.svg" alt="" />
       </button>
     </div>
-    <div class="menu_content"><h1>menu</h1></div>
+    <button @click="$router.push({ name: 'product' })">lavadoras</button>
   </div>
 </template>
 <style scooped>
+.menu button {
+  width: fit-content;
+}
+
 .close {
   width: 30px;
   height: 30px;
@@ -18,25 +23,39 @@
 }
 .menu_container {
   background-color: white;
-  width: 500px;
+  width: 100%;
   height: 700px;
   -webkit-box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.44);
   -moz-box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.44);
   box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.44);
-  border-radius: 20px 0px 0px 20px;
+  border-radius: 0px 0px 0px 20px;
   display: flex;
   gap: 20px;
   flex-direction: column;
-  padding: 40px;
+  align-items: center;
 }
+
 .menu {
   display: flex;
   justify-content: space-between;
-}
-.menu_content {
-  justify-content: center;
+  border-bottom: 1px solid gray;
+  height: 90px;
   align-items: center;
-  display: flex;
-  font-size: 0.7rem;
+  width: 100%;
+}
+
+.menu h1 {
+  margin-left: 50px;
+  font-weight: lighter;
+  font-size: 1.5rem;
+}
+
+.menu button {
+  margin-right: 50px;
+}
+
+.menu img {
+  width: 100%;
+  height: 100%;
 }
 </style>
