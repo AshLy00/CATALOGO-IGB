@@ -1,12 +1,10 @@
 <script setup>
 import CardProduct from "../home/CardProduct.vue";
 import { database } from "../../database";
-import { ref, onMounted, watch } from "vue";
-import { useRoute } from "vue-router";
 </script>
 <template>
   <div class="grid_cards">
-    <CardProduct v-for="(project, i) in database" :key="i" :project="project" />
+    <CardProduct v-for="(p, i) in database" :key="i" :project="p" />
   </div>
 </template>
 

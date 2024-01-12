@@ -7,7 +7,7 @@
         <img src="/src/images/menu_icon.svg" alt="" />
       </button>
     </div>
-    <button @click="$router.push({ name: 'product' })">lavadoras</button>
+    <button @click="$router.push({ name: 'menu' })">lavadoras</button>
   </div>
 </template>
 <style scooped>

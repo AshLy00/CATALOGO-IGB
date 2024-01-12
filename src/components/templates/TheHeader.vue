@@ -1,21 +1,9 @@
 <script setup>
 import { ref } from "vue";
 import { useRouter } from "vue-router";
-import TheMenu from "../home/TheMenu.vue";
-
-const router = useRouter();
-const showMenu = ref(false);
-
-const toggleMenu = () => {
-  showMenu.value = !showMenu.value;
-};
 </script>
 
 <template>
-  <div class="themenu" :class="{ show: showMenu }">
-    <TheMenu />
-  </div>
-
   <header>
     <div class="header_items">
       <img
@@ -29,13 +17,13 @@ const toggleMenu = () => {
           class="boton"
           src="/src/images/cart_black.svg"
           alt=""
-          @click="$router.push({ name: 'product' })"
+          @click="$router.push({ name: 'menu' })"
         />
         <img
           class="boton"
           src="/src/images/menu_icon.svg"
           alt=""
-          @click="toggleMenu"
+          @click="$router.push({ name: 'menu' })"
         />
       </div>
     </div>
@@ -43,16 +31,6 @@ const toggleMenu = () => {
 </template>
 
 <style scoped>
-.themenu {
-  z-index: 3;
-  position: absolute;
-  width: 50%;
-  right: 0%;
-}
-
-.themenu.show {
-  display: inherit;
-}
 header {
   width: 100%;
   background-color: var(--color-white);

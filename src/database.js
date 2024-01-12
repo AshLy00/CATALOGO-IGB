@@ -29,7 +29,7 @@ export const database = [
     description: "buena lavadora xd",
     images_url:
       "https://tinypic.host/images/2024/01/10/gsc_117088860_1569304_2.png",
-    category: "lavadoras",
+    category: "juguetes",
   },
   {
     product: "lavadora semiautomatica samsung 16 litros",
@@ -39,7 +39,7 @@ export const database = [
     price: "111.111",
     description: "buena lavadora xd",
     images_url: "https://tinypic.host/images/2024/01/10/Untitled-5.png",
-    category: "sartenes",
+    category: "ollas",
   },
 
   {
