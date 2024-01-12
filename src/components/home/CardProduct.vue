@@ -1,5 +1,18 @@
 <script setup>
+import { ref } from "vue";
+import { useRouter } from "vue-router";
+
 const props = defineProps(["project"]);
+const router = useRouter();
+const projectRef = ref(props.project);
+
+const navigateToLink = () => {
+  const productText = projectRef.value.product.toUpperCase();
+  const link =
+    "https://wa.me/3167966364/?text=" +
+    encodeURIComponent(`QUIERO COMPRAR ESTE PRODUCTO: ${productText}`);
+  window.location.href = link;
+};
 </script>
 <template>
   <div
@@ -16,9 +29,9 @@ const props = defineProps(["project"]);
       <p class="product">{{ project.product }}</p>
       <p class="price">${{ project.price }}</p>
     </div>
-    <button class="cart_button">
+    <button class="cart_button" @click="navigateToLink">
       <img class="cart" src="/src/images/cart_white.svg" alt="" />
-      <p>añadir al carrito</p>
+      <p>comprar en linea</p>
     </button>
   </div>
 </template>
