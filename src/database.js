@@ -1408,7 +1408,7 @@ export const database = [
     price: "49,000",
     description: "",
     images_url:
-      "https://www.distribucionescaldas.com/wp-content/uploads/2020/08/SARTEN-6-ULTRATAPA-VIDRIO-18CM-UNIVERSAL_01-300x300.jpg",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167018-1200-auto?v=638392154842870000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
