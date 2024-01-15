@@ -1407,8 +1407,7 @@ export const database = [
     id: 121,
     price: "49,000",
     description: "",
-    images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/167018-1200-auto?v=638392154842870000&width=1200&height=auto&aspect=true",
+    images_url: "https://tinypic.host/images/2024/01/15/158134-1200-auto.webp",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1432,7 +1431,7 @@ export const database = [
     price: "49,000",
     description: "",
     images_url:
-      "https://tinypic.host/image/SARTEN-6-ULTRATAPA-VIDRIO-18CM-UNIVERSAL-01-300x300.we5mf",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167018-1200-auto?v=638392154842870000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
