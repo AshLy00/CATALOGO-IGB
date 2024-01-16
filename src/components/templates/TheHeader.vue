@@ -1,29 +1,35 @@
 <script setup>
 import { ref } from "vue";
 import { useRouter } from "vue-router";
+import TheMenu from "../home/TheMenu.vue";
+
+const isMenuVisible = ref(false);
+
+const toggleMenu = () => {
+  isMenuVisible.value = !isMenuVisible.value;
+};
 </script>
 
 <template>
+  <div class="themenu" v-if="isMenuVisible">
+    <TheMenu />
+  </div>
   <header>
     <div class="header_items">
-      <img
-        src="/src/images/logo.svg"
-        alt=""
-        @click="$router.push({ name: 'home' })"
-      />
+      <img src="/src/images/logo.svg" alt="" />
 
       <div class="botones">
-        <img
+        <!--     <img
           class="boton"
           src="/src/images/cart_black.svg"
           alt=""
-          @click="$router.push({ name: 'menu' })"
-        />
+          @click="$router.push({ name: 'filter' })"
+        />      -->
         <img
           class="boton"
           src="/src/images/menu_icon.svg"
           alt=""
-          @click="$router.push({ name: 'menu' })"
+          @click="toggleMenu"
         />
       </div>
     </div>
@@ -31,6 +37,13 @@ import { useRouter } from "vue-router";
 </template>
 
 <style scoped>
+.themenu {
+  z-index: 2;
+  position: fixed;
+  top: 0%;
+  right: 0%;
+}
+
 header {
   width: 100%;
   background-color: var(--color-white);
@@ -55,6 +68,8 @@ header {
   align-items: center;
   height: 100px;
   box-shadow: rgba(0, 0, 0, 0.11) 0px 25px 20px -20px;
+  position: fixed;
+  z-index: 1;
 }
 
 .header_items {
@@ -122,6 +137,13 @@ header {
   }
   header {
     height: 60px;
+  }
+  .themenu {
+    z-index: 2;
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    width: 100%;
   }
 }
 </style>

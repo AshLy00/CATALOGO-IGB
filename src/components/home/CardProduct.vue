@@ -30,12 +30,15 @@ const navigateToLink = () => {
       <p class="price">${{ project.price }}</p>
     </div>
     <button class="cart_button" @click="navigateToLink">
-      <img class="cart" src="/src/images/cart_white.svg" alt="" />
-      <p>comprar en linea</p>
+      <img class="cart" src="/src/images/whatsapp_icon.png" alt="" />
+      <p>comprar en línea</p>
     </button>
   </div>
 </template>
 <style scooped>
+p {
+  font-weight: 300;
+}
 img {
   height: 100%;
 
@@ -105,6 +108,7 @@ img {
   font-weight: bold;
   transition-property: font-size;
   transition-duration: 0.5s;
+  color: var(--color-orange);
 }
 
 .agotado .price {
@@ -132,7 +136,7 @@ img {
   height: 100px;
   border-radius: 20px;
   bottom: 6%;
-  background-color: var(--color-orange);
+  background-color: #29a71a;
   display: flex;
   align-items: center;
   font-style: italic;
@@ -193,7 +197,6 @@ img {
     bottom: 6%;
     font-size: 0.75rem;
     padding-left: 15px;
-    gap: 10px;
   }
   .cart_button p {
     width: 60%;

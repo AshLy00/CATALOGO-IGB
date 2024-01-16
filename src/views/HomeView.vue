@@ -8,9 +8,39 @@ import { useRouter } from "vue-router";
 const router = useRouter();
 </script>
 <template>
-  <HeroHome />
+  <div class="hero">
+    <HeroHome />
+  </div>
   <IntroHome />
   <CardGrid />
 </template>
 
-<style scoped></style>
+<style scoped>
+.hero {
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 900px) {
+  .hero {
+    margin-top: 85px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .hero {
+    margin-top: 75px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .hero {
+    margin-top: 70px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .hero {
+    margin-top: 60px;
+  }
+}
+</style>

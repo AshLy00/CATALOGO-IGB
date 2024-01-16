@@ -1,13 +1,58 @@
 <script setup>
-import CardGrid from "../components/home/CardGrid.vue";
+import CardProduct from "../components/home/CardProduct.vue";
+import { database } from "../database";
 </script>
 <template>
-  <h1>a</h1>
-  <CardGrid />
+  <div class="grid_cards">
+    <CardProduct v-for="(p, i) in database" :key="i" :project="p" />
+  </div>
 </template>
 
-<style scooped>
-.filters {
-  cursor: pointer;
+<style>
+.grid_cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 70%;
+  justify-items: center;
+  transition-property: width;
+  transition-duration: 0.5s;
+}
+
+@media screen and (max-width: 1700px) {
+  .grid_cards {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 1480px) {
+  .grid_cards {
+    width: 70%;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 1260px) {
+  .grid_cards {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 1040px) {
+  .grid_cards {
+    width: 70%;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 880px) {
+  .grid_cards {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .grid_cards {
+    width: 95%;
+  }
 }
 </style>
