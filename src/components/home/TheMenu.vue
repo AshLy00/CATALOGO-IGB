@@ -62,6 +62,8 @@ const categorias = [
   justify-content: center;
   align-items: center;
   width: 100%;
+  transition-property: width;
+  transition-duration: 0.5s;
 }
 .sub_categoria {
   width: 100%;
@@ -73,6 +75,8 @@ const categorias = [
   text-align: start;
   margin-left: 30%;
   font-size: 1.1rem;
+  transition-property: font-size;
+  transition-duration: 0.5s;
 }
 .flecha {
   width: 25px;
@@ -99,6 +103,8 @@ const categorias = [
   justify-content: space-between;
   cursor: pointer;
   font-weight: bolder;
+  transition-property: font-size;
+  transition-duration: 0.5s;
 }
 .menu button {
   width: fit-content;
@@ -137,6 +143,8 @@ const categorias = [
   margin-left: 50px;
   font-weight: lighter;
   font-size: 1.5rem;
+  transition-property: font-size;
+  transition-duration: 0.5s;
 }
 
 .menu button {

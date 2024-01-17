@@ -7,6 +7,13 @@ const router = useRouter();
 const projectRef = ref(props.project);
 
 const navigateToLink = () => {
+  if (!projectRef.value.disponibilidad) {
+    window.alert(
+      "Este producto está agotado. ¡Pronto estará disponible de nuevo! :D"
+    );
+    return;
+  }
+
   const productText = projectRef.value.product.toUpperCase();
   const link =
     "https://wa.me/3167966364/?text=" +
@@ -21,7 +28,7 @@ const navigateToLink = () => {
   >
     <div class="card">
       <div class="img_container">
-        <div class="no-disponible">
+        <div class="no-disponible" v-if="!project.disponibilidad">
           <h1>no disponible</h1>
         </div>
         <img :src="project.images_url" alt="" />
@@ -49,7 +56,7 @@ img {
 .agotado .no-disponible {
   color: red;
   position: absolute;
-  z-index: 1;
+  z-index: 2;
   width: 80%;
   font-size: 0.7rem;
   display: inherit;

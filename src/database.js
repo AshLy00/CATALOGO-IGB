@@ -1,7 +1,7 @@
 export const database = [
   {
     product: 'ventilador ciclón 18" universal',
-    disponibilidad: false,
+    disponibilidad: true,
     descuento: false,
     id: "001",
     price: "491,000",
