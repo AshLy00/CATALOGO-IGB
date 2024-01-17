@@ -40,7 +40,10 @@ const toggleSubCategoria = () => {
         :categoria="primeraCategoria"
         @click="$router.push({ name: 'electrodomesticos' })"
       />
-      <TheCategory :categoria="segundaCategoria" />
+      <TheCategory
+        :categoria="segundaCategoria"
+        @click="$router.push({ name: 'cocina' })"
+      />
     </div>
   </div>
 </template>

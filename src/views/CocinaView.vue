@@ -28,16 +28,16 @@ const filteredDatabase = computed(() => {
 </script>
 
 <template>
-  <div class="titulo"><h1>electrodomesticos</h1></div>
+  <div class="titulo"><h1>cocina</h1></div>
   <div class="filtro">
-    <button @click="filterProducts('ollas freidoras')">ollas freidoras</button>
-    <button @click="filterProducts('ventiladores')">ventiladores</button>
-    <button @click="filterProducts('plancha')">planchas</button>
-    <button @click="filterProducts('sanducheras y wafleras')">
-      sanducheras y wafleras
+    <button @click="filterProducts('ollas')">ollas</button>
+    <button @click="filterProducts('sartenes')">sartenes</button>
+    <button @click="filterProducts('calderos')">calderos</button>
+    <button @click="filterProducts('baterias de cocina')">
+      baterias de cocina
     </button>
-    <button @click="filterProducts('accesorios para tv')">
-      accesorios para tv
+    <button @click="filterProducts('ollas de presión')">
+      ollas de presión
     </button>
     <button @click="resetPage('todo')">todo</button>
   </div>
@@ -46,7 +46,7 @@ const filteredDatabase = computed(() => {
     <CardProduct
       v-for="(p, i) in filteredDatabase"
       :key="i"
-      v-show="p.category === 'electrodomesticos'"
+      v-show="p.category === 'cocina'"
       :project="p"
     />
   </div>
