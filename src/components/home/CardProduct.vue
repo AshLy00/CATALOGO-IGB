@@ -49,7 +49,7 @@ img {
 .agotado .no-disponible {
   color: red;
   position: absolute;
-  z-index: 2;
+  z-index: 1;
   width: 80%;
   font-size: 0.7rem;
   display: inherit;

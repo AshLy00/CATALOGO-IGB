@@ -1,10 +1,15 @@
 <script setup>
 import CardProduct from "../components/home/CardProduct.vue";
-import { database } from "../database";
+import { database } from "/src/database";
 </script>
 <template>
   <div class="grid_cards">
-    <CardProduct v-for="(p, i) in database" :key="i" :project="p" />
+    <CardProduct
+      v-for="(p, i) in database"
+      :key="i"
+      v-show="p.category === 'electrodomesticos'"
+      :project="p"
+    />
   </div>
 </template>
 

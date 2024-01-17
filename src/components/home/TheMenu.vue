@@ -11,6 +11,32 @@ const closeMenu = () => {
 const toggleSubCategoria = () => {
   showSubCategoria.value = !showSubCategoria.value;
 };
+
+const categorias = [
+  {
+    nombre: "electrodomésticos",
+    subcategorias: [
+      "ventiladores",
+      "sanducheras y wafleras",
+      "plancha",
+      "ollas fridoras",
+      "ollas de presión",
+    ],
+  },
+  {
+    nombre: "cocina",
+    subcategorias: ["sartenes", "ollas", "baterias de cocina"],
+  },
+
+  {
+    nombre: "salud",
+  },
+  {
+    nombre: "aseo",
+  },
+
+  // Agrega más categorías y subcategorías según tu estructura de datos
+];
 </script>
 <template>
   <div v-if="isVisible" class="menu_container">
@@ -21,9 +47,11 @@ const toggleSubCategoria = () => {
       </button>
     </div>
     <div class="categorias">
-      <TheCategory />
-      <TheCategory />
-      <TheCategory />
+      <TheCategory
+        v-for="(categoria, index) in categorias"
+        :key="index"
+        :categoria="categoria"
+      />
     </div>
   </div>
 </template>
@@ -33,6 +61,7 @@ const toggleSubCategoria = () => {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 .sub_categoria {
   width: 100%;
@@ -42,7 +71,7 @@ const toggleSubCategoria = () => {
   flex-direction: column;
   cursor: pointer;
   text-align: start;
-  margin-left: 40%;
+  margin-left: 30%;
   font-size: 1.1rem;
 }
 .flecha {
@@ -69,6 +98,7 @@ const toggleSubCategoria = () => {
   width: 100%;
   justify-content: space-between;
   cursor: pointer;
+  font-weight: bolder;
 }
 .menu button {
   width: fit-content;
@@ -100,6 +130,7 @@ const toggleSubCategoria = () => {
   height: 90px;
   align-items: center;
   width: 100%;
+  font-weight: 800;
 }
 
 .menu h1 {
@@ -122,6 +153,7 @@ const toggleSubCategoria = () => {
     width: 100%;
     padding: 10px;
     gap: 10px;
+    font-size: 1rem;
   }
   .flecha {
     width: 25px;
@@ -214,11 +246,11 @@ const toggleSubCategoria = () => {
     font-size: 0.9rem;
   }
   .flecha {
-    width: 25px;
-    height: 25px;
+    width: 20px;
+    height: 20px;
   }
   .categorias {
-    width: 50%;
+    width: 60%;
     gap: 30px;
     margin-top: 40px;
     margin-bottom: 40px;
@@ -263,7 +295,7 @@ const toggleSubCategoria = () => {
     height: 20px;
   }
   .categorias {
-    width: 50%;
+    width: 70%;
     gap: 30px;
     margin-top: 40px;
     margin-bottom: 40px;
