@@ -16,7 +16,11 @@ const toggleMenu = () => {
   </div>
   <header>
     <div class="header_items">
-      <img src="/src/images/logo.svg" alt="" />
+      <img
+        src="/src/images/logo.svg"
+        alt=""
+        @click="$router.push({ name: 'home' })"
+      />
 
       <div class="botones">
         <!--     <img
@@ -38,7 +42,7 @@ const toggleMenu = () => {
 
 <style scoped>
 .themenu {
-  z-index: 2;
+  z-index: 3;
   position: fixed;
   top: 0%;
   right: 0%;
@@ -69,7 +73,7 @@ header {
   height: 100px;
   box-shadow: rgba(0, 0, 0, 0.11) 0px 25px 20px -20px;
   position: fixed;
-  z-index: 1;
+  z-index: 2;
 }
 
 .header_items {

@@ -1,42 +1,31 @@
 <script setup>
-import { ref } from "vue";
+import { ref, defineProps } from "vue";
 import TheCategory from "./TheCategory.vue";
 
 const isVisible = ref(true);
 const showSubCategoria = ref(false);
+const props = defineProps(["categoria"]);
 
 const closeMenu = () => {
   isVisible.value = false;
 };
-const toggleSubCategoria = () => {
-  showSubCategoria.value = !showSubCategoria.value;
+
+const primeraCategoria = {
+  nombre: "electrodomésticos",
 };
 
-const categorias = [
-  {
-    nombre: "electrodomésticos",
-    subcategorias: [
-      "ventiladores",
-      "sanducheras y wafleras",
-      "plancha",
-      "ollas fridoras",
-      "ollas de presión",
-    ],
-  },
-  {
-    nombre: "cocina",
-    subcategorias: ["sartenes", "ollas", "baterias de cocina"],
-  },
+const segundaCategoria = {
+  nombre: "cocina",
+};
 
-  {
-    nombre: "salud",
-  },
-  {
-    nombre: "aseo",
-  },
-
-  // Agrega más categorías y subcategorías según tu estructura de datos
-];
+const toggleSubCategoria = () => {
+  if (primeraCategoria.subcategorias && primeraCategoria.subcategorias.length) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (segundaCategoria.subcategorias && segundaCategoria.subcategorias.length) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+};
 </script>
 <template>
   <div v-if="isVisible" class="menu_container">
@@ -48,10 +37,10 @@ const categorias = [
     </div>
     <div class="categorias">
       <TheCategory
-        v-for="(categoria, index) in categorias"
-        :key="index"
-        :categoria="categoria"
+        :categoria="primeraCategoria"
+        @click="$router.push({ name: 'electrodomesticos' })"
       />
+      <TheCategory :categoria="segundaCategoria" />
     </div>
   </div>
 </template>

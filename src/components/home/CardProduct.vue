@@ -16,7 +16,7 @@ const navigateToLink = () => {
 
   const productText = projectRef.value.product.toUpperCase();
   const link =
-    "https://wa.me/3167966364/?text=" +
+    "https://wa.me/573207951035/?text=" +
     encodeURIComponent(`QUIERO COMPRAR ESTE PRODUCTO: ${productText}`);
   window.location.href = link;
 };
@@ -56,7 +56,7 @@ img {
 .agotado .no-disponible {
   color: red;
   position: absolute;
-  z-index: 2;
+  z-index: 1;
   width: 80%;
   font-size: 0.7rem;
   display: inherit;

@@ -1,7 +1,7 @@
 export const database = [
   {
     product: 'ventilador ciclón 18" universal',
-    disponibilidad: false,
+    disponibilidad: true,
     descuento: false,
     id: "001",
     price: "491,000",
@@ -1688,7 +1688,7 @@ export const database = [
     price: "319,000",
     description: "",
     images_url: "https://tinypic.host/images/2024/01/16/image-11.png",
-    category: "electrodomesticos",
+    category: "cocina",
     sub_category: "ollas de presión",
   },
   {
@@ -1699,7 +1699,7 @@ export const database = [
     price: "229,000",
     description: "",
     images_url: "https://tinypic.host/images/2024/01/16/1198402.jpeg",
-    category: "electrodomesticos",
+    category: "cocina",
     sub_category: "ollas de presión",
   },
   {
@@ -1710,7 +1710,7 @@ export const database = [
     price: "154,000",
     description: "",
     images_url: "https://tinypic.host/images/2024/01/16/image-12.png",
-    category: "electrodomesticos",
+    category: "cocina",
     sub_category: "ollas de presión",
   },
   {
@@ -1721,7 +1721,7 @@ export const database = [
     price: "130,000",
     description: "",
     images_url: "https://tinypic.host/images/2024/01/16/155777-1200-auto.webp",
-    category: "electrodomesticos",
+    category: "cocina",
     sub_category: "ollas de presión",
   },
   {
@@ -1732,7 +1732,7 @@ export const database = [
     price: "119,000",
     description: "",
     images_url: "https://tinypic.host/images/2024/01/16/image-13.png",
-    category: "electrodomesticos",
+    category: "cocina",
     sub_category: "ollas de presión",
   },
   {
@@ -1744,7 +1744,52 @@ export const database = [
     description: "",
     images_url:
       "https://tinypic.host/images/2024/01/16/OLLA-A-PRESION-6-LITROS-CORONA.jpeg",
-    category: "electrodomesticos",
+    category: "cocina",
     sub_category: "ollas de presión",
+  },
+  {
+    product: "sopladora aspiradora 6 velocidades",
+    disponibilidad: true,
+    descuento: false,
+    id: 151,
+    price: "146,000",
+    description: "",
+    images_url: "",
+    category: "aseo",
+    sub_category: "",
+  },
+  {
+    product: "aspiradora de carro portatil",
+    disponibilidad: true,
+    descuento: false,
+    id: 152,
+    price: "62,000",
+    description: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/16/D_NQ_NP_723628-MCO32375493758_092019-O.webp",
+    category: "aseo",
+    sub_category: "",
+  },
+  {
+    product: "Silla Gerente Malla con Brazos Base Cromada Negra",
+    disponibilidad: true,
+    descuento: false,
+    id: 153,
+    price: "399,000",
+    description: "",
+    images_url: "",
+    category: "oficina",
+    sub_category: "",
+  },
+  {
+    product: "cafetera institucional 40 tazas universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 154,
+    price: "",
+    description: "",
+    images_url: "",
+    category: "",
+    sub_category: "",
   },
 ];
