@@ -24,6 +24,9 @@ const terceraCategoria = {
 const cuartaCategoria = {
   nombre: "cristaleria",
 };
+const quintaCategoria = {
+  nombre: "tecnologia",
+};
 
 const toggleSubCategoria = () => {
   if (primeraCategoria.subcategorias && primeraCategoria.subcategorias.length) {
@@ -36,6 +39,9 @@ const toggleSubCategoria = () => {
     showSubCategoria.value = !showSubCategoria.value;
   }
   if (cuartaCategoria.subcategorias && cuartaCategoria.subcategorias.length) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (quintaCategoria.subcategorias && quintaCategoria.subcategorias.length) {
     showSubCategoria.value = !showSubCategoria.value;
   }
 };
@@ -65,6 +71,10 @@ const toggleSubCategoria = () => {
       <TheCategory
         :categoria="cuartaCategoria"
         @click="$router.push({ name: 'cristaleria' })"
+      />
+      <TheCategory
+        :categoria="quintaCategoria"
+        @click="$router.push({ name: 'tecnologia' })"
       />
     </div>
   </div>
