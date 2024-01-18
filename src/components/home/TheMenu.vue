@@ -18,11 +18,24 @@ const segundaCategoria = {
   nombre: "cocina",
 };
 
+const terceraCategoria = {
+  nombre: "salud",
+};
+const cuartaCategoria = {
+  nombre: "cristaleria",
+};
+
 const toggleSubCategoria = () => {
   if (primeraCategoria.subcategorias && primeraCategoria.subcategorias.length) {
     showSubCategoria.value = !showSubCategoria.value;
   }
   if (segundaCategoria.subcategorias && segundaCategoria.subcategorias.length) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (terceraCategoria.subcategorias && terceraCategoria.subcategorias.length) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (cuartaCategoria.subcategorias && cuartaCategoria.subcategorias.length) {
     showSubCategoria.value = !showSubCategoria.value;
   }
 };
@@ -43,6 +56,15 @@ const toggleSubCategoria = () => {
       <TheCategory
         :categoria="segundaCategoria"
         @click="$router.push({ name: 'cocina' })"
+      />
+
+      <TheCategory
+        :categoria="terceraCategoria"
+        @click="$router.push({ name: 'salud' })"
+      />
+      <TheCategory
+        :categoria="cuartaCategoria"
+        @click="$router.push({ name: 'cristaleria' })"
       />
     </div>
   </div>

@@ -1,7 +1,7 @@
 export const database = [
   {
     product: 'ventilador ciclón 18" universal',
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: "001",
     price: "491,000",
@@ -147,7 +147,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/D_NQ_NP_641713-MCO70610746472_072023-O.webp",
     category: "electrodomesticos",
-    sub_category: "televisores",
+    sub_category: "accesorios para tv",
   },
   {
     product: 'soporte para tv de 14" a 55',
@@ -159,7 +159,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/gsc_126422648_4549529_1.jpeg",
     category: "electrodomesticos",
-    sub_category: "televisores",
+    sub_category: "accesorios para tv",
   },
   {
     product: 'soporte para tv de 14" a 42',
@@ -171,7 +171,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/D_NQ_NP_976169-MLA48232092452_112021-O.webp",
     category: "electrodomesticos",
-    sub_category: "televisores",
+    sub_category: "accesorios para tv",
   },
   {
     product: "cable hdtv 3m",
@@ -182,7 +182,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/13/Cable-Hdmi.jpeg",
     category: "electrodomesticos",
-    sub_category: "televisores",
+    sub_category: "accesorios para tv",
   },
   {
     product: "sanduchera 3 en 1 4 puestos universal",
@@ -244,7 +244,7 @@ export const database = [
     sub_category: "sanducheras y wafleras",
   },
   {
-    product: "maquina cortadora evok",
+    product: "máquina cortadora evok",
     disponibilidad: true,
     descuento: false,
     id: "022",
@@ -264,7 +264,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/13/1092_4.webp",
     category: "salud",
-    sub_category: "",
+    sub_category: "ortopédico",
   },
   {
     product: "tensiómetro digital jziki",
@@ -288,7 +288,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/D_Q_NP_957322-MLA54249617532_032023-O.webp",
     category: "salud",
-    sub_category: "",
+    sub_category: "basculas",
   },
   {
     product: "dispensador crema dental soporte esterilizador",
@@ -312,7 +312,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/Kit-de-rodillos-de-rueda-Abdominal-5-en-1-con-barra-de-realce-cuerda-de-saltar.jpg_.webp",
     category: "salud",
-    sub_category: "",
+    sub_category: "mancuernas",
   },
   {
     product: "bascula personal max 150kg",
@@ -324,7 +324,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/bascula-balanza-pesa-personal-bano-vidrio-digital-180k-D_NQ_NP_696087-MCO43675982688_102020-F.jpeg",
     category: "salud",
-    sub_category: "",
+    sub_category: "basculas",
   },
   {
     product: "set x2 pesas de 2 kilos",
@@ -336,7 +336,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/61hBPTY5gYL._AC_SY450_.jpeg",
     category: "salud",
-    sub_category: "",
+    sub_category: "mancuernas",
   },
   {
     product: "faja cinturilla reductora neopropeno",
@@ -360,7 +360,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/pesas-fit-dama-hombre-ejercicio-fisioterapia-1-kilo-x1-unidad-kidshoptiendavirtual-1169855311.webp",
     category: "salud",
-    sub_category: "",
+    sub_category: "mancuernas",
   },
   {
     product: "taloneras ortopedicas ultra descanso",
@@ -372,7 +372,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/gsc_119215925_2261901_3.jpeg",
     category: "salud",
-    sub_category: "",
+    sub_category: "ortopédico",
   },
   {
     product: "corrector de postura lumbar espaldar silla",
@@ -384,7 +384,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/D_NQ_NP_946161-MCO49697721608_042022-O.webp",
     category: "salud",
-    sub_category: "",
+    sub_category: "ortopédico",
   },
   {
     product: "pesa fit boy toys 1kg colores varios",
@@ -396,7 +396,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/gsc_117936392_1915716_1.jpeg",
     category: "salud",
-    sub_category: "",
+    sub_category: "mancuernas",
   },
   {
     product: "mancuerna rusa 2.5kg boy toys",
@@ -407,7 +407,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/13/image2.png",
     category: "salud",
-    sub_category: "",
+    sub_category: "mancuernas",
   },
   {
     product: "set guante protector de muñeca y tobillo en tela",
@@ -419,7 +419,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/13/ultunidades-bandas-ortopedicas-modelos-varios.jpeg",
     category: "salud",
-    sub_category: "",
+    sub_category: "ortopédico",
   },
   {
     product: "bolsa térmica para agua fría o caliente motivos varios",
@@ -476,7 +476,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/15/88895-1_1000x.webp",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "exprimidores",
   },
   {
     product: "procesador manual 3 en 1 universal",
@@ -487,7 +487,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/15/L89125electro1.jpeg",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "procesadores de alimentos",
   },
   {
     product: "batidora multiuso black & decker",
@@ -498,7 +498,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/15/531159-800-800.webp",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "batidoras",
   },
   {
     product: "procesador de alimentos universal",
@@ -509,7 +509,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/15/157724-1200-auto.png",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "procesadores de alimentos",
   },
   {
     product: "horno tostador kalley",
@@ -520,7 +520,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/15/160023-1200-auto.webp",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "tostadores",
   },
   {
     product: "picatodo chopper mix univesal 375ml",
@@ -531,10 +531,10 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/15/173415-1200-auto.webp",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "picatodos",
   },
   {
-    product: "exprimir blanco kalley",
+    product: "exprimidor blanco kalley",
     disponibilidad: true,
     descuento: false,
     id: "047",
@@ -543,7 +543,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/15/16232-1-eletrodomesticos-exprimidor-electrico-blanco-kalley.webp",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "exprimidores",
   },
   {
     product: "tostador de pan kalley",
@@ -555,10 +555,10 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/15/7705946492249-001-750Wx750H.png",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "tostadores",
   },
   {
-    product: "batido de mano universal",
+    product: "batidor de mano universal",
     disponibilidad: true,
     descuento: false,
     id: "049",
@@ -566,7 +566,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/15/160055-1200-auto.webp",
     category: "electrodomesticos",
-    sub_category: "",
+    sub_category: "batidoras",
   },
   {
     product: "wok opalo 24cm + tapa de vidrio",
@@ -819,7 +819,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/15/PLANCHA-GRILL-BOTANICAL-45X26-ANTIA..png",
     category: "cocina",
-    sub_category: "",
+    sub_category: "parrillas",
   },
   {
     product: "caldero #5 fundido 24cm 3.5l + tapa de vidrio imusa",
@@ -913,7 +913,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/15/295831941_5295016973867157_6580319915232745487_n.png",
     category: "cocina",
-    sub_category: "",
+    sub_category: "parrillas",
   },
   {
     product: "olla talent 24cm triforce + tapa de vidrio imusa",
@@ -935,7 +935,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/15/164191-800-auto.webp",
     category: "cocina",
-    sub_category: "",
+    sub_category: "sartenes",
   },
   {
     product: "caldero en aluminio fundido antiadherente 18cm + tapa de vidrio",
@@ -1245,7 +1245,7 @@ export const database = [
     sub_category: "sartenes",
   },
   {
-    product: "juego x3 de sartenes 18cm 20cm 24cm universal",
+    product: "juego x3 sartenes 18cm 20cm 24cm universal",
     disponibilidad: true,
     descuento: false,
     id: 108,
@@ -1422,7 +1422,7 @@ export const database = [
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/19049470/Perol-Lpc-Artik-Tv-18cm-UNIVERSAL-L37304-3027051_a.jpg?v=638241826993100000",
     category: "cocina",
-    sub_category: "",
+    sub_category: "peroles",
   },
   {
     product: "sartén 6 ultra 20cm + tapa de vidrio universal",
@@ -1482,7 +1482,7 @@ export const database = [
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/179901-1000-1000/image-71a30ad437b349c4b56bd2093563fe8f.jpg?v=637801149678100000",
     category: "cocina",
-    sub_category: "",
+    sub_category: "peroles",
   },
   {
     product: "caldero fundido antiadherente 18cm + tapa de vidrio universal",
@@ -1517,7 +1517,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/15/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-7702073029546-001.jpeg",
     category: "cocina",
-    sub_category: "",
+    sub_category: "ollas",
   },
   {
     product: "sartén opalo 20cm antiadherente universal",
@@ -1562,7 +1562,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/16/5861026360-1.webp",
     category: "cocina",
-    sub_category: "",
+    sub_category: "parrillas",
   },
   {
     product: "caldero fundido antiadherente 14cm universal",
@@ -1585,7 +1585,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/16/image-771ab99c63ab4ecbb9d2c8a88cdeaf79.png",
     category: "cocina",
-    sub_category: "",
+    sub_category: "ollas",
   },
   {
     product: "cacerola smart triforce 12cm imusa",
@@ -1596,7 +1596,7 @@ export const database = [
     description: "",
     images_url: "https://tinypic.host/images/2024/01/16/157864-1200-auto.webp",
     category: "cocina",
-    sub_category: "",
+    sub_category: "ollas",
   },
   {
     product: "sartén aliada 24cm antiadherente universal",
@@ -1620,7 +1620,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/16/image-ffb2086867974a059f95fb87df2765de.webp",
     category: "cocina",
-    sub_category: "",
+    sub_category: "parrillas",
   },
   {
     product: "sartén aliada 20cm antiadherente universal",
@@ -1643,7 +1643,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/16/157b2c03-1806-4413-84cc-c3a323c6c4ab.136357af85a3291bc3fba57e6601470a.webp",
     category: "cocina",
-    sub_category: "",
+    sub_category: "peroles",
   },
   {
     product: "sartén aliada 18cm antiadherente universal",
@@ -1666,7 +1666,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/16/PEROL-ALIADA-10CM-UNIVERSAL_01.jpeg",
     category: "cocina",
-    sub_category: "",
+    sub_category: "peroles",
   },
   {
     product: "freidora de aire 1.8 litros oster",
@@ -1771,25 +1771,253 @@ export const database = [
     sub_category: "",
   },
   {
-    product: "Silla Gerente Malla con Brazos Base Cromada Negra",
+    product: "vajilla floral 20 piezas my cousine",
     disponibilidad: true,
     descuento: false,
     id: 153,
-    price: "399,000",
+    price: "122,000",
     description: "",
-    images_url: "",
-    category: "oficina",
-    sub_category: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/18/D_NQ_NP_894805-MCO49746496178_042022-O.webp",
+    category: "cristaleria",
+    sub_category: "vajilla",
   },
   {
-    product: "cafetera institucional 40 tazas universal",
+    product: "vajilla leticia 4 puestos 16 piezas",
     disponibilidad: true,
     descuento: false,
     id: 154,
-    price: "",
+    price: "123,000",
     description: "",
-    images_url: "",
-    category: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/18/1QbxR0q7yUitYDCMpiKP5K2ehelK3bxqM_25507faf-a2a9-418f-8c20-0867aa834da9_1100x.webp",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "vajilla teresa 4 puestos 16 piezas corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 155,
+    price: "123,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/72768947_1.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "vajlla ashley 4 puestos 16 piezas corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 156,
+    price: "113,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/VL134H040116-1.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "vajilla domino 4 puestos 16 piezas corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 157,
+    price: "112,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/descarga.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "vajilla malaya 4 puestos 16 piezas corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 158,
+    price: "112,000",
+    description: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/18/Malaya-Pocillo-Negro-1.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "vajilla cala 4 puestos 16 piezas corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 159,
+    price: "105,000",
+    description: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/18/imagen-vajilla_cala_4_puestos_16_piezas_corona-2244757-0-0-0-100.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "vajilla danna 4 puestos 16 piezas corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 160,
+    price: "105,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/descarga-1.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "set desayuno mickey mouyse 3 piezas disney corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 161,
+    price: "64,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/SL1132160403-1.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "set desayuno mickey mouse loyal & true 3 piezas disney corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 162,
+    price: "64,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/SL1132160303-1.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "vajilla jaspe verde 4 puestos 16 puestos",
+    disponibilidad: true,
+    descuento: false,
+    id: 163,
+    price: "102,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/VL173E040116-1.jpeg",
+    category: "cristaleria",
+    sub_category: "vajilla",
+  },
+  {
+    product: "set x6 copas lexintong cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 164,
+    price: "59,900",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/imagfffe.png",
+    category: "cristaleria",
+    sub_category: "copas",
+  },
+  {
+    product: "set x12 copas aragon",
+    disponibilidad: true,
+    descuento: false,
+    id: 165,
+    price: "59,000",
+    description: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/18/set-aragon-FINAL-1.webp",
+    category: "cristaleria",
+    sub_category: "copas",
+  },
+  {
+    product: "set x6 copas lexintong aperitivo cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 166,
+    price: "52,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/image-14.png",
+    category: "cristaleria",
+    sub_category: "copas",
+  },
+  {
+    product:
+      "set x10 piezas copas marruecos, vasos rocks y ensaladeras cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 167,
+    price: "50,700",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/9795ELFEST21_V-100.png",
+    category: "cristaleria",
+    sub_category: "copas",
+  },
+  {
+    product: "set refractaria rectangular 2.9 litros + 1 pinza",
+    disponibilidad: true,
+    descuento: false,
+    id: 168,
+    price: "47,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/2509172_01.jpeg",
+    category: "cristaleria",
+    sub_category: "refractarias",
+  },
+  {
+    product: "set bolonia 8 piezas 4 copas +  4 vasos cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 169,
+    price: "47,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/ghgg.png",
+    category: "cristaleria",
+    sub_category: "copas, vasos",
+  },
+  {
+    product: "set x6 cerveceros 4 vasos 22cm + pasanteras 5,2cm cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 170,
+    price: "45,000",
+    description: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/18/D_Q_NP_617515-MLU69655152623_052023-O.webp",
+    category: "cristaleria",
+    sub_category: "vasos",
+  },
+  {
+    product: "set x6 vasos barman 15.2cm alto 12oZ cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 171,
+    price: "40,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/image-15.png",
+    category: "cristaleria",
+    sub_category: "vasos",
+  },
+  {
+    product: "set x6 vasos capella tropico cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 172,
+    price: "36,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/0790CD6TRO22_VACIO.png",
+    category: "cristaleria",
+    sub_category: "vasos",
+  },
+  {
+    product: "set x5 ensaladera porto 61oz - 22oz cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 173,
+    price: "34,000",
+    description: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/18/9645_Set_Porto_-5-piezas_EL_1024.png",
+    category: "cristaleria",
     sub_category: "",
+  },
+  {
+    product: "contenedor de vidrio 22cm x 11cm 2 litros cristar",
+    disponibilidad: true,
+    descuento: false,
+    id: 174,
+    price: "32,000",
+    description: "",
+    images_url: "https://tinypic.host/images/2024/01/18/161039-800-auto.webp",
+    category: "cristaleria",
+    sub_category: "frascos / contenedores",
   },
 ];
