@@ -36,6 +36,7 @@ const filteredDatabase = computed(() => {
     <button @click="filterProducts('ventiladores')">ventiladores</button>
     <button @click="filterProducts('picatodos')">picatodos</button>
     <button @click="filterProducts('plancha')">planchas</button>
+    <button @click="filterProducts('cafeteras')">cafeteras</button>
     <button @click="filterProducts('exprimidores')">exprimidores</button>
     <button @click="filterProducts('sanducheras y wafleras')">
       sanducheras y wafleras
