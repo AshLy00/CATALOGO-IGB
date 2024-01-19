@@ -38,6 +38,9 @@ const filteredDatabase = computed(() => {
     <button @click="filterProducts('iphone')">iphone</button>
     <button @click="filterProducts('motorola')">motorola</button>
     <button @click="filterProducts('usados')">celulares usados</button>
+    <button @click="filterProducts('controles')">controles</button>
+    <button @click="filterProducts('videojuegos')">videojuegos</button>
+    <button @click="filterProducts('usados')">celulares</button>
     <button @click="resetPage('todo')">todo</button>
   </div>
 
