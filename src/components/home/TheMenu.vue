@@ -27,6 +27,9 @@ const cuartaCategoria = {
 const quintaCategoria = {
   nombre: "tecnologia",
 };
+const sextaCategoria = {
+  nombre: "piscinas y accesorios",
+};
 
 const toggleSubCategoria = () => {
   if (primeraCategoria.subcategorias && primeraCategoria.subcategorias.length) {
@@ -42,6 +45,9 @@ const toggleSubCategoria = () => {
     showSubCategoria.value = !showSubCategoria.value;
   }
   if (quintaCategoria.subcategorias && quintaCategoria.subcategorias.length) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (sextaCategoria.subcategorias && sextaCategoria.subcategorias.length) {
     showSubCategoria.value = !showSubCategoria.value;
   }
 };
@@ -75,6 +81,11 @@ const toggleSubCategoria = () => {
       <TheCategory
         :categoria="quintaCategoria"
         @click="$router.push({ name: 'tecnologia' })"
+      />
+
+      <TheCategory
+        :categoria="sextaCategoria"
+        @click="$router.push({ name: 'piscinas y accesorios' })"
       />
     </div>
   </div>
