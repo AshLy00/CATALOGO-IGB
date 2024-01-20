@@ -28,29 +28,14 @@ const filteredDatabase = computed(() => {
 </script>
 
 <template>
-  <div class="titulo"><h1>tecnología</h1></div>
+  <div class="titulo"><h1>jardineria</h1></div>
   <div class="filtro">
-    <button @click="filterProducts('xiaomi')">xiaomi</button>
-    <button @click="filterProducts('memorias micro sd')">
-      memorias micro sd
+    <button @click="filterProducts('maceteros / materas')">
+      maceteros / materas
     </button>
-    <button @click="filterProducts('samsung')">samsung</button>
-    <button @click="filterProducts('iphone')">iphone</button>
-    <button @click="filterProducts('motorola')">motorola</button>
-    <button @click="filterProducts('usados')">celulares usados</button>
-    <button @click="filterProducts('controles')">controles</button>
-    <button @click="filterProducts('cámaras web')">cámaras web</button>
-    <button @click="filterProducts('repetidores de señal')">
-      repetidores de señal
-    </button>
-    <button @click="filterProducts('audifonos')">audifonos</button>
-    <button @click="filterProducts('adaptadores')">adaptadores</button>
-    <button @click="filterProducts('combos')">combos</button>
-    <button @click="filterProducts('cargadores')">cargadores</button>
-    <button @click="filterProducts('computadores')">computadores</button>
-    <button @click="filterProducts('tripodes')">tripodes</button>
-    <button @click="filterProducts('mouses')">mouses</button>
-    <button @click="filterProducts('videojuegos')">videojuegos</button>
+    <button @click="filterProducts('guantes')">guantes</button>
+    <button @click="filterProducts('herramientas')">herramientas</button>
+    <button @click="filterProducts('delantales')">delantales</button>
     <button @click="resetPage('todo')">todo</button>
   </div>
 
@@ -58,7 +43,7 @@ const filteredDatabase = computed(() => {
     <CardProduct
       v-for="(p, i) in filteredDatabase"
       :key="i"
-      v-show="p.category === 'tecnología'"
+      v-show="p.category === 'jardineria'"
       :project="p"
     />
   </div>
