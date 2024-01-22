@@ -81,7 +81,6 @@ const toggleSubCategoria = () => {
         :categoria="segundaCategoria"
         @click="$router.push({ name: 'cocina' })"
       />
-
       <TheCategory
         :categoria="terceraCategoria"
         @click="$router.push({ name: 'salud' })"
@@ -94,17 +93,14 @@ const toggleSubCategoria = () => {
         :categoria="quintaCategoria"
         @click="$router.push({ name: 'tecnologia' })"
       />
-
       <TheCategory
         :categoria="sextaCategoria"
         @click="$router.push({ name: 'piscinas y accesorios' })"
       />
-
       <TheCategory
         :categoria="septimaCategoria"
         @click="$router.push({ name: 'jardineria' })"
       />
-
       <TheCategory
         :categoria="octavaCategoria"
         @click="$router.push({ name: 'hogar' })"
