@@ -4528,7 +4528,7 @@ export const database = [
     price: "170,000",
     description: "",
     images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_734667-MLU73699820725_122023-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_942369-MLU73810252091_012024-O.webp",
     category: "hogar",
     sub_category: "mesas de planchar",
   },
