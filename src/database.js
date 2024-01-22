@@ -4528,7 +4528,7 @@ export const database = [
     price: "170,000",
     description: "",
     images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_942369-MLU73810252091_012024-O.webp",
+      "https://cdn1.totalcommerce.cloud/homesentry/product-zoom/es/mesa-plancha-ege-18358-one-30x105-surtido-9.webp",
     category: "hogar",
     sub_category: "mesas de planchar",
   },
