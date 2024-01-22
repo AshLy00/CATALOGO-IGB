@@ -9,15 +9,9 @@ const filterProducts = (subCategory) => {
   selectedSubCategory.value = subCategory;
 };
 
-const resetPage = (subCategory) => {
-  if (subCategory === "todo") {
-    selectedSubCategory.value = null;
-    location.reload();
-  } else {
-    selectedSubCategory.value = subCategory;
-  }
+const showAllProducts = () => {
+  selectedSubCategory.value = null;
 };
-
 const filteredDatabase = computed(() => {
   if (!selectedSubCategory.value) {
     return database;
@@ -36,7 +30,7 @@ const filteredDatabase = computed(() => {
     <button @click="filterProducts('guantes')">guantes</button>
     <button @click="filterProducts('herramientas')">herramientas</button>
     <button @click="filterProducts('delantales')">delantales</button>
-    <button @click="resetPage('todo')">todo</button>
+    <button @click="showAllProducts">todo</button>
   </div>
 
   <div class="grid_cards">

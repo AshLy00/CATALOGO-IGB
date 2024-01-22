@@ -16,7 +16,7 @@ const navigateToLink = () => {
 
   const productText = projectRef.value.product.toUpperCase();
   const link =
-    "https://wa.me/573207951035/?text=" +
+    "https://wa.me/573167966364/?text=" +
     encodeURIComponent(`QUIERO COMPRAR ESTE PRODUCTO: ${productText}`);
   window.location.href = link;
 };

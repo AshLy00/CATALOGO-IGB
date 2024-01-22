@@ -9,13 +9,8 @@ const filterProducts = (subCategory) => {
   selectedSubCategory.value = subCategory;
 };
 
-const resetPage = (subCategory) => {
-  if (subCategory === "todo") {
-    selectedSubCategory.value = null;
-    location.reload();
-  } else {
-    selectedSubCategory.value = subCategory;
-  }
+const showAllProducts = () => {
+  selectedSubCategory.value = null;
 };
 
 const filteredDatabase = computed(() => {
@@ -51,7 +46,7 @@ const filteredDatabase = computed(() => {
     <button @click="filterProducts('tripodes')">tripodes</button>
     <button @click="filterProducts('mouses')">mouses</button>
     <button @click="filterProducts('videojuegos')">videojuegos</button>
-    <button @click="resetPage('todo')">todo</button>
+    <button @click="showAllProducts">todo</button>
   </div>
 
   <div class="grid_cards">
