@@ -383,6 +383,10 @@ img {
     height: 240px;
     width: 160px;
   }
+  .img_container img {
+    max-width: 90px;
+    max-height: 90px;
+  }
   .product {
     font-size: 0.5rem;
     width: 80%;
