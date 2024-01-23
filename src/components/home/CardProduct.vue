@@ -75,15 +75,19 @@ img {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-}
-
-.img_container img {
-  width: 90%;
-  height: fit-content;
-  border-radius: 10px;
   overflow: hidden;
 }
 
+.img_container img {
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.img_container img {
+  max-width: 210px;
+  max-height: 210px;
+}
 .agotado img {
   filter: grayscale(100%);
 }
@@ -183,6 +187,10 @@ img {
     height: 520px;
     width: 270px;
   }
+  .img_container img {
+    max-width: 180px;
+    max-height: 180px;
+  }
   .product {
     font-size: 0.8rem;
     width: 80%;
@@ -227,6 +235,10 @@ img {
     height: 480px;
     width: 270px;
   }
+  .img_container img {
+    max-width: 160px;
+    max-height: 160px;
+  }
   .product {
     font-size: 0.7rem;
     width: 80%;
@@ -268,6 +280,10 @@ img {
   .card_container {
     height: 380px;
     width: 210px;
+  }
+  .img_container img {
+    max-width: 140px;
+    max-height: 140px;
   }
   .product {
     font-size: 0.6rem;
@@ -311,6 +327,10 @@ img {
   .img_container {
     width: 120px;
     height: 120px;
+  }
+  .img_container img {
+    max-width: 120px;
+    max-height: 120px;
   }
   .card_container {
     height: 300px;
