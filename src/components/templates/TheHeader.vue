@@ -27,7 +27,7 @@ const toggleMenu = () => {
           class="boton"
           src="/src/images/cart_black.svg"
           alt=""
-          @click="$router.push({ name: 'filter' })"
+          @click="$router.push({ name: 'home' })"
         />      -->
         <img
           class="boton"
