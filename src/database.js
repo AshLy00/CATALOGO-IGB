@@ -367,7 +367,7 @@ export const database = [
     price: "25,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/13/pesas-fit-dama-hombre-ejercicio-fisioterapia-1-kilo-x1-unidad-kidshoptiendavirtual-1169855311.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_730673-MCO49398620786_032022-O.webp",
     category: "salud",
     sub_category: "mancuernas",
   },
@@ -379,7 +379,7 @@ export const database = [
     price: "21,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/13/gsc_119215925_2261901_3.jpeg",
+      "https://http2.mlstatic.com/D_NQ_NP_813905-MLU73947897385_012024-O.webp",
     category: "salud",
     sub_category: "ortopédico",
   },
@@ -391,7 +391,7 @@ export const database = [
     price: "20,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/13/D_NQ_NP_946161-MCO49697721608_042022-O.webp",
+      "https://www.alcarrito.com/media/catalog/product/c/o/corrector_postura_espalda_soporte_lumbar_silla_carro_oficina_cpe01_8.jpg?width=600&height=600&canvas=600,600&optimize=medium&bg-color=255,255,255&fit=bounds",
     category: "salud",
     sub_category: "ortopédico",
   },
@@ -403,7 +403,7 @@ export const database = [
     price: "19,900",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/13/gsc_117936392_1915716_1.jpeg",
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_117936392_1915716_1?wid=800&hei=800&qlt=70",
     category: "salud",
     sub_category: "mancuernas",
   },
@@ -415,7 +415,7 @@ export const database = [
     price: "19,600",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/13/gsc_117936392_1915716_1.jpeg",
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_117936392_1915716_1?wid=800&hei=800&qlt=70",
     category: "salud",
     sub_category: "mancuernas",
   },
@@ -439,7 +439,7 @@ export const database = [
     price: "14,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/13/61FunA4l95L._AC_SX425_.jpeg",
+      "https://http2.mlstatic.com/D_NQ_NP_618680-MCO47603054552_092021-O.webp",
     category: "salud",
     sub_category: "",
   },
@@ -450,7 +450,8 @@ export const database = [
     id: "038",
     price: "140,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/156069-1200-auto.webp",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_884946-MLU73284813765_122023-O.webp",
     category: "electrodomesticos",
     sub_category: "plancha",
   },
@@ -461,7 +462,8 @@ export const database = [
     id: "039",
     price: "99,900",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/160774-1200-auto.webp",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/160774-800-auto?v=637297349377430000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "plancha",
   },
@@ -473,7 +475,7 @@ export const database = [
     price: "89,900",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/image-87ec96dbbcc242248cdecbd38a6e3e45.webp",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/160830-800-auto?v=637297442787200000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "plancha",
   },
@@ -484,7 +486,8 @@ export const database = [
     id: "041",
     price: "299,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/88895-1_1000x.webp",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/1954919_1?wid=800&hei=800&qlt=70",
     category: "electrodomesticos",
     sub_category: "exprimidores",
   },
@@ -495,7 +498,8 @@ export const database = [
     id: "042",
     price: "220,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/L89125electro1.jpeg",
+    images_url:
+      "https://almacencoogranada.com/wp-content/uploads/2020/06/L89125electro1.jpg",
     category: "electrodomesticos",
     sub_category: "procesadores de alimentos",
   },
@@ -506,7 +510,8 @@ export const database = [
     id: "043",
     price: "204,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/531159-800-800.webp",
+    images_url:
+      "https://www.alkomprar.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-050875820586-001.jpg?context=bWFzdGVyfGltYWdlc3w5ODI0OHxpbWFnZS9qcGVnfGFHTmxMMmc0T0M4eE16WTBNVEV3TmpJeU56SXpNQzgzTlRCWGVEYzFNRWhmYldGemRHVnlMMmh2ZEdadmJHUmxjaTkwY21GdWMyWmxjaTlwYm1OdmJXbHVaeTlrWlhCdmMybDBMMmg1WW5KcGN5MXBiblJsY21aaFkyVnpMMGxPTDIxbFpHbGhMM0J5YjJSMVkzUXZNRFV3T0RjMU9ESXdOVGcyWHpBd01TNXFjR2N8MDAyMGNmOGVlMDhhN2Q2Y2NhNTM5ZDY0NWZiMTQ1ZTBiZGU4YjY3YzE0ZGQ1M2JjOWUyZjRkZDc4OTdmOThiMA",
     category: "electrodomesticos",
     sub_category: "batidoras",
   },
@@ -517,7 +522,8 @@ export const database = [
     id: "044",
     price: "180,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/157724-1200-auto.png",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/157724/procesador-alimentos-700ml-vista1.png?v=636621768846270000",
     category: "electrodomesticos",
     sub_category: "procesadores de alimentos",
   },
@@ -528,7 +534,8 @@ export const database = [
     id: "045",
     price: "159,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/160023-1200-auto.webp",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/160023-800-auto?v=638277231289470000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "tostadores",
   },
@@ -539,7 +546,8 @@ export const database = [
     id: "046",
     price: "109,900",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/173415-1200-auto.webp",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/156091-800-auto?v=636143249226170000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "picatodos",
   },
@@ -551,7 +559,7 @@ export const database = [
     price: "109,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/16232-1-eletrodomesticos-exprimidor-electrico-blanco-kalley.webp",
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/156514/16232-1-eletrodomesticos-exprimidor-electrico-blanco-kalley.jpg?v=638180311653430000",
     category: "electrodomesticos",
     sub_category: "exprimidores",
   },
@@ -587,7 +595,7 @@ export const database = [
     price: "66,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_804003-MCO48001919296_102021-O-1.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_804003-MCO48001919296_102021-O.webp",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -598,7 +606,8 @@ export const database = [
     id: "051",
     price: "87,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/7702073038111-1.webp",
+    images_url:
+      "https://groupesebcol.vtexassets.com/arquivos/ids/159129/7702073038111-1.jpg?v=637866222151030000",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -621,7 +630,8 @@ export const database = [
     id: "053",
     price: "62,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/224388-1200-1200.webp",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/158113-1200-auto?v=636680379663530000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -632,7 +642,8 @@ export const database = [
     id: "054",
     price: "61,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/162465-800-auto.webp",
+    images_url:
+      "https://groupesebcol.vtexassets.com/arquivos/ids/162465-800-auto?v=637890244668030000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -643,7 +654,8 @@ export const database = [
     id: "055",
     price: "57,800",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/5861032067-2.webp",
+    images_url:
+      "https://groupesebcol.vtexassets.com/arquivos/ids/163794-800-auto?v=637916997708230000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -666,7 +678,8 @@ export const database = [
     id: "057",
     price: "53,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/179590-800-auto.png",
+    images_url:
+      "https://colsubsidiogrocery.vtexassets.com/arquivos/ids/179590-800-auto?v=638351491747200000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -689,7 +702,8 @@ export const database = [
     id: "059",
     price: "79,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/L72408ollacocina1.jpeg",
+    images_url:
+      "https://almacencoogranada.com/wp-content/uploads/2020/06/L72408ollacocina1.jpg",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -700,7 +714,8 @@ export const database = [
     id: "060",
     price: "75,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/159343-1200-auto.png",
+    images_url:
+      "https://almacencoogranada.com/wp-content/uploads/2020/06/L72413sartenes1.jpg",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -724,7 +739,7 @@ export const database = [
     price: "42,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Cacerola-Universal-16Cm-T-Vidr-L38712.webp",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/155589-1200-auto?v=636143027179900000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -736,7 +751,7 @@ export const database = [
     price: "329,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_807651-MCO42867453234_072020-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_807651-MCO42867453234_072020-O.webp",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
@@ -748,7 +763,7 @@ export const database = [
     price: "276,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/bateria-ollas-7-piezas-ever-house-44535-set-antiadherente.webp",
+      "https://exitocol.vtexassets.com/arquivos/ids/9599216/bateria-ollas-7-piezas-ever-house-44535-set-antiadherente.jpg?v=637662143594170000",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
@@ -760,7 +775,7 @@ export const database = [
     price: "255,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_803606-MCO43364661797_092020-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_847115-MCO43364677861_092020-O.webp",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
@@ -772,7 +787,7 @@ export const database = [
     price: "178,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/image-319c4805adce4e5790b5110dc9a47ab2.webp",
+      "https://fantasygroup.vteximg.com.br/arquivos/ids/180191-687-687/image-319c4805adce4e5790b5110dc9a47ab2.jpg?v=637801152549600000",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
@@ -783,7 +798,8 @@ export const database = [
     id: "067",
     price: "178,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/l79030_universal.jpeg",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/158160/59000-hogar-caldero-42-cm-aluminio-fund-pomo-ensamblado-universal.jpg?v=638180328122800000",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -794,7 +810,8 @@ export const database = [
     id: "068",
     price: "159,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/160164-1200-auto.webp",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/160164-800-auto?v=637145471268700000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
@@ -806,7 +823,7 @@ export const database = [
     price: "144,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_691576-MCO46274273221_062021-O.webp",
+      "https://i.linio.com/p/e707d0bc39c06bd82e498435ae45df3d-product.jpg",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
@@ -817,7 +834,8 @@ export const database = [
     id: "070",
     price: "131,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/164053-800-auto.webp",
+    images_url:
+      "https://i.linio.com/p/096ef2cebe9800492645fbcad36db2e3-product.jpg",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -829,7 +847,7 @@ export const database = [
     price: "120,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/PLANCHA-GRILL-BOTANICAL-45X26-ANTIA..png",
+      "https://www.selman.com.co/wp-content/uploads/2020/08/PLANCHA-GRILL-BOTANICAL-45X26-ANTIA..png",
     category: "cocina",
     sub_category: "parrillas",
   },
@@ -841,7 +859,7 @@ export const database = [
     price: "118,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_789088-MLU73409250389_122023-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_789088-MLU73409250389_122023-O.webp",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -853,7 +871,7 @@ export const database = [
     price: "115,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/d6bbfe4186276ae340946ca7c11174b9-product.jpeg",
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/156413-1600-auto?v=638180310680930000&width=1600&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -864,7 +882,8 @@ export const database = [
     id: "074",
     price: "113,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/L49413_universal.jpeg",
+    images_url:
+      "https://dotacionesromil.com/wp-content/uploads/2022/11/L49413_universal.jpg",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -876,7 +895,7 @@ export const database = [
     price: "109,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_915546-MLU72381591475_102023-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_915546-MLU72381591475_102023-O.webp",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -888,7 +907,8 @@ export const database = [
     id: "076",
     price: "109,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/image-2.png",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_623180-MCO50420581476_062022-O.webp",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -899,7 +919,8 @@ export const database = [
     id: "077",
     price: "99,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/image-3.png",
+    images_url:
+      "https://electrobello.vtexassets.com/arquivos/ids/157989-1200-auto?v=637868365549200000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
@@ -911,7 +932,8 @@ export const database = [
     id: "078",
     price: "99,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/156344-1200-auto.webp",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/156344-800-auto?v=638180309948900000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -946,7 +968,8 @@ export const database = [
     id: "081",
     price: "89,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/164191-800-auto.webp",
+    images_url:
+      "https://groupesebcol.vtexassets.com/arquivos/ids/164191-800-auto?v=637955723910830000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -958,7 +981,7 @@ export const database = [
     price: "89,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/8186240e35f1751e4985a996105cabcc-product.jpeg",
+      "https://i.linio.com/p/ca1de4b095b4e98b2297f32af04cb90c-product.jpg",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -969,7 +992,8 @@ export const database = [
     id: "083",
     price: "89,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/Wok_Universal.jpeg",
+    images_url:
+      "https://dotacionesromil.com/wp-content/uploads/2022/09/Wok_Universal.jpg",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -981,7 +1005,7 @@ export const database = [
     price: "89,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Caldero-Ant-ExpertaTv-20cm_01.jpeg",
+      "https://vima.com.co/wp-content/uploads/2022/06/caldero-antiadherente-experta-tv-20cm-vista1_1024x1024@2x.webp",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1015,7 +1039,8 @@ export const database = [
     id: "087",
     price: "85,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/156315-800-auto.webp",
+    images_url:
+      "https://i.linio.com/p/c027de74edecd6da6ef600f0be540d02-product.jpg",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1027,7 +1052,7 @@ export const database = [
     price: "84,500",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Sarten-Artik-Tv-20cm-UNIVERSAL-L37306-3027049_a.webp",
+      "https://www.alkosto.com/medias/7702561373083-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDc2ODZ8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzNZeTlvTkdRdk1UQTFORGt3TXpZek1UZzNOVEF1YW5CbnxiZGNhMjg4NTcxOTQ2OTE3YTcxYjdmYmNmMDMzNTUxNjQzNzA1NzZiYTlkMDVmZDRkYjhlM2JmZGFkZjE0Y2Vk",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1050,7 +1075,7 @@ export const database = [
     price: "79,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/image-eeef2eb747764b13ac36a9d957e2b96e.webp",
+      "https://olimpica.vtexassets.com/arquivos/ids/807330-800-auto?v=637859969638200000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1062,7 +1087,7 @@ export const database = [
     price: "79,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Imagen-de-referencia-10.png",
+      "https://http2.mlstatic.com/D_NQ_NP_731700-MCO49063351067_022022-O.webp",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1074,7 +1099,7 @@ export const database = [
     price: "76,200",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Caldero-Universal-26Cm-T-V-Pomo-Neg-8.webp",
+      "https://www.alkosto.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-7702561789341-001.jpg?context=bWFzdGVyfGltYWdlc3w5NjIyOXxpbWFnZS9qcGVnfGFHWXlMMmcwTUM4eE16YzRNRFE0TURFMk16ZzNNQzgzTlRCWGVEYzFNRWhmYldGemRHVnlMMmh2ZEdadmJHUmxjaTkwY21GdWMyWmxjaTlwYm1OdmJXbHVaeTlrWlhCdmMybDBMMmg1WW5KcGN5MXBiblJsY21aaFkyVnpMMGxPTDIxbFpHbGhMM0J5YjJSMVkzUXZOemN3TWpVMk1UYzRPVE0wTVY4d01ERXVhbkJufGE0N2I2YzVjYjdjM2UzMTE3NTAzODg2MzU2YzhjOTNjMTUyMTI3MWU3ZmFkODdjNzNkMDYxOTMwZWJlZDQ1ZDc",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1085,7 +1110,8 @@ export const database = [
     id: "093",
     price: "78,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/22-1.jpeg",
+    images_url:
+      "https://almacencoogranada.com/wp-content/uploads/2023/02/Captura-9.jpg",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1097,7 +1123,7 @@ export const database = [
     price: "75,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_634108-MLA50247712795_062022-O.webp",
+      "https://almacencoogranada.com/wp-content/uploads/2020/06/L72408ollacocina1.jpg",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1109,7 +1135,7 @@ export const database = [
     price: "74,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_915546-MLU72381591475_102023-Oaf904833921a3242.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_915546-MLU72381591475_102023-O.webp",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1121,7 +1147,7 @@ export const database = [
     price: "71,600",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/image-56adeb8d8da7ff231.png",
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119276097_2283436_1?wid=800&hei=800&qlt=70",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1133,7 +1159,7 @@ export const database = [
     price: "69,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/image-f15ec5b8947743999d5285c58145944f.webp",
+      "https://jumbocolombiaio.vtexassets.com/arquivos/ids/224433-800-800?v=637816533461230000&width=800&height=800&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1145,7 +1171,7 @@ export const database = [
     price: "69,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/158323-1200-auto1ebce27dfd4d4e04.png",
+      "https://http2.mlstatic.com/D_NQ_NP_706764-MCO47018228929_082021-O.webp",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1157,7 +1183,7 @@ export const database = [
     price: "68,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/22-10128a20582fd2188.jpeg",
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/158144-800-auto?v=638180327955670000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1170,7 +1196,7 @@ export const database = [
     price: "68,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/158049-1200-autod7347435eec9f9f6.webp",
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/158049/55028-hogar-caldero-fund-cuadrado-tapa-fund-24-cm-universal.jpg?v=638180326990870000",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1182,7 +1208,7 @@ export const database = [
     price: "66,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/image-1e12d999d7494f54bf45c0b2725c16d8-1ff4c3afe9e4751d4.png",
+      "https://olimpica.vtexassets.com/arquivos/ids/1146275/Sarten-Universal-Opalo-St-30Cm.jpg?v=638295283362970000",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1194,7 +1220,7 @@ export const database = [
     price: "65,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/162203-800-auto0f0befae09d03780.webp",
+      "https://olimpica.vtexassets.com/arquivos/ids/806363-800-auto?v=637859948373700000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1205,7 +1231,8 @@ export const database = [
     id: 103,
     price: "64,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/5861032067-2-1.webp",
+    images_url:
+      "https://groupesebcol.vtexassets.com/arquivos/ids/163804-800-auto?v=637916997769870000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1217,7 +1244,7 @@ export const database = [
     price: "64,200",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/D_NQ_NP_800593-MCO52685721186_122022-O.webp",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/156845-800-auto?v=636251605830070000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1229,7 +1256,7 @@ export const database = [
     price: "62,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/167018-1200-auto189132b8bbf2b7fb.png",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167018-800-auto?v=638392154842870000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1241,7 +1268,7 @@ export const database = [
     price: "60,500",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/162475-1200-auto9adb720ddc65c387.png",
+      "https://groupesebcol.vtexassets.com/arquivos/ids/158359-800-auto?v=637866220321300000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1253,7 +1280,7 @@ export const database = [
     price: "60,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/L39676-SET-X3-COLORS-AZUL-18-20-24---0177c9866c4ef35c9b.webp",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/166593/L39676-SET-X3-COLORS-AZUL-18-20-24---01.jpg?v=638211381148070000",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1265,7 +1292,7 @@ export const database = [
     price: "60,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/image-6c8fd55a0a67c7131.png",
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119696302_2446802_1?wid=800&hei=800&qlt=70",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1277,7 +1304,7 @@ export const database = [
     price: "60,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Captura-8-2a496a75a4d669974.jpeg",
+      "https://almacencoogranada.com/wp-content/uploads/2020/06/Captura-8-2.jpg",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1289,7 +1316,7 @@ export const database = [
     price: "60,000",
     description: "",
     images_url:
-      "https://almacencoogranada.com/wp-content/uploads/2020/06/L72416sarten1.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_969144-MCO48926765141_012022-O.webp",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1301,7 +1328,7 @@ export const database = [
     price: "59,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Olla-Universal-Artik-20-cm-con-tapa-de-vidrio_124046d28dc083810562a2.webp",
+      "https://mercaldas.vtexassets.com/arquivos/ids/1308085/Olla-Universal-Artik-20-cm-con-tapa-de-vidrio_124046.jpg?v=638200393115030000",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1337,7 +1364,8 @@ export const database = [
     id: 114,
     price: "58,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/Captura-7.jpeg",
+    images_url:
+      "https://olimpica.vtexassets.com/arquivos/ids/807344/Caldero-Universal-Fund-Pomo-Ens22.jpg?v=637859969741670000",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1350,7 +1378,7 @@ export const database = [
     price: "58,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/5861032067-2-1fb231dbbb2ee0c2e.webp",
+      "https://groupesebcol.vtexassets.com/arquivos/ids/163794-800-auto?v=637916997708230000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1362,7 +1390,7 @@ export const database = [
     price: "57,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/158113-1200-auto32e145f20004170f.png",
+      "https://almacencoogranada.com/wp-content/uploads/2020/06/Captura-5.jpg",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1386,7 +1414,7 @@ export const database = [
     price: "52,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Sarten-Artik-Tv-20cm-UNIVERSAL-L37306-3027049_aaed4f3827e7f64ac.webp",
+      "https://olimpica.vtexassets.com/arquivos/ids/807334/Sarten-Universal-Artik--Tv-18Cm.jpg?v=637859969665900000",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1398,7 +1426,7 @@ export const database = [
     price: "51,900",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/159929-800-autoc32852ace8abf460.webp",
+      "https://groupesebcol.vtexassets.com/arquivos/ids/159929-800-auto?v=637866618960800000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1421,7 +1449,8 @@ export const database = [
     id: 121,
     price: "49,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/158134-1200-auto.webp",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/158134-800-auto?v=638180327823300000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1469,7 +1498,7 @@ export const database = [
     price: "46,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/Sarten-Opalo-20cm-Sin-Tapa-UNIVERSAL-L37246-3370884_a.png",
+      "https://luegopago.blob.core.windows.net/temporary/%C3%B1,%C3%B1d,fsdmlfsd.jpg",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1504,8 +1533,7 @@ export const database = [
     id: 128,
     price: "44,500",
     description: "",
-    images_url:
-      "https://tinypic.host/images/2024/01/15/Caldero-Universal-18Cm-Tv-P-Neg-L7889296e5f5443e008a5a.png",
+    images_url: "https://cdn.luegopago.com/temporary/vidr%201.jpg",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1516,7 +1544,8 @@ export const database = [
     id: 129,
     price: "39,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/15/224388-800-800.webp",
+    images_url:
+      "https://jumbocolombiaio.vtexassets.com/arquivos/ids/224388-800-800?v=637816533346800000&width=800&height=800&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1528,7 +1557,7 @@ export const database = [
     price: "36,400",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/15/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-7702073029546-001.jpeg",
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/157865-800-auto?v=638180325227930000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1540,7 +1569,7 @@ export const database = [
     price: "36,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/16/Sarten-Opalo-20cm-Sin-Tapa-UNIVERSAL-L37246-3370884_a-1.webp",
+      "https://exitocol.vtexassets.com/arquivos/ids/17060903/Sarten-Opalo-20cm-Sin-Tapa-UNIVERSAL-L37246-3370884_a.jpg?v=638146647268670000",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1551,7 +1580,8 @@ export const database = [
     id: 132,
     price: "34,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/image-8.png",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/157396-800-auto?v=638180320571070000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1562,7 +1592,8 @@ export const database = [
     id: 133,
     price: "34,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/360039-1200-1200.webp",
+    images_url:
+      "https://jumbocolombiaio.vtexassets.com/arquivos/ids/360039-1600-1600?v=637858458489670000&width=1600&height=1600&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1573,7 +1604,8 @@ export const database = [
     id: 134,
     price: "32,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/5861026360-1.webp",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/157112/27510-1-hogar-parrilla-arepas-negra-imusa.jpg?v=638180317807030000",
     category: "cocina",
     sub_category: "parrillas",
   },
@@ -1584,7 +1616,8 @@ export const database = [
     id: 135,
     price: "30,500",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/158097-800-auto.webp",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/158097-800-auto?v=638180327412600000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1607,7 +1640,8 @@ export const database = [
     id: 137,
     price: "29,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/157864-1200-auto.webp",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_121447686_3042059_1?wid=800&hei=800&qlt=70",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1619,7 +1653,7 @@ export const database = [
     price: "29,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/16/Sarten-Aliada-24Cm-UNIVERSAL-L39622-3006890_a.png",
+      "https://olimpica.vtexassets.com/arquivos/ids/807320-800-auto?v=637859969574830000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1631,7 +1665,7 @@ export const database = [
     price: "27,100",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/16/image-ffb2086867974a059f95fb87df2765de.webp",
+      "https://fantasygroup.vteximg.com.br/arquivos/ids/200421-1000-1000/image-ffb2086867974a059f95fb87df2765de.jpg?v=637931502309400000",
     category: "cocina",
     sub_category: "parrillas",
   },
@@ -1642,7 +1676,8 @@ export const database = [
     id: 140,
     price: "27,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/image-9.png",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/156075-800-auto?v=638180307308170000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1665,7 +1700,8 @@ export const database = [
     id: 142,
     price: "23,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/image-10.png",
+    images_url:
+      "https://fantasygroup.vteximg.com.br/arquivos/ids/179640-1000-1000/image-2635c4377a094f0ca0223486f3f38f5c.jpg?v=637801101492930000",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1677,7 +1713,7 @@ export const database = [
     price: "23,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/16/PEROL-ALIADA-10CM-UNIVERSAL_01.jpeg",
+      "https://www.distribucionescaldas.com/wp-content/uploads/2020/09/PEROL-ALIADA-10CM-UNIVERSAL_01.jpg",
     category: "cocina",
     sub_category: "peroles",
   },
@@ -1700,7 +1736,8 @@ export const database = [
     id: 145,
     price: "319,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/image-11.png",
+    images_url:
+      "https://www.alkosto.com/medias/7702561272300-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w2ODA0N3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaFlTOW9NVGt2TVRBME16QTVOVGt3TlRnNU56UXVhbkJufDllZDZhZDcyOWJmZTAxMTA5ZjA1Mzg4NWQyOTM1MmMyNGNmZDAzNzgxOGY1ZDU5N2ZhMDc1M2FiOGYxOWFjNjU",
     category: "cocina",
     sub_category: "ollas de presión",
   },
@@ -1711,7 +1748,8 @@ export const database = [
     id: 146,
     price: "229,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/1198402.jpeg",
+    images_url:
+      "https://www.alkosto.com/medias/7702561271303-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w3Mzk2MXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnMFl5OW9NakV2TVRBME16QTVOVGN5T0RrMU1ESXVhbkJufGUxNjIyYjU5NjI0OGFlNzJkNmM5ZDk1NTk4ZGRmMTQ1ODgyOTVlMGMyMGFlOTNlMWM4MDI3ZTg1OGFjODUyYWM",
     category: "cocina",
     sub_category: "ollas de presión",
   },
@@ -1722,7 +1760,8 @@ export const database = [
     id: 147,
     price: "154,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/image-12.png",
+    images_url:
+      "https://www.alkosto.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-7702073030443-001.jpg?context=bWFzdGVyfGltYWdlc3wxMjY4ODN8aW1hZ2UvanBlZ3xhRFpsTDJoaE5pOHhNemN6TWpZM09EZ3lPREEyTWk4M05UQlhlRGMxTUVoZmJXRnpkR1Z5TDJodmRHWnZiR1JsY2k5MGNtRnVjMlpsY2k5cGJtTnZiV2x1Wnk5a1pYQnZjMmwwTDJoNVluSnBjeTFwYm5SbGNtWmhZMlZ6TDBsT0wyMWxaR2xoTDNCeWIyUjFZM1F2Tnpjd01qQTNNekF6TURRME0xOHdNREV1YW5CbnwyNjhkYzVhZjM3MTJkZDA5NTRhZTJkZTNjZmM2Y2Y1NTY1OWVmZGEzYzQ3ZjcyMGI4MDNhYzVhNjM1ZDEzNTgy",
     category: "cocina",
     sub_category: "ollas de presión",
   },
@@ -1733,7 +1772,8 @@ export const database = [
     id: 148,
     price: "130,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/155777-1200-auto.webp",
+    images_url:
+      "https://electrobello.vtexassets.com/arquivos/ids/155777-800-auto?v=637734611632300000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas de presión",
   },
@@ -1744,7 +1784,8 @@ export const database = [
     id: 149,
     price: "119,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/16/image-13.png",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119838169_2500315_1?wid=1500&hei=1500&qlt=70",
     category: "cocina",
     sub_category: "ollas de presión",
   },
@@ -1756,7 +1797,7 @@ export const database = [
     price: "93,700",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/16/OLLA-A-PRESION-6-LITROS-CORONA.jpeg",
+      "https://www.distribucionescaldas.com/wp-content/uploads/2020/07/OLLA-A-PRESION-6-LITROS-CORONA.jpg",
     category: "cocina",
     sub_category: "ollas de presión",
   },
@@ -1767,7 +1808,8 @@ export const database = [
     id: 151,
     price: "146,000",
     description: "",
-    images_url: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
     category: "aseo",
     sub_category: "",
   },
@@ -1779,7 +1821,7 @@ export const database = [
     price: "122,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/D_NQ_NP_894805-MCO49746496178_042022-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_894805-MCO49746496178_042022-O.webp",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1802,7 +1844,8 @@ export const database = [
     id: 154,
     price: "123,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/72768947_1.jpeg",
+    images_url:
+      "https://luegopago.blob.core.windows.net/temporary/41sg5dazkal._ac_sx679_.jpg",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1813,7 +1856,8 @@ export const database = [
     id: 155,
     price: "113,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/VL134H040116-1.jpeg",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_888568-MCO54378893022_032023-O.webp",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1824,7 +1868,8 @@ export const database = [
     id: 156,
     price: "112,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/descarga.jpeg",
+    images_url:
+      "https://www.vajillascorona.com.co/medias/?context=bWFzdGVyfGltYWdlc3w5NjcxM3xpbWFnZS9qcGVnfGFEQmhMMmcxT1M4NU1UTXhOekUwTWpFMU9UWTJ8YzM0MjEzZWE2MWRlNzgyZWNjZWVlOWJkMTExMzY1YzliYTUyODFlNDhiNGNiMzdjOWNjODQ0ZDE2ZDYyOTQxNA",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1836,7 +1881,7 @@ export const database = [
     price: "112,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/Malaya-Pocillo-Negro-1.jpeg",
+      "https://www.vajillascorona.com.co/medias/Malaya-Pocillo-Negro-1.jpg?context=bWFzdGVyfGltYWdlc3wxODkxODZ8aW1hZ2UvanBlZ3xhREEwTDJnd09TODVNell4TWpneE5qRXpPRFUwTDAxaGJHRjVZUzFRYjJOcGJHeHZMVTVsWjNKdkxURXVhbkJufDIwNTQxOTA5NGYwMzliMmE3MDE3OWUyOWU5ZWVkZDQ5NmZlNDU0ZWNlNGY5YWU5YmFkN2EyNjI3ZTc5ZjdlYjc",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1848,7 +1893,7 @@ export const database = [
     price: "105,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/imagen-vajilla_cala_4_puestos_16_piezas_corona-2244757-0-0-0-100.jpeg",
+      "https://www.vajillascorona.com.co/medias/VL156G040116-1.jpg?context=bWFzdGVyfGltYWdlc3wxODgwMDJ8aW1hZ2UvanBlZ3xhREUyTDJoaE15ODVNVGd5TmpBeU5qa3dOVGt3TDFaTU1UVTJSekEwTURFeE5sOHhMbXB3Wnd8ZTM4ODQ0NDU1MjJjMTMzNWQ5MzQ4MDNmNTk2ZTczYmI3M2Q0MWMwNjZjMDQ2NGU3NWUxZjNmZTFlNmNiMTM3Yg",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1859,7 +1904,8 @@ export const database = [
     id: 159,
     price: "105,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/descarga-1.jpeg",
+    images_url:
+      "https://www.vajillascorona.com.co/medias/?context=bWFzdGVyfGltYWdlc3w2MTE1N3xpbWFnZS9qcGVnfGFHVm1MMmc1Tmk4NU1UTXhOekE0T1Rjek1EZzJ8NWQ5OTBlNDk3MzlhMThiZjhmZWEzMWM5NjcyZTRjNzVmMTYwMDI5MGVmOTZkZTFiNzYyYzMyMjZiYmM1N2JhZQ",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1870,7 +1916,8 @@ export const database = [
     id: 160,
     price: "64,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/SL1132160403-1.jpeg",
+    images_url:
+      "https://www.vajillascorona.com.co/medias/SL1132160403-1.jpg?context=bWFzdGVyfGltYWdlc3wzMjg5NTF8aW1hZ2UvanBlZ3xhREExTDJoaVlTODVNekF3TmpBd01EWXhPVGd5TDFOTU1URXpNakUyTURRd015MHhMbXB3Wnd8NzJkZmYzZmFiYTM0ZGI1ZGU5MWZkMGEwYTFmZDAzZGZkZGI5ZDdlODJhYWNlNDEyNzc0YzgxOTE1OGZjYzU2NQ",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1881,7 +1928,8 @@ export const database = [
     id: 161,
     price: "64,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/SL1132160303-1.jpeg",
+    images_url:
+      "https://www.vajillascorona.com.co/medias/SL1132160303-1.jpg?context=bWFzdGVyfGltYWdlc3wyNDczMjR8aW1hZ2UvanBlZ3xhRGcwTDJoaE5DODVNekF3TlRrNU5EQTJOakl5TDFOTU1URXpNakUyTURNd00xOHhMbXB3Wnd8N2YyZDI1MzE4OWU0ZDExNjUyMTRlZDIyZjNhY2YxMDlhZTgxMWZjZWYzYTNiZWFjNzYyZDZhYWE4MGUzOTNlZQ",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1892,7 +1940,8 @@ export const database = [
     id: 162,
     price: "102,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/VL173E040116-1.jpeg",
+    images_url:
+      "https://www.vajillascorona.com.co/medias/VL173E040116-1.jpg?context=bWFzdGVyfGltYWdlc3w0MjM1ODd8aW1hZ2UvanBlZ3xhR013TDJnNE5pODVNakF3T0RBMk1UQXhNREl5TDFaTU1UY3pSVEEwTURFeE5sOHhMbXB3Wnd8NzExOGEwNjdiODJiNjQ1NzM4MzFjNTI5MzdmZDYyM2UzYmU4Y2ZkZTgyZTgyMGU4NTg2YzY5YzFjZmY3MDU5OA",
     category: "cristaleria",
     sub_category: "vajilla",
   },
@@ -1915,7 +1964,7 @@ export const database = [
     price: "59,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/set-aragon-FINAL-1.webp",
+      "https://www.almacenesla13.com/cdn/shop/products/set-aragon-FINAL.jpg?v=1591720811&width=530",
     category: "cristaleria",
     sub_category: "copas",
   },
@@ -1983,7 +2032,8 @@ export const database = [
     id: 170,
     price: "40,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/image-15.png",
+    images_url:
+      "https://www.almacenesla13.com/cdn/shop/files/Vaso_Barman_Bebidas_Cristar_1.jpg?v=1694141416&width=400",
     category: "cristaleria",
     sub_category: "vasos",
   },
@@ -2017,7 +2067,8 @@ export const database = [
     id: 173,
     price: "32,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/161039-800-auto.webp",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/161039/L60506-Contenedor-de-vidrio-2-litros-EC---1.jpg?v=637306340746470000",
     category: "cristaleria",
     sub_category: "frascos / contenedores",
   },
@@ -2040,8 +2091,7 @@ export const database = [
     id: 175,
     price: "30,000",
     description: "",
-    images_url:
-      "https://tinypic.host/images/2024/01/18/0692EL4_Ensaladera_Porto_4_Piezas.webp",
+    images_url: "https://tinypic.host/images/2024/01/24/image-rrr1.png",
     category: "cristaleria",
     sub_category: "ensaladeras",
   },
@@ -2053,7 +2103,7 @@ export const database = [
     price: "30,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/L60575-Set-x3-Contenedores---1.webp",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/160988-800-auto?v=637305340154130000&width=800&height=auto&aspect=true",
     category: "cristaleria",
     sub_category: "frascos / contenedores",
   },
@@ -2075,7 +2125,8 @@ export const database = [
     id: 178,
     price: "29,000",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/image-19.png",
+    images_url:
+      "https://easycolombia.vtexassets.com/arquivos/ids/205779/7702147264989-1.jpg?v=638297199495470000",
     category: "cristaleria",
     sub_category: "copas",
   },
@@ -2109,7 +2160,7 @@ export const database = [
     price: "27,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/SET-X-4-MUG-NOVO-COLOR-CRISTAR-0689EC4HOLI-3001996_a.webp",
+      "https://carulla.vtexassets.com/arquivos/ids/2503009/SET-X-4-MUG-NOVO-COLOR-CRISTAR-0689EC4HOLI-3001996_a.jpg?v=637388712858830000",
     category: "cristaleria",
     sub_category: "mugs",
   },
@@ -2121,7 +2172,7 @@ export const database = [
     price: "26,500",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/image-af6c7bcf57e84f7e94e09ea939c41c09.webp",
+      "https://fantasygroup.vteximg.com.br/arquivos/ids/186926-1000-1000/image-af6c7bcf57e84f7e94e09ea939c41c09.jpg?v=637890866592800000",
     category: "cristaleria",
     sub_category: "frascos / contenedores",
   },
@@ -2155,7 +2206,7 @@ export const database = [
     price: "25,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/image-ca50a6663eac406da9b03f93e50d3f61.webp",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/161033/L60504-Contenedor-de-vidrio-1.2-litros-EC---1.jpg?v=637306338008370000",
     category: "cristaleria",
     sub_category: "frascos / contenedores",
   },
@@ -2281,7 +2332,7 @@ export const database = [
     price: "14,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/_14.000DG_X2-9.5-30556-removebg-preview.png",
+      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
     category: "cristaleria",
     sub_category: "frascos / contenedores",
   },
@@ -2293,7 +2344,7 @@ export const database = [
     price: "12,700",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/FRASCO-MISTIQUE-PEQUEO-CRISTAR-0714AL12-107812_a.webp",
+      "https://exitocol.vtexassets.com/arquivos/ids/15944009/FRASCO-MISTIQUE-PEQUEO-CRISTAR-0714AL12-107812_a.jpg?v=638068889860700000",
     category: "cristaleria",
     sub_category: "frascos / contenedores",
   },
@@ -2305,7 +2356,7 @@ export const database = [
     price: "8,500",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/vaso-home-grande-ref-1034-mundiutil.webp",
+      "https://cristalerialamejor.com.co/wp-content/uploads/2023/04/VASO-HOME-GDE-NTR.jpg",
     category: "cristaleria",
     sub_category: "vasos",
   },
@@ -2317,7 +2368,7 @@ export const database = [
     price: "8,000",
     description: "",
     images_url:
-      "https://tinypic.host/images/2024/01/18/Copa_Brunello_Champana_champagne.webp",
+      "https://tienda.cristar.com.co/wp-content/uploads/2019/05/Copa_Brunello_Champan%CC%83a_champagne.jpg",
     category: "cristaleria",
     sub_category: "copas",
   },
@@ -2339,7 +2390,8 @@ export const database = [
     id: 201,
     price: "3,500",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/50864.jpeg",
+    images_url:
+      "https://cristalerialamejor.com.co/wp-content/uploads/2023/04/50864.jpg",
     category: "cristaleria",
     sub_category: "vasos",
   },
@@ -2350,7 +2402,8 @@ export const database = [
     id: 202,
     price: "2,500",
     description: "",
-    images_url: "https://tinypic.host/images/2024/01/18/image-31.png",
+    images_url:
+      "https://www.almacenesla13.com/cdn/shop/products/AGUARDIENTE_6.jpg?v=1596480639",
     category: "cristaleria",
     sub_category: "copas",
   },
@@ -2770,7 +2823,7 @@ export const database = [
     price: "67,200",
     description: "",
     images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_909315-MCO72576343691_102023-O.webp",
+      "https://res.cloudinary.com/riqra/image/upload/w_656,h_656,c_limit,q_auto,f_auto/v1630101787/sellers/villa-alta/1607631425424.png",
     category: "electrodomesticos",
     sub_category: "cafeteras",
   },
@@ -5187,47 +5240,123 @@ export const database = [
     sub_category: "",
   },
   {
-    product: "",
+    product: "cafetera milán everhouse 6 tazas",
     disponibilidad: true,
     descuento: false,
     id: 438,
-    price: "",
+    price: "59,000",
     description: "",
-    images_url: "",
-    category: "",
-    sub_category: "",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_124687347_4061341_1?wid=800&hei=800&qlt=70",
+    category: "electrodomesticos",
+    sub_category: "cafeteras",
   },
   {
-    product: "",
+    product: "coctelera 750ml acero",
     disponibilidad: true,
     descuento: false,
     id: 439,
-    price: "",
+    price: "42,000",
     description: "",
-    images_url: "",
-    category: "",
-    sub_category: "",
+    images_url:
+      "https://cdn.coordiutil.com/imagen-coctelera_750_ml_acero_inoxidable-1314719-800-600-1-75.jpg",
+    category: "cocina",
+    sub_category: "bar",
   },
   {
-    product: "",
+    product: "coctelera 550ml plat novum",
     disponibilidad: true,
     descuento: false,
     id: 440,
-    price: "",
+    price: "39,500",
     description: "",
-    images_url: "",
-    category: "",
-    sub_category: "",
+    images_url:
+      "https://www.almihogar.com/wp-content/uploads/2021/02/Coctelera-Nova-Incametal-1.jpg",
+    category: "cocina",
+    sub_category: "bar",
   },
   {
-    product: "",
+    product: "cuchara tenedor bar en acero inoxidable",
     disponibilidad: true,
     descuento: false,
     id: 441,
-    price: "",
+    price: "14,500",
     description: "",
-    images_url: "",
-    category: "",
-    sub_category: "",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_778738-MCO69603980522_052023-O.webp",
+    category: "cocina",
+    sub_category: "bar",
+  },
+  {
+    product: "cuchara bar pomo fino en acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 442,
+    price: "14,500",
+    description: "",
+    images_url:
+      "https://www.almacenesla13.com/cdn/shop/products/CucharaLuxuryGinTonicBar_jpg_250x250@2x.jpg?v=1637707918",
+    category: "cocina",
+    sub_category: "bar",
+  },
+  {
+    product: "cuchara mezcladora pajita bar en acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 443,
+    price: "8,500",
+    description: "",
+    images_url:
+      "https://imagencasa.com.pe/cdn/shop/files/FIK_639_b0b73194-842b-4422-88ea-3de94fea71c3.jpg?v=1696293822&width=800",
+    category: "cocina",
+    sub_category: "bar",
+  },
+  {
+    product: "cuchara bar moneda en acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 444,
+    price: "14,500",
+    description: "",
+    images_url:
+      "https://productosparabar.com/image/cache/catalog/products/bar/CU-DF(1)-1500x1500.jpg",
+    category: "cocina",
+    sub_category: "bar",
+  },
+  {
+    product: "copa medidora cilindrica 30/60 ml acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 445,
+    price: "9,000",
+    description: "",
+    images_url:
+      "https://shapesproducts.in/wp-content/uploads/2022/09/5-1000x1413.jpg",
+    category: "cocina",
+    sub_category: "bar",
+  },
+  {
+    product: "copa medidora conica 30/60 ml acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 446,
+    price: "17,000",
+    description: "",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_908292-MLA44536498182_012021-O.webp",
+    category: "cocina",
+    sub_category: "bar",
+  },
+  {
+    product: "copa medidora 25/50 ml acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 447,
+    price: "15,500",
+    description: "",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_908292-MLA44536498182_012021-O.webp",
+    category: "cocina",
+    sub_category: "bar",
   },
 ];
