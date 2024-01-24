@@ -3,7 +3,7 @@
 <template>
   <div class="container">
     <div class="right"></div>
-    <h1>nuestro catálogo</h1>
+    <h1>¡mira nuestro catálogo!</h1>
     <div class="left"></div>
   </div>
 </template>

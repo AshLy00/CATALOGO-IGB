@@ -1,10 +1,14 @@
 <script setup>
-import { ref } from "vue";
+import { ref, defineProps } from "vue";
 import { useRouter } from "vue-router";
 
 const props = defineProps(["project"]);
 const router = useRouter();
 const projectRef = ref(props.project);
+
+const capitalizeFirstLetter = (str) => {
+  return str.replace(/\b\w/g, (match) => match.toUpperCase());
+};
 
 const navigateToLink = () => {
   if (!projectRef.value.disponibilidad) {
@@ -14,10 +18,12 @@ const navigateToLink = () => {
     return;
   }
 
-  const productText = projectRef.value.product.toUpperCase();
+  const productText = capitalizeFirstLetter(projectRef.value.product);
   const link =
     "https://wa.me/573167966364/?text=" +
-    encodeURIComponent(`QUIERO COMPRAR ESTE PRODUCTO: ${productText}`);
+    encodeURIComponent(
+      `Hola IGB! Me gustaría comprar este producto: ${productText} ;D`
+    );
   window.location.href = link;
 };
 </script>

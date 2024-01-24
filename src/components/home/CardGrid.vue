@@ -1,10 +1,13 @@
 <script setup>
 import CardProduct from "../home/CardProduct.vue";
 import { database } from "../../database";
+
+const shuffledProducts = database.sort(() => Math.random() - 0.5);
 </script>
+
 <template>
   <div class="grid_cards">
-    <CardProduct v-for="(p, i) in database" :key="i" :project="p" />
+    <CardProduct v-for="(p, i) in shuffledProducts" :key="i" :project="p" />
   </div>
 </template>
 
