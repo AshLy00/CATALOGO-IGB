@@ -100,7 +100,7 @@ img {
 .card_container {
   display: flex;
   flex-direction: column;
-  height: 550px;
+  height: 570px;
   justify-content: center;
   align-items: center;
   width: 300px;
@@ -206,7 +206,7 @@ img {
     font-weight: bold;
   }
   .card {
-    height: 400px;
+    height: 430px;
     border-radius: 20px;
     border: solid 2px #e6e6e688;
     gap: 20px;
@@ -238,8 +238,8 @@ img {
     height: 200px;
   }
   .card_container {
-    height: 480px;
-    width: 270px;
+    height: 470px;
+    width: 250px;
   }
   .img_container img {
     max-width: 160px;
@@ -339,7 +339,7 @@ img {
     max-height: 120px;
   }
   .card_container {
-    height: 300px;
+    height: 320px;
     width: 180px;
   }
   .product {
@@ -437,7 +437,7 @@ img {
     height: 90px;
   }
   .card_container {
-    height: 230px;
+    height: 260px;
     width: 140px;
   }
   .product {

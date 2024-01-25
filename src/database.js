@@ -5359,4 +5359,28 @@ export const database = [
     category: "cocina",
     sub_category: "bar",
   },
+  {
+    product: "tablero didactico 108cm altura",
+    disponibilidad: true,
+    descuento: false,
+    id: 448,
+    price: "60,500",
+    description: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/25/IMG_20240125_094916.png",
+    category: "jugueteria",
+    sub_category: "tableros",
+  },
+  {
+    product: "tablero didactico 90cm altura",
+    disponibilidad: true,
+    descuento: false,
+    id: 449,
+    price: "55,000",
+    description: "",
+    images_url:
+      "https://tinypic.host/images/2024/01/25/IMG_20240125_095236.png",
+    category: "jugueteria",
+    sub_category: "tableros",
+  },
 ];
