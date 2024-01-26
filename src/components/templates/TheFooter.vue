@@ -2,7 +2,7 @@
 <template>
   <footer>
     <div class="footer_container">
-      <p>copyright © 2024 - inversiones gomez barraza</p>
+      <p>copyright © 2024 - igb</p>
     </div>
   </footer>
 </template>
