@@ -4,7 +4,6 @@
     <div class="footer_container">
       <p>copyright © 2024 - inversiones gomez barraza</p>
     </div>
-    <button>App</button>
   </footer>
 </template>
 
