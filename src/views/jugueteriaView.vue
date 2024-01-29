@@ -33,11 +33,14 @@ const filteredDatabase = computed(() => {
     <button @click="filterProducts('muñecas')">muñecas</button>
     <button @click="filterProducts('carpas')">carpas</button>
     <button @click="filterProducts('patines')">patines</button>
+    <button @click="filterProducts('patinetas')">patinetas</button>
+    <button @click="filterProducts('sillas')">sillas</button>
     <button @click="filterProducts('instrumentos musicales')">
       instrumentos musicales
     </button>
     <button @click="filterProducts('sets de muñecas')">sets de muñecas</button>
     <button @click="filterProducts('montables')">montables</button>
+    <button @click="filterProducts('deslizaderos')">deslizaderos</button>
     <button @click="filterProducts('dinosaurios')">dinosaurios</button>
     <button @click="filterProducts('cocinas de juguete')">
       cocinas de juguete
