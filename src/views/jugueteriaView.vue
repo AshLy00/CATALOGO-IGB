@@ -32,7 +32,12 @@ const filteredDatabase = computed(() => {
     </button>
     <button @click="filterProducts('muñecas')">muñecas</button>
     <button @click="filterProducts('carpas')">carpas</button>
-    <button @click="filterProducts('patines')">patines</button>
+    <button @click="filterProducts('armatodos')">armatodos</button>
+    <button @click="filterProducts('juegos de mesa')">juegos de mesa</button>
+    <button @click="filterProducts('tocadores de juguete')">
+      tocadores de juguete
+    </button>
+    <button @click="filterProducts('triciclos')">triciclos</button>
     <button @click="filterProducts('patinetas')">patinetas</button>
     <button @click="filterProducts('sillas')">sillas</button>
     <button @click="filterProducts('instrumentos musicales')">
@@ -42,6 +47,7 @@ const filteredDatabase = computed(() => {
     <button @click="filterProducts('montables')">montables</button>
     <button @click="filterProducts('deslizaderos')">deslizaderos</button>
     <button @click="filterProducts('dinosaurios')">dinosaurios</button>
+    <button @click="filterProducts('camiones')">camiones</button>
     <button @click="filterProducts('cocinas de juguete')">
       cocinas de juguete
     </button>

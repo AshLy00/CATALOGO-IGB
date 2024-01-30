@@ -2,13 +2,8 @@
 import { ref, defineProps } from "vue";
 import TheCategory from "./TheCategory.vue";
 
-const isVisible = ref(true);
 const showSubCategoria = ref(false);
 const props = defineProps(["categoria"]);
-
-const closeMenu = () => {
-  isVisible.value = false;
-};
 
 const primeraCategoria = {
   nombre: "electrodomésticos",
@@ -71,10 +66,10 @@ const toggleSubCategoria = () => {
 };
 </script>
 <template>
-  <div v-if="isVisible" class="menu_container">
+  <div class="menu_container">
     <div class="menu">
       <h1>categorías</h1>
-      <button class="close" @click="closeMenu">
+      <button class="close" @click="$emit('close')">
         <img src="/src/images/menu_icon.svg" alt="" />
       </button>
     </div>

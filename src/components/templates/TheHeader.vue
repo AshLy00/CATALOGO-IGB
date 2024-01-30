@@ -2,8 +2,8 @@
 import { ref } from "vue";
 import { useRouter } from "vue-router";
 import TheMenu from "../home/TheMenu.vue";
-
 const isMenuVisible = ref(false);
+const router = useRouter();
 
 const toggleMenu = () => {
   isMenuVisible.value = !isMenuVisible.value;
@@ -12,7 +12,7 @@ const toggleMenu = () => {
 
 <template>
   <div class="themenu" v-if="isMenuVisible">
-    <TheMenu />
+    <TheMenu @close="toggleMenu" />
   </div>
   <header>
     <div class="header_items">
