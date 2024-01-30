@@ -8,11 +8,9 @@ const props = defineProps(["categoria"]);
 const primeraCategoria = {
   nombre: "electrodomésticos",
 };
-
 const segundaCategoria = {
   nombre: "cocina",
 };
-
 const terceraCategoria = {
   nombre: "salud",
 };
@@ -76,39 +74,39 @@ const toggleSubCategoria = () => {
     <div class="categorias">
       <TheCategory
         :categoria="primeraCategoria"
-        @click="$router.push({ name: 'electrodomesticos' })"
+        @click="$router.push({ name: 'electrodomesticos' }), $emit('close')"
       />
       <TheCategory
         :categoria="segundaCategoria"
-        @click="$router.push({ name: 'cocina' })"
+        @click="$router.push({ name: 'cocina' }), $emit('close')"
       />
       <TheCategory
         :categoria="terceraCategoria"
-        @click="$router.push({ name: 'salud' })"
+        @click="$router.push({ name: 'salud' }), $emit('close')"
       />
       <TheCategory
         :categoria="cuartaCategoria"
-        @click="$router.push({ name: 'cristaleria' })"
+        @click="$router.push({ name: 'cristaleria' }), $emit('close')"
       />
       <TheCategory
         :categoria="quintaCategoria"
-        @click="$router.push({ name: 'tecnologia' })"
+        @click="$router.push({ name: 'tecnologia' }), $emit('close')"
       />
       <TheCategory
         :categoria="sextaCategoria"
-        @click="$router.push({ name: 'piscinas y accesorios' })"
+        @click="$router.push({ name: 'piscinas y accesorios' }), $emit('close')"
       />
       <TheCategory
         :categoria="septimaCategoria"
-        @click="$router.push({ name: 'jardineria' })"
+        @click="$router.push({ name: 'jardineria' }), $emit('close')"
       />
       <TheCategory
         :categoria="octavaCategoria"
-        @click="$router.push({ name: 'hogar' })"
+        @click="$router.push({ name: 'hogar' }), $emit('close')"
       />
       <TheCategory
         :categoria="novenaCategoria"
-        @click="$router.push({ name: 'jugueteria' })"
+        @click="$router.push({ name: 'jugueteria' }), $emit('close')"
       />
     </div>
   </div>
