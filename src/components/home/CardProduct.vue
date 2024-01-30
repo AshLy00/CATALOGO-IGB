@@ -1,5 +1,5 @@
 <script setup>
-import { ref, defineProps } from "vue";
+import { ref, defineProps, onMounted } from "vue";
 import { useRouter } from "vue-router";
 
 const props = defineProps(["project"]);
@@ -8,6 +8,21 @@ const projectRef = ref(props.project);
 
 const capitalizeFirstLetter = (str) => {
   return str.replace(/\b\w/g, (match) => match.toUpperCase());
+};
+
+const navigateToDescription = () => {
+  if (!projectRef.value.disponibilidad) {
+    window.alert(
+      "Este producto está agotado. ¡Pronto estará disponible de nuevo! :D"
+    );
+    return;
+  }
+
+  // Use router.push to navigate to the description view with the correct projectId
+  router.push({
+    name: "description",
+    params: { projectId: projectRef.value.id },
+  });
 };
 
 const navigateToLink = () => {
@@ -28,12 +43,9 @@ const navigateToLink = () => {
 };
 </script>
 <template>
-  <div
-    class="card_container"
-    :class="`${project.disponibilidad ? '' : 'agotado'}`"
-  >
+  <div class="card_container" :class="{ agotado: !project.disponibilidad }">
     <div class="card">
-      <div class="img_container">
+      <div class="img_container" @click="navigateToDescription">
         <div class="no-disponible" v-if="!project.disponibilidad">
           <h1>no disponible</h1>
         </div>

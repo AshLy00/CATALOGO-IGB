@@ -1,8 +1,15 @@
 <script setup>
 import CardProduct from "../home/CardProduct.vue";
 import { database } from "../../database";
+import { useRouter } from "vue-router";
 
+const router = useRouter();
 const shuffledProducts = database.sort(() => Math.random() - 0.5);
+
+const goToDescription = (projectId) => {
+  // Use router.push to navigate to the description view with the correct projectId
+  router.push({ name: "description", params: { projectId } });
+};
 </script>
 
 <template>
@@ -10,7 +17,6 @@ const shuffledProducts = database.sort(() => Math.random() - 0.5);
     <CardProduct v-for="(p, i) in shuffledProducts" :key="i" :project="p" />
   </div>
 </template>
-
 <style>
 .grid_cards {
   display: grid;

@@ -1,26 +1,25 @@
 <script setup>
-import { ref, defineProps } from "vue";
-import { useRouter } from "vue-router";
+import DescriptionCard from "../components/product/DescriptionCard.vue";
+import { ref, computed, onMounted } from "vue";
+import { useRoute } from "vue-router";
+import { database } from "../database";
 
-const props = defineProps(["project"]);
-const router = useRouter();
-const projectRef = ref(props.project);
+const route = useRoute();
+const projectId = ref(route.params.projectId);
+const selectedProject = ref(null);
+
+// Fetch the data or set selectedProject here
+onMounted(() => {
+  selectedProject.value = database.find(
+    (project) => project.id === projectId.value
+  );
+});
+
+// Check if selectedProject is not null before accessing its properties
+const SelectedProject = computed(() => {
+  return selectedProject.value || {};
+});
 </script>
 <template>
-  <div class="card_container">
-    <div class="card">
-      <p class="price">{{ project.category }}</p>
-      <p class="price">{{ project.sub_category }}</p>
-      <div class="img_container">
-        <img :src="project.images_url" alt="" />
-      </div>
-      <p class="product">{{ project.product }}</p>
-      <p class="price">${{ project.description }}</p>
-      <p class="price">${{ project.price }}</p>
-    </div>
-    <button class="cart_button" @click="navigateToLink">
-      <img class="cart" src="/src/images/whatsapp_icon.png" alt="" />
-      <p>comprar en línea</p>
-    </button>
-  </div>
+  <DescriptionCard :project="selectedProject" />
 </template>
