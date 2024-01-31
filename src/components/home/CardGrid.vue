@@ -4,7 +4,7 @@ import { database } from "../../database";
 import { useRouter } from "vue-router";
 
 const router = useRouter();
-const shuffledProducts = database.sort(() => Math.random() - 0.5);
+const shuffledProducts = database.sort(() => Math.random() - 0.5).slice(0, 20);
 
 const goToDescription = (projectId) => {
   // Use router.push to navigate to the description view with the correct projectId
