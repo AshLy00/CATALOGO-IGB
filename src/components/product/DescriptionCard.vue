@@ -20,26 +20,24 @@ const navigateToLink = () => {
 
 <template>
   <div v-if="project" class="container_description">
-    <p class="category_description">{{ project.category }}</p>
-    <p class="sub_description">{{ project.sub_category }}</p>
     <div class="img_container_description">
       <img :src="project.images_url" alt="" />
     </div>
-    <div class="line"></div>
-    <p class="product_description">{{ project.product }}</p>
-    <p class="price_description">${{ project.price }}</p>
-    <div class="line"></div>
-    <p class="text">descripción</p>
-    <p class="description_text">{{ project.description }}</p>
+    <div class="informacion">
+      <p class="product_description">{{ project.product }}</p>
+      <p class="price_description">${{ project.price }}</p>
 
-    <button class="cart_button_description" @click="navigateToLink">
-      <img
-        class="cart_description"
-        src="/src/images/whatsapp_icon.png"
-        alt=""
-      />
-      <p>comprar en línea</p>
-    </button>
+      <p class="text">descripción</p>
+      <p class="description_text">{{ project.description }}</p>
+      <button class="cart_button_description" @click="navigateToLink">
+        <img
+          class="cart_description"
+          src="/src/images/whatsapp_icon.png"
+          alt=""
+        />
+        <p>comprar en línea</p>
+      </button>
+    </div>
   </div>
   <div v-else>
     <p>Loading...</p>
@@ -47,60 +45,41 @@ const navigateToLink = () => {
 </template>
 
 <style>
-.line {
-  width: 70%;
-  height: 1px;
-  background-color: var(---color-grey);
-  border-radius: 100%;
+.informacion {
+  gap: 20px;
+  flex-direction: column;
+  display: flex;
 }
 .container_description {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  margin-top: 150px;
+  width: 100%;
   align-items: center;
   width: 80%;
-  padding: 100px;
-  gap: 20px;
-  margin-top: 60px;
+  justify-content: center;
 }
-
-.product_description {
-  width: 60%;
-  text-align: center;
+.img_container_description img {
+  width: 500px;
+  height: 500px;
 }
-
 .description_text {
-  width: 65%;
   text-align: justify;
 }
-.text,
-.category_description,
-.sub_description {
+.text {
   font-weight: bold;
   font-size: 1.3rem;
 }
-
 .price_description {
   color: var(--color-orange);
   font-weight: bold;
   font-size: 1.5rem;
 }
-
-.img_container_description img {
-  width: 100%;
-  height: 100%;
+.description_text {
+  width: 60%;
 }
-
-.img_container_description {
-  width: fit-content;
-  height: fit-content;
-  display: flex;
-  justify-content: center;
-  margin: 10px;
-}
-
 .cart_button_description {
   font-size: 1rem;
+  height: 80px;
   width: 200px;
   padding: 20px;
   display: flex;
@@ -119,5 +98,8 @@ const navigateToLink = () => {
 .cart_button_description img {
   height: 50px;
   width: 50px;
+}
+
+@media screen and (max-width: 650px) {
 }
 </style>
