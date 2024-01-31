@@ -43,9 +43,13 @@ const navigateToLink = () => {
 };
 </script>
 <template>
-  <div class="card_container" :class="{ agotado: !project.disponibilidad }">
+  <div
+    class="card_container"
+    :class="{ agotado: !project.disponibilidad }"
+    @click="navigateToDescription"
+  >
     <div class="card">
-      <div class="img_container" @click="navigateToDescription">
+      <div class="img_container">
         <div class="no-disponible" v-if="!project.disponibilidad">
           <h1>no disponible</h1>
         </div>

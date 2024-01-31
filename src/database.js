@@ -5880,8 +5880,7 @@ export const database = [
     id: 491,
     price: "114,000",
     description: "",
-    images_url:
-      "https://ae01.alicdn.com/kf/H308c9aab03974ee2be41916079ef4566M/Juego-de-mesa-de-billar-peque-o-para-el-hogar-juego-de-mesa-de-billar-mesa.jpg_.webp",
+    images_url: "#",
     category: "jugueteria",
     sub_category: "juegos de mesa",
   },
@@ -6154,7 +6153,7 @@ export const database = [
     id: 514,
     price: "87,500",
     description: "",
-    images_url: "https://img.fruugo.com/product/6/28/224080286_max.jpg",
+    images_url: "#",
     category: "jugueteria",
     sub_category: "juegos de mesa",
   },
@@ -6740,8 +6739,7 @@ export const database = [
     id: 563,
     price: "45,000",
     description: "",
-    images_url:
-      "https://ae01.alicdn.com/kf/U8f8e4cc90d604223ac455c6bb4762c7ev/Bergner-BGMP-4660-Q3542-Set-3-Utensilios-de-Cocina-en-Silicona-colecci-n-Foodies-Madera.jpg_.webp",
+    images_url: "#",
     category: "cocina",
     sub_category: "articulos de cocina",
   },
