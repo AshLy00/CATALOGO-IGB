@@ -10,7 +10,7 @@ const capitalizeFirstLetter = (str) => {
 const navigateToLink = () => {
   const productText = capitalizeFirstLetter(props.project.product);
   const link =
-    "https://wa.me/573167966364/?text=" +
+    "https://wa.me/573054304014/?text=" +
     encodeURIComponent(
       `Hola IGB! Me gustaría comprar este producto: ${productText} ;D`
     );
@@ -49,18 +49,23 @@ const navigateToLink = () => {
   gap: 20px;
   flex-direction: column;
   display: flex;
+  width: 100%;
+}
+.product_description {
+  width: 60%;
 }
 .container_description {
   display: flex;
   margin-top: 150px;
-  width: 100%;
   align-items: center;
-  width: 80%;
+  width: fit-content;
   justify-content: center;
+  width: 100%;
+  gap: 30px;
 }
 .img_container_description img {
-  width: 500px;
-  height: 500px;
+  width: 100%;
+  height: 100%;
 }
 .description_text {
   text-align: justify;
@@ -74,9 +79,7 @@ const navigateToLink = () => {
   font-weight: bold;
   font-size: 1.5rem;
 }
-.description_text {
-  width: 60%;
-}
+
 .cart_button_description {
   font-size: 1rem;
   height: 80px;
@@ -101,5 +104,24 @@ const navigateToLink = () => {
 }
 
 @media screen and (max-width: 650px) {
+  .container_description {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+  }
+  .informacion {
+    align-items: center;
+  }
+
+  .product_description {
+    width: 80%;
+    text-align: center;
+  }
+
+  .img_container_description {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+  }
 }
 </style>

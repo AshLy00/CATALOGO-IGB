@@ -35,7 +35,7 @@ const navigateToLink = () => {
 
   const productText = capitalizeFirstLetter(projectRef.value.product);
   const link =
-    "https://wa.me/573167966364/?text=" +
+    "https://wa.me/573054304014/?text=" +
     encodeURIComponent(
       `Hola IGB! Me gustaría comprar este producto: ${productText} ;D`
     );

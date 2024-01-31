@@ -50,5 +50,13 @@ onMounted(() => {
 </script>
 
 <template>
-  <DescriptionCard :project="selectedProject" />
+  <div class="container_description_view">
+    <DescriptionCard :project="selectedProject" />
+  </div>
 </template>
+
+<style scooped>
+.container_description_view {
+  width: 80%;
+}
+</style>
