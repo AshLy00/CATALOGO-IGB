@@ -7066,7 +7066,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 545,
-    price: "158,000",
+    price: "153,000",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
@@ -7079,7 +7079,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 546,
-    price: "127,000",
+    price: "122,000",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
@@ -7092,7 +7092,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 547,
-    price: "114,000",
+    price: "108,000",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
@@ -7706,7 +7706,254 @@ export const database = [
     price: "25,000",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    images_url: "",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/159353-1200-auto?v=637026940204570000&width=1200&height=auto&aspect=true",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "tijera multiusos universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 595,
+    price: "25,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url: "https://cdn.omnycomm.com/midsize/RF10498__3.jpg",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "jarra home 2  litros hecha en poliestireno",
+    disponibilidad: true,
+    descuento: false,
+    id: 596,
+    price: "25,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://cristalerialamejor.com.co/wp-content/uploads/2017/07/JARRA-HOME-2L-NTR-600x600.jpg",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "nevera de icopor 20 litros fabripor",
+    disponibilidad: true,
+    descuento: false,
+    id: 597,
+    price: "25,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_819840-MCO53754532417_022023-O.webp",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "set utensilios de cocina x4 unidades",
+    disponibilidad: true,
+    descuento: false,
+    id: 598,
+    price: "25,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/161302-1200-auto?v=637354346471730000&width=1200&height=auto&aspect=true",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "set caja picnic x2 + 3 recipientes kendy",
+    disponibilidad: true,
+    descuento: false,
+    id: 599,
+    price: "25,500",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://tinypic.host/images/2024/02/01/_25_500-removebg-preview.png",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "trmómetro digital de cocina punzón sonda temperatura comida",
+    disponibilidad: true,
+    descuento: false,
+    id: 600,
+    price: "23,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url: "http://www.bonajay.com/05-chanpin/img/20158313581.jpg",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "prensa de pure en acero inoxidable universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 601,
+    price: "23,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://m.media-amazon.com/images/I/51InJIj+HFL._AC_SL1500_.jpg",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "juego de reposteros x3",
+    disponibilidad: true,
+    descuento: false,
+    id: 602,
+    price: "23,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://cdn.coordiutil.com/imagen-reposteros_x_3_ref1008-1944794-0-0-0-100.jpg",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "nevera de icopor 18 litros fabripor",
+    disponibilidad: true,
+    descuento: false,
+    id: 603,
+    price: "23,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_819840-MCO53754532417_022023-O.webp",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "caja picnic x3 capacidad 3,5lt - 2,5lt - 1,7lt kendy",
+    disponibilidad: true,
+    descuento: false,
+    id: 604,
+    price: "23,500",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://tinypic.host/images/2024/02/01/_23_500-removebg-preview.png",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "set x3 contenedores 2.2l x 1.1l x 0.65l kendy",
+    disponibilidad: true,
+    descuento: false,
+    id: 605,
+    price: "22,700",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://limonware.com/en/wp-content/uploads/sites/2/2022/02/2L-1024x819.jpg",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product:
+      "pala lisa, cuchara perforadora y cucharon premiun practick cook plus nylon borde siliconado",
+    disponibilidad: true,
+    descuento: false,
+    id: 606,
+    price: "22,500",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "spray rociador de alimentos universal 100ml",
+    disponibilidad: true,
+    descuento: false,
+    id: 607,
+    price: "22,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://img.kwcdn.com/product/1e29825fc2/b2989528-f9b8-40f6-87d9-c940e74c59b6_800x800.jpeg?imageView2/2/w/800/q/70/format/webp",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "jarra caribe 3.5 litros + 4 vasos caribe 400 ml",
+    disponibilidad: true,
+    descuento: false,
+    id: 608,
+    price: "22,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_861054-MCO46140191722_052021-O.webp",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "cuchara heladera universal en acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 609,
+    price: "20,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://almacencoogranada.com/wp-content/uploads/2020/06/I41430varios1.jpg",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "rallador ocean 3 caras universal acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 610,
+    price: "20,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://media.decorationbrands.com/media/catalog/product/G/-/G-111088A_Z1.jpg",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "recipiente plastico tapa de madera 680ml everhouse",
+    disponibilidad: true,
+    descuento: false,
+    id: 611,
+    price: "20,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_858064-MCO72062110243_102023-O.webp",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "colador incainox 10cm universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 612,
+    price: "20,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://ae01.alicdn.com/kf/H985e02276dc64d9a8ffd477d11ccaafft/Colador-de-t-de-harina-de-acero-inoxidable-para-cocina-colador-de-malla-filtro-tamiz.jpg_.webp",
+    category: "cocina",
+    sub_category: "articulos de cocina",
+  },
+  {
+    product: "juego de caja picnic x2 + hermetico kendy",
+    disponibilidad: true,
+    descuento: false,
+    id: 613,
+    price: "20,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://tinypic.host/images/2024/02/01/_20_000-removebg-preview.png",
     category: "cocina",
     sub_category: "articulos de cocina",
   },

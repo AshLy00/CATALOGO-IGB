@@ -22,7 +22,7 @@ const filteredDatabase = computed(() => {
 </script>
 
 <template>
-  <div class="titulo"><h1>salud</h1></div>
+  <div class="titulo"><h1>piscinas y accesorios</h1></div>
   <div class="filtro">
     <button @click="filterProducts('piscinas')">piscinas</button>
     <button @click="filterProducts('cobertores')">cobertores</button>
