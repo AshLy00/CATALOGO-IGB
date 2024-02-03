@@ -57,6 +57,6 @@ onMounted(() => {
 
 <style scooped>
 .container_description_view {
-  width: 86%;
+  width: 80%;
 }
 </style>
