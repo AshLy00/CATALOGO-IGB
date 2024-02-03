@@ -151,7 +151,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "electrodomesticos",
     sub_category: "ventiladores",
   },
@@ -334,8 +334,8 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119730231_2043642_1?wid=800&hei=800&qlt=70",
-    category: "salud",
-    sub_category: "",
+    category: "aseo",
+    sub_category: "baño",
   },
   {
     product: "rueda de ejercicios abdominales con tapete",
@@ -463,7 +463,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "salud",
     sub_category: "ortopédico",
   },
@@ -726,7 +726,7 @@ export const database = [
     images_url:
       "https://static-01.daraz.com.bd/p/0543154bdea2be8cfa840434d4e48945.jpg_750x750.jpg_.webp",
     category: "cocina",
-    sub_category: "",
+    sub_category: "portacomidas",
   },
   {
     product: "plancha asadora 6 ultra 23cm universal",
@@ -1961,9 +1961,9 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "aseo",
-    sub_category: "",
+    sub_category: "aspiradoras",
   },
   {
     product: "vajilla floral 20 piezas my cousine",
@@ -2244,7 +2244,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/161039/L60506-Contenedor-de-vidrio-2-litros-EC---1.jpg?v=637306340746470000",
     category: "cristaleria",
-    sub_category: "frascos / contenedores",
+    sub_category: "contenedores",
   },
   {
     product: "set x2 copas ginebra trópico cristar",
@@ -2282,7 +2282,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/160988-800-auto?v=637305340154130000&width=800&height=auto&aspect=true",
     category: "cristaleria",
-    sub_category: "frascos / contenedores",
+    sub_category: "contenedores",
   },
   {
     product: "set x3 pocillos 8x6cm motivos varios",
@@ -2357,7 +2357,7 @@ export const database = [
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/186926-1000-1000/image-af6c7bcf57e84f7e94e09ea939c41c09.jpg?v=637890866592800000",
     category: "cristaleria",
-    sub_category: "frascos / contenedores",
+    sub_category: "contenedores",
   },
   {
     product: "vaso bolonia x6 cristar",
@@ -2394,7 +2394,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/161033/L60504-Contenedor-de-vidrio-1.2-litros-EC---1.jpg?v=637306338008370000",
     category: "cristaleria",
-    sub_category: "frascos / contenedores",
+    sub_category: "contenedores",
   },
   {
     product: "jarro decanter torino mickey mouse 22cm cristar",
@@ -2431,7 +2431,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/18/image__26_-removebg-preview.png",
     category: "cristaleria",
-    sub_category: "frascos / contenedores",
+    sub_category: "contenedores",
   },
   {
     product: "mug firenze café trópico cristar",
@@ -2444,7 +2444,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/18/descarga__2_-removebg-preview.png",
     category: "cristaleria",
-    sub_category: "",
+    sub_category: "tazas",
   },
   {
     product: "set x6 copas shot lexington cristar",
@@ -2518,7 +2518,7 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url: "https://tinypic.host/images/2024/01/18/image-30.png",
     category: "cristaleria",
-    sub_category: "frascos / contenedores",
+    sub_category: "contenedores",
   },
   {
     product: "set x2 frascos mistique limones 29oz cristar",
@@ -2529,9 +2529,9 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "cristaleria",
-    sub_category: "frascos / contenedores",
+    sub_category: "contenedores",
   },
   {
     product: "frasco mistique pequeño 10 x 12 cm cristar",
@@ -2544,7 +2544,7 @@ export const database = [
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/15944009/FRASCO-MISTIQUE-PEQUEO-CRISTAR-0714AL12-107812_a.jpg?v=638068889860700000",
     category: "cristaleria",
-    sub_category: "frascos / contenedores",
+    sub_category: "contenedores",
   },
   {
     product: "vaso grande home transparente mundiutil",
@@ -4457,8 +4457,8 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
       "https://tinypic.host/images/2024/01/16/D_NQ_NP_723628-MCO32375493758_092019-O.webp",
-    category: "",
-    sub_category: "",
+    category: "aseo",
+    sub_category: "aspiradoras",
   },
   {
     product: "cámara web sat x13 1080mp",
@@ -4627,7 +4627,7 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url: "https://m.media-amazon.com/images/I/51xEveAoI+L.jpg",
     category: "tecnología",
-    sub_category: "",
+    sub_category: "tecnología",
   },
   {
     product: "mouse vertical ergonómico alambrico",
@@ -5228,7 +5228,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "hogar",
     sub_category: "",
   },
@@ -5360,7 +5360,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "hogar",
     sub_category: "",
   },
@@ -5413,7 +5413,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "hogar",
     sub_category: "",
   },
@@ -5426,7 +5426,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "hogar",
     sub_category: "",
   },
@@ -5542,7 +5542,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "hogar",
     sub_category: "",
   },
@@ -5633,7 +5633,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "hogar",
     sub_category: "recordatorios",
   },
@@ -5646,7 +5646,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "hogar",
     sub_category: "recordatorios",
   },
@@ -5659,7 +5659,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "hogar",
     sub_category: "recordatorios",
   },
@@ -5842,7 +5842,7 @@ export const database = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url:
-      "https://tinypic.host/images/2024/01/12/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector-1.jpeg",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "jugueteria",
     sub_category: "carros a control remoto",
   },
@@ -6489,7 +6489,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/29/76.000DG-X2-71-PEND-1.png",
     category: "jugueteria",
-    sub_category: "",
+    sub_category: "camiones",
   },
   {
     product: "triciclo metálico peso max. 25kg boy toys colores varios",
@@ -7059,7 +7059,7 @@ export const database = [
     images_url:
       "https://www.campingmercantile.com/images/products/dg-ebqdkmtqFQvD-d0102hxy7nt.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x5 cuchillos + base universal",
@@ -7072,7 +7072,7 @@ export const database = [
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119696197_2446956_1?wid=1500&hei=1500&qlt=70",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "cuchillos",
   },
   {
     product: "set de 12 utensilios en silicona y mango en madera",
@@ -7085,7 +7085,7 @@ export const database = [
     images_url:
       "https://m.media-amazon.com/images/I/51gKdzU1gUL._AC_SL1000_.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "kit de pasteleria decoración 137 piezas",
@@ -7098,7 +7098,7 @@ export const database = [
     images_url:
       "https://ae01.alicdn.com/kf/S327a5477fd3f4505aa8ea4f893fccdff2/Herramientas-de-decoraci-n-para-Tartas-Kit-de-esp-tula-para-hornear-herramienta-de-reposter-a.jpg_.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de cubiertos hampton 20 piezas",
@@ -7110,7 +7110,7 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url: "https://m.media-amazon.com/images/I/71D-jtqUVcL.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "cubiertos",
   },
   {
     product: "juego de cubiertos 24 piezas universal",
@@ -7123,7 +7123,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/166117-800-auto?v=637866681454570000&width=800&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "utensilios de cocina universal",
@@ -7136,7 +7136,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_632543-MCO44376735211_122020-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "porta vajilla escurridor 57x45x29cm rimax",
@@ -7149,7 +7149,7 @@ export const database = [
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/157117-800-auto?v=638180317918230000&width=800&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product:
@@ -7163,7 +7163,7 @@ export const database = [
     images_url:
       "https://agaval.vtexassets.com/arquivos/ids/1180258-800-800?v=638279809097000000&width=800&height=800&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "rallador escurridor 9 en 1 mango de silicona 2 litros universal",
@@ -7176,7 +7176,7 @@ export const database = [
     images_url:
       "https://img.ltwebstatic.com/images3_spmp/2023/08/26/13/1692984588d89a483d2dafadadaa2146089b3ce4eb_square.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "canasta móvil ovalada max 4kg rimax",
@@ -7189,7 +7189,7 @@ export const database = [
     images_url:
       "https://www.almacenesla13.com/cdn/shop/files/TAUPE_f58a8dcc-2711-4f7d-8f1f-a77372ba7e61.png?v=1693945347&width=600",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x7 recipientes plasticos universal",
@@ -7202,7 +7202,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/161977-800-auto?v=637504786640300000&width=800&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "nevera de icopor 42 litros fabripor",
@@ -7215,7 +7215,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_819840-MCO53754532417_022023-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "neveras de icopor",
   },
   {
     product: "canasta movil rectangular blanca rimax",
@@ -7228,7 +7228,7 @@ export const database = [
     images_url:
       "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_350/https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_202/https://juanchodoitcenter.com/wp-content/uploads/2020/04/CANASTA-MOVIL-RECTANGULAR-RIMAX.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de cubiertos universal",
@@ -7241,7 +7241,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_971431-MCO47603775550_092021-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set 6 especieros universal 125 ml tapa doble incluye soporto",
@@ -7254,7 +7254,7 @@ export const database = [
     images_url:
       "https://www.almacenesla13.com/cdn/shop/products/especiero.jpg?v=1613842224&width=600",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de cubiertos esencial 16 piezas universal",
@@ -7267,7 +7267,7 @@ export const database = [
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/184653-1000-1000/image-2b806f75050d4386852d02a78017dd3c.jpg?v=637853964388370000",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x4 cuchillos en acero kalley",
@@ -7280,7 +7280,7 @@ export const database = [
     images_url:
       "https://static.wixstatic.com/media/8a9b2b_c8622c24269c4ba394b41b7bc92b7be8~mv2.jpeg/v1/fill/w_500,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8a9b2b_c8622c24269c4ba394b41b7bc92b7be8~mv2.jpeg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set cuchillos tijeras color negro",
@@ -7293,7 +7293,7 @@ export const database = [
     images_url:
       "https://www.alkosto.com/medias/840101711135-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w1OTYyM3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoak15OW9ZekF2TVRBMU5qTXhOemMxTkRVM05UZ3VhbkJufDY3ZjMzZThiMGEzNzI0MzYxY2JhMDk1MTZmNTA1MTdmMjkxZGI1MTUwNmI5ZTI2ZmJiYTc4YjMwODI0YWRjNGE",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x4 utensilios de cocina élite universal",
@@ -7306,7 +7306,7 @@ export const database = [
     images_url:
       "https://ae01.alicdn.com/kf/U8f8e4cc90d604223ac455c6bb4762c7ev/Bergner-BGMP-4660-Q3542-Set-3-Utensilios-de-Cocina-en-Silicona-colecci-n-Foodies-Madera.jpg_.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "bowl nova en acero inoxidable 26cm universal",
@@ -7319,7 +7319,7 @@ export const database = [
     images_url:
       "https://images.restaurantessentials.com/fit-in/690x690/filters:format(webp)/images/american-metalcraft-ssb500-5-qt-stainless-steel-mixing-bowl/75880-1.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "bowl nova en acero inoxidable 22cm universal",
@@ -7332,7 +7332,7 @@ export const database = [
     images_url:
       "https://images.restaurantessentials.com/fit-in/690x690/filters:format(webp)/images/american-metalcraft-ssb500-5-qt-stainless-steel-mixing-bowl/75880-1.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "bowl nova en acero inoxidable 18cm universal",
@@ -7345,7 +7345,7 @@ export const database = [
     images_url:
       "https://images.restaurantessentials.com/fit-in/690x690/filters:format(webp)/images/american-metalcraft-ssb500-5-qt-stainless-steel-mixing-bowl/75880-1.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "bowl nova en acero inoxidable 16cm universal",
@@ -7358,7 +7358,7 @@ export const database = [
     images_url:
       "https://images.restaurantessentials.com/fit-in/690x690/filters:format(webp)/images/american-metalcraft-ssb500-5-qt-stainless-steel-mixing-bowl/75880-1.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de cubiertos escencial 16 piezas universal",
@@ -7371,7 +7371,7 @@ export const database = [
     images_url:
       "https://www.almacenesla13.com/cdn/shop/products/I32225-JGO-CBTO-ESENCIAL-4PT-x-4-PZ.jpg?v=1627925305&width=600",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "termo aislante de temperatura 1 litro motivos varios vanyplas",
@@ -7384,7 +7384,7 @@ export const database = [
     images_url:
       "https://edata.vanyplas.com/wp-content/uploads/2020/10/35090-1-4.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "termos botella motivacionales 2 litros colores varios",
@@ -7396,7 +7396,7 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url: "https://img.fruugo.com/product/9/27/198154279_max.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de recipientes x4 cuadrados diseño y colores varios",
@@ -7409,7 +7409,7 @@ export const database = [
     images_url:
       "https://cacharreriamilenio.com/wp-content/uploads/2023/03/800x800-57.png",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de utensilios de cocina fabricado 100% en bambú universal",
@@ -7422,7 +7422,7 @@ export const database = [
     images_url:
       "https://ambientegourmet.vtexassets.com/arquivos/ids/184772/4035.jpg?v=637516838508430000",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "escurridor platero optimo sencillo 45x28x12cm blanco",
@@ -7435,7 +7435,7 @@ export const database = [
     images_url:
       "https://media.karousell.com/media/photos/products/2021/1/17/dish_drainer_ikea_flundra_1610866405_8f66c2ba_progressive.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "portarollo triple de cocina de plastico rimax",
@@ -7448,7 +7448,7 @@ export const database = [
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_125243920_4238494_2?wid=800&hei=800&qlt=70",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "bascula gramera digital torenyx max . 5kg",
@@ -7461,7 +7461,7 @@ export const database = [
     images_url:
       "https://llevalos.com/wp-content/uploads/2023/03/Gramera-de-alimentos-digital-3.png",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "termos motivacionales1 litro colores varios",
@@ -7474,7 +7474,7 @@ export const database = [
     images_url:
       "https://m.media-amazon.com/images/I/61vAcQe9scL._AC_SL1024_.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set de cuchillos corto y largo tijera tabla de picar y afilador",
@@ -7486,7 +7486,7 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url: "https://cdn.omnycomm.com/midsize/DC1670_3_1.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product:
@@ -7500,7 +7500,7 @@ export const database = [
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_125847267_4350399_1?wid=800&hei=800&qlt=70",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de recipientes x3 motivos varios",
@@ -7513,7 +7513,7 @@ export const database = [
     images_url:
       "https://i.linio.com/p/76cc0dd4d281a3334cc096a65e66b298-product.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "tabla de picar acrilico 50cm x 36cm",
@@ -7526,7 +7526,7 @@ export const database = [
     images_url:
       "https://supersavings.lk/wp-content/uploads/2022/04/national-cutting-board.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "portacomidas 3 divisiones en vidrio refractario hermetico 1.5lt",
@@ -7539,7 +7539,7 @@ export const database = [
     images_url:
       "https://homecenterco.scene7.com/is/image/SodimacCO/332146_18?wid=800&hei=800&qlt=70",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x3 tabla de picar acrilico 3 tamaños",
@@ -7552,7 +7552,7 @@ export const database = [
     images_url:
       "https://cdnprod.mafretailproxy.com/sys-master-root/hb1/h73/12958345920542/642753_main.jpeg_480Wx480H",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de cubiertos 4 puestos 3 piezas material acero universal",
@@ -7565,7 +7565,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/158934-1200-auto?v=636948413863070000&width=1200&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "termo rg 1 litro colores varios",
@@ -7578,7 +7578,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_626707-MLU70798727092_082023-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x3 especieros con bandeja redondos",
@@ -7591,7 +7591,7 @@ export const database = [
     images_url:
       "https://static-01.daraz.pk/original/4b924804af3e1ed28957693b99b4bfa3.jpg_750x750.jpg_.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x4 cuchillos incametal",
@@ -7604,7 +7604,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_877123-MCO43043871018_082020-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x4 cuchillos ultra universal",
@@ -7617,7 +7617,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/161676-800-auto?v=637439041886400000&width=800&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "cuchillos",
   },
   {
     product: "tabla de cocina para picar fabricada en bambu 100% universal",
@@ -7630,7 +7630,7 @@ export const database = [
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/176820-687-687/image-ced3034fa9944c99b5bf0c3cea567664.jpg?v=637776733409070000",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "recipiente 1500ml tapa de madera everhouse",
@@ -7643,7 +7643,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_776026-MCO50892378757_072022-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product:
@@ -7657,7 +7657,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/01/29/26.000-X1-26-PENDIENTE-1.jpeg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "exprimidor citricos manual aluminio universal",
@@ -7670,7 +7670,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/158445-800-auto?v=636791876689230000&width=800&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "gramera de cocina sf-400",
@@ -7683,7 +7683,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_902836-MLU73858677612_012024-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "afilador de cuchillo en acero inoxidable universal",
@@ -7696,7 +7696,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/156171-800-auto?v=636143250420870000&width=800&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x3 utensilios cocina",
@@ -7709,7 +7709,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/159353-1200-auto?v=637026940204570000&width=1200&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "tijera multiusos universal",
@@ -7721,7 +7721,7 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url: "https://cdn.omnycomm.com/midsize/RF10498__3.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "jarra home 2  litros hecha en poliestireno",
@@ -7734,7 +7734,7 @@ export const database = [
     images_url:
       "https://cristalerialamejor.com.co/wp-content/uploads/2017/07/JARRA-HOME-2L-NTR-600x600.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "nevera de icopor 20 litros fabripor",
@@ -7747,7 +7747,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_819840-MCO53754532417_022023-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "neveras de icopor",
   },
   {
     product: "set utensilios de cocina x4 unidades",
@@ -7760,7 +7760,7 @@ export const database = [
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/161302-1200-auto?v=637354346471730000&width=1200&height=auto&aspect=true",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set caja picnic x2 + 3 recipientes kendy",
@@ -7773,7 +7773,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/02/01/_25_500-removebg-preview.png",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "trmómetro digital de cocina punzón sonda temperatura comida",
@@ -7785,7 +7785,7 @@ export const database = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     images_url: "http://www.bonajay.com/05-chanpin/img/20158313581.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "prensa de pure en acero inoxidable universal",
@@ -7798,7 +7798,7 @@ export const database = [
     images_url:
       "https://m.media-amazon.com/images/I/51InJIj+HFL._AC_SL1500_.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de reposteros x3",
@@ -7811,7 +7811,7 @@ export const database = [
     images_url:
       "https://cdn.coordiutil.com/imagen-reposteros_x_3_ref1008-1944794-0-0-0-100.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "nevera de icopor 18 litros fabripor",
@@ -7824,7 +7824,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_819840-MCO53754532417_022023-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "neveras de icopor",
   },
   {
     product: "caja picnic x3 capacidad 3,5lt - 2,5lt - 1,7lt kendy",
@@ -7837,7 +7837,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/02/01/_23_500-removebg-preview.png",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "set x3 contenedores 2.2l x 1.1l x 0.65l kendy",
@@ -7850,7 +7850,7 @@ export const database = [
     images_url:
       "https://limonware.com/en/wp-content/uploads/sites/2/2022/02/2L-1024x819.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product:
@@ -7864,7 +7864,7 @@ export const database = [
     images_url:
       "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "spray rociador de alimentos universal 100ml",
@@ -7877,7 +7877,7 @@ export const database = [
     images_url:
       "https://img.kwcdn.com/product/1e29825fc2/b2989528-f9b8-40f6-87d9-c940e74c59b6_800x800.jpeg?imageView2/2/w/800/q/70/format/webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "jarra caribe 3.5 litros + 4 vasos caribe 400 ml",
@@ -7890,7 +7890,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_861054-MCO46140191722_052021-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "cuchara heladera universal en acero inoxidable",
@@ -7903,7 +7903,7 @@ export const database = [
     images_url:
       "https://almacencoogranada.com/wp-content/uploads/2020/06/I41430varios1.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "rallador ocean 3 caras universal acero inoxidable",
@@ -7916,7 +7916,7 @@ export const database = [
     images_url:
       "https://media.decorationbrands.com/media/catalog/product/G/-/G-111088A_Z1.jpg",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "recipiente plastico tapa de madera 680ml everhouse",
@@ -7929,7 +7929,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_858064-MCO72062110243_102023-O.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "colador incainox 10cm universal",
@@ -7942,7 +7942,7 @@ export const database = [
     images_url:
       "https://ae01.alicdn.com/kf/H985e02276dc64d9a8ffd477d11ccaafft/Colador-de-t-de-harina-de-acero-inoxidable-para-cocina-colador-de-malla-filtro-tamiz.jpg_.webp",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
   },
   {
     product: "juego de caja picnic x2 + hermetico kendy",
@@ -7955,6 +7955,381 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/02/01/_20_000-removebg-preview.png",
     category: "cocina",
-    sub_category: "articulos de cocina",
+    sub_category: "",
+  },
+  {
+    product: "tabla de picar universal 31.5 x 20 x 0.8",
+    disponibilidad: true,
+    descuento: false,
+    id: 614,
+    price: "19,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/163771-1200-auto?v=637625846262500000&width=1200&height=auto&aspect=true",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "tijera de cocina profesional acero inoxidable 26cm",
+    disponibilidad: true,
+    descuento: false,
+    id: 615,
+    price: "19,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://ae01.alicdn.com/kf/S1b0baf8d13fd467fbe098d946d634193z/Dobeli-raspador-de-escamas-de-pescado-de-acero-inoxidable-430-herramienta-de-cocina-mango-hueco-tijeras.jpeg_.webp",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "martillo de cocina universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 616,
+    price: "19,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://jumbocolombiaio.vtexassets.com/arquivos/ids/358957-1200-1200?v=637848725762630000&width=1200&height=1200&aspect=true",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "destapador, abrelatas y sacacorchos acero inoxidable universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 617,
+    price: "18,900",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://www.universalhome.com/wp-content/uploads/2022/05/Nuevo-proyecto-19-4.jpg",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "pelador élite universal en acero inoxidable",
+    disponibilidad: true,
+    descuento: false,
+    id: 618,
+    price: "18,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://almacencoogranada.com/wp-content/uploads/2023/02/21.jpg",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "rallador inox verde 23cm universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 619,
+    price: "17,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://www.universalhome.com/wp-content/uploads/2022/04/I41309-RALLADOR.jpg",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "juego de recipientes alpes kendy",
+    disponibilidad: true,
+    descuento: false,
+    id: 620,
+    price: "17,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url: "https://tinypic.host/images/2024/02/01/17000_.png",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "jarra practitapa 3litros incluye 4 vasos kendy",
+    disponibilidad: true,
+    descuento: false,
+    id: 621,
+    price: "16,600",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "set x12 tenedores mango de madera 6 tenedores y 6 cuchillos",
+    disponibilidad: true,
+    descuento: false,
+    id: 622,
+    price: "16,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://i0.wp.com/m.media-amazon.com/images/I/61vHdgpFNQL._AC_SL1500_.jpg?fit=%2C&ssl=1",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: 'cuchillo brazileiro 8" universal',
+    disponibilidad: true,
+    descuento: false,
+    id: 623,
+    price: "16,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119275869_2283516_1?wid=800&hei=800&qlt=70",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "jarra cristal 4 litros tapa colores varios",
+    disponibilidad: true,
+    descuento: false,
+    id: 624,
+    price: "15,800",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://facihogar.com.co/wp-content/uploads/2020/03/Montaje-fotos-Page-4.jpg?x41468",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "recipiente hermetico x3",
+    disponibilidad: true,
+    descuento: false,
+    id: 625,
+    price: "14,800",
+    description:
+      "fácil de transportar, protege y conserva tus alimentos, mantener tu cocina ordenada",
+    images_url:
+      "https://s3.us-east-2.amazonaws.com/impulsoscreativos.com/images/products/medium/PP8953-1466538503.jpg",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "cubiertero de mesa colores varios mindiplast 20cm x 18cm",
+    disponibilidad: true,
+    descuento: false,
+    id: 626,
+    price: "14,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url: "https://tinypic.host/images/2024/02/01/ggg.png",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "batidor mediano inoxidable universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 627,
+    price: "14,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/19022997_1?wid=800&hei=800&qlt=70",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "espatula de silicona mango de madera universal 30.5cm",
+    disponibilidad: true,
+    descuento: false,
+    id: 628,
+    price: "13,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/166423-1200-auto?v=638030041682030000&width=1200&height=auto&aspect=true",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "pala para torta universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 629,
+    price: "13,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_620145-MLU71283602487_082023-O.webp",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "afilador de cuchillo y tijera navajas en acero inoxidable 21cm",
+    disponibilidad: true,
+    descuento: false,
+    id: 630,
+    price: "12,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_865544-MCO54221889430_032023-O.webp",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: 'cuchillo brazileiro 6" universal',
+    disponibilidad: true,
+    descuento: false,
+    id: 631,
+    price: "12,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119275869_2283516_1?wid=800&hei=800&qlt=70",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "corta pizza incaonix incametal",
+    disponibilidad: true,
+    descuento: false,
+    id: 632,
+    price: "12,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/3c0ec4a26210e804b547c03a9d158492.jpg?imageView2/2/w/800/q/70/format/webp",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "recipientes kendy x3",
+    disponibilidad: true,
+    descuento: false,
+    id: 633,
+    price: "12,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url: "https://tinypic.host/images/2024/02/01/12000.png",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product:
+      "jarra kool cuenta con pico dispensador capacidad 2.2lt colores varios",
+    disponibilidad: true,
+    descuento: false,
+    id: 634,
+    price: "11,500",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://cdn.coordiutil.com/imagen-jarra_kool_22_l-1963936-0-0-0-100.jpg",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "juego de utensilios x6 combo con soporte",
+    disponibilidad: true,
+    descuento: false,
+    id: 635,
+    price: "69,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119832190_2496982_1?wid=800&hei=800&qlt=70",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "juego de utensilios por unidad",
+    disponibilidad: true,
+    descuento: false,
+    id: 636,
+    price: "11,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119832190_2496982_1?wid=800&hei=800&qlt=70",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "juego de utensilios x6 combo sin soporte",
+    disponibilidad: true,
+    descuento: false,
+    id: 637,
+    price: "60,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119832190_2496982_1?wid=800&hei=800&qlt=70",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "set x3 coladores amarillo",
+    disponibilidad: true,
+    descuento: false,
+    id: 638,
+    price: "11,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "pelapapas vertical 18.9cm acero inoxidable universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 639,
+    price: "11,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://makro.com.co/imagesProducts/medias/112346_500X500_ON_75.png?context=bWFzdGVyfGltYWdlc3wxMTg0NTF8aW1hZ2UvcG5nfGltYWdlcy9oNTQvaDcxLzkxMDA4ODMwMzQxNDIucG5nfDAzZTI5ZWExN2YxNmVlODZjMmJlOGQzMjQyYmJjNGQwNDNjODM5YWRkOTE2N2ZmMWNiZTM3ODZkNjdlN2MyMGI",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "taper eva rectangular gplast 24",
+    disponibilidad: true,
+    descuento: false,
+    id: 640,
+    price: "11,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://cristalerialamejor.com.co/wp-content/uploads/2017/08/IMG_7561-600x292.jpg",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "jarra kendy x2 2.2 litros 1 litro",
+    disponibilidad: true,
+    descuento: false,
+    id: 641,
+    price: "11,000",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    images_url:
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
+    category: "cocina",
+    sub_category: "",
+  },
+  {
+    product: "esquinero para baño rimax",
+    disponibilidad: true,
+    descuento: false,
+    id: 642,
+    price: "16,000",
+    description:
+      "tres entrepaños con el tamaño ideal de los envases. bandejas mas profundas, con mayor altura y perforaciones que permiten filtrar el agua y facilitan la limpieza. adaptador que facilita instalar en cualquier tamaño de grifo,pared o ducha. también se puede retirar o dejar a la preferencia. jabonera con drenaje y espacio para dos rasuradoras. 4 ganchos para colgar accesorios de ducha.",
+    images_url:
+      "https://dkasa.vtexassets.com/arquivos/ids/160648-800-auto?v=638342797953730000&width=800&height=auto&aspect=true",
+    category: "aseo",
+    sub_category: "baño",
   },
 ];

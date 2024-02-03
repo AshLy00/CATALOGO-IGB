@@ -18,6 +18,9 @@ footer {
   font-size: 1rem;
   transition-property: font-size;
   transition-duration: 0.5s;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
 }
 
 @media screen and (max-width: 800px) {

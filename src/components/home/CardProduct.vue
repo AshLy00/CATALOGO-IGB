@@ -457,7 +457,7 @@ img {
     width: 140px;
   }
   .product {
-    font-size: 0.45rem;
+    font-size: 0.5rem;
     width: 80%;
   }
   .price {
