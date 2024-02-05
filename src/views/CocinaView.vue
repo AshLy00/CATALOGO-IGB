@@ -27,14 +27,34 @@ const filteredDatabase = computed(() => {
   <div class="filtro">
     <button @click="filterProducts('ollas')">ollas</button>
     <button @click="filterProducts('sartenes')">sartenes</button>
+    <button @click="filterProducts('cuchillos')">cuchillos</button>
     <button @click="filterProducts('calderos')">calderos</button>
+    <button @click="filterProducts('ralladores')">ralladores</button>
     <button @click="filterProducts('portacomidas')">portacomidas</button>
+    <button @click="filterProducts('especieros')">especieros</button>
+    <button @click="filterProducts('recipientes de plasticos')">
+      recipientes de plasticos
+    </button>
+    <button @click="filterProducts('escurridor de platos')">
+      escurridor de platos
+    </button>
+    <button @click="filterProducts('canastas')">canastas</button>
     <button @click="filterProducts('peroles')">peroles</button>
+    <button @click="filterProducts('bowls')">bowls</button>
+    <button @click="filterProducts('termos')">termos</button>
+    <button @click="filterProducts('grameras')">grameras</button>
+    <button @click="filterProducts('tablas de picar')">tablas de picar</button>
+    <button @click="filterProducts('juegos de cubiertos')">
+      juegos de cubiertos
+    </button>
     <button @click="filterProducts('articulos de cocina')">
       articulos de cocina
     </button>
     <button @click="filterProducts('parrillas')">parrillas</button>
     <button @click="filterProducts('bar')">utensilios bar</button>
+    <button @click="filterProducts('sets de utensilios')">
+      sets de utensilios
+    </button>
     <button @click="filterProducts('baterias de cocina')">
       baterias de cocina
     </button>

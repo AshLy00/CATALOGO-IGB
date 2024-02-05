@@ -2,11 +2,12 @@
 import CardProduct from "../home/CardProduct.vue";
 import { database } from "../../database";
 import { useRouter } from "vue-router";
-import { ref } from "vue";
+import { ref, computed } from "vue";
 
 const router = useRouter();
 const allProducts = database;
-const visibleProducts = ref(allProducts.slice(0, 20));
+const shuffledProducts = ref(allProducts.sort(() => Math.random() - 0.5));
+const visibleProducts = ref(shuffledProducts.value.slice(0, 20));
 
 const goToDescription = (projectId) => {
   // Use router.push to navigate to the description view with the correct projectId
@@ -14,19 +15,25 @@ const goToDescription = (projectId) => {
 };
 
 const loadMoreProducts = () => {
-  const remainingProducts = allProducts.slice(
+  const remainingProducts = shuffledProducts.value.slice(
     visibleProducts.value.length,
     visibleProducts.value.length + 20
   );
   visibleProducts.value = [...visibleProducts.value, ...remainingProducts];
 };
+
+const allProductsShown = computed(
+  () => visibleProducts.value.length === shuffledProducts.value.length
+);
 </script>
 
 <template>
   <div class="grid_cards">
     <CardProduct v-for="(p, i) in visibleProducts" :key="i" :project="p" />
   </div>
-  <button class="button" @click="loadMoreProducts">ver más :D</button>
+  <button v-if="!allProductsShown" class="button" @click="loadMoreProducts">
+    ver más :D
+  </button>
 </template>
 <style>
 .button {

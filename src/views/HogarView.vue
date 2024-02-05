@@ -27,12 +27,23 @@ const filteredDatabase = computed(() => {
   <div class="filtro">
     <button @click="filterProducts('papeleras')">papeleras</button>
     <button @click="filterProducts('termos')">termos</button>
+    <button @click="filterProducts('limpiadores a vapor')">
+      limpiadores a vapor
+    </button>
+    <button @click="filterProducts('lamparas')">lamparas</button>
     <button @click="filterProducts('paraguas')">paraguas</button>
     <button @click="filterProducts('mesas')">mesas</button>
     <button @click="filterProducts('lamparas')">lamparas</button>
     <button @click="filterProducts('cajoneros')">cajoneros</button>
+    <button @click="filterProducts('almohadas')">almohadas</button>
+    <button @click="filterProducts('recipientes')">recipientes</button>
+    <button @click="filterProducts('alfombras')">alfombras</button>
+    <button @click="filterProducts('filtros de agua')">filtros de agua</button>
+    <button @click="filterProducts('timbres')">timbres</button>
+    <button @click="filterProducts('dispensadores')">dispensadores</button>
     <button @click="filterProducts('recordatorios')">recordatorios</button>
     <button @click="filterProducts('cestas de ropa')">cestas de ropa</button>
+    <button @click="filterProducts('infladores')">infladores</button>
     <button @click="filterProducts('bombillos')">bombillos</button>
     <button @click="filterProducts('mesas de planchar')">
       mesas de planchar

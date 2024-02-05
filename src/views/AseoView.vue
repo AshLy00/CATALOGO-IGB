@@ -27,6 +27,11 @@ const filteredDatabase = computed(() => {
   <div class="filtro">
     <button @click="filterProducts('baño')">baño</button>
     <button @click="filterProducts('aspiradoras')">aspiradoras</button>
+    <button @click="filterProducts('toallas')">toallas</button>
+    <button @click="filterProducts('recogedores')">recogedores</button>
+    <button @click="filterProducts('tapetes desinfectantes')">
+      tapetes desinfectantes
+    </button>
     <button @click="showAllProducts">todo</button>
   </div>
 

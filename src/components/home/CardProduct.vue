@@ -1,19 +1,18 @@
 <script setup>
-import { ref, defineProps, onMounted } from "vue";
+import { defineProps } from "vue";
 import { useRouter } from "vue-router";
 
 const props = defineProps(["project"]);
 const router = useRouter();
-const projectRef = ref(props.project);
 
 const capitalizeFirstLetter = (str) => {
   return str.replace(/\b\w/g, (match) => match.toUpperCase());
 };
 
 const navigateToDescription = () => {
-  if (!projectRef.value.disponibilidad) {
+  if (!props.project.disponibilidad) {
     window.alert(
-      "¡No te preocupes seguro pronto estará disponible de nuevo! ;D"
+      "¡No te preocupes, seguro pronto estará disponible de nuevo! ;D"
     );
     return;
   }
@@ -21,19 +20,19 @@ const navigateToDescription = () => {
   // Use router.push to navigate to the description view with the correct projectId
   router.push({
     name: "description",
-    params: { projectId: projectRef.value.id },
+    params: { projectId: props.project.id },
   });
 };
 
 const navigateToLink = () => {
-  if (!projectRef.value.disponibilidad) {
+  if (!props.project.disponibilidad) {
     window.alert(
-      "¡No te preocupes seguro pronto estará disponible de nuevo! ;D"
+      "¡No te preocupes, seguro pronto estará disponible de nuevo! ;D"
     );
     return;
   }
 
-  const productText = capitalizeFirstLetter(projectRef.value.product);
+  const productText = capitalizeFirstLetter(props.project.product);
   const link =
     "https://wa.me/573054304014/?text=" +
     encodeURIComponent(
@@ -42,21 +41,21 @@ const navigateToLink = () => {
   window.location.href = link;
 };
 </script>
+
 <template>
   <div
     class="card_container"
-    :class="{ agotado: !project.disponibilidad }"
-    @click="navigateToDescription"
+    :class="{ agotado: !props.project.disponibilidad }"
   >
-    <div class="card">
+    <div class="card" @click="navigateToDescription">
       <div class="img_container">
-        <div class="no-disponible" v-if="!project.disponibilidad">
+        <div class="no-disponible" v-if="!props.project.disponibilidad">
           <h1>no disponible</h1>
         </div>
-        <img :src="project.images_url" alt="" />
+        <img :src="props.project.images_url" alt="" />
       </div>
-      <p class="product">{{ project.product }}</p>
-      <p class="price">${{ project.price }}</p>
+      <p class="product">{{ props.project.product }}</p>
+      <p class="price">${{ props.project.price }}</p>
     </div>
     <button class="cart_button" @click="navigateToLink">
       <img class="cart" src="/src/images/whatsapp_icon.png" alt="" />
