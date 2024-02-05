@@ -2,22 +2,43 @@
 import CardProduct from "../home/CardProduct.vue";
 import { database } from "../../database";
 import { useRouter } from "vue-router";
+import { ref } from "vue";
 
 const router = useRouter();
-const shuffledProducts = database.sort(() => Math.random() - 0.5).slice(0, 20);
+const allProducts = database;
+const visibleProducts = ref(allProducts.slice(0, 20));
 
 const goToDescription = (projectId) => {
   // Use router.push to navigate to the description view with the correct projectId
   router.push({ name: "description", params: { projectId } });
 };
+
+const loadMoreProducts = () => {
+  const remainingProducts = allProducts.slice(
+    visibleProducts.value.length,
+    visibleProducts.value.length + 20
+  );
+  visibleProducts.value = [...visibleProducts.value, ...remainingProducts];
+};
 </script>
 
 <template>
   <div class="grid_cards">
-    <CardProduct v-for="(p, i) in shuffledProducts" :key="i" :project="p" />
+    <CardProduct v-for="(p, i) in visibleProducts" :key="i" :project="p" />
   </div>
+  <button class="button" @click="loadMoreProducts">ver más :D</button>
 </template>
 <style>
+.button {
+  margin-top: 20px;
+  border-radius: 20px;
+  padding: 7px;
+  width: 160px;
+  border: none;
+  background-color: var(--color-orange);
+  color: white;
+  font-size: 0.7rem;
+}
 .grid_cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);

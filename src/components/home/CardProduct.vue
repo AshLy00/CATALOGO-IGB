@@ -13,7 +13,7 @@ const capitalizeFirstLetter = (str) => {
 const navigateToDescription = () => {
   if (!projectRef.value.disponibilidad) {
     window.alert(
-      "Este producto está agotado. ¡Pronto estará disponible de nuevo! :D"
+      "¡No te preocupes seguro pronto estará disponible de nuevo! ;D"
     );
     return;
   }
@@ -28,7 +28,7 @@ const navigateToDescription = () => {
 const navigateToLink = () => {
   if (!projectRef.value.disponibilidad) {
     window.alert(
-      "Este producto está agotado. ¡Pronto estará disponible de nuevo! :D"
+      "¡No te preocupes seguro pronto estará disponible de nuevo! ;D"
     );
     return;
   }
