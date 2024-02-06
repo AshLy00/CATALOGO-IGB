@@ -2,17 +2,25 @@
 import { ref } from "vue";
 import { useRouter } from "vue-router";
 import TheMenu from "../home/TheMenu.vue";
+import TheCart from "../home/TheCart.vue";
 const isMenuVisible = ref(false);
+const isCartVisible = ref(false);
 const router = useRouter();
 
 const toggleMenu = () => {
   isMenuVisible.value = !isMenuVisible.value;
+};
+const toggleCart = () => {
+  isCartVisible.value = !isCartVisible.value;
 };
 </script>
 
 <template>
   <div class="themenu" v-if="isMenuVisible">
     <TheMenu @close="toggleMenu" />
+  </div>
+  <div class="thecart" v-if="isCartVisible">
+    <TheCart @close="toggleCart" />
   </div>
   <header>
     <div class="header_items">
@@ -23,12 +31,12 @@ const toggleMenu = () => {
       />
 
       <div class="botones">
-        <!--     <img
+        <img
           class="boton"
           src="/src/images/cart_black.svg"
           alt=""
-          @click="$router.push({ name: 'home' })"
-        />      -->
+          @click="toggleCart"
+        />
         <img
           class="boton"
           src="/src/images/menu_icon.svg"
@@ -42,12 +50,17 @@ const toggleMenu = () => {
 
 <style scoped>
 .themenu {
-  z-index: 3;
+  z-index: 4;
   position: fixed;
   top: 0%;
   right: 0%;
 }
-
+.thecart {
+  z-index: 4;
+  position: fixed;
+  top: 0%;
+  right: 0%;
+}
 header {
   width: 100%;
   background-color: var(--color-white);
@@ -143,7 +156,15 @@ header {
     height: 60px;
   }
   .themenu {
-    z-index: 2;
+    z-index: 4;
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    width: 100%;
+  }
+
+  .thecart {
+    z-index: 4;
     position: fixed;
     top: 0%;
     right: 0%;

@@ -31,14 +31,6 @@ const navigateToLink = () => {
     );
     return;
   }
-
-  const productText = capitalizeFirstLetter(props.project.product);
-  const link =
-    "https://wa.me/573054304014/?text=" +
-    encodeURIComponent(
-      `Hola IGB! Me gustaría comprar este producto: ${productText} ;D`
-    );
-  window.location.href = link;
 };
 </script>
 
@@ -57,9 +49,9 @@ const navigateToLink = () => {
       <p class="product">{{ props.project.product }}</p>
       <p class="price">${{ props.project.price }}</p>
     </div>
-    <button class="cart_button" @click="navigateToLink">
-      <img class="cart" src="/src/images/whatsapp_icon.png" alt="" />
-      <p>comprar en línea</p>
+    <button class="cart_button">
+      <img class="cart" src="/src/images/cart_white.svg" alt="" />
+      <p>añadir al carrito</p>
     </button>
   </div>
 </template>
@@ -168,7 +160,7 @@ img {
   height: 100px;
   border-radius: 20px;
   bottom: 6%;
-  background-color: #29a71a;
+  background-color: var(--color-orange);
   display: flex;
   align-items: center;
   font-style: italic;
@@ -373,7 +365,7 @@ img {
   }
   .cart_button {
     width: 100px;
-    height: 60px;
+    height: 70px;
     border-radius: 10px;
     bottom: 6%;
     padding-left: 10px;
@@ -401,7 +393,7 @@ img {
     height: 100px;
   }
   .card_container {
-    height: 240px;
+    height: 290px;
     width: 160px;
   }
   .img_container img {
@@ -417,14 +409,14 @@ img {
     font-weight: bold;
   }
   .card {
-    height: 380px;
+    height: 400px;
     border-radius: 15px;
     border: solid 1.5px #e6e6e688;
     gap: 10px;
   }
   .cart_button {
     width: 90px;
-    height: 70px;
+    height: 90px;
     border-radius: 10px;
     bottom: 6%;
     padding-left: 10px;

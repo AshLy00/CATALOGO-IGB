@@ -74,7 +74,7 @@ const toggleSubCategoria = () => {
     <div class="menu">
       <h1>categorías</h1>
       <button class="close" @click="$emit('close')">
-        <img src="/src/images/menu_icon.svg" alt="" />
+        <img src="/src/images/close.svg" alt="" />
       </button>
     </div>
     <div class="categorias">

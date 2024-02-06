@@ -129,7 +129,7 @@ const navigateToLink = () => {
 .cart_button_description {
   font-size: 1rem;
   height: 80px;
-  width: 200px;
+  width: 170px;
   padding: 20px;
   display: flex;
   align-items: center;
@@ -148,6 +148,7 @@ const navigateToLink = () => {
   height: 50px;
   width: 50px;
 }
+
 @media screen and (max-width: 1250px) {
   .informacion {
     gap: 20px;
@@ -336,7 +337,7 @@ const navigateToLink = () => {
   .cart_button_description {
     font-size: 1rem;
     height: 60px;
-    width: 160px;
+    width: 150px;
     padding: 20px;
     display: flex;
     align-items: center;
@@ -463,6 +464,7 @@ const navigateToLink = () => {
     width: 30px;
   }
 }
+
 @media screen and (max-width: 620px) {
   .container_description {
     display: flex;
@@ -511,7 +513,7 @@ const navigateToLink = () => {
     align-items: center;
     gap: 10px;
     width: 100%;
-    justify-content: center;
+
     font-size: 0.6rem;
   }
 
@@ -578,46 +580,47 @@ const navigateToLink = () => {
     max-width: 500px;
     max-height: 500px;
   }
-}
-.text {
-  font-size: 1rem;
-}
-.description_text {
-  font-size: 0.7rem;
-}
 
-.categorias_des {
-  align-items: center;
-  gap: 10px;
-  width: 100%;
-  justify-content: center;
-  font-size: 0.6rem;
-}
+  .text {
+    font-size: 1rem;
+  }
+  .description_text {
+    font-size: 0.7rem;
+  }
 
-.cart_button_description {
-  font-size: 0.8rem;
-  justify-content: center;
-  height: 70px;
-  width: 150px;
-  padding: 15px;
-  display: flex;
-  align-items: center;
-  background-color: #29a71a;
-  color: white;
-  font-style: italic;
-  border: 0px;
-  border-radius: 20px;
-  gap: 5px;
-  margin-top: 10px;
-}
+  .categorias_des {
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    justify-content: center;
+    font-size: 0.6rem;
+  }
 
-.cart_button_description p {
-  width: 80%;
-  text-align: start;
-}
+  .cart_button_description {
+    font-size: 0.8rem;
+    justify-content: center;
+    height: 70px;
+    width: 150px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    background-color: #29a71a;
+    color: white;
+    font-style: italic;
+    border: 0px;
+    border-radius: 20px;
+    gap: 5px;
+    margin-top: 10px;
+  }
 
-.cart_button_description img {
-  height: 40px;
-  width: 40px;
+  .cart_button_description p {
+    width: 80%;
+    text-align: start;
+  }
+
+  .cart_button_description img {
+    height: 40px;
+    width: 40px;
+  }
 }
 </style>

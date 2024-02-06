@@ -7,7 +7,7 @@ import { ref, computed } from "vue";
 const router = useRouter();
 const allProducts = database;
 const shuffledProducts = ref(allProducts.sort(() => Math.random() - 0.5));
-const visibleProducts = ref(shuffledProducts.value.slice(0, 20));
+const visibleProducts = ref(shuffledProducts.value.slice(0, 12));
 
 const goToDescription = (projectId) => {
   // Use router.push to navigate to the description view with the correct projectId
@@ -39,12 +39,12 @@ const allProductsShown = computed(
 .button {
   margin-top: 20px;
   border-radius: 20px;
-  padding: 7px;
-  width: 160px;
+  padding: 10px;
+  width: 180px;
   border: none;
-  background-color: var(--color-orange);
+  background-color: var(--color-blue);
   color: white;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 .grid_cards {
   display: grid;
@@ -90,6 +90,18 @@ const allProductsShown = computed(
 @media screen and (max-width: 610px) {
   .grid_cards {
     width: 95%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .button {
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 7px;
+    width: 160px;
+    border: none;
+    color: white;
+    font-size: 0.7rem;
   }
 }
 </style>
