@@ -6,7 +6,7 @@ export const database = [
     id: "001",
     price: "491,000",
     description:
-      "Para los días de calor, para las temporadas de verano, para las regiones cálidas, para los espacios muy cerrados y para mucho más, hemos desarrollado el Ventilador Industrial Ciclón, el indicado para airear cualquier espacio bajo cualquier condición.",
+      "• Potencia de 120W\n• Diámetro hélice metálica de 45.72 cm\n• Tecnología permawick que mantiene auto lubricado el motor\n• 3 velocidades\n• Hélices metálicas\n• Patas antideslizantes\n• Frecuencia: 60 Hz\n• Voltaje: 110 - 120 Vac",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/163856-800-auto?v=637642133135800000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -18,7 +18,8 @@ export const database = [
     descuento: false,
     id: "002",
     price: "399,000",
-    description: "sin descripción",
+    description:
+      "• Potencia de 90W\n• Tecnología permawick que mantiene auto lubricado el motor\n• Incluye control remoto\n• Panel de control touch screen\n• 3 velocidades\n• Hélice aerodinámica de 6 aspas\n• Rango de operación de hasta 6 mt\n• Frecuencia: 60 Hz\n• Voltaje: 110 - 120 Vac",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/119695878_1?wid=800&hei=800&qlt=70",
     category: "electrodomesticos",
@@ -30,7 +31,8 @@ export const database = [
     descuento: false,
     id: "003",
     price: "359,000",
-    description: "sin descripción",
+    description:
+      "• Ventilador de 18 pulgadas 3 en 1 (Pedestal, pared y mesa)\n• Rejilla plástica frontal y rejilla metálica posterior\n• Hélice de 6 aspas aerodinámicas fabricadas en polipropileno\n• Base de piso pesada para mayor estabilidad.\n• El ventilador cuenta con 3 velocidades bajo, medio y alto y\n• La dirección de flujo de aire es con oscilación horizontal.\n• El motor cuenta con la tecnología de lubricación constante “Permawick”\n• Potencia de 100 Watts pero a su vez es muy silencioso.\n• Es fácil de ensamblar y no requiere herramienta especializada.\n• 100 W, 120 Vac, 60 Hz",
     images_url:
       "https://i.linio.com/p/6f91be304897dfdef36fed4568858cb3-product.jpg",
     category: "electrodomesticos",
