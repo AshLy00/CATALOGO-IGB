@@ -7,7 +7,7 @@ import { ref, computed } from "vue";
 const router = useRouter();
 const allProducts = database;
 const shuffledProducts = ref(allProducts.sort(() => Math.random() - 0.5));
-const visibleProducts = ref(shuffledProducts.value.slice(0, 12));
+const visibleProducts = ref(shuffledProducts.value.slice(0));
 
 const goToDescription = (projectId) => {
   // Use router.push to navigate to the description view with the correct projectId

@@ -6,6 +6,10 @@ import CardGrid from "../components/home/CardGrid.vue";
 import { useRouter } from "vue-router";
 
 const router = useRouter();
+
+const emit = () => {
+  // Implementa la lógica para emitir eventos desde el componente padre
+};
 </script>
 <template>
   <div class="hero">

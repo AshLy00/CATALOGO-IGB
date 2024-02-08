@@ -1,7 +1,67 @@
 <script setup>
-import { ref, defineProps } from "vue";
 import TheProductCart from "./TheProductCart.vue";
+import { ref } from "vue";
+
+// Array reactiva para mantener los productos en el carrito
+const cartItems = ref([
+  {
+    product: "ventilador ultra power 18 universal",
+    price: 249000,
+    quantity: 1,
+  },
+  {
+    product: "lampara solar para exteriores led 90w",
+    price: 215000,
+    quantity: 1,
+  },
+]);
+
+// Función para calcular el total de los productos en el carrito
+const calculateTotal = () => {
+  let total = 0;
+  for (const item of cartItems.value) {
+    total += item.price * item.quantity;
+  }
+  return total.toLocaleString();
+};
+
+// Función para añadir un producto al carrito
+const addToCart = (product) => {
+  // Verificar si el producto ya está en el carrito
+  const existingProductIndex = cartItems.value.findIndex(
+    (item) => item.product === product.product
+  );
+  if (existingProductIndex !== -1) {
+    // Actualizar la cantidad del producto existente
+    cartItems.value[existingProductIndex].quantity += product.quantity;
+    // Verificar si la cantidad del producto es cero y eliminarlo del carrito
+    if (cartItems.value[existingProductIndex].quantity <= 0) {
+      cartItems.value.splice(existingProductIndex, 1);
+    }
+  } else {
+    // Agregar el nuevo producto al carrito si no existe
+    cartItems.value.push(product);
+  }
+};
+
+// Función para capitalizar la primera letra de una cadena
+const capitalizeFirstLetter = (str) => {
+  return str.replace(/\b\w/g, (match) => match.toUpperCase());
+};
+
+// Función para navegar al enlace de WhatsApp con los productos del carrito
+const navigateToLink = () => {
+  let message = "Hola IGB! Me gustaría comprar estos productos:";
+  for (const item of cartItems.value) {
+    const productText = capitalizeFirstLetter(item.product);
+    message += `\n- ${productText} (${item.quantity})`;
+  }
+  const link =
+    "https://wa.me/573054304014/?text=" + encodeURIComponent(message);
+  window.location.href = link;
+};
 </script>
+
 <template>
   <div class="menu_container">
     <div class="menu">
@@ -11,16 +71,15 @@ import TheProductCart from "./TheProductCart.vue";
       </button>
     </div>
     <div class="theproducts">
-      <TheProductCart />
-      <TheProductCart />
+      <!-- Pasar cartItems como prop a TheProductCart -->
+      <TheProductCart :cartItems="cartItems" />
     </div>
     <div class="boton_total">
       <div class="total">
         <p>total</p>
-        <p></p>
-        $2.200.000
+        <p>${{ calculateTotal() }}</p>
       </div>
-      <button class="enviar_pedido">
+      <button class="enviar_pedido" @click="navigateToLink">
         <img class="cart_producto" src="/src/images/whatsapp_icon.png" alt="" />
         <p>enviar tu pedido</p>
       </button>
@@ -47,7 +106,7 @@ import TheProductCart from "./TheProductCart.vue";
   display: flex;
   gap: 20px;
   flex-direction: column;
-  margin-top: 10px;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 .cart_producto {
@@ -56,9 +115,6 @@ import TheProductCart from "./TheProductCart.vue";
 .theproducts {
   display: flex;
   flex-direction: column;
-  gap: 15px;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 .enviar_pedido {
   padding: 10px;
@@ -198,6 +254,36 @@ import TheProductCart from "./TheProductCart.vue";
     margin-left: 25px;
     font-weight: lighter;
     font-size: 1rem;
+  }
+
+  .cart_product {
+    font-size: 0.8rem;
+    margin: 5px;
+  }
+  .sumar_restar {
+    padding: 12px;
+    width: 15px;
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(218, 218, 218);
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+
+  .product_name {
+    font-size: 0.7rem;
+    width: 100%;
+  }
+
+  .cantidad {
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  .cart_product {
+    gap: 10px;
   }
 }
 </style>

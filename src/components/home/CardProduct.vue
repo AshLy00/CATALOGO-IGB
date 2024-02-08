@@ -1,8 +1,8 @@
 <script setup>
-import { defineProps } from "vue";
-import { useRouter } from "vue-router";
+import { defineProps, defineEmits, useRouter } from "vue";
 
 const props = defineProps(["project"]);
+const emits = defineEmits(["add-to-cart"]);
 const router = useRouter();
 
 const capitalizeFirstLetter = (str) => {
@@ -12,7 +12,7 @@ const capitalizeFirstLetter = (str) => {
 const navigateToDescription = () => {
   if (!props.project.disponibilidad) {
     window.alert(
-      "¡No te preocupes, seguro pronto estará disponible de nuevo! ;D"
+      "¡No te preocupes, seguro pronto estará disponible de nuevo! :,D"
     );
     return;
   }
@@ -24,13 +24,21 @@ const navigateToDescription = () => {
   });
 };
 
-const navigateToLink = () => {
+const addToCart = () => {
   if (!props.project.disponibilidad) {
     window.alert(
-      "¡No te preocupes, seguro pronto estará disponible de nuevo! ;D"
+      "¡No te preocupes, seguro pronto estará disponible de nuevo! :,D"
     );
     return;
   }
+
+  // Emitir un evento para notificar al componente padre que se ha añadido un producto al carrito
+  emits("add-to-cart", props.project);
+};
+
+const addToCartHandler = () => {
+  // Llamar a la función addToCart
+  addToCart();
 };
 </script>
 
@@ -49,12 +57,13 @@ const navigateToLink = () => {
       <p class="product">{{ props.project.product }}</p>
       <p class="price">${{ props.project.price }}</p>
     </div>
-    <button class="cart_button">
+    <button class="cart_button" @click="addToCartHandler">
       <img class="cart" src="/src/images/cart_white.svg" alt="" />
-      <p>añadir al carrito</p>
+      añadir al carrito
     </button>
   </div>
 </template>
+
 <style scooped>
 p {
   font-weight: 300;
@@ -365,7 +374,7 @@ img {
   }
   .cart_button {
     width: 100px;
-    height: 70px;
+    height: 80px;
     border-radius: 10px;
     bottom: 6%;
     padding-left: 10px;
@@ -389,8 +398,8 @@ img {
 
 @media screen and (max-width: 430px) {
   .img_container {
-    width: 100px;
-    height: 100px;
+    width: 110px;
+    height: 10px;
   }
   .card_container {
     height: 290px;
@@ -440,8 +449,8 @@ img {
 
 @media screen and (max-width: 390px) {
   .img_container {
-    width: 90px;
-    height: 90px;
+    width: 100px;
+    height: 100px;
   }
   .card_container {
     height: 260px;
