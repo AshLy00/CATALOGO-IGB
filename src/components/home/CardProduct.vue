@@ -1,6 +1,6 @@
 <script setup>
-import { defineProps, defineEmits, useRouter } from "vue";
-
+import { defineProps, defineEmits } from "vue";
+import { useRouter } from "vue-router";
 const props = defineProps(["project"]);
 const emits = defineEmits(["add-to-cart"]);
 const router = useRouter();

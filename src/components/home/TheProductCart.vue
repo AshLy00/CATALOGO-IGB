@@ -86,4 +86,49 @@ const decreaseQuantity = (index) => {
 .delete img {
   width: 20px;
 }
+
+@media screen and (max-width: 650px) {
+  .cart_product {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    margin-right: 5px;
+    margin-left: 5px;
+    gap: 12px;
+    font-size: 1rem;
+    justify-content: center;
+    border-bottom: 1px solid rgb(221, 221, 221);
+    padding: 15px;
+  }
+  .product_name {
+    font-size: 0.8rem;
+    width: 40%;
+  }
+
+  .cantidad {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  .sumar,
+  .restar {
+    padding: 13px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(218, 218, 218);
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+  }
+  .delete {
+    border: none;
+    background-color: transparent;
+  }
+  .delete img {
+    width: 20px;
+  }
+}
 </style>

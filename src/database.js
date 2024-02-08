@@ -1,11 +1,12 @@
 export const database = [
   {
     product: 'ventilador ciclón 18" universal',
-    disponibilidad: false,
+    disponibilidad: true,
     descuento: false,
     id: "001",
     price: "491,000",
-    description: "sin descripción",
+    description:
+      "Para los días de calor, para las temporadas de verano, para las regiones cálidas, para los espacios muy cerrados y para mucho más, hemos desarrollado el Ventilador Industrial Ciclón, el indicado para airear cualquier espacio bajo cualquier condición.",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/163856-800-auto?v=637642133135800000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
