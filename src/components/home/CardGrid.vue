@@ -7,7 +7,7 @@ import { ref, computed } from "vue";
 const router = useRouter();
 const allProducts = database;
 const shuffledProducts = ref(allProducts.sort(() => Math.random() - 0.5));
-const visibleProducts = ref(shuffledProducts.value.slice(0));
+const visibleProducts = ref(shuffledProducts.value.slice(0, 20));
 
 const goToDescription = (projectId) => {
   // Use router.push to navigate to the description view with the correct projectId
@@ -15,7 +15,7 @@ const goToDescription = (projectId) => {
 };
 
 const loadMoreProducts = () => {
-  const remainingProducts = shuffledProducts.value.slice(
+  const remainingProducts = allProducts.slice(
     visibleProducts.value.length,
     visibleProducts.value.length + 20
   );
