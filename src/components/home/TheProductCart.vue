@@ -1,5 +1,4 @@
 <script setup>
-import { ref } from "vue";
 import { defineProps } from "vue";
 
 // Props recibidos desde el componente padre
@@ -43,7 +42,7 @@ const decreaseQuantity = (index) => {
   </div>
 </template>
 
-<style scooped>
+<style scoped>
 .cart_product {
   display: flex;
   flex-direction: row;

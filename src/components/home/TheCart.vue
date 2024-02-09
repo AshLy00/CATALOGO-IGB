@@ -1,5 +1,5 @@
 <script setup>
-import TheProductCart from "./TheProductCart.vue";
+import TheProductCart from "../TheProductCart.vue";
 import { ref } from "vue";
 
 // Array reactiva para mantener los productos en el carrito

@@ -399,7 +399,7 @@ img {
 @media screen and (max-width: 430px) {
   .img_container {
     width: 110px;
-    height: 10px;
+    height: 110px;
   }
   .card_container {
     height: 290px;
