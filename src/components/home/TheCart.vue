@@ -1,5 +1,5 @@
 <script setup>
-import TheProductCart from "../TheProductCart.vue";
+import TheProductCart from "./TheProductCart.vue";
 import { ref } from "vue";
 
 // Array reactiva para mantener los productos en el carrito
@@ -74,7 +74,7 @@ const navigateToLink = () => {
       <!-- Pasar cartItems como prop a TheProductCart -->
       <TheProductCart :cartItems="cartItems" />
     </div>
-    <div class="boton_total">
+    <div v-if="cartItems.length > 0" class="boton_total">
       <div class="total">
         <p>total</p>
         <p>${{ calculateTotal() }}</p>
@@ -84,9 +84,18 @@ const navigateToLink = () => {
         <p>enviar tu pedido</p>
       </button>
     </div>
+    <!-- Div para mostrar cuando no hay productos en el carrito -->
+    <div v-else class="empty-cart">
+      <p>tu carrito esta vacio :C</p>
+    </div>
   </div>
 </template>
 <style scooped>
+.empty-cart {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 0.9rem;
+}
 .categoria_container {
   display: flex;
   flex-direction: column;

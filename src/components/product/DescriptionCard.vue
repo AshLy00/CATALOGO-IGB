@@ -32,15 +32,24 @@ const navigateToLink = () => {
         <p class="product_description">{{ project.product }}</p>
         <p class="price_description">${{ project.price }}</p>
 
-        <p class="text">descripción</p>
-        <p class="description_text">{{ project.description }}</p>
+        <p class="text">Descripción</p>
+        <ul class="description_list">
+          <li
+            v-for="item in project.description.split('\n')"
+            :key="item"
+            style="font-size: 0.8rem"
+          >
+            {{ item }}
+          </li>
+        </ul>
+
         <button class="cart_button_description" @click="navigateToLink">
           <img
             class="cart_description"
             src="/src/images/whatsapp_icon.png"
             alt=""
           />
-          <p>comprar en línea</p>
+          <p>Comprar en línea</p>
         </button>
       </div>
     </div>
@@ -513,7 +522,7 @@ const navigateToLink = () => {
     align-items: center;
     gap: 10px;
     width: 100%;
-
+    justify-content: center;
     font-size: 0.6rem;
   }
 

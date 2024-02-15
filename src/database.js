@@ -6,7 +6,7 @@ export const database = [
     id: "001",
     price: "491,000",
     description:
-      "• Potencia de 120W\n• Diámetro hélice metálica de 45.72 cm\n• Tecnología permawick que mantiene auto lubricado el motor\n• 3 velocidades\n• Hélices metálicas\n• Patas antideslizantes\n• Frecuencia: 60 Hz\n• Voltaje: 110 - 120 Vac",
+      "Potencia de 120W\nDiámetro hélice metálica de 45.72 cm\nTecnología permawick que mantiene auto lubricado el motor\n3 velocidades\nHélices metálicas\nPatas antideslizantes\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/163856-800-auto?v=637642133135800000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -19,7 +19,7 @@ export const database = [
     id: "002",
     price: "399,000",
     description:
-      "• Potencia de 90W\n• Tecnología permawick que mantiene auto lubricado el motor\n• Incluye control remoto\n• Panel de control touch screen\n• 3 velocidades\n• Hélice aerodinámica de 6 aspas\n• Rango de operación de hasta 6 mt\n• Frecuencia: 60 Hz\n• Voltaje: 110 - 120 Vac",
+      "Potencia de 90W\nTecnología permawick que mantiene auto lubricado el motor\nIncluye control remoto\nPanel de control touch screen\n3 velocidades\nHélice aerodinámica de 6 aspas\nRango de operación de hasta 6 mt\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/119695878_1?wid=800&hei=800&qlt=70",
     category: "electrodomesticos",
@@ -32,7 +32,7 @@ export const database = [
     id: "003",
     price: "359,000",
     description:
-      "• Ventilador de 18 pulgadas 3 en 1 (Pedestal, pared y mesa)\n• Rejilla plástica frontal y rejilla metálica posterior\n• Hélice de 6 aspas aerodinámicas fabricadas en polipropileno\n• Base de piso pesada para mayor estabilidad.\n• El ventilador cuenta con 3 velocidades bajo, medio y alto y\n• La dirección de flujo de aire es con oscilación horizontal.\n• El motor cuenta con la tecnología de lubricación constante “Permawick”\n• Potencia de 100 Watts pero a su vez es muy silencioso.\n• Es fácil de ensamblar y no requiere herramienta especializada.\n• 100 W, 120 Vac, 60 Hz",
+      "Ventilador de 18 pulgadas 3 en 1 (Pedestal, pared y mesa)\nRejilla plástica frontal y rejilla metálica posterior\nHélice de 6 aspas aerodinámicas fabricadas en polipropileno\nBase de piso pesada para mayor estabilidad.\nEl ventilador cuenta con 3 velocidades bajo, medio y alto y\nLa dirección de flujo de aire es con oscilación horizontal.\nEl motor cuenta con la tecnología de lubricación constante “Permawick”\nPotencia de 100 Watts pero a su vez es muy silencioso.\nEs fácil de ensamblar y no requiere herramienta especializada.\n100 W, 120 Vac, 60 Hz",
     images_url:
       "https://i.linio.com/p/6f91be304897dfdef36fed4568858cb3-product.jpg",
     category: "electrodomesticos",
@@ -44,7 +44,8 @@ export const database = [
     descuento: false,
     id: "004",
     price: "289,000",
-    description: "sin descripción",
+    description:
+      "Con el Ventilador SAMURAI Ultra Silence Force 2en1 podrás pasar largos periodos de tiempo con frescura y quietud, ya que está optimizado para acompañarte durante cada momento del día con sus 4 funciones y su innovador sistema de inclinación accionado por el botón lateral. Además, cuenta con oscilación horizontal de 90 grados para distribuir el aire en todos tus espacios.",
     images_url:
       "https://pepeganga.vtexassets.com/arquivos/ids/662372/125449841-1.png?v=637733706425500000",
     category: "electrodomesticos",
@@ -56,7 +57,8 @@ export const database = [
     descuento: false,
     id: "005",
     price: "283,900",
-    description: "sin descripción",
+    description:
+      "Potencia de 80W\nTecnología permawick que mantiene auto lubricado el motor\nSistema de oscilación\n3 velocidades\nHélice de 3 aspas\nHélice aerodinámica de 6 aspas\nIncluye base para pared y chazos\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/164927-800-auto?v=637655851260370000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -68,7 +70,8 @@ export const database = [
     descuento: false,
     id: "006",
     price: "270,000",
-    description: "sin descripción",
+    description:
+      "Ventilador 3 en 1 que permite ubicarlo en la pared, piso o pedestal.\nPosee una mayor potencia para más flujo de aire y mayor confort.\nSistema de movimiento oscilatorio de 85° para una cobertura excelente.\nEstructura de plástico permite que sea fácil de guardar y de limpiar.\nModo Eco que permite el ahorro de energía.\nMarca: Kalley.  \nMaterial: Plastico.\nMedidas: Alto (135 cm) x Ancho (51.8 cm) x Largo (47.8 cm).\nPeso: 4.9 kg.\nColor: Blanco.",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/157282-800-auto?v=638339361490070000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -80,7 +83,8 @@ export const database = [
     descuento: false,
     id: "007",
     price: "252,000",
-    description: "sin descripción",
+    description:
+      "Su motor potente, durable y silencioso.\nCuenta con una tecnología exclusiva, lo que permite que las seis aspas aerodinámicas proporcionen un mayor flujo de aire.\nCuenta con un diseño práctico y sofisticado en color negro, ideal para cualquier espacio.\nCuenta con tres velocidades, las cuales se adaptan a las diferentes situaciones.\nSu malla frontal es removible, facilitando su limpieza.\nCuenta con un seguro sistema de inclinación vertical que se acciona por el botón lateral.\nCuenta con una oscilación horizontal de 90 grados para una óptima distribución del flujo de aire.\nLa altura es ajustable, es decir que permite un óptimo alcance de aire a la elevación que desees.\nEs hecho en Colombia.",
     images_url:
       "https://depositoabo.com/cdn/shop/files/158282-1200-auto_800x.webp?v=1695162151",
     category: "electrodomesticos",
@@ -92,7 +96,8 @@ export const database = [
     descuento: false,
     id: "008",
     price: "249,000",
-    description: "sin descripción",
+    description:
+      "Ventilador de 3 velocidades.\nPotencia de 90 W.\nIdeal para refrigerar.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_683567-MCO32904979542_112019-O.webp",
     category: "electrodomesticos",
@@ -104,7 +109,8 @@ export const database = [
     descuento: false,
     id: "009",
     price: "210,000",
-    description: "sin descripción",
+    description:
+      'Ventilador 2 en 1 (Mesa y Pedestal) de 16" cuenta con 3 velocidades, hélice aerodinámica de 5 aspas, tiene una potencia de 50 Watts, Ventilador con bajo nivel de ruido, Cuenta con tecnología Permawick, sistema de lubricación constante que alarga la vida del motor.\n\nVoltaje de operación: 110 - 120 Vac\nFrecuencia de operación: 60 Hz',
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_684183-MCO48896089889_012022-O.webp",
     category: "electrodomesticos",
@@ -116,7 +122,8 @@ export const database = [
     descuento: false,
     id: "010",
     price: "129,000",
-    description: "sin descripción",
+    description:
+      "Potencia de 40W\nRejillas y carcasa para motor de plástico\nHélice de 3 aspas\n3 velocidades\nRotación 180°\nPara mesa y pared\nDisponible en colores verde, morado y azul\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
       "https://www.selman.com.co/wp-content/uploads/2020/06/VENTILADOR-8-PLG-PISOYPARED.png",
     category: "electrodomesticos",
@@ -128,7 +135,8 @@ export const database = [
     descuento: false,
     id: "011",
     price: "80,000",
-    description: "sin descripción",
+    description:
+      "Ventilador de escritorio, ideal para el hogar y la oficina, tiempo de trabajo prolongado, buen flujo de aire, silencioso, dos configuraciones, ventilador de enfriamiento personal.\n\nCompacto\nPortátil\nEléctrico\nMotor silencioso\n2 Velocidades",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_951325-MCO70097937059_062023-O.webp",
     category: "electrodomesticos",
@@ -152,7 +160,8 @@ export const database = [
     descuento: false,
     id: "013",
     price: "173,000",
-    description: "sin descripción",
+    description:
+      "Modelo Soporte giratorio SPMY07\nTamaño de pantalla entre 32” y 75”\nCarga de hasta 50 Kg\nFácil instalación y ajuste\nBrazo extensible entre 5,0 Cm y 45 Cm\nInclinación : -5º+12º",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_641713-MCO70610746472_072023-O.webp",
     category: "electrodomesticos",
@@ -164,7 +173,8 @@ export const database = [
     descuento: false,
     id: "014",
     price: "50,000",
-    description: "sin descripción",
+    description:
+      "Largo: 46cm\nPeso máximo soportado: 50kg\nCondición del producto: Nuevo\nDimensiones: 22cm x 22cm x 46cm\nAncho: 22cm\nColor: Negro",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_126422648_4549529_1?wid=800&hei=800&qlt=70",
     category: "electrodomesticos",
@@ -176,7 +186,8 @@ export const database = [
     descuento: false,
     id: "015",
     price: "28,000",
-    description: "sin descripción",
+    description:
+      'SOPORTE FIJO INCLINABLE DE 14" A 47"\nDiseño practico y sencillo de instalar\nSolida construcción.\nAngulo de inclinación: -5º ~ + 15º\nMaterial: Acero en frío.\nConveniente para pantallas LCD, LCD y Smart TV de 37 hasta 47".\nCarga útil máxima: 25kg / 55 ibs.\nSoporte para **VESA**: 100X100 / 200x200 / 400x400.mm',
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_901832-MCO45582742307_042021-O.webp",
     category: "electrodomesticos",
@@ -188,7 +199,8 @@ export const database = [
     descuento: false,
     id: "016",
     price: "12,900",
-    description: "sin descripción",
+    description:
+      "Ultra resistente\nReforzado Y Protegido En Malla\nDoble Filtro\n5 METROS",
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/20810308/cable-hdmi-3-metros-mallado-doble-filtro-punta-dorada.jpg?v=638398395474370000",
     category: "electrodomesticos",
@@ -200,7 +212,8 @@ export const database = [
     descuento: false,
     id: "017",
     price: "256,000",
-    description: "sin descripción",
+    description:
+      "Potencia: 1400 Watts.\nVoltaje: 110-120 Vac.\nFrecuencia: 60 Hz.\nPlacas intercambiables con capa de antiadherente tipo grill (para sánduches y asados) y tipo waffles.\nCubierta superior con acabado en acero inoxidable.\nGancho de seguridad que facilita su almacenamiento.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_799566-MCO48289913784_112021-O.webp",
     category: "electrodomesticos",
@@ -212,7 +225,8 @@ export const database = [
     descuento: false,
     id: "018",
     price: "239,000",
-    description: "sin descripción",
+    description:
+      "Cuenta con una potencia de 1000W y puede ser conectada a un tomacorriente de 120 Vac.\nTiene dos placas de aluminio tipo grill con recubrimiento antiadherente para evitar que el alimento se pegue.\nFabricado en plástico fenólico con cubierta en acero inoxidable.\nCuenta con un recolector plástico para grasas, bombillos pilotos indicadores de inicio y final de ciclo temperatura y un gancho de cierre seguro que mantiene cerradas las placas.",
     images_url:
       "https://homecenterco.scene7.com/is/image/SodimacCO/557658_1?wid=800&hei=800&qlt=70",
     category: "electrodomesticos",
@@ -224,7 +238,8 @@ export const database = [
     descuento: false,
     id: "019",
     price: "189,000",
-    description: "sin descripción",
+    description:
+      "Potencia: 750 Watts.\nVoltaje: 110-120 Vac.\nFrecuencia: 60 Hz.\nPlaca tipo grill y waffles intercambiables con 1 capa antiadherente que evita que los alimentos se peguen.\nCubierta superior con acabado en acero inoxidable.\nGancho de seguridad que facilita su almacenamiento.",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_120668773_2759463_1?wid=800&hei=800&qlt=70",
     category: "electrodomesticos",
@@ -236,7 +251,8 @@ export const database = [
     descuento: false,
     id: "020",
     price: "119,000",
-    description: "sin descripción",
+    description:
+      "760 watts de potencia\nPlanchas tipo Panini: sandwichera / asador - parrilla\nPlanchas antiadherentes: Evitan que los alimentos se peguen a la superficie\nIndicadores Luminosos: Señalan que el producto está encendido, (La Luz Roja indica que está en proceso de cocción y la Luz Verde se enciende cuando éste finaliza..)\nExterior en thermalplus negro (no se mancha con el uso)\nCompartimiento para el cable\nSistema de cierre con seguro desprendible",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_739000-MCO42720126903_072020-O.webp",
     category: "electrodomesticos",
@@ -248,7 +264,8 @@ export const database = [
     descuento: false,
     id: "021",
     price: "136,200",
-    description: "sin descripción",
+    description:
+      "Cubierta de acero inoxidable\nCuenta con doble capa de antiadherente\nEl tamaño de sus placas es de 22 x 14 cm\nIndicador de encendido\nManija en aluminio\nPatas antideslizantes\nCable de alimentación\nPotencia: 850 W\nVoltaje: 110- 120 V",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_827212-MLU72700583859_112023-O.webp",
     category: "electrodomesticos",
@@ -260,7 +277,8 @@ export const database = [
     descuento: false,
     id: "022",
     price: "168,000",
-    description: "sin descripción",
+    description:
+      "Cortadora profesional recargable EVOK. Edicion limitada, Cuchillas de acero de carbono de alta precision, palanca ajustable, permite longitudes de corte personalizadas. Indicador LED de carga. 4 horas de corte.",
     images_url:
       "https://tinypic.host/images/2024/01/13/0072216_029e936f3f0064d7375bf20d367b113d9c7bfebf6180d83f02058f58d3ca82ed_450.png",
     category: "salud",
@@ -272,7 +290,8 @@ export const database = [
     descuento: false,
     id: "023",
     price: "125,000",
-    description: "sin descripción",
+    description:
+      "Material: espuma memory foam\nForro removible y lavable\nNo se deforma por el efecto de memoria de su espuma\nAlivia los puntos de presión y facilita la postura lumbar correcta\nPromueve la alineación apropiada columna vertebral\nConserva su forma incluso después de largos periodos de uso\nProbado médicamente para aliviar el dolor de espalda baja y entumecimiento asociado con estar sentado durante largos períodos de tiempo",
     images_url:
       "https://ergonomus.co/cdn/shop/products/1092_1.jpg?v=1675974058&width=720",
     category: "salud",
@@ -284,7 +303,8 @@ export const database = [
     descuento: false,
     id: "024",
     price: "98,000",
-    description: "sin descripción",
+    description:
+      "Monitor de presión arterial de brazo.\nMide la presión sistólica.\nInflado semiautomático.\nCircunferencia del brazalete mínima de 22cm y máxima de 32cm.\nCon indicador de error de movimiento.\nIncluye brazalete.\nDe fácil traslado y manipulación.\nDiseño práctico para mediciones instantáneas.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_658466-MCO40521177923_012020-O.webp",
     category: "salud",
@@ -296,7 +316,8 @@ export const database = [
     descuento: false,
     id: "025",
     price: "69,000",
-    description: "sin descripción",
+    description:
+      "Tamaño: 26 * 26 cm\nPeso máximo: 180 kg\nRango de pesaje 0,2-180 kg\nValor de graduación: 100g\nConversión de unidades: KG / kg tael; KG / LB ST\nModo de visualización: pantalla LCD de alta definición",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_934477-MLA53737264810_022023-O.webp",
     category: "salud",
@@ -308,7 +329,8 @@ export const database = [
     descuento: false,
     id: "026",
     price: "46,000",
-    description: "sin descripción",
+    description:
+      "Soporte Esterilizador ultravioleta para cepillos dentales con dispensador de pasta dental automático\nDesinfecta y esteriliza tu cepillo de dientes con Luz UV, en sus 4 espacios de almacenamiento de cepillos de todos los tamaños incluyendo cepillos eléctricos\nEl dispensador de crema dental funciona con luz infrarroja y te garantiza no contacto con tu cepillo para evitar contaminaciones cruzadas\nFácil de instalar, sin abrir huecos solo adhiera a una superficie lisa no porosa y listo.",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119730231_2043642_1?wid=800&hei=800&qlt=70",
     category: "aseo",
@@ -320,7 +342,8 @@ export const database = [
     descuento: false,
     id: "027",
     price: "45,000",
-    description: "sin descripción",
+    description:
+      "La rueda abdominal resulta un gran producto que no sólo permite tonificar los abdominales, sino que fortalece los músculos del brazo y la mayor parte del tren superior resulta involucrada en el ejercicio.",
     images_url:
       "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/27323505-9803-4cd8-ab5d-98015cb2ecc8.5afbf667d692246e4cad1332cc0b91de.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
     category: "salud",
@@ -332,7 +355,8 @@ export const database = [
     descuento: false,
     id: "028",
     price: "43,000",
-    description: "sin descripción",
+    description:
+      "La báscula de vidrio cuenta con una plataforma resistente y segura que soporta hasta 180kg, y su pantalla LCD retroiluminada hace que sea fácil de leer incluso en ambientes con poca luz. Además, su diseño elegante y minimalista se adaptará perfectamente a cualquier espacio de tu hogar.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_961184-MLM52626635565_112022-O.webp",
     category: "salud",
@@ -344,7 +368,8 @@ export const database = [
     descuento: false,
     id: "029",
     price: "35,500",
-    description: "sin descripción",
+    description:
+      "Cada mancuerna tiene un peso de 4 Libras (2 Kg) Alto: 23 Centimetros Ancho: 11.00 Centimetros Material plástico inyectado, antideslizante y fácil de limpiar con relleno. No daña ni mancha el piso como otras de hierro (ideal para uso domestico)",
     images_url:
       "https://img.clasf.co/2021/07/09/Pesas-Mancuernas-Hexagonales-De-2kg-X-2-Unidades-Rosada-20210709084125.9561100015.jpg",
     category: "salud",
@@ -356,9 +381,10 @@ export const database = [
     descuento: false,
     id: "030",
     price: "27,000",
-    description: "sin descripción",
+    description:
+      "Material principal: Neoprene\nComposición: Neopreno y tela\nFunciones de la faja reductora: Reductora\nZona de control de la faja reductora: Abdomen",
     images_url:
-      "https://tinypic.host/images/2024/01/13/imageff2192125f8b0cbf.png",
+      "https://http2.mlstatic.com/D_NQ_NP_619497-MCO69501827798_052023-O.webp",
     category: "salud",
     sub_category: "fajas",
   },
@@ -368,7 +394,8 @@ export const database = [
     descuento: false,
     id: "031",
     price: "25,000",
-    description: "sin descripción",
+    description:
+      "Peso: 2Lbs.\nMaterial: Plástico resistente relleno de arenilla\nAlta calidad\nFuncionalidad: Para levantamiento\nAlto: 18 Centimetros\nAncho: 8 Centimetros\nLargo: 8 Centimetros",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_730673-MCO49398620786_032022-O.webp",
     category: "salud",
@@ -380,7 +407,8 @@ export const database = [
     descuento: false,
     id: "032",
     price: "21,000",
-    description: "sin descripción",
+    description:
+      "Talonera en Silicona un uso diario cómodo: suave y diseño único en forma de U, la grasa artificial en el área azul proporciona un soporte de flexibilidad especial para el centro del talón, evita el impacto del talón y proporciona una distribución uniforme de la presión para que se sienta cómodo todo el día.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_813905-MLU73947897385_012024-O.webp",
     category: "salud",
@@ -392,7 +420,8 @@ export const database = [
     descuento: false,
     id: "033",
     price: "20,000",
-    description: "sin descripción",
+    description:
+      "Material: Alambre y malla de nailon.\nTamaño Aprox. Producto: 38,5 x 38 x 10 cm\nPeso: 143 g.\nAdaptabilidad: Silla oficina, silla convencional y asiento automóvil.",
     images_url:
       "https://www.alcarrito.com/media/catalog/product/c/o/corrector_postura_espalda_soporte_lumbar_silla_carro_oficina_cpe01_8.jpg?width=600&height=600&canvas=600,600&optimize=medium&bg-color=255,255,255&fit=bounds",
     category: "salud",
@@ -404,7 +433,8 @@ export const database = [
     descuento: false,
     id: "034",
     price: "19,900",
-    description: "sin descripción",
+    description:
+      "Esta maravillosa pesa es perfecta para ejercitarte en casa, con su peso de 2 lb, podrás realizar ejercicios funcionales que te ayudarán a mantenerte en forma",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_117936392_1915716_1?wid=800&hei=800&qlt=70",
     category: "salud",
@@ -416,9 +446,10 @@ export const database = [
     descuento: false,
     id: "035",
     price: "19,600",
-    description: "sin descripción",
+    description:
+      "Tamaño Producto: 14 x 20 cm.\nPeso: 45 g.\nBolsa térmica para agua caliente o fría, alivia dolores musculares, de espalda, lumbares y cólicos menstruales, sirve para masajes, terapias o terapeutas entre otros usos.\nCuello tipo embudo para facilitar el llenado.\nSoporta agua fría y agua caliente (No superar 80°)\n¡Solo llénala con agua caliente y listo! Su material mantendrá el calor por mucho tiempo.\nAplicar calor sobre tu vientre es una forma natural de calmar estos calambres, pues tiene un efecto analgésico y anti-inflamatorio.\nAdemás te ayudará con golpes, ya que relaja los músculos de la zona en donde la uses.",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_117936392_1915716_1?wid=800&hei=800&qlt=70",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "salud",
     sub_category: "mancuernas",
   },
@@ -440,7 +471,8 @@ export const database = [
     descuento: false,
     id: "037",
     price: "14,000",
-    description: "sin descripción",
+    description:
+      "Tamaño Producto: 14 x 20 cm.\nPeso: 45 g.\nBolsa térmica para agua caliente o fría, alivia dolores musculares, de espalda, lumbares y cólicos menstruales, sirve para masajes, terapias o terapeutas entre otros usos.\nCuello tipo embudo para facilitar el llenado.\nSoporta agua fría y agua caliente (No superar 80°)\n¡Solo llénala con agua caliente y listo! Su material mantendrá el calor por mucho tiempo.\nAplicar calor sobre tu vientre es una forma natural de calmar estos calambres, pues tiene un efecto analgésico y anti-inflamatorio.\nAdemás te ayudará con golpes, ya que relaja los músculos de la zona en donde la uses.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_618680-MCO47603054552_092021-O.webp",
     category: "salud",
@@ -452,7 +484,8 @@ export const database = [
     descuento: false,
     id: "038",
     price: "140,000",
-    description: "sin descripción",
+    description:
+      "Potencia de 1200 Watts, para conexión eléctrica de 120 Vac 60 Hz.\nTres opciones de planchado.\nCuerpo y tanque fabricados en PBT y PP.\nSuperficie de planchado en aluminio con recubrimiento de pintura antiadherente que facilita el deslizamiento sobre las prendas.\nCable de alimentación de 1.8 metros, adecuado para uso ambidiestro.\nDispositivo de seguridad interior que previene incendios y daños al producto ante una falla del controlador de temperatura.\nSistema de vapor constante y spray, apta para planchado vertical.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_884946-MLU73284813765_122023-O.webp",
     category: "electrodomesticos",
@@ -464,7 +497,8 @@ export const database = [
     descuento: false,
     id: "039",
     price: "99,900",
-    description: "sin descripción",
+    description:
+      "Potencia: 1200 Watts, 120 Vac 60 Hz.\nCuerpo fabricado en baquelita que no alcanza altas temperaturas al tacto.\nSuela de planchado en aluminio completamente pulida que facilita el deslizamiento sobre las prendas.\nCable de alimentación de 1.8 metros de longitud.\nDispositivo de seguridad interior que previene incidentes si el controlador de temperatura falla.",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/160774-800-auto?v=637297349377430000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -476,7 +510,8 @@ export const database = [
     descuento: false,
     id: "040",
     price: "89,900",
-    description: "sin descripción",
+    description:
+      "3 modos de planchado: vapor vertical, vapor constante y golpe de vapor\nOpción de planchado vertical\nPlaca antiadherente\nProtección de seguridad interior que evita incendio, daño del producto y de la ropa\nIncluye vaso plástico\nPotencia: 1200 W\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/160830-800-auto?v=637297442787200000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -488,7 +523,8 @@ export const database = [
     descuento: false,
     id: "041",
     price: "299,000",
-    description: "sin descripción",
+    description:
+      "Escariador ajustable con 3 configuraciones\nCono de exprimidor universal\nBoquilla Snap-Up extra larga\nDiseño de acero inoxidable cepillado\nCapacidad 3 Litros\nColector de pulpa desmontable\nPiezas aptas para lavavajillas\nSistema de Doble Rotación\nTapa tensora",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/1954919_1?wid=800&hei=800&qlt=70",
     category: "electrodomesticos",
@@ -500,7 +536,8 @@ export const database = [
     descuento: false,
     id: "042",
     price: "220,000",
-    description: "sin descripción",
+    description:
+      "Capacidad del vaso: 800 m, Capacidad del tazon: 1.5 tazas, Potencia: 400 Vatios, Frecuencia de operación : 60 Hz, Voltaje de alimentación : 110 a 120 Vac, 3 en 1 (Batidor inoxidable, picador, licuadora manual todos en acero inoxidable) 2 velocidades (Normal y turbo)",
     images_url:
       "https://almacencoogranada.com/wp-content/uploads/2020/06/L89125electro1.jpg",
     category: "electrodomesticos",
@@ -512,7 +549,8 @@ export const database = [
     descuento: false,
     id: "043",
     price: "204,000",
-    description: "sin descripción",
+    description:
+      "Voltaje: 120V\nFrecuencia: 60 Hz\nPotencia: 200 W\nCantidad de velocidades: 2\nNo es apto para picar hielo\nMaterial de la hoja: Acero inoxidable\nAccesorios incluidos:  Batidor, Bowl picador, Vaso medidor, Tapa para bowl picador",
     images_url:
       "https://www.alkomprar.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-050875820586-001.jpg?context=bWFzdGVyfGltYWdlc3w5ODI0OHxpbWFnZS9qcGVnfGFHTmxMMmc0T0M4eE16WTBNVEV3TmpJeU56SXpNQzgzTlRCWGVEYzFNRWhmYldGemRHVnlMMmh2ZEdadmJHUmxjaTkwY21GdWMyWmxjaTlwYm1OdmJXbHVaeTlrWlhCdmMybDBMMmg1WW5KcGN5MXBiblJsY21aaFkyVnpMMGxPTDIxbFpHbGhMM0J5YjJSMVkzUXZNRFV3T0RjMU9ESXdOVGcyWHpBd01TNXFjR2N8MDAyMGNmOGVlMDhhN2Q2Y2NhNTM5ZDY0NWZiMTQ1ZTBiZGU4YjY3YzE0ZGQ1M2JjOWUyZjRkZDc4OTdmOThiMA",
     category: "electrodomesticos",
@@ -524,7 +562,8 @@ export const database = [
     descuento: false,
     id: "044",
     price: "180,000",
-    description: "sin descripción",
+    description:
+      "Un electrodoméstico diseñado para cortar frutas o verduras de manera efectiva, gracias a sus 300w de potencia.\n\nEste producto está equipado con accesorios removibles de acero inoxidable, incluyendo una cuchilla disco circular y otra para picar, adaptándose a diferentes tamaños de los ingredientes que más usas a diario.\n\ncuenta con un switch de bloqueo para evitar accidentes. Además, está compuesto por una perilla con 2 velocidades para que obtengas un control más preciso de todo el proceso.",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/157724/procesador-alimentos-700ml-vista1.png?v=636621768846270000",
     category: "electrodomesticos",
@@ -536,7 +575,8 @@ export const database = [
     descuento: false,
     id: "045",
     price: "159,000",
-    description: "sin descripción",
+    description:
+      "Potencia 800 W\nTipos de horno Eléctrico\nTipo de montaje De mesa\nCapacidad en volumen 9 L\nControl de temperatura de 100 - 250°C\nIncluye Parrilla y Bandeja\nTemporizador 60 Minutos",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/160023-800-auto?v=638277231289470000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -548,7 +588,8 @@ export const database = [
     descuento: false,
     id: "046",
     price: "109,900",
-    description: "sin descripción",
+    description:
+      "Con una capacidad de 1.5 tazas (aproximadamente 375 ml), este Picatodo Chopper mix es la herramienta ideal para preparar porciones pequeñas o medianas. Su cable de 80 cm de largo te brinda más flexibilidad, facilitando el alcance de las tomas eléctricas.",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/156091-800-auto?v=636143249226170000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -560,19 +601,21 @@ export const database = [
     descuento: false,
     id: "047",
     price: "109,000",
-    description: "sin descripción",
+    description:
+      "Potencia 30W\nIncluye 2 tamaños de conos\nCapacidad 1 Litro\nSistema de rotación automática\n5 niveles de Filtrado",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/156514/16232-1-eletrodomesticos-exprimidor-electrico-blanco-kalley.jpg?v=638180311653430000",
     category: "electrodomesticos",
     sub_category: "exprimidores",
   },
   {
-    product: "tostador de pan kalley",
+    product: "tostador de pan 2 puestos kalley",
     disponibilidad: true,
     descuento: false,
     id: "048",
     price: "104,000",
-    description: "sin descripción",
+    description:
+      "7 Niveles de tostado\nBotón para cancelar\nBandeja recolectora\nPotencia 750W\nFunción descongelar y recalentar",
     images_url:
       "https://www.alkosto.com/medias/7705946492249-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMzY4MTN8aW1hZ2UvcG5nfGFXMWhaMlZ6TDJoaE1DOW9aall2T1RFeE56UTFNVEU1TURNd01pNXdibWN8YmU2NDNkNzQ4NzMwMmMzMWYyMDg2MGFmNjRjMDE3ZjU0Y2Y2ODI2N2NlYmVjZTY4ZGJiNTA1NjBmOWIzOTA3Zg",
     category: "electrodomesticos",
@@ -584,7 +627,8 @@ export const database = [
     descuento: false,
     id: "049",
     price: "94,000",
-    description: "sin descripción",
+    description:
+      'Cuenta con aspas en acero inoxidables de excelente diseño\nRecipiente para guardar cable\nDos aspas en acero inoxidable \n150 watts de potencia \nBotón "Eject" para el desensamble de las cuchillas',
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_977106-MCO43876921623_102020-O.webp",
     category: "electrodomesticos",
@@ -596,9 +640,10 @@ export const database = [
     descuento: false,
     id: "050",
     price: "66,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio antiadherente de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado panel\nMango en baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar",
     images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_804003-MCO48001919296_102021-O.webp",
+      "https://www.alkosto.com/medias/7702561372284-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxOTk3Mjd8aW1hZ2UvanBlZ3xhRFUxTDJnM01DOHhNelEyT1RZd016YzVNRGczT0M4M056QXlOVFl4TXpjeU1qZzBYekF3TVY4M05UQlhlRGMxTUVnfDRiYWI5OGIyYjdjMGVhOWRhZDI3NTNlYzYwYzhhNDlhZGNjY2NlOWU0YzNlY2RjZDVlMThhYjQwZDJmN2M0YTc",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -608,9 +653,10 @@ export const database = [
     descuento: false,
     id: "051",
     price: "87,000",
-    description: "sin descripción",
+    description:
+      "Sartén con 26cm de diámetro con revestimiento Antiadherente Triforce Gold, hasta 5 veces más durable.\nBase difusora que conserva el calor de forma homogénea para preparaciones en su punto.\nEspesor de 2mm, ideal para una cocción perfecta.\nSus Mangos son MÁS ROBUSTOS para un mejor agarre y seguridad al momento de tener contacto con ella. .",
     images_url:
-      "https://groupesebcol.vtexassets.com/arquivos/ids/159129/7702073038111-1.jpg?v=637866222151030000",
+      "https://groupesebcol.vtexassets.com/arquivos/ids/163818/5861032070-2.jpg?v=637916997837170000",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -620,7 +666,8 @@ export const database = [
     descuento: false,
     id: "052",
     price: "69,000",
-    description: "sin descripción",
+    description:
+      "Fabricada en aluminio de alta pureza.\nCuenta 6 capas antiadherente \nantiadherente tipo panel \nMangos en baquelita resistentes al calor con sistema de fácil limpieza \nBase Grafilada con mejor distribución de calor y protección de la pintura\nno se sobrecalienta en un solo lado.\nMayor profundidad en los cuerpos de los sartenes, para evitar salpicaduras durante la cocción.\nTextura 6 Ultra con diseño Italiano",
     images_url:
       "https://almacencoogranada.com/wp-content/uploads/2020/06/L72408ollacocina1.jpg",
     category: "cocina",
@@ -632,7 +679,8 @@ export const database = [
     descuento: false,
     id: "053",
     price: "62,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/158113-1200-auto?v=636680379663530000&width=1200&height=auto&aspect=true",
     category: "cocina",
@@ -644,7 +692,8 @@ export const database = [
     descuento: false,
     id: "054",
     price: "61,000",
-    description: "sin descripción",
+    description:
+      "Cacerola 18cm de diámetro con su Antiadherente Triforce, 3 veces más durable\nEspesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees\nBase difusora especial para distribuir de manera uniforme el calor\nIdeal para estufa vitrocerámica, gas y eléctrica",
     images_url:
       "https://groupesebcol.vtexassets.com/arquivos/ids/162465-800-auto?v=637890244668030000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -656,9 +705,10 @@ export const database = [
     descuento: false,
     id: "055",
     price: "57,800",
-    description: "sin descripción",
+    description:
+      "Sartén con 18cm de diámetro con revestimiento Antiadherente Triforce Gold, hasta 5 veces más durable\nBase difusora que conserva el calor de forma homogénea para preparaciones en su punto\nEspesor de 2mm, ideal para una cocción perfecta\nSu Mango es MÁS ROBUSTO para un mejor agarre y seguridad al momento de tener contacto con ella",
     images_url:
-      "https://groupesebcol.vtexassets.com/arquivos/ids/163794-800-auto?v=637916997708230000&width=800&height=auto&aspect=true",
+      "https://groupesebcol.vtexassets.com/arquivos/ids/163793-1200-auto?v=637916997703530000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -669,7 +719,8 @@ export const database = [
     descuento: false,
     id: "056",
     price: "55,000",
-    description: "sin descripción",
+    description:
+      "Tipo: Fiambrera/Caja Tiffin\nMaterial: exterior de plástico e interior de acero inoxidable.\nCapacidad: 1000ml\nCuchara gratis\nAlta calidad y portátil\nDurable",
     images_url:
       "https://static-01.daraz.com.bd/p/0543154bdea2be8cfa840434d4e48945.jpg_750x750.jpg_.webp",
     category: "cocina",
@@ -681,7 +732,8 @@ export const database = [
     descuento: false,
     id: "057",
     price: "53,000",
-    description: "sin descripción",
+    description:
+      "Ideal para compartir en familia y preparar deliciosas carnes\nAluminio de 2 mm\nCuerpo en antiadherente\nMango en baquelita\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://colsubsidiogrocery.vtexassets.com/arquivos/ids/179590-800-auto?v=638351491747200000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -693,7 +745,8 @@ export const database = [
     descuento: false,
     id: "058",
     price: "46,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm \nCuerpo en aluminio recubierto en el interior con antiadherente estampado panel\nMango en baquelita resistente al calor\nTapa en vidrio templado Pomo en baquelita\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nLargo 34.8 cm x Ancho: 21.2 cm x Alto: 9 cm",
     images_url:
       "https://olimpica.vtexassets.com/arquivos/ids/807362/Sarten-Universal-Opalo---Tv-20Cm.jpg?v=637859969867000000",
     category: "cocina",
@@ -705,9 +758,10 @@ export const database = [
     descuento: false,
     id: "059",
     price: "79,000",
-    description: "sin descripción",
+    description:
+      "Fabricada en aluminio de alta pureza\nCuenta 6 capas antiadherente\nSu antiadherente tipo panel altamente es resistente \nMangos en baquelita resistentes al calor con sistema de fácil limpieza \nBase Grafilada con mejor distribución de calor y protección de la pintura\nPintura antiflama que no cambia de color con el calor y su acabado es metalizado\nno se sobrecalienta en un solo lado\nMayor profundidad en los cuerpos de los sartenes\nTextura 6 Ultra con diseño Italiano",
     images_url:
-      "https://almacencoogranada.com/wp-content/uploads/2020/06/L72408ollacocina1.jpg",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167005-1200-auto?v=638392032906400000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -717,7 +771,8 @@ export const database = [
     descuento: false,
     id: "060",
     price: "75,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en Baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://almacencoogranada.com/wp-content/uploads/2020/06/L72413sartenes1.jpg",
     category: "cocina",
@@ -729,7 +784,8 @@ export const database = [
     descuento: false,
     id: "061",
     price: "53,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en Baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://tinypic.host/images/2024/01/15/images-removebg-preview.png",
     category: "cocina",
@@ -741,7 +797,8 @@ export const database = [
     descuento: false,
     id: "062",
     price: "42,000",
-    description: "sin descripción",
+    description:
+      "Acabados fabricados en aluminio de alta resistencia y bajo estrictos controles de calidad\nAcabado con pintura exterior horneada resistente al calor y acabado metalizado\nMangos y asas en baquelita resistentes al calor con parallamas integrado\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución del calor en la base\nSuperficie antiadherente de fácil limpieza, ideal para preparar comidas saludables y bajas en grasa\nTamaño: 14 cm de ancho",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/155589-1200-auto?v=636143027179900000&width=1200&height=auto&aspect=true",
     category: "cocina",
@@ -753,7 +810,8 @@ export const database = [
     descuento: false,
     id: "063",
     price: "329,000",
-    description: "sin descripción",
+    description:
+      "Bateria universal 12 piezas\n6 ultra( 6 capas de antiadherente, lo que hace que se conserven mejor sus alimentos) con material de aluminio de alta pureza.\n\nOlla 6 ultra 24 cm + tapa de vidrio\nOlla 6 ultra 20 cm + tapa de vidrio\nPerol 6 ultra 16 cm + tapa de vidrio\nCacerola 6 ultra 16 cm con mango + tapa de vidrio\nWok 6 ultra 24 cm\nPlancha asadora 6 ultra 23 cm\nSartén 6 ultra 20 cm\nCucharón aliada nylon",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_807651-MCO42867453234_072020-O.webp",
     category: "cocina",
@@ -765,7 +823,8 @@ export const database = [
     descuento: false,
     id: "064",
     price: "276,000",
-    description: "sin descripción",
+    description:
+      "Batería Home elements 7 piezas\nOlla con tapa 24 cms capacidad de 3.6lts\nOlla con tapa 20 cms capacidad de 1.8lts\nPerol con tapa 16 cms capacidad 1.5lts\nSartén 24 cms\nMaterial en antiadherente, resistente al calor\nManijas en baquelita resistentes para altas temperaturas\nTapas de vidrio con regulador de vapor\nBase conductora de calor",
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/9599216/bateria-ollas-7-piezas-ever-house-44535-set-antiadherente.jpg?v=637662143594170000",
     category: "cocina",
@@ -777,7 +836,8 @@ export const database = [
     descuento: false,
     id: "065",
     price: "255,000",
-    description: "sin descripción",
+    description:
+      "Sartén Aliada de 24 cm\nOlla Aliada de 24 cm + tapa de vidrio\nOlla Aliada 20 cm + tapa de vidrio\nPerol Aliada 16 cm + tapa de vidrio\nCacerola 14 cm asas + tapa de aluminio\nPerol Aliada 10 cm\nPlancha asadora redonda 23 cm",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_847115-MCO43364677861_092020-O.webp",
     category: "cocina",
@@ -789,7 +849,8 @@ export const database = [
     descuento: false,
     id: "066",
     price: "178,000",
-    description: "sin descripción",
+    description:
+      "set de ollas Aliada cuenta 4 capas de antiadherente resistentes e ideales para todo tipo de preparación\nCuenta con asas en baquelita resistentes al calor y parallamas integrado\nBase grafilada para mayor estabilidad al cocinar y mejor distribución de calor\nSuperficie antiadherente de fácil limpieza\n\nOlla Aliada de 24 cm + tapa de vidrio\nOlla Aliada de 20 cm + tapa de vidrio\nOlla Aliada de 18 cm + tapa de vidrio\nOlla Aliada de 16 cm + tapa de vidrio",
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/180191-687-687/image-319c4805adce4e5790b5110dc9a47ab2.jpg?v=637801152549600000",
     category: "cocina",
@@ -801,7 +862,8 @@ export const database = [
     descuento: false,
     id: "067",
     price: "178,000",
-    description: "sin descripción",
+    description:
+      "Marca: Universal\nMaterial: Aluminio\nMedidas: Alto (34 cm) x Ancho (275 cm) x Largo (39 cm)\nColor: Plateado\nCondición del producto: Nuevo",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/158160/59000-hogar-caldero-42-cm-aluminio-fund-pomo-ensamblado-universal.jpg?v=638180328122800000",
     category: "cocina",
@@ -813,7 +875,8 @@ export const database = [
     descuento: false,
     id: "068",
     price: "159,000",
-    description: "sin descripción",
+    description:
+      "Olla 24 cm + tapa de vidrio\ncacerola 16 cm + tapa aluminio\nsartén 24 cm\nperol 16 cm + tapa de vidrio",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/160164-800-auto?v=637145471268700000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -825,7 +888,8 @@ export const database = [
     descuento: false,
     id: "069",
     price: "144,000",
-    description: "sin descripción",
+    description:
+      "juego de ollas universal de 10 piezas en Aluminio\n14cm o 1.4litros\n16cm o 1.9litros\n18cm o 2.6litros\n20cm o 3.4litros\n24cm o 5.2litros\nTodas las 5 ollas vienen con su tapa de vidrio con válvula reguladora de presión",
     images_url:
       "https://i.linio.com/p/e707d0bc39c06bd82e498435ae45df3d-product.jpg",
     category: "cocina",
@@ -837,7 +901,8 @@ export const database = [
     descuento: false,
     id: "070",
     price: "131,000",
-    description: "sin descripción",
+    description:
+      "Base Antideslizante\nAsas más gruesas para mejor agarre\nAluminio de alta pureza\nMaterial Interior del Caldero Antiadherente\nTonalidad Exacta del Color Gris a Negro",
     images_url:
       "https://i.linio.com/p/096ef2cebe9800492645fbcad36db2e3-product.jpg",
     category: "cocina",
@@ -849,7 +914,8 @@ export const database = [
     descuento: false,
     id: "071",
     price: "120,000",
-    description: "sin descripción",
+    description:
+      "Plancha grill fabricada en aluminio fundido antiadherente\n2 capas de antiadherente Teflon y asas con protector de silicona.\nTiene disco magnético apto para cocinas de inducción, estufas a gas, de vitrocerámica y estufas eléctricas.\nLargo x Ancho: 45 cm x 26 cm\nEspesor: 2.5 mm\nPeso: 1.58 kg",
     images_url:
       "https://www.selman.com.co/wp-content/uploads/2020/08/PLANCHA-GRILL-BOTANICAL-45X26-ANTIA..png",
     category: "cocina",
@@ -861,7 +927,8 @@ export const database = [
     descuento: false,
     id: "072",
     price: "118,000",
-    description: "sin descripción",
+    description:
+      "Caldero antiadherente 24 centímetros\nAluminio fundido que permite excelente difusión\nAntiadherente negro\nFondo antideslizante\nAsas más grandes\nTapa de vidrio\n\nColor: Negro\nPeso: 1,4\nLargo: 31cm\nAlto: 14cm\nAncho: 25cm",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_789088-MLU73409250389_122023-O.webp",
     category: "cocina",
@@ -873,7 +940,8 @@ export const database = [
     descuento: false,
     id: "073",
     price: "115,000",
-    description: "sin descripción",
+    description:
+      "Cuenta con recubrimiento interior y exterior en antiadherente, para que no se le peguen los alimentos y facilitar la limpieza\nCaldero fabricado con materiales aptos para el contacto con alimentos, de alta pureza, certificados y que protegen la salud\nAdicionalmente, es altamente resistente a golpes e impactos por sus paredes extra gruesas y su resistente material",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/156413-1600-auto?v=638180310680930000&width=1600&height=auto&aspect=true",
     category: "cocina",
@@ -885,7 +953,8 @@ export const database = [
     descuento: false,
     id: "074",
     price: "113,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio de 2.7 mm de espesor\nTapa en aluminio de 1.8 mm de espesor\nAsas en acero inoxidable ensambladas con remaches de aluminio\nCapacidad 9 litros\nMedidas: 34.5 x 18 x 19.5 cm",
     images_url:
       "https://dotacionesromil.com/wp-content/uploads/2022/11/L49413_universal.jpg",
     category: "cocina",
@@ -897,7 +966,8 @@ export const database = [
     descuento: false,
     id: "075",
     price: "109,000",
-    description: "sin descripción",
+    description:
+      "Antiadherente TRIFORCE\nColor: Gris\nMaterial Interior: Aluminio con revestimiento Antiadherente\nBase difusora especial para distribuir de manera uniforme el calor\nTERMO SEÑAL que cambia de color y te indica que el utensilio está listo para empezar a cocinar, así conservas mejor la textura y nutrientes de los alimentos\nANTIADHERENTE TRIFORCE el cual es hasta tres veces más durable",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_915546-MLU72381591475_102023-O.webp",
     category: "cocina",
@@ -910,7 +980,8 @@ export const database = [
     descuento: false,
     id: "076",
     price: "109,000",
-    description: "sin descripción",
+    description:
+      "Marca: Imusa\nMaterial: Aluminio Fundido\nMedidas: Diámetro (22 cm)\nTapa de vidrio\nFondo antideslizante\nAsas más grandes\nColor: Negro",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_623180-MCO50420581476_062022-O.webp",
     category: "cocina",
@@ -922,7 +993,8 @@ export const database = [
     descuento: false,
     id: "077",
     price: "99,000",
-    description: "sin descripción",
+    description:
+      "Ideal para preparar comidas saludables y bajas en grasa\nEspesor de la olla y el sartén de 1.4 mm. Espesor del wok de 1.6 mm\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://electrobello.vtexassets.com/arquivos/ids/157989-1200-auto?v=637868365549200000&width=1200&height=auto&aspect=true",
     category: "cocina",
@@ -935,7 +1007,8 @@ export const database = [
     descuento: false,
     id: "078",
     price: "99,000",
-    description: "sin descripción",
+    description:
+      "Cuenta con recubrimiento interior y exterior en antiadherente, para que no se le peguen los alimentos y facilitar la limpieza\nCaldero fabricado con materiales aptos para el contacto con alimentos, de alta pureza, certificados y que protegen la salud\nAdicionalmente, es altamente resistente a golpes e impactos por sus paredes extra gruesas y su resistente material",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/156344-800-auto?v=638180309948900000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -947,7 +1020,8 @@ export const database = [
     descuento: false,
     id: "079",
     price: "94,000",
-    description: "sin descripción",
+    description:
+      "TEPPAN GRILL PLUS\nPlancha grill fabricada en aluminio fundido antiadherente \nTiene una aplicación de recubrimiento antiadherente de 2 capas el cual le otorga una resistencia a la abrasión de hasta 14,000 ciclos\nEs apto para lavavajillas, gracias a su disco de inducción electromagnética también se puede ser utilizado en cocinas de inducción, a gas, vitrocerámicas y de resistencia eléctrica medidas: 43 x 26 x 2.5cm",
     images_url:
       "https://tinypic.host/images/2024/01/15/295831941_5295016973867157_6580319915232745487_n.png",
     category: "cocina",
@@ -959,7 +1033,8 @@ export const database = [
     descuento: false,
     id: "080",
     price: "90,000",
-    description: "sin descripción",
+    description:
+      "Olla 24cm de diámetro con su Antiadherente Triforce, 3 veces más durable\nEspesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees\nBase difusora especial para distribuir de manera uniforme el calor\nIdeal para estufa vitrocerámica, gas y eléctrica",
     images_url:
       "https://groupesebcol.vtexassets.com/arquivos/ids/162475-800-auto?v=637890244727830000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -971,7 +1046,8 @@ export const database = [
     descuento: false,
     id: "081",
     price: "89,000",
-    description: "sin descripción",
+    description:
+      "Plancha para Asar Cuadrada con revestimiento Antiadherente Triforce, 3 veces más durable\nEspesor de 1,7 mm, grosor ideal para obtener resultados perfectos\nBase difusora especial para distribuir de manera uniforme el calor e ideal para estufa vitrocerámica, gas y eléctrica\nMangos ergonómicos para asegurar tu agarre",
     images_url:
       "https://groupesebcol.vtexassets.com/arquivos/ids/164191-800-auto?v=637955723910830000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -983,7 +1059,8 @@ export const database = [
     descuento: false,
     id: "082",
     price: "89,000",
-    description: "sin descripción",
+    description:
+      "Marca: Imusa\nMaterial: Aluminio Fundido\nMedidas: Diámetro (18 cm)\nTapa de vidrio\nFondo antideslizante\nAsas más grandes\nColor: Negro",
     images_url:
       "https://i.linio.com/p/ca1de4b095b4e98b2297f32af04cb90c-product.jpg",
     category: "cocina",
@@ -995,7 +1072,8 @@ export const database = [
     descuento: false,
     id: "083",
     price: "89,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de alta pureza de 2.7 mm\nRecubrimiento antiadherente interior de mayor resistencia\nMango en acero inoxidable\n4 remaches que sujetan el mango proporcionando mayor resistencia",
     images_url:
       "https://dotacionesromil.com/wp-content/uploads/2022/09/Wok_Universal.jpg",
     category: "cocina",
@@ -1007,7 +1085,8 @@ export const database = [
     descuento: false,
     id: "084",
     price: "89,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio antiadherente de 2 mm de espesor\nAsas en aluminio\nPomo en polipropileno\nSuperficie antiadherente de fácil limpieza, ideal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nTapa de vidrio templado.",
     images_url:
       "https://vima.com.co/wp-content/uploads/2022/06/caldero-antiadherente-experta-tv-20cm-vista1_1024x1024@2x.webp",
     category: "cocina",
@@ -1019,7 +1098,8 @@ export const database = [
     descuento: false,
     id: "085",
     price: "87,100",
-    description: "sin descripción",
+    description:
+      "Su antiadherente Triforce es tres veces más resistente\nCon termo señal que indica el momento perfecto para comenzar la preparación de tus alimentos\nBase difusora para una distribución homogénea del calor\nMango ergonómico para un mejor agarre\nTapa de vidrio con válvula de salida de vapor que cubre de salpicaduras",
     images_url:
       "https://groupesebcol.vtexassets.com/arquivos/ids/162495/5861029286-1.jpg?v=637890244834200000",
     category: "cocina",
@@ -1031,7 +1111,8 @@ export const database = [
     descuento: false,
     id: "086",
     price: "85,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
     images_url: "https://tinypic.host/images/2024/01/15/image-4.png",
     category: "cocina",
     sub_category: "calderos",
@@ -1042,7 +1123,8 @@ export const database = [
     descuento: false,
     id: "087",
     price: "85,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
     images_url:
       "https://i.linio.com/p/c027de74edecd6da6ef600f0be540d02-product.jpg",
     category: "cocina",
@@ -1054,7 +1136,8 @@ export const database = [
     descuento: false,
     id: "088",
     price: "84,500",
-    description: "sin descripción",
+    description:
+      "5 capas de antiadherente italiano\nCuerpo en aluminio antiadherente de 1.8 mm\nMango y pomo en baquelita\nTapa en vidrio templado de espesor 4 mm\nRemaches en aluminio\nSistema LPC que indica la temperatura ideal para comenzar con la cocción de los alimentos Fondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://www.alkosto.com/medias/7702561373083-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDc2ODZ8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzNZeTlvTkdRdk1UQTFORGt3TXpZek1UZzNOVEF1YW5CbnxiZGNhMjg4NTcxOTQ2OTE3YTcxYjdmYmNmMDMzNTUxNjQzNzA1NzZiYTlkMDVmZDRkYjhlM2JmZGFkZjE0Y2Vk",
     category: "cocina",
@@ -1066,7 +1149,8 @@ export const database = [
     descuento: false,
     id: "089",
     price: "84,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado panel.\nMango y asa en baquelita resistente al calor.\nTapa en vidrio templado\nPomo en baquelita.\nIdeal para preparar comidas saludables y bajas en grasa.\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base.\nCapacidad nominal: 3.4L\nMedidas con pesa ensamblada: Largo 53 cm x Ancho: 30.7 cm x Alto: 11.7 cm",
     images_url: "https://tinypic.host/images/2024/01/15/L37223-2.png",
     category: "cocina",
     sub_category: "sartenes",
@@ -1077,9 +1161,10 @@ export const database = [
     descuento: false,
     id: "090",
     price: "79,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio antiadherente de 1.8 mm\nAsas y pomo en baquelita Tapa en vidrio templado de espesor 4 mm\nSistema LPC que indica la temperatura ideal para comenzar con la cocción de los alimentos\nFondo grafilado para mayor estabilidad al cocinar",
     images_url:
-      "https://olimpica.vtexassets.com/arquivos/ids/807330-800-auto?v=637859969638200000&width=800&height=auto&aspect=true",
+      "https://www.alkosto.com/medias/7702561373038-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNTI3NDZ8aW1hZ2UvanBlZ3xhRE01TDJobFppOHhNelEyT1RZeE1ESTNPRGswTWk4M056QXlOVFl4TXpjek1ETTRYekF3TVY4M05UQlhlRGMxTUVnfDdiY2Y5ZDcwYjUxNTcwY2M1ZjJhMDdlODExNWE1MmYwMDI3OTZhNjM4NDBhODgzMDQyMzc2YWE1ZDM5YzgxMTA",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1089,9 +1174,10 @@ export const database = [
     descuento: false,
     id: "091",
     price: "79,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo En Aluminio Antiadherente De 1,8 Mm\nAsas Y Remaches En Aluminio\nTapa En Vidrio Templado De Espesor 4 M\nPomo En Baquelita\nIdeal Para Preparar Comidas Saludables Y Bajas En Grasa\nSistema Lpc Que Indica La Temperatura Ideal Para Comenzar Con La Cocción De Los Alimentos\nFondo Grafilado Para Mayor Estabilidad Al Cocinar Y Mejor Distribución De Calor En La Base",
     images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_731700-MCO49063351067_022022-O.webp",
+      "https://olimpica.vtexassets.com/arquivos/ids/806365-1200-auto?v=637859948383830000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1101,7 +1187,8 @@ export const database = [
     descuento: false,
     id: "092",
     price: "76,200",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
     images_url:
       "https://www.alkosto.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-7702561789341-001.jpg?context=bWFzdGVyfGltYWdlc3w5NjIyOXxpbWFnZS9qcGVnfGFHWXlMMmcwTUM4eE16YzRNRFE0TURFMk16ZzNNQzgzTlRCWGVEYzFNRWhmYldGemRHVnlMMmh2ZEdadmJHUmxjaTkwY21GdWMyWmxjaTlwYm1OdmJXbHVaeTlrWlhCdmMybDBMMmg1WW5KcGN5MXBiblJsY21aaFkyVnpMMGxPTDIxbFpHbGhMM0J5YjJSMVkzUXZOemN3TWpVMk1UYzRPVE0wTVY4d01ERXVhbkJufGE0N2I2YzVjYjdjM2UzMTE3NTAzODg2MzU2YzhjOTNjMTUyMTI3MWU3ZmFkODdjNzNkMDYxOTMwZWJlZDQ1ZDc",
     category: "cocina",
@@ -1113,7 +1200,8 @@ export const database = [
     descuento: false,
     id: "093",
     price: "78,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía.\nAsas: grandes para mejor agarre y mayor seguridad al transportarlo.\nPomo plástico ecológico.\nAcabados: Interior brillo perlado.\nAluminio: 96%\nPolipropileno: 4%",
     images_url:
       "https://almacencoogranada.com/wp-content/uploads/2023/02/Captura-9.jpg",
     category: "cocina",
@@ -1125,9 +1213,10 @@ export const database = [
     descuento: false,
     id: "094",
     price: "75,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
-      "https://almacencoogranada.com/wp-content/uploads/2020/06/L72408ollacocina1.jpg",
+      "https://jumbocolombiaio.vtexassets.com/arquivos/ids/225128-1200-1200?v=637816535378670000&width=1200&height=1200&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1137,9 +1226,10 @@ export const database = [
     descuento: false,
     id: "095",
     price: "74,000",
-    description: "sin descripción",
+    description:
+      "Cuenta con Termo Señal, un indicador que cambiar de color y muestra el momento justo para comenzar a cocinar\nTiene Base difusora que conserva el calor de forma homogénea para preparaciones en su punto\nSus Mangos con MÁS ROBUSTOS para un mejor agarre y seguridad al momento de tener contacto con ella\nTiene un espesor de 2 milímetros\nMaterial: Aluminio / Antiadherente Triforce Gold \nAlto: 9.5 40.8cm Ancho: 24.6cm Largo: 40 cm",
     images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_915546-MLU72381591475_102023-O.webp",
+      "https://falabella.scene7.com/is/image/FalabellaCO/11565626_1?wid=800&hei=800&qlt=70",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1149,9 +1239,10 @@ export const database = [
     descuento: false,
     id: "096",
     price: "71,600",
-    description: "sin descripción",
+    description:
+      "tamaños 18,20 y 24 cm\nDiseño con acabado en pintura metalizada, fabricados en aluminio de alta pureza\nInterior con 4 capas de antiadherente, resistentes e ideal para todo tipo de preparación \nMango en baquelita resistente al calor y para llamas integrado\nBase grafitada para mayor estabilidad al cocinar y mejor distribución de calor\nSuperficie antiadherente de fácil limpieza, ideal para preparar comidas saludables y bajas en grasa",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119276097_2283436_1?wid=800&hei=800&qlt=70",
+      "https://copservir.vtexassets.com/arquivos/ids/805627-1200-auto?v=638013091454400000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1161,7 +1252,8 @@ export const database = [
     descuento: false,
     id: "097",
     price: "69,000",
-    description: "sin descripción",
+    description:
+      "Fabricada en aluminio de alta pureza\nCuenta 6 capas antiadherente por lo que necesitas menos aceite y cocinar más saludable\nMangos en baquelita resistentes al calor con sistema de fácil limpieza \nBase Grafilada con mejor distribución de calor y protección de la pintura, además genera mayor estabilidad en la estufa\nPintura antiflama que no cambia de color con el calor y su acabado es metalizado\nAluminio que no se sobrecalienta en un solo lado\nMayor profundidad en los cuerpos de los sartenes, para evitar salpicaduras durante la cocción\nTextura 6 Ultra con diseño Italiano (Hexágono)",
     images_url:
       "https://jumbocolombiaio.vtexassets.com/arquivos/ids/224433-800-800?v=637816533461230000&width=800&height=800&aspect=true",
     category: "cocina",
@@ -1173,7 +1265,8 @@ export const database = [
     descuento: false,
     id: "098",
     price: "69,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio antiadherente de 2 mm de espesor\nAsas en aluminio\nPomo en polipropileno\nSuperficie antiadherente de fácil limpieza, ideal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nTapa de vidrio templado",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_706764-MCO47018228929_082021-O.webp",
     category: "cocina",
@@ -1185,7 +1278,8 @@ export const database = [
     descuento: false,
     id: "099",
     price: "68,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad\nExcelente conductor de calor y proporciona un mayor ahorro de energía\nAsas grandes para mejor agarre y mayor seguridad al transportarlo\nPomo plástico ecológico\nAcabado interior con brillo perlado\nMedidas: Alto (10 cm) x Ancho (24.5 cm) x Largo (cm)",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/158144-800-auto?v=638180327955670000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1198,7 +1292,8 @@ export const database = [
     descuento: false,
     id: 100,
     price: "68,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad; excelente conductor de calor y mayor ahorro de energía\nAsas grandes para mejor agarre y mayor seguridad al transportarlos\nInterior brillo perlado\nAncho: 21 cm Largo: 26.5 cm Alto: 8 cm\nRecubrimiento: Antiadherente\nCapacidad: 1.63 lb\nMaterial de la tapa: Aluminio fundido",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/158049/55028-hogar-caldero-fund-cuadrado-tapa-fund-24-cm-universal.jpg?v=638180326990870000",
     category: "cocina",
@@ -1210,7 +1305,8 @@ export const database = [
     descuento: false,
     id: 101,
     price: "66,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio recubierto en el interior con antiadherente estampado panel\nMango en baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución del calor en la base",
     images_url:
       "https://olimpica.vtexassets.com/arquivos/ids/1146275/Sarten-Universal-Opalo-St-30Cm.jpg?v=638295283362970000",
     category: "cocina",
@@ -1222,7 +1318,8 @@ export const database = [
     descuento: false,
     id: 102,
     price: "65,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio antiadherente de 1.8 mm \nAsas y pomo en baquelita \nTapa en vidrio templado de espesor 4 mm\n Remaches en aluminio \nSistema LPC que indica la temperatura ideal para comenzar con la cocción de los alimentos \nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://olimpica.vtexassets.com/arquivos/ids/806363-800-auto?v=637859948373700000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1234,7 +1331,8 @@ export const database = [
     descuento: false,
     id: 103,
     price: "64,000",
-    description: "sin descripción",
+    description:
+      "Cuenta con Termo Señal, un indicador que cambiar de color y muestra el momento justo para comenzar a cocinar\nTiene Base difusora que conserva el calor de forma homogénea para preparaciones en su punto\nsu Mango es MÁS ROBUSTOS para un mejor agarre y seguridad al momento de tener contacto con ella\nantiadherente Triforce Gold",
     images_url:
       "https://groupesebcol.vtexassets.com/arquivos/ids/163804-800-auto?v=637916997769870000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1246,21 +1344,23 @@ export const database = [
     descuento: false,
     id: 104,
     price: "64,200",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm\nTapa de vidrio\nCuerpo en antiadherente\nMango en baquelita\nCapacidad: 2 litros\nColor: Negro",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/156845-800-auto?v=636251605830070000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
   {
-    product: "sartén artik 7 ultra antiadherente universal",
+    product: "sartén artik 24cm 7 ultra antiadherente universal",
     disponibilidad: true,
     descuento: false,
     id: 105,
     price: "62,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nFondo grafilado para mayor estabilidad al cocinar\nMejor distribución de calor en la base",
     images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/167018-800-auto?v=638392154842870000&width=800&height=auto&aspect=true",
+      "https://jumbocolombiaio.vtexassets.com/arquivos/ids/267863-800-800?v=637830749027700000&width=800&height=800&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1270,7 +1370,8 @@ export const database = [
     descuento: false,
     id: 106,
     price: "60,500",
-    description: "sin descripción",
+    description:
+      "Base difusora y termo señal\nAntiadherente Triforce\nAluminio de alta pureza\nHecho en Colombia\nAmigable con el medio ambiente",
     images_url:
       "https://groupesebcol.vtexassets.com/arquivos/ids/158359-800-auto?v=637866220321300000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1282,7 +1383,8 @@ export const database = [
     descuento: false,
     id: 107,
     price: "60,000",
-    description: "sin descripción",
+    description:
+      "Cuerpos en aluminio con recubrimiento antiadherente en el interior y pintura exterior resistente al calor\nMango en material resistente al calor\nFondo grafilado para mayor estabilidad al cocina\nMejor distribución de calor en la base\nCapacidades:18cm 0.7L-20cm 0.9L-24cm 1,5L",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/166593/L39676-SET-X3-COLORS-AZUL-18-20-24---01.jpg?v=638211381148070000",
     category: "cocina",
@@ -1294,7 +1396,8 @@ export const database = [
     descuento: false,
     id: 108,
     price: "60,000",
-    description: "sin descripción",
+    description:
+      "Sartén 18 cm Antiadherente\nSartén 20 cm Antiadherente\nSartén 24 cm Antiadherente\nInterior con 4 capas de Antiadherente\nMango en Baquelita, Resistente al Calor\nAcabado Exterior con pintura Metalizada",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119696302_2446802_1?wid=800&hei=800&qlt=70",
     category: "cocina",
@@ -1306,9 +1409,10 @@ export const database = [
     descuento: false,
     id: 109,
     price: "60,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos.\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
     images_url:
-      "https://almacencoogranada.com/wp-content/uploads/2020/06/Captura-8-2.jpg",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/166447-1200-auto?v=638053461075530000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1318,7 +1422,8 @@ export const database = [
     descuento: false,
     id: 110,
     price: "60,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra.\nMango en baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_969144-MCO48926765141_012022-O.webp",
     category: "cocina",
@@ -1330,7 +1435,8 @@ export const database = [
     descuento: false,
     id: 111,
     price: "59,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio antiadherente de 1.8 mm\nAsas y pomo en baquelita\nTapa en vidrio templado de espesor 4 mm\nRemaches en aluminio\nSistema LPC que indica la temperatura ideal para comenzar con la cocción\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base",
     images_url:
       "https://mercaldas.vtexassets.com/arquivos/ids/1308085/Olla-Universal-Artik-20-cm-con-tapa-de-vidrio_124046.jpg?v=638200393115030000",
     category: "cocina",
@@ -1342,7 +1448,8 @@ export const database = [
     descuento: false,
     id: 112,
     price: "59,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio antiadherente de 2 mm de espesor\nAsas en aluminio\nPomo en polipropileno\nSuperficie antiadherente de fácil limpieza\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base\nTapa de vidrio templado",
     images_url:
       "https://almacencoogranada.com/wp-content/uploads/2020/06/L16400caldero1.jpg",
     category: "cocina",
@@ -1354,9 +1461,10 @@ export const database = [
     descuento: false,
     id: 113,
     price: "59,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de alta calidad\nAsas grandes para mejor agarre y seguridad al transporte\nAcabado Interior brillo perlado",
     images_url:
-      "https://i.linio.com/p/dddd647bcef8b1b0d8544ea7863ad546-product.jpg",
+      "https://www.alkosto.com/medias/7702561790392-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNzg5Mjh8aW1hZ2UvanBlZ3xhREJqTDJoallTOHhNek0xTnpBd056WTVPVGs1T0M4M056QXlOVFl4Tnprd016a3lYekF3TVY4M05UQlhlRGMxTUVnfDM2YjIzYTkxY2FiODM0ODM5MzBlMGRhYTNkYWY0ZDVkZjg2ZWI5ZjY0OTYxMTJmNzEwYTc4MWRhOWMxMDczNmI",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1367,9 +1475,10 @@ export const database = [
     descuento: false,
     id: 114,
     price: "58,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo Elaborado En Aluminio Fundido De La Más Alta Calidad\nPomo En Polipropileno Ecológico\nAsas: Grandes Para Mejor Agarre Y Mayor Seguridad Al Transportarlos\nAcabados: Interior Brillo Perlado\nCapacidad: 1,25 Libras De Arroz Crudo / 2,3 Litros",
     images_url:
-      "https://olimpica.vtexassets.com/arquivos/ids/807344/Caldero-Universal-Fund-Pomo-Ens22.jpg?v=637859969741670000",
+      "https://olimpica.vtexassets.com/arquivos/ids/807344-1200-auto?v=637859969741670000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1380,7 +1489,8 @@ export const database = [
     descuento: false,
     id: 115,
     price: "58,000",
-    description: "sin descripción",
+    description:
+      "antiadherente Triforce Gold \nCuenta con Termo Señal, un indicador que cambiar de color en el momento justo para comenzar a cocinar\nTiene Base difusora que conserva el calor de forma homogénea para preparaciones en su punto\nMangos con MÁS ROBUSTOS para un mejor agarre",
     images_url:
       "https://groupesebcol.vtexassets.com/arquivos/ids/163794-800-auto?v=637916997708230000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1392,7 +1502,8 @@ export const database = [
     descuento: false,
     id: 116,
     price: "57,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base",
     images_url:
       "https://almacencoogranada.com/wp-content/uploads/2020/06/Captura-5.jpg",
     category: "cocina",
@@ -1404,7 +1515,8 @@ export const database = [
     descuento: false,
     id: 117,
     price: "55,000",
-    description: "sin descripción",
+    description:
+      "Capacidad de 1,5 litros.\nProducto diseñado para cocinas de gas.\nTipo de revestimiento exterior: antiadherente.\nFabricado en aluminio.\nCon revestimiento antiadherente.\nEl complemento ideal para tu cocina.",
     images_url:
       "https://almacencoogranada.com/wp-content/uploads/2020/06/L72408ollacocina1.jpg",
     category: "cocina",
@@ -1416,7 +1528,8 @@ export const database = [
     descuento: false,
     id: 118,
     price: "52,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo En Aluminio Antiadherente De 1,8 Mm\nMango Y Pomo En Baquelita\nTapa En Vidrio Templado De Espesor 4 Mm\nRemaches En Aluminio\nIdeal Para Preparar Comidas Saludables Y Bajas En Grasa,\nSistema Lpc Que Indica La Temperatura Ideal Para Comenzar Con La Cocción De Los Alimentos\nFondo Grafilado Para Mayor Estabilidad Al Cocinar\nMejor Distribución De Calor En La Base",
     images_url:
       "https://olimpica.vtexassets.com/arquivos/ids/807334/Sarten-Universal-Artik--Tv-18Cm.jpg?v=637859969665900000",
     category: "cocina",
@@ -1428,9 +1541,10 @@ export const database = [
     descuento: false,
     id: 119,
     price: "51,900",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos.\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
     images_url:
-      "https://groupesebcol.vtexassets.com/arquivos/ids/159929-800-auto?v=637866618960800000&width=800&height=auto&aspect=true",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/166449-1200-auto?v=638053461826430000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1440,7 +1554,8 @@ export const database = [
     descuento: false,
     id: 120,
     price: "50,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio antiadherente\nasas en aluminio\npomo en plástico\nsuperficie antiadherente de fácil limpieza\nideal para preparar comidas saludables y bajas en grasa\nfondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base\ntapa de vidrio templado\nCapacidad nominal: Sartén 24 cm: 1.5L Sartén 20 cm: 0.9L",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/158493-1200-auto?v=636816144265300000&width=1200&height=auto&aspect=true",
     category: "cocina",
@@ -1452,9 +1567,10 @@ export const database = [
     descuento: false,
     id: 121,
     price: "49,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad\nAhorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlo\nPomo plástico ecológico\nAcabados: Interior brillo perlado",
     images_url:
-      "https://gigantedelhogar.vtexassets.com/arquivos/ids/158134-800-auto?v=638180327823300000&width=800&height=auto&aspect=true",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/166466-1200-auto?v=638053486304230000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -1464,7 +1580,8 @@ export const database = [
     descuento: false,
     id: 122,
     price: "49,000",
-    description: "sin descripción",
+    description:
+      "Tecnología 7 Ultra optimiza la distribución del calor\nResiste hasta 7000 ciclos de abrasión\nNuevo diseño de asas y pomos\nAntiadherente italiano de 5 capas alta calidad\nLibre de PFOA ( ácido perfluorooctanoico)",
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/19049470/Perol-Lpc-Artik-Tv-18cm-UNIVERSAL-L37304-3027051_a.jpg?v=638241826993100000",
     category: "cocina",
@@ -1476,9 +1593,10 @@ export const database = [
     descuento: false,
     id: 123,
     price: "49,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la bas",
     images_url:
-      "https://www.distribucionescaldas.com/wp-content/uploads/2020/08/SARTEN-6-ULTRATAPA-VIDRIO-18CM-UNIVERSAL_01-300x300.jpg",
+      "https://www.distribucionescaldas.com/wp-content/uploads/2020/08/SARTEN-6-ULTRATAPA-VIDRIO-18CM-UNIVERSAL_01.jpg",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -1488,7 +1606,8 @@ export const database = [
     descuento: false,
     id: 124,
     price: "46,350",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nAcabados: Interior brillo perlado\nCapacidad: 1 libra de arroz cocido/1.7 litros",
     images_url:
       "https://homecenterco.scene7.com/is/image/SodimacCO/582243_01?wid=800&hei=800&qlt=70",
     category: "cocina",
@@ -1500,7 +1619,8 @@ export const database = [
     descuento: false,
     id: 125,
     price: "46,000",
-    description: "sin descripción",
+    description:
+      "Sartén de 24 cm \ncuerpo en aluminio recubierto en el interior con antiadherente estampado en forma de panel\nmango en baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nfondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nTecnología de 6 capas de recubrimiento antiadherente",
     images_url:
       "https://luegopago.blob.core.windows.net/temporary/%C3%B1,%C3%B1d,fsdmlfsd.jpg",
     category: "cocina",
@@ -1512,7 +1632,8 @@ export const database = [
     descuento: false,
     id: 126,
     price: "45,000",
-    description: "sin descripción",
+    description:
+      "Cuenta 6 capas antiadherente \nSu antiadherente tipo panel altamente es resistente y no permite que los alimentos se peguen\nMangos en baquelita resistentes al calor con sistema de fácil limpieza\nbase Grafilada con mejor distribución de calor y protección de la pintura\nPintura antiflama que no cambia de color con el calor y su acabado es metalizado\nAluminio eficiente con distribución uniforme de la temperatura, no se sobrecalienta en un solo lado\nMayor profundidad en los cuerpos de los sartenes, para evitar salpicaduras durante la cocción\nTextura 6 Ultra con diseño Italiano (Hexágono",
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/180021-1000-1000/image-f15ec5b8947743999d5285c58145944f.jpg?v=637801151533500000",
     category: "cocina",
@@ -1524,7 +1645,8 @@ export const database = [
     descuento: false,
     id: 127,
     price: "45,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en Baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de\ncalor en la base",
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/179901-1000-1000/image-71a30ad437b349c4b56bd2093563fe8f.jpg?v=637801149678100000",
     category: "cocina",
@@ -1536,7 +1658,8 @@ export const database = [
     descuento: false,
     id: 128,
     price: "44,500",
-    description: "sin descripción",
+    description:
+      "Caldero antiadherente 18 centímetros\nAluminio fundido que permite excelente difusión\nFondo antideslizante\nAsas más grandes\ntapa de vidrio\nColor: Gris\nAncho: 24.4 cm Largo: 18 cm Alto: 13.5 cm\nRecubrimiento: Antiadherente\nCapacidad: 0.75 lb\nMaterial de la tapa: Vidrio",
     images_url: "https://cdn.luegopago.com/temporary/vidr%201.jpg",
     category: "cocina",
     sub_category: "calderos",
@@ -1547,7 +1670,8 @@ export const database = [
     descuento: false,
     id: 129,
     price: "39,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nMedidas: Alto (9 cm) x Ancho (21 cm) x Largo (33.5 cm)",
     images_url:
       "https://jumbocolombiaio.vtexassets.com/arquivos/ids/224388-800-800?v=637816533346800000&width=800&height=800&aspect=true",
     category: "cocina",
@@ -1559,7 +1683,8 @@ export const database = [
     descuento: false,
     id: 130,
     price: "36,400",
-    description: "sin descripción",
+    description:
+      "Material: Aluminio Antiadherente\nColor: Gris\nCuenta con antiadherente Triforce\nBase difusora especial para distribuir de manera uniforme el calor\nCuenta con Termo Señal cambia de color e indica que está listo para empezar a cocinar\nConserva mejor la textura y nutrientes de los alimentos\nCuenta con el sello de calidad Imusa\nSus materiales son amigables con el ambiente y cuida tu salud",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/157865-800-auto?v=638180325227930000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1571,7 +1696,8 @@ export const database = [
     descuento: false,
     id: 131,
     price: "36,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio recubierto en el interior con antiadherente estampado panel\nMango en baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/17060903/Sarten-Opalo-20cm-Sin-Tapa-UNIVERSAL-L37246-3370884_a.jpg?v=638146647268670000",
     category: "cocina",
@@ -1583,7 +1709,8 @@ export const database = [
     descuento: false,
     id: 132,
     price: "34,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\ntamaño: 18 cm de ancho 24 cm de ancho 28 cm de ancho",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/157396-800-auto?v=638180320571070000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1595,7 +1722,8 @@ export const database = [
     descuento: false,
     id: 133,
     price: "34,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo fabricado en aluminio\nMango fabricado en baquelita\nCon un diámetro de 12cm\nSu peso es de 0.26kg\nCon superficie antiadherente",
     images_url:
       "https://jumbocolombiaio.vtexassets.com/arquivos/ids/360039-1600-1600?v=637858458489670000&width=1600&height=1600&aspect=true",
     category: "cocina",
@@ -1607,7 +1735,8 @@ export const database = [
     descuento: false,
     id: 134,
     price: "32,000",
-    description: "sin descripción",
+    description:
+      "Mango ergonómico, que te ayudará a la hora de cocinar arepas en tu cómoda cocina\nEspeciales para una cocina moderna y auténtica\nFácil de limpiar\nPara asar pinchos, carnes y arepas\nMaterial: Aluminio\nMedidas: Alto (3 cm) x Ancho (19.2 cm) x Largo (38 cm)\nColor: Negro",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/157112/27510-1-hogar-parrilla-arepas-negra-imusa.jpg?v=638180317807030000",
     category: "cocina",
@@ -1619,19 +1748,21 @@ export const database = [
     descuento: false,
     id: 135,
     price: "30,500",
-    description: "sin descripción",
+    description:
+      "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlo\nPomo plástico ecológico\nAcabados: Interior brillo perlado",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/158097-800-auto?v=638180327412600000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
   {
-    product: "chocolatera 2 libras universal",
+    product: "chocolatera 2 litros universal",
     disponibilidad: true,
     descuento: false,
     id: 136,
     price: "30,000",
-    description: "sin descripción",
+    description:
+      "Fabricada en aluminio con una capacidad dos litros para calentar todas tus bebidas\nCapacidad para 2 libras\nFabricada en aluminio puro y resistente\nAcabado brillante\nRemaches para mayor fijación",
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/176811-1000-1000/image-771ab99c63ab4ecbb9d2c8a88cdeaf79.jpg?v=637776733407970000",
     category: "cocina",
@@ -1643,9 +1774,10 @@ export const database = [
     descuento: false,
     id: 137,
     price: "29,000",
-    description: "sin descripción",
+    description:
+      "Línea: Smart\nMaterial: Aluminio Antiadherente\nColor: Gris\nDiámetro: 12cm\nBase difusora para una distribución homogénea del calor\nMango ergonómico para un mejor agarre\nTapa en aluminio",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_121447686_3042059_1?wid=800&hei=800&qlt=70",
+      "https://i.linio.com/p/e473453e468a0f54fcd9a614425412e6-product.webp",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -1655,7 +1787,8 @@ export const database = [
     descuento: false,
     id: 138,
     price: "29,000",
-    description: "sin descripción",
+    description:
+      "Aluminio De 1,2 Mm\nCuerpo En Aluminio Recubierto En El Interior Con Antiadherente\nMango En Baquelita Resistente Al Calor\nIdeal Para Preparar Comidas Saludables Y Bajas En Grasa\nFondo Grafilado Para Mayor Estabilidad Al Cocinar Y Mejor Distribución De Calor En La Base",
     images_url:
       "https://olimpica.vtexassets.com/arquivos/ids/807320-800-auto?v=637859969574830000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1667,7 +1800,8 @@ export const database = [
     descuento: false,
     id: 139,
     price: "27,100",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio con recubrimiento interior antiadherente y pintura exterior resistente a la temperatura\nInterior con recubrimiento Antiadherente\nMango ergonómico hecho en material resistente al calor\nEl tipo de ensamble de los mangos es remachado directamente al cuerpo con remaches en aluminio\nDiseño perfecto para asar arepas uniformemente en cuestión de minutos",
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/200421-1000-1000/image-ffb2086867974a059f95fb87df2765de.jpg?v=637931502309400000",
     category: "cocina",
@@ -1679,7 +1813,8 @@ export const database = [
     descuento: false,
     id: 140,
     price: "27,000",
-    description: "sin descripción",
+    description:
+      "Marca: Universal\nMaterial: Aluminio\nMedidas: Alto (5.6 cm) Ancho (20 cm)\nPeso: 0.27 kg\nColor: Negro",
     images_url:
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/156075-800-auto?v=638180307308170000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1691,7 +1826,8 @@ export const database = [
     descuento: false,
     id: 141,
     price: "27,000",
-    description: "sin descripción",
+    description:
+      "Mango de baquelita de diseño ergonómico para mayor comodidad y seguridad\nAdecuado para calentar salsas, salsas, mantequilla, leche o chocolate derretido.\nPequeño y duradero, no ocupa demasiado espacio\nAntiescaldadura sartén antiadherente, el revestimiento interior es revestimiento antiadherente",
     images_url:
       "https://tinypic.host/images/2024/01/16/157b2c03-1806-4413-84cc-c3a323c6c4ab.136357af85a3291bc3fba57e6601470a.webp",
     category: "cocina",
@@ -1703,7 +1839,8 @@ export const database = [
     descuento: false,
     id: 142,
     price: "23,000",
-    description: "sin descripción",
+    description:
+      "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/179640-1000-1000/image-2635c4377a094f0ca0223486f3f38f5c.jpg?v=637801101492930000",
     category: "cocina",
@@ -1715,7 +1852,8 @@ export const database = [
     descuento: false,
     id: 143,
     price: "23,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio con antiadherente de espesor 1 mm\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base. Garantía de 1 año\nMango en baquelita resistente al calor",
     images_url:
       "https://www.distribucionescaldas.com/wp-content/uploads/2020/09/PEROL-ALIADA-10CM-UNIVERSAL_01.jpg",
     category: "cocina",
@@ -1727,7 +1865,8 @@ export const database = [
     descuento: false,
     id: 144,
     price: "294,000",
-    description: "sin descripción",
+    description:
+      "Cocina hasta con 99.5% menos aceite, comparado con freidoras tradicionales Oster®\nBandeja de cocción con capacidad de 1.8 litros\nControl de temporizador ajustable de hasta 60 minutos\nPerilla de temperatura ajustable de hasta 200ºC\nMango frío al tacto\nBandeja interior extraíble con recubrimiento antiadherente\nFunción de apagado automático al retirar la bandeja de cocción\nPerfecta para preparar desde pollos y carnes, hasta vegetales, pescado y postres",
     images_url:
       "https://electrobello.vtexassets.com/arquivos/ids/156942-800-auto?v=637759183045600000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -1739,7 +1878,8 @@ export const database = [
     descuento: false,
     id: 145,
     price: "319,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio de espesor 2.7 mm\nVálvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad. Pesa para mantener estable la presión a un valor nominal de 80KPa\nSistema de cierre autoajustable y hermético, para evitar fugas de presión\nMangos y asa en baquelita resistente al calor\nDos válvulas de seguridad para mayor tranquilidad\nSistema practipress para facilitar la evacuación del vapor interno de la olla",
     images_url:
       "https://www.alkosto.com/medias/7702561272300-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w2ODA0N3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaFlTOW9NVGt2TVRBME16QTVOVGt3TlRnNU56UXVhbkJufDllZDZhZDcyOWJmZTAxMTA5ZjA1Mzg4NWQyOTM1MmMyNGNmZDAzNzgxOGY1ZDU5N2ZhMDc1M2FiOGYxOWFjNjU",
     category: "cocina",
@@ -1751,9 +1891,10 @@ export const database = [
     descuento: false,
     id: 146,
     price: "229,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio de espesor 2.7 mm\nVálvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad. Pesa para mantener estable la presión a un valor nominal de 80KPa\nSistema de cierre autoajustable y hermético, para evitar fugas de presión\nMangos y asa en baquelita resistente al calor\nDos válvulas de seguridad para mayor tranquilidad\nSistema practipress para facilitar la evacuación del vapor interno de la olla",
     images_url:
-      "https://www.alkosto.com/medias/7702561271303-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w3Mzk2MXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnMFl5OW9NakV2TVRBME16QTVOVGN5T0RrMU1ESXVhbkJufGUxNjIyYjU5NjI0OGFlNzJkNmM5ZDk1NTk4ZGRmMTQ1ODgyOTVlMGMyMGFlOTNlMWM4MDI3ZTg1OGFjODUyYWM",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/162396-1200-auto?v=637551446612370000&width=1200&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas de presión",
   },
@@ -1763,7 +1904,8 @@ export const database = [
     descuento: false,
     id: 147,
     price: "154,000",
-    description: "sin descripción",
+    description:
+      "Olla a presión con 3 sistemas de seguridad + Válvula controladora de presión",
     images_url:
       "https://www.alkosto.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-7702073030443-001.jpg?context=bWFzdGVyfGltYWdlc3wxMjY4ODN8aW1hZ2UvanBlZ3xhRFpsTDJoaE5pOHhNemN6TWpZM09EZ3lPREEyTWk4M05UQlhlRGMxTUVoZmJXRnpkR1Z5TDJodmRHWnZiR1JsY2k5MGNtRnVjMlpsY2k5cGJtTnZiV2x1Wnk5a1pYQnZjMmwwTDJoNVluSnBjeTFwYm5SbGNtWmhZMlZ6TDBsT0wyMWxaR2xoTDNCeWIyUjFZM1F2Tnpjd01qQTNNekF6TURRME0xOHdNREV1YW5CbnwyNjhkYzVhZjM3MTJkZDA5NTRhZTJkZTNjZmM2Y2Y1NTY1OWVmZGEzYzQ3ZjcyMGI4MDNhYzVhNjM1ZDEzNTgy",
     category: "cocina",
@@ -1775,7 +1917,8 @@ export const database = [
     descuento: false,
     id: 148,
     price: "130,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio de espesor 2.0 mm\nCuenta con válvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad\nTiene pesa para mantener estable la presión a un valor nominal de 80 KPa\nViene con sistema de cierre autoajustable y hermético, para evitar fugas de presión\nMango en baquelita resistente al calor",
     images_url:
       "https://electrobello.vtexassets.com/arquivos/ids/155777-800-auto?v=637734611632300000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -1787,7 +1930,8 @@ export const database = [
     descuento: false,
     id: 149,
     price: "119,000",
-    description: "sin descripción",
+    description:
+      "Cuerpo en aluminio de 2 mm Tapa en aluminio de 1.8 mm\n3 Sistemas de seguridad\nse debe sellar manualmente cuando se haya evacuado toda la presión interna de la olla\nSistema auto ajustable que permite abrir y cerrar la olla con mayor facilidad, garantizando un cierre totalmente hermético",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119838169_2500315_1?wid=1500&hei=1500&qlt=70",
     category: "cocina",
@@ -1823,7 +1967,8 @@ export const database = [
     descuento: false,
     id: 152,
     price: "122,000",
-    description: "sin descripción",
+    description:
+      "Marca: My cousine\nModelo: Floral\nCantidad de piezas: 20\nNombre Del Diseño: Floral\nTipo de juego: Almuerzo\nMaterial: Cerámica",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_894805-MCO49746496178_042022-O.webp",
     category: "cristaleria",
@@ -1835,7 +1980,8 @@ export const database = [
     descuento: false,
     id: 153,
     price: "123,000",
-    description: "sin descripción",
+    description:
+      "Marca: Corona\nLínea: Leticia\nModelo: Leticia\nTipo de plato de vajilla: Loza\nMaterial: Loza\nForma: Redonda",
     images_url:
       "https://tinypic.host/images/2024/01/18/1QbxR0q7yUitYDCMpiKP5K2ehelK3bxqM_25507faf-a2a9-418f-8c20-0867aa834da9_1100x.webp",
     category: "cristaleria",
@@ -1847,7 +1993,7 @@ export const database = [
     descuento: false,
     id: 154,
     price: "123,000",
-    description: "sin descripción",
+    description: "6 platos pandos\n4 platos hondos\n4 mugs",
     images_url:
       "https://luegopago.blob.core.windows.net/temporary/41sg5dazkal._ac_sx679_.jpg",
     category: "cristaleria",
@@ -1859,7 +2005,8 @@ export const database = [
     descuento: false,
     id: 155,
     price: "113,000",
-    description: "sin descripción",
+    description:
+      "Vajilla Corona Ashley 4 Puestos 16 Piezas\n\n4 Platos Té 14.8cm\n4 Platos 24.2cm \n4 Platos Hondo 587.3ml\n4 Pocillos Té 211.4ml \nColor Amarillo",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_888568-MCO54378893022_032023-O.webp",
     category: "cristaleria",
@@ -1871,7 +2018,8 @@ export const database = [
     descuento: false,
     id: 156,
     price: "112,000",
-    description: "sin descripción",
+    description:
+      "Marca: Corona\nModelo: Domino\nCantidad de piezas: 16\nNombre Del Diseño Dominó\nMaterial: Loza\nApto para microondas y lavavajillas.\nAprobado para el uso en contacto con alimentos.\nCumple con la norma de plomo y cadmio.",
     images_url:
       "https://www.vajillascorona.com.co/medias/?context=bWFzdGVyfGltYWdlc3w5NjcxM3xpbWFnZS9qcGVnfGFEQmhMMmcxT1M4NU1UTXhOekUwTWpFMU9UWTJ8YzM0MjEzZWE2MWRlNzgyZWNjZWVlOWJkMTExMzY1YzliYTUyODFlNDhiNGNiMzdjOWNjODQ0ZDE2ZDYyOTQxNA",
     category: "cristaleria",

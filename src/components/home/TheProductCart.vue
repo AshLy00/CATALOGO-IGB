@@ -95,23 +95,23 @@ const decreaseQuantity = (index) => {
     margin-right: 5px;
     margin-left: 5px;
     gap: 12px;
-    font-size: 1rem;
+    font-size: 0.8rem;
     justify-content: center;
     border-bottom: 1px solid rgb(221, 221, 221);
     padding: 15px;
   }
   .product_name {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     width: 40%;
   }
 
   .cantidad {
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
   .sumar,
   .restar {
-    padding: 13px;
+    padding: 11px;
     width: 20px;
     height: 20px;
     display: flex;
