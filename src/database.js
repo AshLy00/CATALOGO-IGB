@@ -110,7 +110,7 @@ export const database = [
     id: "009",
     price: "210,000",
     description:
-      'Ventilador 2 en 1 (Mesa y Pedestal) de 16" cuenta con 3 velocidades, hélice aerodinámica de 5 aspas, tiene una potencia de 50 Watts, Ventilador con bajo nivel de ruido, Cuenta con tecnología Permawick, sistema de lubricación constante que alarga la vida del motor.\n\nVoltaje de operación: 110 - 120 Vac\nFrecuencia de operación: 60 Hz',
+      'Ventilador 2 en 1 (Mesa y Pedestal) de 16" cuenta con 3 velocidades, hélice aerodinámica de 5 aspas, tiene una potencia de 50 Watts, Ventilador con bajo nivel de ruido, Cuenta con tecnología Permawick, sistema de lubricación constante que alarga la vida del motor.\nVoltaje de operación: 110 - 120 Vac\nFrecuencia de operación: 60 Hz',
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_684183-MCO48896089889_012022-O.webp",
     category: "electrodomesticos",
@@ -136,7 +136,7 @@ export const database = [
     id: "011",
     price: "80,000",
     description:
-      "Ventilador de escritorio, ideal para el hogar y la oficina, tiempo de trabajo prolongado, buen flujo de aire, silencioso, dos configuraciones, ventilador de enfriamiento personal.\n\nCompacto\nPortátil\nEléctrico\nMotor silencioso\n2 Velocidades",
+      "Ventilador de escritorio, ideal para el hogar y la oficina, tiempo de trabajo prolongado, buen flujo de aire, silencioso, dos configuraciones, ventilador de enfriamiento personal.\nCompacto\nPortátil\nEléctrico\nMotor silencioso\n2 Velocidades",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_951325-MCO70097937059_062023-O.webp",
     category: "electrodomesticos",
@@ -563,7 +563,7 @@ export const database = [
     id: "044",
     price: "180,000",
     description:
-      "Un electrodoméstico diseñado para cortar frutas o verduras de manera efectiva, gracias a sus 300w de potencia.\n\nEste producto está equipado con accesorios removibles de acero inoxidable, incluyendo una cuchilla disco circular y otra para picar, adaptándose a diferentes tamaños de los ingredientes que más usas a diario.\n\ncuenta con un switch de bloqueo para evitar accidentes. Además, está compuesto por una perilla con 2 velocidades para que obtengas un control más preciso de todo el proceso.",
+      "Un electrodoméstico diseñado para cortar frutas o verduras de manera efectiva, gracias a sus 300w de potencia.\nEste producto está equipado con accesorios removibles de acero inoxidable, incluyendo una cuchilla disco circular y otra para picar, adaptándose a diferentes tamaños de los ingredientes que más usas a diario.\ncuenta con un switch de bloqueo para evitar accidentes. Además, está compuesto por una perilla con 2 velocidades para que obtengas un control más preciso de todo el proceso.",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/157724/procesador-alimentos-700ml-vista1.png?v=636621768846270000",
     category: "electrodomesticos",
@@ -850,7 +850,7 @@ export const database = [
     id: "066",
     price: "178,000",
     description:
-      "set de ollas Aliada cuenta 4 capas de antiadherente resistentes e ideales para todo tipo de preparación\nCuenta con asas en baquelita resistentes al calor y parallamas integrado\nBase grafilada para mayor estabilidad al cocinar y mejor distribución de calor\nSuperficie antiadherente de fácil limpieza\n\nOlla Aliada de 24 cm + tapa de vidrio\nOlla Aliada de 20 cm + tapa de vidrio\nOlla Aliada de 18 cm + tapa de vidrio\nOlla Aliada de 16 cm + tapa de vidrio",
+      "set de ollas Aliada cuenta 4 capas de antiadherente resistentes e ideales para todo tipo de preparación\nCuenta con asas en baquelita resistentes al calor y parallamas integrado\nBase grafilada para mayor estabilidad al cocinar y mejor distribución de calor\nSuperficie antiadherente de fácil limpieza\nOlla Aliada de 24 cm + tapa de vidrio\nOlla Aliada de 20 cm + tapa de vidrio\nOlla Aliada de 18 cm + tapa de vidrio\nOlla Aliada de 16 cm + tapa de vidrio",
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/180191-687-687/image-319c4805adce4e5790b5110dc9a47ab2.jpg?v=637801152549600000",
     category: "cocina",
@@ -928,7 +928,7 @@ export const database = [
     id: "072",
     price: "118,000",
     description:
-      "Caldero antiadherente 24 centímetros\nAluminio fundido que permite excelente difusión\nAntiadherente negro\nFondo antideslizante\nAsas más grandes\nTapa de vidrio\n\nColor: Negro\nPeso: 1,4\nLargo: 31cm\nAlto: 14cm\nAncho: 25cm",
+      "Caldero antiadherente 24 centímetros\nAluminio fundido que permite excelente difusión\nAntiadherente negro\nFondo antideslizante\nAsas más grandes\nTapa de vidrio\nColor: Negro\nPeso: 1,4\nLargo: 31cm\nAlto: 14cm\nAncho: 25cm",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_789088-MLU73409250389_122023-O.webp",
     category: "cocina",
@@ -2006,7 +2006,7 @@ export const database = [
     id: 155,
     price: "113,000",
     description:
-      "Vajilla Corona Ashley 4 Puestos 16 Piezas\n\n4 Platos Té 14.8cm\n4 Platos 24.2cm \n4 Platos Hondo 587.3ml\n4 Pocillos Té 211.4ml \nColor Amarillo",
+      "Vajilla Corona Ashley 4 Puestos 16 Piezas\n4 Platos Té 14.8cm\n4 Platos 24.2cm \n4 Platos Hondo 587.3ml\n4 Pocillos Té 211.4ml \nColor Amarillo",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_888568-MCO54378893022_032023-O.webp",
     category: "cristaleria",
