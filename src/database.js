@@ -2031,7 +2031,8 @@ export const database = [
     descuento: false,
     id: 157,
     price: "112,000",
-    description: "sin descripción",
+    description:
+      "Apto para microondas y lavavajilla\nAprobado para el uso en contacto con alimentos\nCumple con la norma de plomo y cadmio\nSe garantiza que el esmalte no va a generar agrietamiento por cualquier cantidad de lavado con detergente.\nResistencia de la decoración a los detergentes\n4 Plato Té 14.5cm\n4 Plato Pando 24cm \n4 Plato Hondo 587.3ml \n4 Pocillo Té 230ml",
     images_url:
       "https://www.vajillascorona.com.co/medias/Malaya-Pocillo-Negro-1.jpg?context=bWFzdGVyfGltYWdlc3wxODkxODZ8aW1hZ2UvanBlZ3xhREEwTDJnd09TODVNell4TWpneE5qRXpPRFUwTDAxaGJHRjVZUzFRYjJOcGJHeHZMVTVsWjNKdkxURXVhbkJufDIwNTQxOTA5NGYwMzliMmE3MDE3OWUyOWU5ZWVkZDQ5NmZlNDU0ZWNlNGY5YWU5YmFkN2EyNjI3ZTc5ZjdlYjc",
     category: "cristaleria",
@@ -2043,7 +2044,8 @@ export const database = [
     descuento: false,
     id: 158,
     price: "105,000",
-    description: "sin descripción",
+    description:
+      "Apto para microondas y lavavajilla\nAprobado para el uso en contacto con alimentos\nCumple con la norma de plomo y cadmio\nSe garantiza que el esmalte no va a generar agrietamiento por cualquier cantidad de lavado con detergentes\nResistencia de la decoración a los detergentes",
     images_url:
       "https://www.vajillascorona.com.co/medias/VL156G040116-1.jpg?context=bWFzdGVyfGltYWdlc3wxODgwMDJ8aW1hZ2UvanBlZ3xhREUyTDJoaE15ODVNVGd5TmpBeU5qa3dOVGt3TDFaTU1UVTJSekEwTURFeE5sOHhMbXB3Wnd8ZTM4ODQ0NDU1MjJjMTMzNWQ5MzQ4MDNmNTk2ZTczYmI3M2Q0MWMwNjZjMDQ2NGU3NWUxZjNmZTFlNmNiMTM3Yg",
     category: "cristaleria",
@@ -2055,7 +2057,8 @@ export const database = [
     descuento: false,
     id: 159,
     price: "105,000",
-    description: "sin descripción",
+    description:
+      "Fabricado en loza\nApto para microondas y lavavajilla\nVajilla apta para 4 puestos, incluye 16 piezas:\n4 Plato Té 14.8cm\n4 Plato Pando 24cm\n4 Pocillo Té 211.4ml\n4 Plato Hondo 587.3ml\nMaterial: Loza\nTamaño: 15cm X 33cm X 25cm",
     images_url:
       "https://www.vajillascorona.com.co/medias/?context=bWFzdGVyfGltYWdlc3w2MTE1N3xpbWFnZS9qcGVnfGFHVm1MMmc1Tmk4NU1UTXhOekE0T1Rjek1EZzJ8NWQ5OTBlNDk3MzlhMThiZjhmZWEzMWM5NjcyZTRjNzVmMTYwMDI5MGVmOTZkZTFiNzYyYzMyMjZiYmM1N2JhZQ",
     category: "cristaleria",
@@ -2067,7 +2070,8 @@ export const database = [
     descuento: false,
     id: 160,
     price: "64,000",
-    description: "sin descripción",
+    description:
+      "Apto para microondas y lavavajilla\nAprobado para el uso en contacto con alimentos\nCumple con la norma de plomo y cadmio\nSe garantiza que el esmalte no va a generar agrietamiento por cualquier cantidad de lavado con detergentes\nResistencia de la decoración a los detergentes",
     images_url:
       "https://www.vajillascorona.com.co/medias/SL1132160403-1.jpg?context=bWFzdGVyfGltYWdlc3wzMjg5NTF8aW1hZ2UvanBlZ3xhREExTDJoaVlTODVNekF3TmpBd01EWXhPVGd5TDFOTU1URXpNakUyTURRd015MHhMbXB3Wnd8NzJkZmYzZmFiYTM0ZGI1ZGU5MWZkMGEwYTFmZDAzZGZkZGI5ZDdlODJhYWNlNDEyNzc0YzgxOTE1OGZjYzU2NQ",
     category: "cristaleria",
@@ -2079,7 +2083,8 @@ export const database = [
     descuento: false,
     id: 161,
     price: "64,000",
-    description: "sin descripción",
+    description:
+      "Apto para microondas en exposición no mayor a 3 minutos\nApto para Lavavajillas\nAprobado para el uso con alimentos. Cumple con la norma de plomo y cadmio\nResistencia al agrietamiento o cuarteado del esmalte a cualquier cantidad de ciclos de lavado\nResistencia de la decoración a los detergentes (no lavar con productos abrasivos)\nExcluyendo las decoraciones de lustre (elementos metalizados normalmente presente en el borde de la pieza)\nNo someter el producto a cambios de temperatura extremos",
     images_url:
       "https://www.vajillascorona.com.co/medias/SL1132160303-1.jpg?context=bWFzdGVyfGltYWdlc3wyNDczMjR8aW1hZ2UvanBlZ3xhRGcwTDJoaE5DODVNekF3TlRrNU5EQTJOakl5TDFOTU1URXpNakUyTURNd00xOHhMbXB3Wnd8N2YyZDI1MzE4OWU0ZDExNjUyMTRlZDIyZjNhY2YxMDlhZTgxMWZjZWYzYTNiZWFjNzYyZDZhYWE4MGUzOTNlZQ",
     category: "cristaleria",
@@ -2091,7 +2096,8 @@ export const database = [
     descuento: false,
     id: 162,
     price: "102,000",
-    description: "sin descripción",
+    description:
+      "4 Plato Té 14.5cm Jaspe Verde\n4 Plato Pando 24cm Jaspe Verde\n4 Plato Hondo 587.3cm3 Jaspe Verde\n4 Pocillo Té 230cm3 Esmalte Color Verde Limón",
     images_url:
       "https://www.vajillascorona.com.co/medias/VL173E040116-1.jpg?context=bWFzdGVyfGltYWdlc3w0MjM1ODd8aW1hZ2UvanBlZ3xhR013TDJnNE5pODVNakF3T0RBMk1UQXhNREl5TDFaTU1UY3pSVEEwTURFeE5sOHhMbXB3Wnd8NzExOGEwNjdiODJiNjQ1NzM4MzFjNTI5MzdmZDYyM2UzYmU4Y2ZkZTgyZTgyMGU4NTg2YzY5YzFjZmY3MDU5OA",
     category: "cristaleria",
@@ -2103,7 +2109,8 @@ export const database = [
     descuento: false,
     id: 163,
     price: "59,900",
-    description: "sin descripción",
+    description:
+      "Display de 6 Copas de Vino capacidad de 170 cc con acabado brillo",
     images_url: "https://tinypic.host/images/2024/01/18/imagfffe.png",
     category: "cristaleria",
     sub_category: "copas",
@@ -2114,7 +2121,8 @@ export const database = [
     descuento: false,
     id: 164,
     price: "59,000",
-    description: "sin descripción",
+    description:
+      "Marca: Cristar \nMaterial: Vidrio\nCapacidad: 8 1/2 oz / 250 cc y 10 oz / 300 cc\nMedidas: 10 oz & 8 oz\nReferencia: 9489ELCRISTAR SKU 0012705\nHecho en: Colombia\n6 Copas Aragon vino\n6 Copas Aragon agua",
     images_url:
       "https://www.almacenesla13.com/cdn/shop/products/set-aragon-FINAL.jpg?v=1591720811&width=530",
     category: "cristaleria",
@@ -2126,7 +2134,8 @@ export const database = [
     descuento: false,
     id: 165,
     price: "52,000",
-    description: "sin descripción",
+    description:
+      "Capacidad: 3 1/2 oz\nMaterial: Vidrio\nModelo: Lexington\nDiámetro: 6.4 cm\nAlto: 6.9 cm\nlargo: 6.4 cm",
     images_url: "https://tinypic.host/images/2024/01/18/image-14.png",
     category: "cristaleria",
     sub_category: "copas",
@@ -2138,7 +2147,8 @@ export const database = [
     descuento: false,
     id: 166,
     price: "50,700",
-    description: "sin descripción",
+    description:
+      "Incluye : 4 Copas Marruecos + 4 Vasos Diamante Rocks + 2 Carioca Ensaladeras Pequeñas",
     images_url: "https://tinypic.host/images/2024/01/18/9795ELFEST21_V-100.png",
     category: "cristaleria",
     sub_category: "copas",
@@ -2149,7 +2159,7 @@ export const database = [
     descuento: false,
     id: 167,
     price: "47,000",
-    description: "sin descripción",
+    description: "Ancho: 34.2 cm\nAlto: 6.8 cm\nLargo: 23 cm",
     images_url: "https://tinypic.host/images/2024/01/18/2509172_01.jpeg",
     category: "cristaleria",
     sub_category: "refractarias",
@@ -2160,7 +2170,8 @@ export const database = [
     descuento: false,
     id: 168,
     price: "47,000",
-    description: "sin descripción",
+    description:
+      "Marca: Cristar\nModelo: Bolonia\nTipo de producto: Copa\nFormato de venta: Pack\nUnidades por pack: 8\nColor: Transparente\nMaterial: Vidrio",
     images_url: "https://tinypic.host/images/2024/01/18/ghgg.png",
     category: "cristaleria",
     sub_category: "copas",
@@ -2171,7 +2182,8 @@ export const database = [
     descuento: false,
     id: 169,
     price: "45,000",
-    description: "sin descripción",
+    description:
+      "Presentación: Caja Diamonds.\nMaterial: Vidrio\nLargo: 19cm\nAncho: 6cm\nCapacidad: 450ml",
     images_url:
       "https://tinypic.host/images/2024/01/18/D_Q_NP_617515-MLU69655152623_052023-O.webp",
     category: "cristaleria",
@@ -2183,7 +2195,8 @@ export const database = [
     descuento: false,
     id: 170,
     price: "40,000",
-    description: "sin descripción",
+    description:
+      "Marca: Cristar\nMaterial: Vidrio\nCapacidad: 12.75 oz | 381 ml\nMedidas: Alto (15.2 cm) Diámetro (8.2 cm)\nPeso: 319 gr",
     images_url:
       "https://www.almacenesla13.com/cdn/shop/files/Vaso_Barman_Bebidas_Cristar_1.jpg?v=1694141416&width=400",
     category: "cristaleria",
@@ -2195,7 +2208,8 @@ export const database = [
     descuento: false,
     id: 171,
     price: "36,000",
-    description: "sin descripción",
+    description:
+      "Capacidad / Peso : 408 ml – 13.7 fl oz  / 183 gr\nAlto: 12.4 cm /4.8 pulgadas\nDiámetro: 7 cm / 2.7 pulgadas\nUnidad de Empaque: Canastilla x 6 unidades\nColor: Multicolor",
     images_url: "https://tinypic.host/images/2024/01/18/0790CD6TRO22_VACIO.png",
     category: "cristaleria",
     sub_category: "vasos",
@@ -2206,7 +2220,8 @@ export const database = [
     descuento: false,
     id: 172,
     price: "34,000",
-    description: "sin descripción",
+    description:
+      "Capacidad Ensaladera Grande: 1810 ml / 61 Oz\nAlto Ensaladera Grande: 9,5 cm, 3,7 pulgadas\nMedidas Ensaladera Grande: 18 cm , 7 pulgadas x 20,4 cm, 8 pulgadas\nCapacidad Ensaladera Pequeña: 653 ml / 22 Oz\nAlto Ensaladera Pequeña: 7,4 cm, 2,9 pulgadas\nMedidas Ensaladera Pequeña: 12, 9 cm , 5 pulgadas x 14,4 cm , 5,6 pulgada",
     images_url:
       "https://tinypic.host/images/2024/01/18/9645_Set_Porto_-5-piezas_EL_1024.png",
     category: "cristaleria",
@@ -2218,7 +2233,8 @@ export const database = [
     descuento: false,
     id: 173,
     price: "32,000",
-    description: "sin descripción",
+    description:
+      "Contenedor con cuerpo de vidrio y tapa de aluminio\nRecipiente compacto que garantizan la conservación de los alimentos y evita la formación de bacterias\nMedidas del contenedor: Ancho: 11 cm Largo: 11 cm Alto: 21.9 cm\nCapacidad de cada contenedor: 2000 ml",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/161039/L60506-Contenedor-de-vidrio-2-litros-EC---1.jpg?v=637306340746470000",
     category: "cristaleria",
@@ -2230,7 +2246,8 @@ export const database = [
     descuento: false,
     id: 174,
     price: "31,000",
-    description: "sin descripción",
+    description:
+      "Capacidad / Peso : 657 ml – 22.2 fl oz  /300 gr\n Alto: 20.5 cm /8.07 pulgadas\n Diámetro: 10.7 cm / 4.2 pulgadas\n Unidad de Empaque: Canastilla x 2 unidades\n Color: Multicolor",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_636260-MLA73017796181_112023-O.webp",
     category: "cristaleria",
@@ -2242,7 +2259,8 @@ export const database = [
     descuento: false,
     id: 175,
     price: "30,000",
-    description: "sin descripción",
+    description:
+      "Capacidad: 22 Oz / 653 cc\n Alto: 24.2 cm, 9.5 pulgadas\n Unidad de Empaque: Estuche de 4 unidades\n Color: Transparente",
     images_url: "https://tinypic.host/images/2024/01/24/image-rrr1.png",
     category: "cristaleria",
     sub_category: "ensaladeras",
@@ -2253,7 +2271,8 @@ export const database = [
     descuento: false,
     id: 176,
     price: "30,000",
-    description: "sin descripción",
+    description:
+      "Set por 3 contenedores con cuerpo de vidrio y tapa de aluminio\nRecipientes compactos que garantizan la conservación de los alimentos y evitan la formación de bacterias\nLos contenedores vienen marcados para azúcar, café y té, pero si prefieres pueden ser utilizados para conservar otros alimentos\nDiámetro: 10.3 cm\nAlto: 12.7 cm\nCapacidad de cada contenedor: 800 ml",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/160988-800-auto?v=637305340154130000&width=800&height=auto&aspect=true",
     category: "cristaleria",
@@ -2276,7 +2295,8 @@ export const database = [
     descuento: false,
     id: 178,
     price: "29,000",
-    description: "sin descripción",
+    description:
+      "Material: policarbonato\nColor: transparente\nCapacidad: 355 ml\nSe pueden meter en el lavavajillas\nCuando laves el producto, utiliza un paño suave o una esponja para evitar el riesgo de dañar o rayar el producto",
     images_url:
       "https://easycolombia.vtexassets.com/arquivos/ids/205779/7702147264989-1.jpg?v=638297199495470000",
     category: "cristaleria",
@@ -2288,8 +2308,10 @@ export const database = [
     descuento: false,
     id: 179,
     price: "28,000",
-    description: "sin descripción",
-    images_url: "https://tinypic.host/images/2024/01/18/image-20.png",
+    description:
+      "Mug Galerie x2 unidades\nCapacidad : 8 oz / 242 cc\nAlto : 14.4 cm, 5.7 pulgadas\nDiámetro 7.5 cm, 3.0 pulgadas",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_696649-MCO52834530492_122022-O.webp",
     category: "cristaleria",
     sub_category: "copas",
   },
@@ -2310,7 +2332,8 @@ export const database = [
     descuento: false,
     id: 181,
     price: "27,000",
-    description: "sin descripción",
+    description:
+      "Capacidad: 9 oz / 269 cc\nAlto: 7.3 cm / 2.9 pulgadas\nDiámetro: 8.6 cm / 3.4 pulgadas\nUnidad de Empaque: Estuche x 4 unidades",
     images_url:
       "https://carulla.vtexassets.com/arquivos/ids/2503009/SET-X-4-MUG-NOVO-COLOR-CRISTAR-0689EC4HOLI-3001996_a.jpg?v=637388712858830000",
     category: "cristaleria",
@@ -2322,7 +2345,8 @@ export const database = [
     descuento: false,
     id: 182,
     price: "26,500",
-    description: "sin descripción",
+    description:
+      "Contenedor con cuerpo de vidrio y tapa de aluminio\nRecipiente compacto que garantizan la conservación de los alimentos y evita la formación de bacterias\nMedidas del contenedor:Ancho: 11 cm Largo: 11 cm Alto: 17.8 cm\nCapacidad de cada contenedor: 1600 ml",
     images_url:
       "https://fantasygroup.vteximg.com.br/arquivos/ids/186926-1000-1000/image-af6c7bcf57e84f7e94e09ea939c41c09.jpg?v=637890866592800000",
     category: "cristaleria",
@@ -2334,7 +2358,8 @@ export const database = [
     descuento: false,
     id: 183,
     price: "26,000",
-    description: "sin descripción",
+    description:
+      "Capacidad: 458 cc – 15.5 Oz\nAlto: 11.5 cm, 3.5 pulgadas\nDiámetro: 7.3 cm\nUnidad de Empaque: Set x 6 unidades",
     images_url: "https://tinypic.host/images/2024/01/18/image-22.png",
     category: "cristaleria",
     sub_category: "vasos",
@@ -2345,7 +2370,8 @@ export const database = [
     descuento: false,
     id: 184,
     price: "26,000",
-    description: "sin descripción",
+    description:
+      "Copa Agua CRISTAR x4\nCapacidad / 370cc\nAlto 18.8 cm / 7.5''\nDiámetro 8.9 cm / 3.6''",
     images_url: "https://tinypic.host/images/2024/01/18/image-23.png",
     category: "cristaleria",
     sub_category: "copas",
@@ -2356,7 +2382,8 @@ export const database = [
     descuento: false,
     id: 185,
     price: "25,000",
-    description: "sin descripción",
+    description:
+      "Contenedor con cuerpo de vidrio y tapa de aluminio\nRecipiente compacto que garantizan la conservación de los alimentos y evita la formación de bacterias\nMedidas del contenedor: Ancho: 11 cm Largo: 11 cm Alto: 13.7 cm\nCapacidad de cada contenedor: 1200 ml",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/161033/L60504-Contenedor-de-vidrio-1.2-litros-EC---1.jpg?v=637306338008370000",
     category: "cristaleria",
@@ -2368,7 +2395,8 @@ export const database = [
     descuento: false,
     id: 186,
     price: "25,000",
-    description: "sin descripción",
+    description:
+      "Capacidad: 33 4/5 Oz / 1.000 cc\nAlto: 22 cm, 8.7 pulgadas\nUnidad de Empaque: Estuche x 1 unidad",
     images_url: "https://tinypic.host/images/2024/01/18/image-24.png",
     category: "cristaleria",
     sub_category: "vasos",
@@ -2379,7 +2407,8 @@ export const database = [
     descuento: false,
     id: 187,
     price: "24,500",
-    description: "sin descripción",
+    description:
+      "Capacidad: 15 oz / 453 cc\nAlto: 14.5 cm, 5.7 pulgadas\nDiámetro: 7.7 cm\nUnidad de Empaque: Canastilla x 3 unidades",
     images_url: "https://tinypic.host/images/2024/01/18/image-25.png",
     category: "cristaleria",
     sub_category: "vasos",
@@ -2390,7 +2419,8 @@ export const database = [
     descuento: false,
     id: 188,
     price: "24,000",
-    description: "sin descripción",
+    description:
+      "Capacidad: 37,53 oz / 1110 cc\nAlto: 18.1 cm, 7.1 pulgadas\nDiámetro: 9,5 cm , 3,7 pulgadas\nUnidad de Empaque: Set x 2 unidades",
     images_url:
       "https://tinypic.host/images/2024/01/18/image__26_-removebg-preview.png",
     category: "cristaleria",
@@ -2402,7 +2432,8 @@ export const database = [
     descuento: false,
     id: 189,
     price: "24,000",
-    description: "sin descripción",
+    description:
+      "Capacidad / Peso : 275 ml – 9.2 fl oz  / 332 gr\nAlto: 8.76 cm /3.44 pulgadas\nDiámetro: 7.78 cm / 3.06 pulgadas\nUnidad de Empaque: Canastilla x 2 unidades",
     images_url:
       "https://tinypic.host/images/2024/01/18/descarga__2_-removebg-preview.png",
     category: "cristaleria",
@@ -2414,7 +2445,8 @@ export const database = [
     descuento: false,
     id: 190,
     price: "23,600",
-    description: "sin descripción",
+    description:
+      "Alto: 9.4 cm\nCapacidad volumétrica: 74 ml\nDiámetro: 3.9 cm\nMaterial de la copa: Vidrio\nColor: Transparente",
     images_url:
       "https://d2o812a6k13pkp.cloudfront.net/fit-in/1080x1080/Productos/40329408_01.jpg",
     category: "cristaleria",
@@ -2438,7 +2470,8 @@ export const database = [
     descuento: false,
     id: 192,
     price: "23,000",
-    description: "sin descripción",
+    description:
+      "Capacidad: 10 oz / 300 cc\nAlto: 5.6 cm, 2.2 pulgadas\nDiámetro: 10.5 cm\nUnidad de Empaque: Set x 3 unidades",
     images_url: "https://tinypic.host/images/2024/01/18/image-28.png",
     category: "cristaleria",
     sub_category: "ensaladeras",
@@ -2449,7 +2482,8 @@ export const database = [
     descuento: false,
     id: 193,
     price: "22,000",
-    description: "sin descripción",
+    description:
+      "Proveedor: Cristar \nMaterial: Vidrio\nCapacidad: 12 1/4 oz / 368 cc\nMedidas: (Alto 14.0 cm) (Diámetro 7.7 cm)",
     images_url: "https://tinypic.host/images/2024/01/18/image-29.png",
     category: "cristaleria",
     sub_category: "copas",
@@ -2460,7 +2494,8 @@ export const database = [
     descuento: false,
     id: 194,
     price: "22,000",
-    description: "sin descripción",
+    description:
+      "Proveedor: Cristar \nMaterial: Vidrio\nCapacidad: 12 1/4 oz / 368 cc\nMedidas: (Alto 14.0 cm) (Diámetro 7.7 cm)",
     images_url: "https://tinypic.host/images/2024/01/18/image-29.png",
     category: "cristaleria",
     sub_category: "copas",
@@ -2471,7 +2506,8 @@ export const database = [
     descuento: false,
     id: 195,
     price: "14,500",
-    description: "sin descripción",
+    description:
+      "Capacidad: 37 1/2 oz / 1110 cc\nAlto: 18.2 cm, 7,2 pulgadas\nDiámetro: 9,5 cm, 3,7 pulgadas\nUnidad de Empaque: Estuche x 1 unidad",
     images_url: "https://tinypic.host/images/2024/01/18/image-30.png",
     category: "cristaleria",
     sub_category: "contenedores",
@@ -2506,7 +2542,8 @@ export const database = [
     descuento: false,
     id: 198,
     price: "8,500",
-    description: "sin descripción",
+    description:
+      "Vaso con base estable para mayor seguridad\nBordes redondeados, resistente y funcional",
     images_url:
       "https://cristalerialamejor.com.co/wp-content/uploads/2023/04/VASO-HOME-GDE-NTR.jpg",
     category: "cristaleria",
@@ -2518,7 +2555,8 @@ export const database = [
     descuento: false,
     id: 199,
     price: "8,000",
-    description: "sin descripción",
+    description:
+      "Capacidad: 8 oz / 242 cc\nAlto: 21.3 cm, 8.4 pulgadas\nDiámetro: 5 cm\nUnidad de Empaque: Canastilla x 3 unidades",
     images_url:
       "https://tienda.cristar.com.co/wp-content/uploads/2019/05/Copa_Brunello_Champan%CC%83a_champagne.jpg",
     category: "cristaleria",
@@ -2530,7 +2568,8 @@ export const database = [
     descuento: false,
     id: 200,
     price: "5,990",
-    description: "sin descripción",
+    description:
+      "Esta copa de acrílico transparente está elaborada con efecto cristal, un material muy resistente. Diseño elegante para todo tipo de ocasión.",
     images_url: "https://tinypic.host/images/2024/01/18/COPA-ACAPULCO-NTR.jpeg",
     category: "cristaleria",
     sub_category: "copas",
@@ -2541,7 +2580,8 @@ export const database = [
     descuento: false,
     id: 201,
     price: "3,500",
-    description: "sin descripción",
+    description:
+      "ACCESORIOS QUE INCLUYE: Pieza Suelta\nCAPACIDAD: 10 Oz\nMATERIAL ESTRUCTURAL: Vidrio\nANCHO CMS: 30.40\nLARGO CMS: 45.20\nALTO CMS: 27.60",
     images_url:
       "https://cristalerialamejor.com.co/wp-content/uploads/2023/04/50864.jpg",
     category: "cristaleria",
@@ -2553,7 +2593,8 @@ export const database = [
     descuento: false,
     id: 202,
     price: "2,500",
-    description: "sin descripción",
+    description:
+      "Copa aguardientera de vidrio transparente apta para alimentos, es ideal para bebidas fuertes.",
     images_url:
       "https://www.almacenesla13.com/cdn/shop/products/AGUARDIENTE_6.jpg?v=1596480639",
     category: "cristaleria",
@@ -2565,7 +2606,8 @@ export const database = [
     descuento: false,
     id: 203,
     price: "1,540,000",
-    description: "sin descripción",
+    description:
+      "Cámara de 108 MPx donde vas a capturar mayor detalle\nPantalla AMOLED con amplia gama de colores\nCarga rápida de 33W, carga de 0 a 100 en aprox. 58 min\nUn procesador que se adapta a todas las tareas diarias\nTen mejores fotos aprovechando nuestra AI",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/124513472_1?wid=800&hei=800&qlt=70",
     category: "tecnología",
@@ -2577,7 +2619,8 @@ export const database = [
     descuento: false,
     id: 204,
     price: "990,000",
-    description: "sin descripción",
+    description:
+      "Android 11, MIUI 13\nAMOLED, 120 Hz\nTamaño: 6,67 pulgadas\nResolución:  1080 x 2400 píxeles\nInterna: 256GB\nRAM: 8GB\nMicroSD: microSDXC (utiliza ranura SIM compartida)\nUFS 2.2",
     images_url:
       "https://redsolucionesmoviles.com/wp-content/uploads/2023/11/Celular-Xiaomi-Note-12-Pro-4G-256GB-8GB-RAM-1-1.jpg",
     category: "tecnología",
@@ -2589,7 +2632,8 @@ export const database = [
     descuento: false,
     id: 205,
     price: "799,000",
-    description: "sin descripción",
+    description:
+      'Memoria RAM: 4 GB\nDispositivo desbloqueado para que elijas la compañía telefónica que prefieras.\nPantalla AMOLED de 6.67"\nTiene 3 cámaras traseras de 50Mpx/8Mpx/2Mpx\nCámaras delanteras de 13Mpx\nProcesador Snapdragon 685 Octa-Core de 2.8GHz con 4GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar\nResistente al polvo',
     images_url:
       "https://cdnx.jumpseller.com/tiquemobile/image/35853602/NOTE_12_AZUL.png?1685378673",
     category: "tecnología",
@@ -2601,7 +2645,8 @@ export const database = [
     descuento: false,
     id: 206,
     price: "379,000",
-    description: "sin descripción",
+    description:
+      'Pantalla IPS de 6.52"\nTiene 2 cámaras traseras de 8Mpx/0.08Mpx\nCámara delantera de 5Mpx\nProcesador MediaTek Helio G36 Octa-Core de 2.2GHz con 2GB de RAM\nBatería de 5000mAh\nMemoria interna de 64G.',
     images_url:
       "https://www.ktronix.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-6941812748428-001.jpg?context=bWFzdGVyfGltYWdlc3wyMDg0NTd8aW1hZ2UvanBlZ3xhRGhpTDJoa05DOHhNemsxTmpFNE5qRXhNakF6TUM4M05UQlhlRGMxTUVoZmJXRnpkR1Z5TDJodmRHWnZiR1JsY2k5MGNtRnVjMlpsY2k5cGJtTnZiV2x1Wnk5a1pYQnZjMmwwTDJoNVluSnBjeTFwYm5SbGNtWmhZMlZ6TDBsT0wyMWxaR2xoTDNCeWIyUjFZM1F2TmprME1UZ3hNamMwT0RReU9GOHdNREV1YW5CbnxmNWQ1Y2NjNDNiMWM1ZWY3MmFkYjhlMzgyMjkxM2I3MmIxNWYzYzA5YmI2ZGFhMzNlODI3NWRlZDBkNWRlYzVi",
     category: "tecnología",
@@ -2613,7 +2658,8 @@ export const database = [
     descuento: false,
     id: 207,
     price: "760,000",
-    description: "sin descripción",
+    description:
+      "Pantalla: 6.74\nAndroid 13\nProcesador: Octa-core\n8GB Ram\nAlmacenamiento de 128GB\nBatería de 5000 mAh\nCámara principal: 50MP\nCámara frontal: 8MP",
     images_url:
       "https://gsmphone.co/wp-content/uploads/2024/01/xiaomi_redmi_13c_verde_01_l.jpeg",
     category: "tecnología",
@@ -2625,7 +2671,8 @@ export const database = [
     descuento: false,
     id: 208,
     price: "750,000",
-    description: "sin descripción",
+    description:
+      "Memoria interna: 256GB\nMarca y modelo del procesador: MediaTek Helio G85\nMemoria RAM: 8GB\nSistema operativo: Android 13\nConectividad: 4G",
     images_url:
       "https://cdn1.totalcommerce.cloud/mercacentro/product-zoom/es/celular-xiaomi-redmi-13c-256gb-8gb-ram-negro-1.webp",
     category: "tecnología",
@@ -2637,7 +2684,8 @@ export const database = [
     descuento: false,
     id: 209,
     price: "650,000",
-    description: "sin descripción",
+    description:
+      "generacion: 4G\nmemoria expandible: Sobre 512GB\nmemoria ram: 8GB\nprocesador: Mediatek\nsistema operativo: Android",
     images_url:
       "https://gsmphone.co/wp-content/uploads/2024/01/xiaomi_redmi_13c_negro_01_l.jpeg",
     category: "tecnología",
@@ -2649,7 +2697,8 @@ export const database = [
     descuento: false,
     id: 210,
     price: "550,000",
-    description: "sin descripción",
+    description:
+      "generacion: 4G\nmemoria expandible: 256GB\nmemoria ram: 8GB\nsistema operativo: Android",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_127137349_4812980_1?wid=800&hei=800&qlt=70",
     category: "tecnología",
@@ -2661,7 +2710,8 @@ export const database = [
     descuento: false,
     id: 211,
     price: "900,000",
-    description: "sin descripción",
+    description:
+      "generacion: 4G\nmemoria expandible: Sobre 512GB\nmemoria ram: 4GB\nprocesador: Qualcomm snapdragon\nsistema operativo: Android",
     images_url:
       "https://gsmphone.co/wp-content/uploads/2023/07/13099559-800-auto.webp",
     category: "tecnología",
@@ -2675,7 +2725,7 @@ export const database = [
     price: "656,000",
     description: "sin descripción",
     images_url:
-      "https://www.cellulardepot.com.co/wp-content/uploads/2023/09/13099559-800-auto.webp",
+      "https://static-00.iconduck.com/assets.00/image-not-found-01-icon-2048x2048-95wsi7vg.png",
     category: "tecnología",
     sub_category: "xiaomi",
   },
@@ -5457,7 +5507,7 @@ export const database = [
     descuento: false,
     id: 443,
     price: "8,500",
-    description: "sin descripción",
+    description: "cuchara mezcladora en Acero inoxidable",
     images_url:
       "https://imagencasa.com.pe/cdn/shop/files/FIK_639_b0b73194-842b-4422-88ea-3de94fea71c3.jpg?v=1696293822&width=800",
     category: "cocina",
@@ -5469,7 +5519,8 @@ export const database = [
     descuento: false,
     id: 444,
     price: "14,500",
-    description: "sin descripción",
+    description:
+      "Cuchara de Bar Con Disco\nFunciona para los Gin Tonic\nDiseñado con balance ideal para un óptimo control\nAcero inoxidable\nCOMO SE USA: No requiere uso especial",
     images_url:
       "https://productosparabar.com/image/cache/catalog/products/bar/CU-DF(1)-1500x1500.jpg",
     category: "cocina",
@@ -5481,7 +5532,8 @@ export const database = [
     descuento: false,
     id: 445,
     price: "9,000",
-    description: "sin descripción",
+    description:
+      "Color: plateado\nMaterial: acero inoxidable\nEste producto destaca por su capacidad variable de 30/60ml, ideal para medir líquidos con precisión",
     images_url:
       "https://shapesproducts.in/wp-content/uploads/2022/09/5-1000x1413.jpg",
     category: "cocina",
@@ -5493,7 +5545,8 @@ export const database = [
     descuento: false,
     id: 446,
     price: "17,000",
-    description: "sin descripción",
+    description:
+      "Color: plateado\nMaterial: acero inoxidable\nEste producto destaca por su capacidad variable de 30/60ml, ideal para medir líquidos con precisión",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_908292-MLA44536498182_012021-O.webp",
     category: "cocina",
@@ -5505,7 +5558,8 @@ export const database = [
     descuento: false,
     id: 447,
     price: "15,500",
-    description: "sin descripción",
+    description:
+      "Color: plateado\nMaterial: acero inoxidable\nEste producto destaca por su capacidad variable de 25/50ml, ideal para medir líquidos con precisión",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_908292-MLA44536498182_012021-O.webp",
     category: "cocina",
@@ -5517,7 +5571,8 @@ export const database = [
     descuento: false,
     id: 448,
     price: "60,500",
-    description: "sin descripción",
+    description:
+      "tablero o pizarra didáctico con letras y vocales para niños y niñas acrílico borrable en madera con ábaco para aprendizaje y la participación activa de los niños, favoreciendo una mejor comprensión y memorización",
     images_url:
       "https://tinypic.host/images/2024/01/25/IMG_20240125_094916.png",
     category: "jugueteria",
@@ -7608,7 +7663,7 @@ export const database = [
     descuento: false,
     id: 623,
     price: "16,000",
-    description: "sin descripción",
+    description: "Cuchillo Multiusos Brazileiro Incametal 8",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119275869_2283516_1?wid=800&hei=800&qlt=70",
     category: "cocina",
@@ -7620,7 +7675,8 @@ export const database = [
     descuento: false,
     id: 624,
     price: "15,800",
-    description: "sin descripción",
+    description:
+      "Material: Plástico\nMedidas: Alto (26.5 cm) x Ancho (186 cm) x Largo (24.5 cm)\nColor: Surtido",
     images_url:
       "https://facihogar.com.co/wp-content/uploads/2020/03/Montaje-fotos-Page-4.jpg?x41468",
     category: "cocina",
@@ -7632,7 +7688,8 @@ export const database = [
     descuento: false,
     id: 625,
     price: "14,800",
-    description: "sin descripción",
+    description:
+      "Materiales: Plástico\nMedidas del artículo: Diámetro: 11.7 x Alto 7.2",
     images_url:
       "https://s3.us-east-2.amazonaws.com/impulsoscreativos.com/images/products/medium/PP8953-1466538503.jpg",
     category: "cocina",
@@ -7644,7 +7701,7 @@ export const database = [
     descuento: false,
     id: 626,
     price: "14,000",
-    description: "sin descripción",
+    description: "Dimensiones: 17.5 × 17.5 × 22 cm",
     images_url: "https://tinypic.host/images/2024/02/01/ggg.png",
     category: "cocina",
     sub_category: "",
@@ -7655,7 +7712,7 @@ export const database = [
     descuento: false,
     id: 627,
     price: "14,000",
-    description: "sin descripción",
+    description: "Mango y servicio fabricados en acero inoxidable",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/19022997_1?wid=800&hei=800&qlt=70",
     category: "cocina",
@@ -7667,7 +7724,8 @@ export const database = [
     descuento: false,
     id: 628,
     price: "13,000",
-    description: "sin descripción",
+    description:
+      "Espátula de silicona de color gris\nmango en madera \nservicio de silicona\nsoporta temperaturas hasta 220 °C\nSus medidas son: 29,6 x 5,1 x 1,4 cm",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/166423-1200-auto?v=638030041682030000&width=1200&height=auto&aspect=true",
     category: "cocina",
@@ -7679,7 +7737,8 @@ export const database = [
     descuento: false,
     id: 629,
     price: "13,000",
-    description: "sin descripción",
+    description:
+      "Longitud del mango: 122 mm\nLargo total: 275.5 mm\ndiametro del mango: 19 mm Ancho servicio: 56 mm\n100 % Acero inoxidable",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_620145-MLU71283602487_082023-O.webp",
     category: "cocina",
@@ -7691,7 +7750,8 @@ export const database = [
     descuento: false,
     id: 630,
     price: "12,000",
-    description: "sin descripción",
+    description:
+      "Diseño elegante y seguro, fácil de limpiar y almacenar.\nLos pies de goma antideslizantes garantizan la estabilidad durante el uso.\nTiene 3 etapas de afilado (fina, cerámica y grano grueso), para un resultado de afilado perfecto.\nMaterial: ABS y ranura de acero inoxidable.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_865544-MCO54221889430_032023-O.webp",
     category: "cocina",
@@ -7703,7 +7763,8 @@ export const database = [
     descuento: false,
     id: 631,
     price: "12,000",
-    description: "sin descripción",
+    description:
+      'Practico en tu Hogar \nCuchillo Multiusos 6" pulgadas\nMaterial: acero inoxidable\nAlta calidad',
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119275869_2283516_1?wid=800&hei=800&qlt=70",
     category: "cocina",
@@ -7715,7 +7776,8 @@ export const database = [
     descuento: false,
     id: 632,
     price: "12,000",
-    description: "sin descripción",
+    description:
+      "Corta Pizza Fabricado En Acero Inoxidable, Con Hoja En Aleación 420 Y Mango En Aleación 430. Apto Para Estar En Contacto Con Los Alimentos Y Bebidas",
     images_url:
       "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/3c0ec4a26210e804b547c03a9d158492.jpg?imageView2/2/w/800/q/70/format/webp",
     category: "cocina",
@@ -7727,7 +7789,7 @@ export const database = [
     descuento: false,
     id: 633,
     price: "12,000",
-    description: "sin descripción",
+    description: "Recipientes x3 Kendy de plastico",
     images_url: "https://tinypic.host/images/2024/02/01/12000.png",
     category: "cocina",
     sub_category: "",
@@ -7739,7 +7801,8 @@ export const database = [
     descuento: false,
     id: 634,
     price: "11,500",
-    description: "sin descripción",
+    description:
+      "Jarra plastica, con pico ideal para servir sin derrames, hecha con plastico de excelente cadidad, tapas con colores surtidos, amplia capacidad y cuenta con la calidad Kendy.",
     images_url:
       "https://cdn.coordiutil.com/imagen-jarra_kool_22_l-1963936-0-0-0-100.jpg",
     category: "cocina",
@@ -7751,7 +7814,8 @@ export const database = [
     descuento: false,
     id: 635,
     price: "69,000",
-    description: "sin descripción",
+    description:
+      "Fabricación en Acero inoxidable para mayor resistencia y de calidad.\nNuestros utensilios son ideales para simplificar las tareas del hogar, por eso son de fácil manejo.\nMango en Nylon resistentes al calor que te ayudará a resolver los inconvenientes que se presentan al momento de cocinar y te brindará más confianza y seguridad.\nIncluye Pala, cuchillo, cucharón, tenedor, cuchara, batidor y soporte.",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119832190_2496982_1?wid=800&hei=800&qlt=70",
     category: "cocina",
@@ -7763,7 +7827,8 @@ export const database = [
     descuento: false,
     id: 636,
     price: "11,000",
-    description: "sin descripción",
+    description:
+      "Fabricación en Acero inoxidable para mayor resistencia y de calidad.\nNuestros utensilios son ideales para simplificar las tareas del hogar, por eso son de fácil manejo.\nMango en Nylon resistentes al calor que te ayudará a resolver los inconvenientes que se presentan al momento de cocinar y te brindará más confianza y seguridad.",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119832190_2496982_1?wid=800&hei=800&qlt=70",
     category: "cocina",
@@ -7775,7 +7840,8 @@ export const database = [
     descuento: false,
     id: 637,
     price: "60,000",
-    description: "sin descripción",
+    description:
+      "Fabricación en Acero inoxidable para mayor resistencia y de calidad.\nNuestros utensilios son ideales para simplificar las tareas del hogar, por eso son de fácil manejo.\nMango en Nylon resistentes al calor que te ayudará a resolver los inconvenientes que se presentan al momento de cocinar y te brindará más confianza y seguridad.\nIncluye Pala, cuchillo, cucharón, tenedor, cuchara y batidor",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119832190_2496982_1?wid=800&hei=800&qlt=70",
     category: "cocina",
@@ -7799,7 +7865,8 @@ export const database = [
     descuento: false,
     id: 639,
     price: "11,000",
-    description: "sin descripción",
+    description:
+      "Fabricación en acero inoxidable para más resistencia y no transmite olor ni sabor\nSu color plateado que caracteriza el acero, te brindará el beneficio de ubicarlo en cualquier lugar de tu cocina\nApto para lavavajilla",
     images_url:
       "https://makro.com.co/imagesProducts/medias/112346_500X500_ON_75.png?context=bWFzdGVyfGltYWdlc3wxMTg0NTF8aW1hZ2UvcG5nfGltYWdlcy9oNTQvaDcxLzkxMDA4ODMwMzQxNDIucG5nfDAzZTI5ZWExN2YxNmVlODZjMmJlOGQzMjQyYmJjNGQwNDNjODM5YWRkOTE2N2ZmMWNiZTM3ODZkNjdlN2MyMGI",
     category: "cocina",
@@ -7811,7 +7878,7 @@ export const database = [
     descuento: false,
     id: 640,
     price: "11,000",
-    description: "sin descripción",
+    description: "Apto Microondas Y Refrigerador\nCapacidad: 2.8 Kg",
     images_url:
       "https://cristalerialamejor.com.co/wp-content/uploads/2017/08/IMG_7561-600x292.jpg",
     category: "cocina",
