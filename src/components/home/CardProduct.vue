@@ -360,21 +360,21 @@ img {
     gap: 15px;
   }
   .cart_button {
-    width: 100px;
+    width: 110px;
     height: 80px;
     border-radius: 10px;
     bottom: 6%;
     padding-left: 10px;
     gap: 8px;
     padding-right: 10px;
-    font-size: 0.5rem;
+    font-size: 0.55rem;
   }
   .cart_button p {
     width: 60%;
   }
   .cart {
-    width: 22px;
-    height: 22px;
+    width: 25px;
+    height: 25px;
   }
 
   .agotado .no-disponible {
@@ -412,20 +412,20 @@ img {
   }
   .cart_button {
     width: 90px;
-    height: 90px;
+    height: 80px;
     border-radius: 10px;
     bottom: 6%;
     padding-left: 10px;
-    gap: 8px;
+    gap: 5px;
     padding-right: 5px;
-    font-size: 0.45rem;
+    font-size: 0.5rem;
   }
   .cart_button p {
     width: 60%;
   }
   .cart {
-    width: 20px;
-    height: 20px;
+    width: 22px;
+    height: 22px;
   }
 
   .agotado .no-disponible {
@@ -463,7 +463,7 @@ img {
     border-radius: 10px;
     bottom: 6%;
     padding-left: 10px;
-    gap: 8px;
+    gap: 5px;
     padding-right: 5px;
     font-size: 0.45rem;
   }
