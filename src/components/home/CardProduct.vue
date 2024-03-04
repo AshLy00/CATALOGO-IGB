@@ -163,7 +163,7 @@ img {
   text-align: start;
   color: var(--color-white);
   border-style: none;
-  padding-left: 15px;
+  padding-left: 19px;
   gap: 5px;
   font-size: 0.9rem;
   transition-property: width;
@@ -220,7 +220,7 @@ img {
     border-radius: 20px;
     bottom: 6%;
     font-size: 0.75rem;
-    padding-left: 15px;
+    padding-left: 19px;
   }
   .cart_button p {
     width: 60%;
