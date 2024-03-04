@@ -4,23 +4,23 @@
   <div id="slider">
     <figure>
       <img
-        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3-100.jpeg"
+        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3reducida-100.jpeg"
         alt=""
       />
       <img
-        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3-100.jpeg"
+        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3reducida-100.jpeg"
         alt=""
       />
       <img
-        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3-100.jpeg"
+        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3reducida-100.jpeg"
         alt=""
       />
       <img
-        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3-100.jpeg"
+        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3reducida-100.jpeg"
         alt=""
       />
       <img
-        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3-100.jpeg"
+        src="https://tinypic.host/images/2024/03/04/Mesa-de-trabajo-3reducida-100.jpeg"
         alt=""
       />
     </figure>
