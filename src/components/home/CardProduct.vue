@@ -18,7 +18,7 @@ const navigateToLink = () => {
     encodeURIComponent(
       `Hola IGB! Me gustaría comprar este producto: ${productText} por $${productPrice} ;D`
     );
-  window.location.href = link;
+  window.open(link, "_blank"); // Abrir enlace en una nueva pestaña
 };
 const navigateToDescription = () => {
   router.push({
