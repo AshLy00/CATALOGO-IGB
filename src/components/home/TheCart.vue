@@ -1,64 +1,43 @@
 <script setup>
-import TheProductCart from "./TheProductCart.vue";
-import { ref } from "vue";
+import { reactive, defineProps, defineEmits } from "vue";
+import TheProductCart from "../home/TheProductCart.vue";
 
-// Array reactiva para mantener los productos en el carrito
-const cartItems = ref([
-  {
-    product: "ventilador ultra power 18 universal",
-    price: 249000,
-    quantity: 1,
-  },
-  {
-    product: "lampara solar para exteriores led 90w",
-    price: 215000,
-    quantity: 1,
-  },
-]);
+const props = defineProps(["cartItems"]);
+const emit = defineEmits(["removeFromCart", "close"]);
+const cartItems = reactive(props.cartItems);
 
-// Función para calcular el total de los productos en el carrito
 const calculateTotal = () => {
   let total = 0;
-  for (const item of cartItems.value) {
+  for (const item of cartItems) {
     total += item.price * item.quantity;
   }
   return total.toLocaleString();
 };
 
-// Función para añadir un producto al carrito
-const addToCart = (product) => {
-  // Verificar si el producto ya está en el carrito
-  const existingProductIndex = cartItems.value.findIndex(
-    (item) => item.product === product.product
-  );
-  if (existingProductIndex !== -1) {
-    // Actualizar la cantidad del producto existente
-    cartItems.value[existingProductIndex].quantity += product.quantity;
-    // Verificar si la cantidad del producto es cero y eliminarlo del carrito
-    if (cartItems.value[existingProductIndex].quantity <= 0) {
-      cartItems.value.splice(existingProductIndex, 1);
-    }
-  } else {
-    // Agregar el nuevo producto al carrito si no existe
-    cartItems.value.push(product);
-  }
-};
-
-// Función para capitalizar la primera letra de una cadena
-const capitalizeFirstLetter = (str) => {
-  return str.replace(/\b\w/g, (match) => match.toUpperCase());
-};
-
-// Función para navegar al enlace de WhatsApp con los productos del carrito
 const navigateToLink = () => {
   let message = "Hola IGB! Me gustaría comprar estos productos:";
-  for (const item of cartItems.value) {
-    const productText = capitalizeFirstLetter(item.product);
-    message += `\n- ${productText} (${item.quantity})`;
+  for (const item of cartItems) {
+    message += `\n- ${item.product} (${item.quantity})`;
   }
   const link =
     "https://wa.me/573054304014/?text=" + encodeURIComponent(message);
   window.location.href = link;
+};
+
+const removeFromCart = (index) => {
+  cartItems.splice(index, 1);
+};
+
+const increaseQuantity = (index) => {
+  cartItems[index].quantity++;
+};
+
+const decreaseQuantity = (index) => {
+  if (cartItems[index].quantity > 1) {
+    cartItems[index].quantity--;
+  } else {
+    removeFromCart(index);
+  }
 };
 </script>
 
@@ -71,10 +50,16 @@ const navigateToLink = () => {
       </button>
     </div>
     <div class="theproducts">
-      <!-- Pasar cartItems como prop a TheProductCart -->
-      <TheProductCart :cartItems="cartItems" />
+      <div v-for="(item, index) in cartItems" :key="index">
+        <TheProductCart :productName="item.product" :cartItems="cartItems" />
+        <div>
+          <button @click="increaseQuantity(index)">+</button>
+          <span>{{ item.quantity }}</span>
+          <button @click="decreaseQuantity(index)">-</button>
+        </div>
+      </div>
     </div>
-    <div v-if="cartItems.length > 0" class="boton_total">
+    <div class="boton_total">
       <div class="total">
         <p>total</p>
         <p>${{ calculateTotal() }}</p>
@@ -84,12 +69,9 @@ const navigateToLink = () => {
         <p>enviar tu pedido</p>
       </button>
     </div>
-    <!-- Div para mostrar cuando no hay productos en el carrito -->
-    <div v-else class="empty-cart">
-      <p>tu carrito esta vacio :C</p>
-    </div>
   </div>
 </template>
+
 <style scooped>
 .empty-cart {
   margin-top: 100px;

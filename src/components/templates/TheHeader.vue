@@ -14,13 +14,21 @@ const toggleCart = () => {
   isCartVisible.value = !isCartVisible.value;
 };
 </script>
-
+<script>
+export default {
+  data() {
+    return {
+      cartItems: [], // Definir cartItems en la instancia del componente padre
+    };
+  },
+};
+</script>
 <template>
   <div class="themenu" v-if="isMenuVisible">
     <TheMenu @close="toggleMenu" />
   </div>
   <div class="thecart" v-if="isCartVisible">
-    <TheCart @close="toggleCart" />
+    <TheCart :cartItems="cartItems" @click="toggleCart" />
   </div>
   <header>
     <div class="header_items">
@@ -31,12 +39,12 @@ const toggleCart = () => {
       />
 
       <div class="botones">
-        <img
+        <!--<img
           class="boton"
           src="/src/images/cart_black.svg"
           alt=""
           @click="toggleCart"
-        />
+        />-->
         <img
           class="boton"
           src="/src/images/menu_icon.svg"

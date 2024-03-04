@@ -1,69 +1,56 @@
 <script setup>
-import { defineProps, defineEmits } from "vue";
 import { useRouter } from "vue-router";
+import { defineProps, defineEmits } from "vue";
+
 const props = defineProps(["project"]);
-const emits = defineEmits(["add-to-cart"]);
+const emit = defineEmits(["addToCart"]);
 const router = useRouter();
 
 const capitalizeFirstLetter = (str) => {
   return str.replace(/\b\w/g, (match) => match.toUpperCase());
 };
 
-const navigateToDescription = () => {
-  if (!props.project.disponibilidad) {
-    window.alert(
-      "¡No te preocupes, seguro pronto estará disponible de nuevo! :,D"
+const navigateToLink = () => {
+  const productText = capitalizeFirstLetter(props.project.product);
+  const productPrice = capitalizeFirstLetter(props.project.price);
+  const link =
+    "https://wa.me/573054304014/?text=" +
+    encodeURIComponent(
+      `Hola IGB! Me gustaría comprar este producto: ${productText} por $${productPrice} ;D`
     );
-    return;
-  }
-
-  // Use router.push to navigate to the description view with the correct projectId
+  window.location.href = link;
+};
+const navigateToDescription = () => {
   router.push({
     name: "description",
     params: { projectId: props.project.id },
   });
 };
 
-const addToCart = () => {
-  if (!props.project.disponibilidad) {
-    window.alert(
-      "¡No te preocupes, seguro pronto estará disponible de nuevo! :,D"
-    );
-    return;
-  }
-
-  // Emitir un evento para notificar al componente padre que se ha añadido un producto al carrito
-  emits("add-to-cart", props.project);
-};
-
-const addToCartHandler = () => {
-  // Llamar a la función addToCart
-  addToCart();
+const handleAddToCart = (productName) => {
+  console.log(productName); // Agrega esta línea para imprimir el nombre del producto
+  emit("addToCart", productName);
 };
 </script>
 
 <template>
-  <div
-    class="card_container"
-    :class="{ agotado: !props.project.disponibilidad }"
-  >
+  <div class="card_container" :class="{ agotado: !project.disponibilidad }">
     <div class="card" @click="navigateToDescription">
       <div class="img_container">
-        <div class="no-disponible" v-if="!props.project.disponibilidad">
+        <div class="no-disponible" v-if="!project.disponibilidad">
           <h1>no disponible</h1>
         </div>
-        <img :src="props.project.images_url" alt="" />
+        <img :src="project.images_url" alt="" />
       </div>
-      <p class="product">{{ props.project.product }}</p>
-      <p class="price">${{ props.project.price }}</p>
+      <p class="product">{{ project.product }}</p>
+      <p class="price">${{ project.price }}</p>
     </div>
-    <button class="cart_button" @click="addToCartHandler">
-      <img class="cart" src="/src/images/cart_white.svg" alt="" />
-      añadir al carrito
+    <button class="cart_button" @click="navigateToLink">
+      <img class="cart" src="/src/images/whatsapp_icon.png" alt="" />
+      comprar en linea
     </button>
   </div>
 </template>
-
 <style scooped>
 p {
   font-weight: 300;
@@ -169,7 +156,7 @@ img {
   height: 100px;
   border-radius: 20px;
   bottom: 6%;
-  background-color: var(--color-orange);
+  background-color: #29a71a;
   display: flex;
   align-items: center;
   font-style: italic;

@@ -1,44 +1,30 @@
 <script setup>
-import { defineProps } from "vue";
+import { defineProps, defineEmits } from "vue";
 
-// Props recibidos desde el componente padre
-const props = defineProps(["cartItems"]);
+const props = defineProps(["productName"]);
+const emit = defineEmits(["removeFromCart"]);
 
-// Función para eliminar un producto del carrito
 const removeFromCart = (index) => {
-  props.cartItems.splice(index, 1);
+  // Emitir un evento con el índice del producto que se debe eliminar
+  emit("removeFromCart", index);
 };
 
-// Función para aumentar la cantidad de un producto en el carrito
 const increaseQuantity = (index) => {
   props.cartItems[index].quantity++;
 };
 
-// Función para disminuir la cantidad de un producto en el carrito
 const decreaseQuantity = (index) => {
   if (props.cartItems[index].quantity > 1) {
     props.cartItems[index].quantity--;
   } else {
-    // Si la cantidad es 1 o menos, se elimina el producto del carrito
     removeFromCart(index);
   }
 };
 </script>
 
 <template>
-  <div
-    class="cart_product"
-    v-for="(item, index) in props.cartItems"
-    :key="index"
-  >
-    <button class="sumar" @click="increaseQuantity(index)">+</button>
-    <p class="cantidad">{{ item.quantity }}</p>
-    <button class="restar" @click="decreaseQuantity(index)">−</button>
-    <p class="product_name">{{ item.product }}</p>
-    <p class="product_price">${{ item.price.toLocaleString() }}</p>
-    <button class="delete" @click="removeFromCart(index)">
-      <img src="/src/images/close.svg" alt="" />
-    </button>
+  <div class="cart_product">
+    <p>{{ productName }}</p>
   </div>
 </template>
 

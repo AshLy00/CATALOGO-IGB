@@ -9,10 +9,11 @@ const capitalizeFirstLetter = (str) => {
 
 const navigateToLink = () => {
   const productText = capitalizeFirstLetter(props.project.product);
+  const productPrice = capitalizeFirstLetter(props.project.price);
   const link =
     "https://wa.me/573054304014/?text=" +
     encodeURIComponent(
-      `Hola IGB! Me gustaría comprar este producto: ${productText} ;D`
+      `Hola IGB! Me gustaría comprar este producto: ${productText} por $${productPrice} ;D`
     );
   window.location.href = link;
 };

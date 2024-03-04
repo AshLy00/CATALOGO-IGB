@@ -3324,8 +3324,7 @@ export const database = [
     id: 262,
     price: "3,100,000",
     description: "sin descripción",
-    images_url:
-      "https://v9t7k9q5.rocketcdn.me/wp-content/uploads/2021/08/iphone-12-pro-max-128gb-oro-5.png",
+    images_url: "#",
     category: "tecnología",
     sub_category: "usados",
   },
