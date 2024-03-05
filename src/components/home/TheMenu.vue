@@ -5,6 +5,10 @@ import TheCategory from "./TheCategory.vue";
 const showSubCategoria = ref(false);
 const props = defineProps(["categoria"]);
 
+const closeMenu = () => {
+  showSubCategoria.value = false; // Close the menu
+};
+
 const primeraCategoria = {
   nombre: "electrodomésticos",
 };
@@ -73,60 +77,61 @@ const toggleSubCategoria = () => {
   <div class="menu_container">
     <div class="menu">
       <h1>categorías</h1>
-      <button class="close" @click="$emit('close')">
+      <button class="close" @click="closeMenu">
         <img src="/src/images/close.svg" alt="" />
       </button>
     </div>
     <div class="categorias">
       <TheCategory
         :categoria="primeraCategoria"
-        @click="$router.push({ name: 'electrodomesticos' }), $emit('close')"
+        @click="$router.push({ name: 'electrodomesticos' }), closeMenu"
       />
       <TheCategory
         :categoria="segundaCategoria"
-        @click="$router.push({ name: 'cocina' }), $emit('close')"
+        @click="$router.push({ name: 'cocina' }), closeMenu"
       />
       <TheCategory
         :categoria="terceraCategoria"
-        @click="$router.push({ name: 'salud' }), $emit('close')"
+        @click="$router.push({ name: 'salud' }), closeMenu"
       />
       <TheCategory
         :categoria="cuartaCategoria"
-        @click="$router.push({ name: 'cristaleria' }), $emit('close')"
+        @click="$router.push({ name: 'cristaleria' }), closeMenu"
       />
       <TheCategory
         :categoria="quintaCategoria"
-        @click="$router.push({ name: 'tecnologia' }), $emit('close')"
+        @click="$router.push({ name: 'tecnologia' }), closeMenu"
       />
       <TheCategory
         :categoria="sextaCategoria"
-        @click="$router.push({ name: 'piscinas y accesorios' }), $emit('close')"
+        @click="$router.push({ name: 'piscinas y accesorios' }), closeMenu"
       />
       <TheCategory
         :categoria="septimaCategoria"
-        @click="$router.push({ name: 'jardineria' }), $emit('close')"
+        @click="$router.push({ name: 'jardineria' }), closeMenu"
       />
       <TheCategory
         :categoria="octavaCategoria"
-        @click="$router.push({ name: 'hogar' }), $emit('close')"
+        @click="$router.push({ name: 'hogar' }), closeMenu"
       />
       <TheCategory
         :categoria="novenaCategoria"
-        @click="$router.push({ name: 'jugueteria' }), $emit('close')"
+        @click="$router.push({ name: 'jugueteria' }), closeMenu"
       />
       <TheCategory
         :categoria="decimaCategoria"
-        @click="$router.push({ name: 'aseo' }), $emit('close')"
+        @click="$router.push({ name: 'aseo' }), closeMenu"
       />
     </div>
   </div>
 </template>
-<style scooped>
+<style scoped>
 .categoria_container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  text-align: left;
+  align-items: start;
   width: 100%;
   transition-property: width;
   transition-duration: 0.5s;
@@ -151,14 +156,12 @@ const toggleSubCategoria = () => {
 .categorias {
   display: flex;
   flex-direction: column;
-  align-content: center;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-  width: 50%;
+  justify-content: left;
   gap: 30px;
   margin-top: 40px;
   margin-bottom: 40px;
+  width: 80%;
+  cursor: pointer;
 }
 .categoria {
   font-size: 1.1rem;
@@ -184,15 +187,15 @@ const toggleSubCategoria = () => {
 }
 .menu_container {
   background-color: white;
-  width: 700px;
-  height: 100%;
-  -webkit-box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.44);
-  -moz-box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.44);
-  box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.44);
-  border-radius: 0px 0px 0px 20px;
+  width: 500px;
+  -webkit-box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.822);
+  -moz-box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.822);
+  box-shadow: -4px -4px 29px -10px rgba(0, 0, 0, 0.822);
+  border-radius: 0px 0px 20px 0px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  height: fit-content;
 }
 
 .menu {
@@ -202,12 +205,12 @@ const toggleSubCategoria = () => {
   height: 90px;
   align-items: center;
   width: 100%;
-  font-weight: 800;
+  font-weight: 800px;
 }
 
 .menu h1 {
   margin-left: 50px;
-  font-weight: lighter;
+  font-weight: bold;
   font-size: 1.5rem;
   transition-property: font-size;
   transition-duration: 0.5s;
@@ -238,6 +241,7 @@ const toggleSubCategoria = () => {
     gap: 30px;
     margin-top: 40px;
     margin-bottom: 40px;
+    width: 80%;
   }
   .categoria {
     font-size: 1rem;
@@ -249,8 +253,8 @@ const toggleSubCategoria = () => {
     height: 30px;
   }
   .menu_container {
-    width: 600px;
-    height: 100%;
+    width: 500px;
+    height: fit-content;
   }
 
   .menu {
@@ -259,7 +263,6 @@ const toggleSubCategoria = () => {
   }
   .menu h1 {
     margin-left: 50px;
-    font-weight: lighter;
     font-size: 1.3rem;
   }
   .menu button {
@@ -283,6 +286,7 @@ const toggleSubCategoria = () => {
     gap: 30px;
     margin-top: 40px;
     margin-bottom: 40px;
+    width: 80%;
   }
   .categoria {
     font-size: 0.9rem;
@@ -295,7 +299,7 @@ const toggleSubCategoria = () => {
   }
   .menu_container {
     width: 500px;
-    height: 100%;
+    height: fit-content;
   }
 
   .menu {
@@ -304,7 +308,6 @@ const toggleSubCategoria = () => {
   }
   .menu h1 {
     margin-left: 50px;
-    font-weight: lighter;
     font-size: 1.2rem;
   }
   .menu button {
@@ -328,6 +331,7 @@ const toggleSubCategoria = () => {
     gap: 30px;
     margin-top: 40px;
     margin-bottom: 40px;
+    width: 80%;
   }
   .categoria {
     font-size: 0.9rem;
@@ -340,7 +344,7 @@ const toggleSubCategoria = () => {
   }
   .menu_container {
     width: 400px;
-    height: 100%;
+    width: 400px;
   }
 
   .menu {
@@ -349,7 +353,6 @@ const toggleSubCategoria = () => {
   }
   .menu h1 {
     margin-left: 40px;
-    font-weight: lighter;
     font-size: 1.1rem;
   }
   .menu button {
@@ -373,19 +376,22 @@ const toggleSubCategoria = () => {
     gap: 30px;
     margin-top: 40px;
     margin-bottom: 40px;
+    width: 80%;
+    font-size: 0.8rem;
   }
   .categoria {
-    font-size: 0.8rem;
+    font-size: 0.5rem;
     gap: 80px;
     width: 100%;
   }
+
   .close {
     width: 20px;
     height: 20px;
   }
   .menu_container {
     width: 100%;
-    height: 100%;
+    height: fit-content;
   }
 
   .menu {
@@ -394,7 +400,6 @@ const toggleSubCategoria = () => {
   }
   .menu h1 {
     margin-left: 25px;
-    font-weight: lighter;
     font-size: 1rem;
   }
   .menu button {

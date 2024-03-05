@@ -24,7 +24,7 @@ export default {
 };
 </script>
 <template>
-  <div class="themenu" v-if="isMenuVisible">
+  <div class="themenu" v-if="isMenuVisible" @click="toggleMenu">
     <TheMenu @close="toggleMenu" />
   </div>
   <div class="thecart" v-if="isCartVisible">
@@ -59,9 +59,18 @@ export default {
 <style scoped>
 .themenu {
   z-index: 4;
-  position: fixed;
-  top: 0%;
-  right: 0%;
+  position: fixed; /* Cambiado a fixed para que el menú se mantenga en su posición */
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.808
+  ); /* Semi-transparent white background */
+  overflow-y: auto; /* Habilitar el desplazamiento vertical */
 }
 .thecart {
   z-index: 4;

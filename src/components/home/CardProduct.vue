@@ -51,7 +51,7 @@ const handleAddToCart = (productName) => {
     </button>
   </div>
 </template>
-<style scooped>
+<style scoped>
 p {
   font-weight: 300;
 }

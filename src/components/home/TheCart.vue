@@ -72,20 +72,11 @@ const decreaseQuantity = (index) => {
   </div>
 </template>
 
-<style scooped>
+<style scoped>
 .empty-cart {
   margin-top: 100px;
   margin-bottom: 100px;
   font-size: 0.9rem;
-}
-.categoria_container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  transition-property: width;
-  transition-duration: 0.5s;
 }
 .total {
   display: flex;

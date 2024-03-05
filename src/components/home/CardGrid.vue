@@ -35,7 +35,7 @@ const allProductsShown = computed(
     ver más :D
   </button>
 </template>
-<style>
+<style scoped>
 .button {
   margin-top: 20px;
   border-radius: 20px;
