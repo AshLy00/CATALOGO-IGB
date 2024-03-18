@@ -28,19 +28,17 @@ const filteredDatabase = computed(() => {
 </script>
 
 <template>
-  <div class="titulo"><h1>cristaleria</h1></div>
+  <div class="titulo"><h1>Mascotas</h1></div>
   <div class="mostrar_filtro, filtro2">
     <button @click="toggleFiltersVisibility">
       {{ filtersVisible ? "Ocultar Filtros" : "Mostrar Filtros" }}
     </button>
   </div>
   <div class="filtro" v-if="filtersVisible">
-    <button @click="filterProducts('vajilla')">vajilla</button>
-    <button @click="filterProducts('copas')">copas</button>
-    <button @click="filterProducts('tazas')">tazas</button>
-    <button @click="filterProducts('vasos')">vasos</button>
-    <button @click="filterProducts('ensaladeras')">ensaladeras</button>
-    <button @click="filterProducts('contenedores')">contenedores</button>
+    <button @click="filterProducts('guantes quita pelo')">
+      guantes quita pelo
+    </button>
+    <button @click="filterProducts('comederos')">comederos</button>
     <button @click="showAllProducts">todo</button>
   </div>
 
@@ -48,7 +46,7 @@ const filteredDatabase = computed(() => {
     <CardProduct
       v-for="(p, i) in filteredDatabase"
       :key="i"
-      v-show="p.category === 'cristaleria'"
+      v-show="p.category === 'mascotas'"
       :project="p"
     />
   </div>

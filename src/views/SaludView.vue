@@ -36,14 +36,34 @@ const filteredDatabase = computed(() => {
   </div>
   <div class="filtro" v-if="filtersVisible">
     <button @click="filterProducts('mancuernas')">mancuernas</button>
+    <button @click="filterProducts('lamparas led uñas')">
+      lamparas led uñas
+    </button>
+    <button @click="filterProducts('olla para cera')">olla para cera</button>
     <button @click="filterProducts('basculas')">basculas</button>
     <button @click="filterProducts('bolsas termicas')">bolsas termicas</button>
     <button @click="filterProducts('fajas')">fajas</button>
-    <button @click="filterProducts('ortopédico')">ortopédico</button
-    ><button @click="filterProducts('maquina afeitadora')">
+    <button @click="filterProducts('brochas de maquillaje')">
+      brochas de maquillaje
+    </button>
+    <button @click="filterProducts('pulidor uñas')">pulidor uñas</button>
+    <button @click="filterProducts('ortopedico')">ortopedico</button>
+    <button @click="filterProducts('maquina afeitadora')">
       maquinas afeitadoras
     </button>
+    <button @click="filterProducts('tijeras')">tijeras</button>
+    <button @click="filterProducts('peines')">peines</button>
+    <button @click="filterProducts('guias para maquina')">
+      guias para maquin
+    </button>
+    <button @click="filterProducts('cuchillas')">cuchillas</button>
     <button @click="filterProducts('tensiometros')">tensiometros</button>
+    <button @click="filterProducts('secadores')">secadores</button>
+    <button @click="filterProducts('mascaras led')">mascaras led</button>
+    <button @click="filterProducts('cepillo secador')">cepillo secador</button>
+    <button @click="filterProducts('planchas y rizadores')">
+      planchas y rizadores
+    </button>
     <button @click="showAllProducts">todo</button>
   </div>
 

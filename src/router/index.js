@@ -91,12 +91,12 @@ const router = createRouter({
       component: () => import("../views/jugueteriaView.vue"),
     },
     {
-      path: "/aseo",
-      name: "aseo",
+      path: "/mascotas",
+      name: "mascotas",
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import("../views/AseoView.vue"),
+      component: () => import("../views/MascotasView.vue"),
     },
   ],
   scrollBehavior(to, from, savedPosition) {

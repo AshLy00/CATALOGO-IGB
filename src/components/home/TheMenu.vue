@@ -16,7 +16,7 @@ const segundaCategoria = {
   nombre: "cocina",
 };
 const terceraCategoria = {
-  nombre: "salud",
+  nombre: "salud y belleza",
 };
 const cuartaCategoria = {
   nombre: "cristaleria",
@@ -37,7 +37,7 @@ const novenaCategoria = {
   nombre: "jugueteria",
 };
 const decimaCategoria = {
-  nombre: "aseo",
+  nombre: "mascotas",
 };
 
 const toggleSubCategoria = () => {
@@ -120,7 +120,7 @@ const toggleSubCategoria = () => {
       />
       <TheCategory
         :categoria="decimaCategoria"
-        @click="$router.push({ name: 'aseo' }), closeMenu"
+        @click="$router.push({ name: 'mascotas' }), closeMenu"
       />
     </div>
   </div>

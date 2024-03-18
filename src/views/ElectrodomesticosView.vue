@@ -35,15 +35,29 @@ const filteredDatabase = computed(() => {
     </button>
   </div>
   <div class="filtro" v-if="filtersVisible">
-    <button @click="filterProducts('tostadores')">tostadores</button>
+    <button @click="filterProducts('hornos tostadores')">
+      hornos tostadores
+    </button>
     <button @click="filterProducts('batidoras')">batidoras</button>
     <button @click="filterProducts('ollas freidoras')">ollas freidoras</button>
     <button @click="filterProducts('ventiladores')">ventiladores</button>
     <button @click="filterProducts('picatodos')">picatodos</button>
-    <button @click="filterProducts('plancha')">planchas</button>
+    <button @click="filterProducts('aspiradoras')">aspiradoras</button>
+    <button @click="filterProducts('hidrolavadoras')">hidrolavadoras</button>
+    <button @click="filterProducts('planchas para ropa')">
+      planchas para ropa
+    </button>
     <button @click="filterProducts('cafeteras')">cafeteras</button>
     <button @click="filterProducts('microondas')">microondas</button>
+    <button @click="filterProducts('ollas aroceras')">ollas arroceras</button>
     <button @click="filterProducts('licuadoras')">licuadoras</button>
+    <button @click="filterProducts('ahumadores')">ahumadores</button>
+    <button @click="filterProducts('asadores electricos')">
+      asadores electricos
+    </button>
+    <button @click="filterProducts('estufas electrica')">
+      estufas electricas
+    </button>
     <button @click="filterProducts('humidificadores y difusores')">
       humidificadores y difusores
     </button>
@@ -53,9 +67,6 @@ const filteredDatabase = computed(() => {
     </button>
     <button @click="filterProducts('sanducheras y wafleras')">
       sanducheras y wafleras
-    </button>
-    <button @click="filterProducts('accesorios para tv')">
-      accesorios para tv
     </button>
     <button @click="filterProducts('procesadores de alimentos')">
       procesadores de alimentos

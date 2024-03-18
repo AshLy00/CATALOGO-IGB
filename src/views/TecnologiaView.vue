@@ -45,19 +45,41 @@ const filteredDatabase = computed(() => {
     <button @click="filterProducts('usados')">celulares usados</button>
     <button @click="filterProducts('controles')">controles</button>
     <button @click="filterProducts('grabadoras')">grabadoras</button>
-    <button @click="filterProducts('cámaras web')">cámaras web</button>
-    <button @click="filterProducts('cintas led')">cintas led</button>
+    <button @click="filterProducts('camaras web')">cámaras web</button>
+    <button @click="filterProducts('camaras de seguridad')">
+      camaras de seguridad
+    </button>
     <button @click="filterProducts('repetidores de señal')">
       repetidores de señal
     </button>
     <button @click="filterProducts('audifonos')">audifonos</button>
+    <button @click="filterProducts('audifonos alambricos')">
+      audifonos alambricos
+    </button>
     <button @click="filterProducts('adaptadores')">adaptadores</button>
-    <button @click="filterProducts('combos')">combos</button>
+    <button @click="filterProducts('radios')">radios</button>
+    <button @click="filterProducts('realidad virtual')">
+      realidad virtual
+    </button>
+    <button @click="filterProducts('combos teclado')">combos teclado</button>
     <button @click="filterProducts('cargadores')">cargadores</button>
+    <button @click="filterProducts('smart watch')">smart watch</button>
+    <button @click="filterProducts('accesorios para tv')">
+      accesorios para tv
+    </button>
+    <button @click="filterProducts('cargadores portatiles')">
+      cargadores portatiles
+    </button>
     <button @click="filterProducts('computadores')">computadores</button>
     <button @click="filterProducts('tripodes')">tripodes</button>
     <button @click="filterProducts('mouses')">mouses</button>
+    <button @click="filterProducts('mesas para laptop')">
+      mesas para laptop
+    </button>
+    <button @click="filterProducts('consolas')">consolas</button>
+    <button @click="filterProducts('parlantes')">parlantes</button>
     <button @click="filterProducts('videojuegos')">videojuegos</button>
+    <button @click="filterProducts('aros de luces')">aros de luces</button>
     <button @click="showAllProducts">todo</button>
   </div>
 
