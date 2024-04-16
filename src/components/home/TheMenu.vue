@@ -19,7 +19,7 @@ const terceraCategoria = {
   nombre: "salud y belleza",
 };
 const cuartaCategoria = {
-  nombre: "cristaleria",
+  nombre: "iluminacion",
 };
 const quintaCategoria = {
   nombre: "tecnologia",
@@ -38,6 +38,27 @@ const novenaCategoria = {
 };
 const decimaCategoria = {
   nombre: "mascotas",
+};
+const onceavaCategoria = {
+  nombre: "deporte",
+};
+const doceavaCategoria = {
+  nombre: "accesorios para vehiculos",
+};
+const treceavaCategoria = {
+  nombre: "baño",
+};
+const catorceavaCategoria = {
+  nombre: "oficina",
+};
+const quinceavaCategoria = {
+  nombre: "dormitorio",
+};
+const diesiseisavaCategoria = {
+  nombre: "bebes y niños",
+};
+const diesisieteavaCategoria = {
+  nombre: "comedor",
 };
 
 const toggleSubCategoria = () => {
@@ -71,6 +92,42 @@ const toggleSubCategoria = () => {
   if (decimaCategoria.subcategorias && decimaCategoria.subcategorias.length) {
     showSubCategoria.value = !showSubCategoria.value;
   }
+  if (onceavaCategoria.subcategorias && onceavaCategoria.subcategorias.length) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (doceavaCategoria.subcategorias && doceavaCategoria.subcategorias.length) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (
+    treceavaCategoria.subcategorias &&
+    treceavaCategoria.subcategorias.length
+  ) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (
+    catorceavaCategoria.subcategorias &&
+    catorceavaCategoria.subcategorias.length
+  ) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (
+    quinceavaCategoria.subcategorias &&
+    quinceavaCategoria.subcategorias.length
+  ) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (
+    diesiseisavaCategoria.subcategorias &&
+    diesiseisavaCategoria.subcategorias.length
+  ) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
+  if (
+    diesisietesavaCategoria.subcategorias &&
+    diesisietesavaCategoria.subcategorias.length
+  ) {
+    showSubCategoria.value = !showSubCategoria.value;
+  }
 };
 </script>
 <template>
@@ -92,11 +149,11 @@ const toggleSubCategoria = () => {
       />
       <TheCategory
         :categoria="terceraCategoria"
-        @click="$router.push({ name: 'salud' }), closeMenu"
+        @click="$router.push({ name: 'salud y belleza' }), closeMenu"
       />
       <TheCategory
         :categoria="cuartaCategoria"
-        @click="$router.push({ name: 'cristaleria' }), closeMenu"
+        @click="$router.push({ name: 'iluminacion' }), closeMenu"
       />
       <TheCategory
         :categoria="quintaCategoria"
@@ -121,6 +178,34 @@ const toggleSubCategoria = () => {
       <TheCategory
         :categoria="decimaCategoria"
         @click="$router.push({ name: 'mascotas' }), closeMenu"
+      />
+      <TheCategory
+        :categoria="onceavaCategoria"
+        @click="$router.push({ name: 'deporte' }), closeMenu"
+      />
+      <TheCategory
+        :categoria="doceavaCategoria"
+        @click="$router.push({ name: 'accesorios' }), closeMenu"
+      />
+      <TheCategory
+        :categoria="treceavaCategoria"
+        @click="$router.push({ name: 'baño' }), closeMenu"
+      />
+      <TheCategory
+        :categoria="catorceavaCategoria"
+        @click="$router.push({ name: 'oficina' }), closeMenu"
+      />
+      <TheCategory
+        :categoria="quinceavaCategoria"
+        @click="$router.push({ name: 'dormitorio' }), closeMenu"
+      />
+      <TheCategory
+        :categoria="diesiseisavaCategoria"
+        @click="$router.push({ name: 'bebes y niños' }), closeMenu"
+      />
+      <TheCategory
+        :categoria="diesisieteavaCategoria"
+        @click="$router.push({ name: 'comedor' }), closeMenu"
       />
     </div>
   </div>

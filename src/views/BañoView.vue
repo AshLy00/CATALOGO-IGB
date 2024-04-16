@@ -28,28 +28,24 @@ const filteredDatabase = computed(() => {
 </script>
 
 <template>
-  <div class="titulo"><h1>hogar</h1></div>
+  <div class="titulo"><h1>Baño</h1></div>
   <div class="mostrar_filtro, filtro2">
     <button @click="toggleFiltersVisibility">
       {{ filtersVisible ? "Ocultar Filtros" : "Mostrar Filtros" }}
     </button>
   </div>
   <div class="filtro" v-if="filtersVisible">
-    <button @click="filterProducts('neveras de icopor')">
-      neveras de icopor
+    <button @click="filterProducts('organizadores')">organizadores</button>
+    <button @click="filterProducts('dispensadores')">dispensadores</button>
+    <button @click="filterProducts('toallas')">toallas</button>
+    <button @click="filterProducts('tapetes')">tapetes</button>
+    <button @click="filterProducts('cepillos de dientes')">
+      cepillos de dientes
     </button>
-    <button @click="filterProducts('mesas de planchar')">
-      mesas de planchar
+    <button @click="filterProducts('tapetes desinfectantes')">
+      tapetes desinfectantes
     </button>
-    <button @click="filterProducts('paraguas')">paraguas</button>
-    <button @click="filterProducts('mesas')">mesas</button>
-    <button @click="filterProducts('canastas')">canastas</button>
-    <button @click="filterProducts('alfombras')">alfombras</button>
-    <button @click="filterProducts('recordatorios')">recordatorios</button>
-    <button @click="filterProducts('aseo')">aseo</button>
-    <button @click="filterProducts('infladores')">infladores</button>
-    <button @click="filterProducts('timbres')">timbres</button>
-    <button @click="filterProducts('abanico')">abanico</button>
+    <button @click="filterProducts('jaboneras')">jaboneras</button>
     <button @click="showAllProducts">todo</button>
   </div>
 
@@ -57,7 +53,7 @@ const filteredDatabase = computed(() => {
     <CardProduct
       v-for="(p, i) in filteredDatabase"
       :key="i"
-      v-show="p.category === 'hogar'"
+      v-show="p.category === 'baño'"
       :project="p"
     />
   </div>

@@ -35,42 +35,70 @@ const filteredDatabase = computed(() => {
     </button>
   </div>
   <div class="filtro" v-if="filtersVisible">
-    <button @click="filterProducts('ollas')">ollas</button>
+    <button @click="filterProducts('ollas a presión')">ollas a presión</button>
     <button @click="filterProducts('sartenes')">sartenes</button>
-    <button @click="filterProducts('cuchillos')">cuchillos</button>
+    <button @click="filterProducts('woks')">woks</button>
+    <button @click="filterProducts('ollas')">ollas</button>
     <button @click="filterProducts('calderos')">calderos</button>
-    <button @click="filterProducts('ralladores')">ralladores</button>
-    <button @click="filterProducts('portacomidas')">portacomidas</button>
-    <button @click="filterProducts('especieros')">especieros</button>
-    <button @click="filterProducts('recipientes de plasticos')">
-      recipientes de plasticos
-    </button>
-    <button @click="filterProducts('escurridor de platos')">
-      escurridor de platos
-    </button>
-    <button @click="filterProducts('canastas')">canastas</button>
-    <button @click="filterProducts('peroles')">peroles</button>
-    <button @click="filterProducts('bowls')">bowls</button>
-    <button @click="filterProducts('termos')">termos</button>
-    <button @click="filterProducts('grameras')">grameras</button>
-    <button @click="filterProducts('tablas de picar')">tablas de picar</button>
-    <button @click="filterProducts('juegos de cubiertos')">
-      juegos de cubiertos
-    </button>
-    <button @click="filterProducts('articulos de cocina')">
-      articulos de cocina
-    </button>
-    <button @click="filterProducts('parrillas')">parrillas</button>
-    <button @click="filterProducts('bar')">utensilios bar</button>
-    <button @click="filterProducts('sets de utensilios')">
-      sets de utensilios
-    </button>
     <button @click="filterProducts('baterias de cocina')">
       baterias de cocina
     </button>
-    <button @click="filterProducts('ollas de presión')">
-      ollas de presión
+    <button @click="filterProducts('cuchillos')">cuchillos</button>
+    <button @click="filterProducts('portacomidas')">portacomidas</button>
+    <button @click="filterProducts('parrillas')">parillas</button>
+    <button @click="filterProducts('peroles')">peroles</button>
+    <button @click="filterProducts('bowls')">bowls</button>
+    <button @click="filterProducts('termos')">termos</button>
+    <button @click="filterProducts('bar')">bar</button>
+    <button @click="filterProducts('tablas de picar')">tablas de picar</button>
+    <button @click="filterProducts('escurridor de platos')">
+      escurridor de platos
     </button>
+    <button @click="filterProducts('grameras')">grameras</button>
+    <button @click="filterProducts('ralladores')">ralladores</button>
+    <button @click="filterProducts('dispensadores')">dispensadores</button>
+    <button @click="filterProducts('afiladores')">afiladores</button>
+    <button @click="filterProducts('set de utensilios')">
+      sets de utensilios
+    </button>
+    <button @click="filterProducts('contenedores')">contenedores</button>
+    <button @click="filterProducts('recipientes plasticos')">
+      recipientes plasticos
+    </button>
+    <button @click="filterProducts('jarras')">jarras</button>
+    <button @click="filterProducts('sacacorchos')">sacacorchos</button>
+    <button @click="filterProducts('abrelatas')">abrelatas</button>
+    <button @click="filterProducts('peladores')">peladores</button>
+    <button @click="filterProducts('tijeras')">tijeras</button>
+    <button @click="filterProducts('coladores')">coladores</button>
+    <button @click="filterProducts('utensilios')">utensilios</button>
+    <button @click="filterProducts('filtros de agua')">filtros de agua</button>
+    <button @click="filterProducts('refractarias')">refractarias</button>
+    <button @click="filterProducts('portarollos')">portarollos</button>
+    <button @click="filterProducts('martillos')">martillos</button>
+    <button @click="filterProducts('cucharas heladeras')">
+      cucharas heladeras
+    </button>
+    <button @click="filterProducts('exprimidores')">exprimidores</button>
+    <button @click="filterProducts('prensas de pure')">prensas de pure</button>
+    <button @click="filterProducts('cortadores pizza')">
+      cortadores de pizza
+    </button>
+    <button @click="filterProducts('sprays')">sprays</button>
+    <button @click="filterProducts('exprimidores')">exprimidores</button>
+    <button @click="filterProducts('termometros digitales')">
+      termometros digitales
+    </button>
+    <button @click="filterProducts('palas de torta')">palas de torta</button>
+    <button @click="filterProducts('dispensadores de jabon')">
+      dispensadores de jabon
+    </button>
+    <button @click="filterProducts('moledores')">moledores</button>
+    <button @click="filterProducts('servilleteros')">servilleteros</button>
+    <button @click="filterProducts('brochas de cocina')">
+      brochas de cocina
+    </button>
+
     <button @click="showAllProducts">todo</button>
   </div>
 

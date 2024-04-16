@@ -615,7 +615,7 @@ export const database = [
     id: "051",
     price: "28,000",
     description: "flotador chaleco salvavidas 58cm pool school",
-    images_url: "",
+    images_url: "https://images.thimbletoys.com/images/items/5640006a.jpg",
     category: "piscinas y accesorios",
     sub_category: "flotadores",
   },
@@ -848,72 +848,6 @@ export const database = [
     images_url: "https://m.media-amazon.com/images/I/51-objnEWBL._AC_.jpg",
     category: "mascotas",
     sub_category: "guantes quita pelo",
-  },
-  {
-    product: "comederos",
-    disponibilidad: true,
-    descuento: false,
-    id: "071",
-    price: "",
-    description: "",
-    images_url: "",
-    category: "mascotas",
-    sub_category: "comederos",
-  },
-  {
-    product: "comederos",
-    disponibilidad: true,
-    descuento: false,
-    id: "072",
-    price: "",
-    description: "",
-    images_url: "",
-    category: "mascotas",
-    sub_category: "comederos",
-  },
-  {
-    product: "comederos",
-    disponibilidad: true,
-    descuento: false,
-    id: "073",
-    price: "",
-    description: "",
-    images_url: "",
-    category: "mascotas",
-    sub_category: "comederos",
-  },
-  {
-    product: "comederos",
-    disponibilidad: true,
-    descuento: false,
-    id: "074",
-    price: "",
-    description: "",
-    images_url: "",
-    category: "mascotas",
-    sub_category: "comederos",
-  },
-  {
-    product: "comederos",
-    disponibilidad: true,
-    descuento: false,
-    id: "075",
-    price: "",
-    description: "",
-    images_url: "",
-    category: "mascotas",
-    sub_category: "comederos",
-  },
-  {
-    product: "comedero gato",
-    disponibilidad: true,
-    descuento: false,
-    id: "076",
-    price: "",
-    description: "",
-    images_url: "",
-    category: "mascotas",
-    sub_category: "comederos",
   },
   {
     product: "xiaomi redmi note 12s 8gb / 256gb",
@@ -2459,7 +2393,8 @@ export const database = [
     descuento: false,
     id: 198,
     price: "139,925",
-    description: "",
+    description:
+      "Ventilador De Pedestal Olimpo 18 Pulgadas Negro OLSF-TGM-LF6B",
     images_url:
       "https://olimpica.vtexassets.com/arquivos/ids/1118977-600-auto?v=638235875163900000&width=600&height=auto&aspect=true",
     category: "electrodomesticos",
@@ -3347,7 +3282,8 @@ export const database = [
     price: "146,000",
     description:
       "Soplador de mano eléctrico para limpieza de ordenador, limpiador de ordenador de 500W, soplado/recolección de polvo 2 en 1, ventilador de ventilación",
-    images_url: "",
+    images_url:
+      "https://lahatditoph.s3.ap-east-1.amazonaws.com/uploads/all/AM2zEmdwNC9lJvdisYZd4rNSM1j4ROOODalMpsZu.png",
     category: "electrodomesticos",
     sub_category: "aspiradoras",
   },
@@ -3591,7 +3527,8 @@ export const database = [
     price: "19,600",
     description:
       "Tamaño Producto: 14 x 20 cm.\nPeso: 45 g.\nBolsa térmica para agua caliente o fría, alivia dolores musculares, de espalda, lumbares y cólicos menstruales, sirve para masajes, terapias o terapeutas entre otros usos.\nCuello tipo embudo para facilitar el llenado.\nSoporta agua fría y agua caliente (No superar 80°)\n¡Solo llénala con agua caliente y listo! Su material mantendrá el calor por mucho tiempo.\nAplicar calor sobre tu vientre es una forma natural de calmar estos calambres, pues tiene un efecto analgésico y anti-inflamatorio.\nAdemás te ayudará con golpes, ya que relaja los músculos de la zona en donde la uses.",
-    images_url: "",
+    images_url:
+      "https://boytoyscol.vtexassets.com/arquivos/ids/155557-1600-auto?v=637373724773400000&width=1600&height=auto&aspect=true",
     category: "deporte",
     sub_category: "mancuernas",
   },
@@ -3645,7 +3582,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_813905-MLU73947897385_012024-O.webp",
     category: "salud y belleza",
-    sub_category: "ortopédico",
+    sub_category: "ortopedico",
   },
   {
     product: "medias de compresión zip sox",
@@ -3658,7 +3595,7 @@ export const database = [
     images_url:
       "https://img.kwcdn.com/product/open/2023-07-03/1688346532485-2b475fa016ff4c02b59c735288c48f16-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
     category: "salud y belleza",
-    sub_category: "ortopédico",
+    sub_category: "ortopedico",
   },
   {
     product: "corrector de juanetes",
@@ -3671,7 +3608,7 @@ export const database = [
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_774097-MLU72675745298_112023-O.webp",
     category: "salud y belleza",
-    sub_category: "ortopédico",
+    sub_category: "ortopedico",
   },
   {
     product: "set guante protector de muñeca y tobillo en tela",
@@ -3683,7 +3620,7 @@ export const database = [
     images_url:
       "https://tinypic.host/images/2024/03/12/324187318_1271223790275369_358749967717829888_n-removebg-preview.png",
     category: "salud y belleza",
-    sub_category: "ortopédico",
+    sub_category: "ortopedico",
   },
   {
     product: "medias de compresion",
@@ -3696,7 +3633,7 @@ export const database = [
     images_url:
       "https://ae01.alicdn.com/kf/S3b6a7cc86e474bb7982dd074123066d9R/Medias-de-compresi-n-m-dicas-para-mujer-calcetines-largos-de-presi-n-para-ciclismo-con.jpg_.webp",
     category: "salud y belleza",
-    sub_category: "ortopédico",
+    sub_category: "ortopedico",
   },
   {
     product: "tensiómetro digital jziki",
@@ -5465,17 +5402,6 @@ export const database = [
     sub_category: "sets de muñecas",
   },
   {
-    product: "muñeca con hija y moto incluye accesorios",
-    disponibilidad: true,
-    descuento: false,
-    id: 438,
-    price: "69,500",
-    description: "muñeca con hija y moto incluye accesorios",
-    images_url: "",
-    category: "jugueteria",
-    sub_category: "sets de muñecas",
-  },
-  {
     product: "muñeca articulada con bicicleta, globos e hija",
     disponibilidad: true,
     descuento: false,
@@ -5626,7 +5552,7 @@ export const database = [
     id: 451,
     price: "26,000",
     description: "carro control remoto legends colores varios 20x9x5 cm",
-    images_url: "",
+    images_url: "https://tinypic.host/images/2024/04/15/26.000-X3-26-60626.png",
     category: "jugueteria",
     sub_category: "carros a control remoto",
   },
@@ -6529,7 +6455,8 @@ export const database = [
     id: 526,
     price: "69,000",
     description: "modelos: safari, colombia y urbanbus 51cm x 12cm x 12cm",
-    images_url: "",
+    images_url:
+      "https://tinypic.host/images/2024/04/15/69.000DG-X2-64-60624.png",
     category: "jugueteria",
     sub_category: "carros y camiones",
   },

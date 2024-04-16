@@ -28,28 +28,21 @@ const filteredDatabase = computed(() => {
 </script>
 
 <template>
-  <div class="titulo"><h1>hogar</h1></div>
+  <div class="titulo"><h1>accesorios para vehiculos</h1></div>
   <div class="mostrar_filtro, filtro2">
     <button @click="toggleFiltersVisibility">
       {{ filtersVisible ? "Ocultar Filtros" : "Mostrar Filtros" }}
     </button>
   </div>
   <div class="filtro" v-if="filtersVisible">
-    <button @click="filterProducts('neveras de icopor')">
-      neveras de icopor
-    </button>
-    <button @click="filterProducts('mesas de planchar')">
-      mesas de planchar
-    </button>
-    <button @click="filterProducts('paraguas')">paraguas</button>
-    <button @click="filterProducts('mesas')">mesas</button>
-    <button @click="filterProducts('canastas')">canastas</button>
-    <button @click="filterProducts('alfombras')">alfombras</button>
-    <button @click="filterProducts('recordatorios')">recordatorios</button>
-    <button @click="filterProducts('aseo')">aseo</button>
-    <button @click="filterProducts('infladores')">infladores</button>
-    <button @click="filterProducts('timbres')">timbres</button>
-    <button @click="filterProducts('abanico')">abanico</button>
+    <button @click="filterProducts('luces')">luces</button>
+    <button @click="filterProducts('seguridad')">seguridad</button>
+    <button @click="filterProducts('compresores')">compresores</button>
+    <button @click="filterProducts('guantes')">guantes</button>
+    <button @click="filterProducts('adaptadores')">adaptadores</button>
+    <button @click="filterProducts('limpieza')">limpieza</button>
+    <button @click="filterProducts('soportes')">soportes</button>
+    <button @click="filterProducts('sillines')">sillines</button>
     <button @click="showAllProducts">todo</button>
   </div>
 
@@ -57,7 +50,7 @@ const filteredDatabase = computed(() => {
     <CardProduct
       v-for="(p, i) in filteredDatabase"
       :key="i"
-      v-show="p.category === 'hogar'"
+      v-show="p.category === 'accesorios para vehiculos'"
       :project="p"
     />
   </div>

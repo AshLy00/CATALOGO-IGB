@@ -28,28 +28,29 @@ const filteredDatabase = computed(() => {
 </script>
 
 <template>
-  <div class="titulo"><h1>hogar</h1></div>
+  <div class="titulo"><h1>bebes y niños</h1></div>
   <div class="mostrar_filtro, filtro2">
     <button @click="toggleFiltersVisibility">
       {{ filtersVisible ? "Ocultar Filtros" : "Mostrar Filtros" }}
     </button>
   </div>
   <div class="filtro" v-if="filtersVisible">
-    <button @click="filterProducts('neveras de icopor')">
-      neveras de icopor
-    </button>
-    <button @click="filterProducts('mesas de planchar')">
-      mesas de planchar
-    </button>
-    <button @click="filterProducts('paraguas')">paraguas</button>
-    <button @click="filterProducts('mesas')">mesas</button>
-    <button @click="filterProducts('canastas')">canastas</button>
-    <button @click="filterProducts('alfombras')">alfombras</button>
-    <button @click="filterProducts('recordatorios')">recordatorios</button>
-    <button @click="filterProducts('aseo')">aseo</button>
-    <button @click="filterProducts('infladores')">infladores</button>
-    <button @click="filterProducts('timbres')">timbres</button>
-    <button @click="filterProducts('abanico')">abanico</button>
+    <button @click="filterProducts('sonajeros')">sonajeros</button>
+    <button @click="filterProducts('gimnasios')">gimnasios</button>
+    <button @click="filterProducts('rasca encias')">rasca encias</button>
+    <button @click="filterProducts('cucharas')">cucharas</button>
+    <button @click="filterProducts('baberos')">baberos</button>
+    <button @click="filterProducts('chupetes')">chupetes</button>
+    <button @click="filterProducts('teteros')">teteros</button>
+    <button @click="filterProducts('instrumentos')">instrumentos</button>
+    <button @click="filterProducts('platos y vasos')">platos y vasos</button>
+    <button @click="filterProducts('cuidado')">cuidado</button>
+    <button @click="filterProducts('vasenillas')">vasenillas</button>
+    <button @click="filterProducts('andadores')">andadores</button>
+    <button @click="filterProducts('tapetes')">tapetes</button>
+    <button @click="filterProducts('aros')">aros</button>
+    <button @click="filterProducts('telefonos')">telefonos</button>
+    <button @click="filterProducts('didactico')">dicatico</button>
     <button @click="showAllProducts">todo</button>
   </div>
 
@@ -57,7 +58,7 @@ const filteredDatabase = computed(() => {
     <CardProduct
       v-for="(p, i) in filteredDatabase"
       :key="i"
-      v-show="p.category === 'hogar'"
+      v-show="p.category === 'bebes y niños'"
       :project="p"
     />
   </div>

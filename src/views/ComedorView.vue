@@ -28,28 +28,26 @@ const filteredDatabase = computed(() => {
 </script>
 
 <template>
-  <div class="titulo"><h1>hogar</h1></div>
+  <div class="titulo"><h1>comedor</h1></div>
   <div class="mostrar_filtro, filtro2">
     <button @click="toggleFiltersVisibility">
       {{ filtersVisible ? "Ocultar Filtros" : "Mostrar Filtros" }}
     </button>
   </div>
   <div class="filtro" v-if="filtersVisible">
-    <button @click="filterProducts('neveras de icopor')">
-      neveras de icopor
+    <button @click="filterProducts('vajilla')">vajilla</button>
+    <button @click="filterProducts('individuales')">individuales</button>
+    <button @click="filterProducts('vajilla infantil')">
+      vajilla infantil
     </button>
-    <button @click="filterProducts('mesas de planchar')">
-      mesas de planchar
+    <button @click="filterProducts('vasos y copas')">vasos y copas</button>
+    <button @click="filterProducts('ensaladeras')">ensaladeras</button>
+    <button @click="filterProducts('mugs')">mugs</button>
+    <button @click="filterProducts('especieros')">especieros</button>
+    <button @click="filterProducts('juegos de cubiertos')">
+      juegos de cubiertos
     </button>
-    <button @click="filterProducts('paraguas')">paraguas</button>
-    <button @click="filterProducts('mesas')">mesas</button>
-    <button @click="filterProducts('canastas')">canastas</button>
-    <button @click="filterProducts('alfombras')">alfombras</button>
-    <button @click="filterProducts('recordatorios')">recordatorios</button>
-    <button @click="filterProducts('aseo')">aseo</button>
-    <button @click="filterProducts('infladores')">infladores</button>
-    <button @click="filterProducts('timbres')">timbres</button>
-    <button @click="filterProducts('abanico')">abanico</button>
+    <button @click="filterProducts('cubiertero')">cubierteros</button>
     <button @click="showAllProducts">todo</button>
   </div>
 
@@ -57,7 +55,7 @@ const filteredDatabase = computed(() => {
     <CardProduct
       v-for="(p, i) in filteredDatabase"
       :key="i"
-      v-show="p.category === 'hogar'"
+      v-show="p.category === 'comedor'"
       :project="p"
     />
   </div>

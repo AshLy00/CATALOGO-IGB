@@ -43,12 +43,12 @@ const router = createRouter({
       component: () => import("../views/SaludView.vue"),
     },
     {
-      path: "/cristaleria",
-      name: "cristaleria",
+      path: "/iluminacion",
+      name: "iluminacion",
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import("../views/CristaleriaView.vue"),
+      component: () => import("../views/IluminacionView.vue"),
     },
     {
       path: "/tecnologia",
@@ -97,6 +97,63 @@ const router = createRouter({
       // this generates a separate chunk (About.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
       component: () => import("../views/MascotasView.vue"),
+    },
+    {
+      path: "/deporte",
+      name: "deporte",
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import("../views/DeporteView.vue"),
+    },
+
+    {
+      path: "/accesorios",
+      name: "accesorios",
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import("../views/AccesoriosParaVehiculosView.vue"),
+    },
+    {
+      path: "/baño",
+      name: "baño",
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import("../views/BañoView.vue"),
+    },
+    {
+      path: "/oficina",
+      name: "oficina",
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import("../views/OficinaView.vue"),
+    },
+    {
+      path: "/dormitorio",
+      name: "dormitorio",
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import("../views/DormitorioView.vue"),
+    },
+    {
+      path: "/bebes y niños",
+      name: "bebes y niños",
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import("../views/BebesYNiñosView.vue"),
+    },
+    {
+      path: "/comedor",
+      name: "comedor",
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import("../views/ComedorView.vue"),
     },
   ],
   scrollBehavior(to, from, savedPosition) {

@@ -35,9 +35,7 @@ const filteredDatabase = computed(() => {
     </button>
   </div>
   <div class="filtro" v-if="filtersVisible">
-    <button @click="filterProducts('maceteros / materas')">
-      maceteros / materas
-    </button>
+    <button @click="filterProducts('maceteros')">maceteros</button>
     <button @click="filterProducts('guantes')">guantes</button>
     <button @click="filterProducts('herramientas')">herramientas</button>
     <button @click="filterProducts('delantales')">delantales</button>
