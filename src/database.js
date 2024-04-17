@@ -853,7 +853,7 @@ export const database = [
     product: "xiaomi redmi note 12s 8gb / 256gb",
     disponibilidad: true,
     descuento: false,
-    id: "077",
+    id: "071",
     price: "1,540,000",
     description:
       "Cámara de 108 MPx donde vas a capturar mayor detalle\nPantalla AMOLED con amplia gama de colores\nCarga rápida de 33W, carga de 0 a 100 en aprox. 58 min\nUn procesador que se adapta a todas las tareas diarias\nTen mejores fotos aprovechando nuestra AI",
@@ -866,7 +866,7 @@ export const database = [
     product: "xiaomi redmi note 12 pro 8gb / 256gb",
     disponibilidad: true,
     descuento: false,
-    id: "078",
+    id: "072",
     price: "990,000",
     description:
       "Android 11, MIUI 13\nAMOLED, 120 Hz\nTamaño: 6,67 pulgadas\nResolución:  1080 x 2400 píxeles\nInterna: 256GB\nRAM: 8GB\nMicroSD: microSDXC (utiliza ranura SIM compartida)\nUFS 2.2",
@@ -879,7 +879,7 @@ export const database = [
     product: "xiaomi redmi note 12 128gb",
     disponibilidad: true,
     descuento: false,
-    id: "079",
+    id: "073",
     price: "799,000",
     description:
       'Memoria RAM: 4 GB\nDispositivo desbloqueado para que elijas la compañía telefónica que prefieras.\nPantalla AMOLED de 6.67"\nTiene 3 cámaras traseras de 50Mpx/8Mpx/2Mpx\nCámaras delanteras de 13Mpx\nProcesador Snapdragon 685 Octa-Core de 2.8GHz con 4GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar\nResistente al polvo',
@@ -892,7 +892,7 @@ export const database = [
     product: "xiaomi redmi a2 64gb",
     disponibilidad: true,
     descuento: false,
-    id: "080",
+    id: "074",
     price: "379,000",
     description:
       'Pantalla IPS de 6.52"\nTiene 2 cámaras traseras de 8Mpx/0.08Mpx\nCámara delantera de 5Mpx\nProcesador MediaTek Helio G36 Octa-Core de 2.2GHz con 2GB de RAM\nBatería de 5000mAh\nMemoria interna de 64G.',
@@ -905,7 +905,7 @@ export const database = [
     product: "xiaomi redmi 13c 8gb 256gb",
     disponibilidad: true,
     descuento: false,
-    id: "081",
+    id: "075",
     price: "760,000",
     description:
       "Pantalla: 6.74\nAndroid 13\nProcesador: Octa-core\n8GB Ram\nAlmacenamiento de 128GB\nBatería de 5000 mAh\nCámara principal: 50MP\nCámara frontal: 8MP",
@@ -918,7 +918,7 @@ export const database = [
     product: "xiomi redmi 13c 8gb 256gb",
     disponibilidad: true,
     descuento: false,
-    id: "082",
+    id: "076",
     price: "750,000",
     description:
       "Memoria interna: 256GB\nMarca y modelo del procesador: MediaTek Helio G85\nMemoria RAM: 8GB\nSistema operativo: Android 13\nConectividad: 4G",
@@ -931,7 +931,7 @@ export const database = [
     product: "xiaomi redmi 13c 6gb 128gb",
     disponibilidad: true,
     descuento: false,
-    id: "083",
+    id: "077",
     price: "650,000",
     description:
       "generacion: 4G\nmemoria expandible: Sobre 512GB\nmemoria ram: 8GB\nprocesador: Mediatek\nsistema operativo: Android",
@@ -944,7 +944,7 @@ export const database = [
     product: "xiaomi redmi 13c 4gb 128gb",
     disponibilidad: true,
     descuento: false,
-    id: "084",
+    id: "078",
     price: "550,000",
     description:
       "generacion: 4G\nmemoria expandible: 256GB\nmemoria ram: 8GB\nsistema operativo: Android",
@@ -957,7 +957,7 @@ export const database = [
     product: "xiaomi redmi 12 256gb 8ram",
     disponibilidad: true,
     descuento: false,
-    id: "085",
+    id: "079",
     price: "900,000",
     description:
       "generacion: 4G\nmemoria expandible: Sobre 512GB\nmemoria ram: 4GB\nprocesador: Qualcomm snapdragon\nsistema operativo: Android",
@@ -970,7 +970,7 @@ export const database = [
     product: "xiaomi redmi 12 128gb 4ram",
     disponibilidad: true,
     descuento: false,
-    id: "086",
+    id: "080",
     price: "656,000",
     description:
       "Capacidad de almacenamiento: 128GB\nConectividad: WiFi/3G/4G\nMarca y modelo del procesador: MediaTek Helio G88\nSistema operativo: Android 13\nMemoria RAM: 4GB",
@@ -983,7 +983,7 @@ export const database = [
     product: "xiaomi redmi 10c 64gb",
     disponibilidad: true,
     descuento: false,
-    id: "087",
+    id: "081",
     price: "430,000",
     description:
       "PANTALLA: LCD 6,71 pulgadas \nResolución HD+ (1.650 x 720 píxeles)\nDIMENSIONES Y PESO: 169,59 x 76,56 x 8,29 mm 190 g\nPROCESADOR: Snapdragon 680\nRAM: 4 GB LPDDR4X\nALMACENAMIENTO: 64 GB / 128 GB UFS 2.2\nCÁMARA FRONTAL: 5 MP f/2.2\nCÁMARA TRASERA: 50 MP f/1.8 - 2 MP f/2.4\nBATERÍA: 5.000 mAh Carga rápida 18 W\nSISTEMA OPERATIVO: Android 11 MIUI 13",
@@ -996,7 +996,7 @@ export const database = [
     product: "xiaomi redmi 10c 4ram 128gb",
     disponibilidad: true,
     descuento: false,
-    id: "088",
+    id: "082",
     price: "590,000",
     description:
       'Pantalla IPS de 6.71"\nTiene 2 cámaras traseras de 50Mpx/2Mpx\nCámara delantera de 5Mpx\nProcesador Snapdragon 680 Octa-Core de 2.4GHz con 4GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar\nResistente a las caídas',
@@ -1009,7 +1009,7 @@ export const database = [
     product: "xiaomi redmi 10a 64gb",
     disponibilidad: true,
     descuento: false,
-    id: "089",
+    id: "083",
     price: "420,000",
     description:
       'Dispositivo desbloqueado para que elijas la compañía telefónica que prefieras\nPantalla IPS de 6.53"\nCámara delantera de 5Mpx\nProcesador MediaTek MT6762G Helio G25 Octa-Core de 2GHz con 3GB de RAM\nBatería de 5000mAh\nMemoria interna de 64GB\nCon reconocimiento facial y sensor de huella dactilar',
@@ -1022,7 +1022,7 @@ export const database = [
     product: "xiaomi redmi 10a 32gb",
     disponibilidad: true,
     descuento: false,
-    id: "090",
+    id: "084",
     price: "390,000",
     description:
       'Dispositivo desbloqueado para que elijas la compañía telefónica que prefieras\nPantalla IPS de 6.53"\nCámara delantera de 5Mpx\nProcesador MediaTek MT6762G Helio G25 Octa-Core de 2GHz con 3GB de RAM\nBatería de 5000mAh\nMemoria interna de 32GB\nCon reconocimiento facial y sensor de huella dactilar',
@@ -1035,7 +1035,7 @@ export const database = [
     product: "xiaomi redmi 10 2022 6ram 128gb",
     disponibilidad: true,
     descuento: false,
-    id: "091",
+    id: "085",
     price: "613,000",
     description:
       'Dispositivo desbloqueado para que elijas la compañía telefónica que prefieras\nPantalla LCD de 6.5"\nTiene 4 cámaras traseras de 50Mpx/8Mpx/2Mpx/2Mpx\nCámaras delanteras de 8Mpx\nProcesador MediaTek Helio G88 Octa-Core de 2GHz con 6GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar',
@@ -1048,7 +1048,7 @@ export const database = [
     product: "xiaomi redmi 10 2022 4ram 128gb",
     disponibilidad: true,
     descuento: false,
-    id: "092",
+    id: "086",
     price: "513,000",
     description:
       'Dispositivo desbloqueado para que elijas la compañía telefónica que prefieras\nPantalla LCD de 6.5"\nTiene 4 cámaras traseras de 50Mpx/8Mpx/2Mpx/2Mpx\nCámaras delanteras de 8Mpx\nProcesador MediaTek Helio G88 Octa-Core de 2GHz con 4GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar',
@@ -1061,7 +1061,7 @@ export const database = [
     product: "xiaomi redmi 9a 32gb",
     disponibilidad: true,
     descuento: false,
-    id: "093",
+    id: "087",
     price: "390,000",
     description:
       "Pantalla 6.53” HD\nProcesador MediaTek Helio G25\nOcta-core, 12nm\n8* 2.0 GHZ\nMemoria 2 + 32Gb\nRed 2G GSM B2/3/5/8, 3GUMTS:1/2/4/5/8,\n4G LTE: B1/2/3/4/5/7/8/20/28/38/40/41\nCámara trasera 13MP, frontal 5MP\nConectividad 2 ranuras Nano SIM + 1 ranura Micro SD, Micro USB\nConector para auriculares de 3,5 mm",
@@ -1074,7 +1074,7 @@ export const database = [
     product: "xiaomi note 12 256gb 8 ram",
     disponibilidad: true,
     descuento: false,
-    id: "094",
+    id: "088",
     price: "890,000",
     description:
       "Android 12, MIUI 13\nDimensiones: 165,9 x 76,2 x 8 mm 188 g\nDual SIM híbrida (Nano-SIM, doble stand-by)\nIP53, resistente al polvo y a las salpicaduras\nPantalla: AMOLED, 120 Hz, 1200 nits (pico)\nTamaño: 6,67 pulgadas\nResolución: 1080 x 2400 píxeles\nCorning Gorilla Glass 3\nProcesador: Qualcomm Snapdragon 680 (SM6225)\nOcta-core 4x2.4 GHz Kryo 265 Gold + 4x1.9GHz Kryo 265 Silver Adreno 610\nMemoria Interna: 128GB\nRAM: 4GB\nMicroSD: SI, SD en slot independiente\nUFS 2.2",
@@ -1087,7 +1087,7 @@ export const database = [
     product: "xiaomi note 12 128gb 8ram",
     disponibilidad: true,
     descuento: false,
-    id: "095",
+    id: "089",
     price: "790,000",
     description:
       "generacion: 4G\nmemoria expandible: 128GB\nmemoria ram: 8GB\nprocesador: Qualcomm snapdragon Snapdragon 212\nsistema operativo: Android",
@@ -1100,7 +1100,7 @@ export const database = [
     product: "xiaomi note 12 128gb 6ram",
     disponibilidad: true,
     descuento: false,
-    id: "096",
+    id: "090",
     price: "750,000",
     description:
       "generacion: 4G\nmemoria expandible: 128GB\nmemoria ram: 6GB\nprocesador: Qualcomm snapdragon Snapdragon 212\nsistema operativo: Android",
@@ -1113,7 +1113,7 @@ export const database = [
     product: "xiaomi note 12 128gb 4ram",
     disponibilidad: true,
     descuento: false,
-    id: "097",
+    id: "091",
     price: "690,000",
     description:
       "generacion: 4G\nmemoria expandible: 128GB\nmemoria ram: 4GB\nprocesador: Qualcomm snapdragon Snapdragon 212\nsistema operativo: Android",
@@ -1126,7 +1126,7 @@ export const database = [
     product: "xiaomi note 12 5g 128gb 4ram",
     disponibilidad: true,
     descuento: false,
-    id: "098",
+    id: "092",
     price: "900,000",
     description:
       "generacion: 5G\nmemoria expandible: 128GB\nmemoria ram: 4GB\nprocesador: Qualcomm snapdragon Snapdragon 212\nsistema operativo: Android",
@@ -1139,7 +1139,7 @@ export const database = [
     product: "xiaomi note 11s 128gb 6 ram",
     disponibilidad: true,
     descuento: false,
-    id: "099",
+    id: "093",
     price: "890,000",
     description:
       'Procesador Snapdragon 680\nGpu: Adreno 610\nPantalla: 6.43" DotDisplay FHD+, Corning® Gorilla® Glass 5\nCorning® Gorilla® Glass 5 en la parte delantera y trasera\nResolucion: 1080 x 2400 AMOLED 90HZ\nMemoria Interna de 128 GB\nMemoria RAM de 6 GB\nParlantes stereo\nNFC: SI',
@@ -1152,7 +1152,7 @@ export const database = [
     product: "xiaomi note 11s 64gb 6 ram",
     disponibilidad: true,
     descuento: false,
-    id: 100,
+    id: "094",
     price: "790,000",
     description:
       'Procesador Snapdragon 680\nGpu: Adreno 610\nPantalla: 6.43" DotDisplay FHD+, Corning® Gorilla® Glass 5\nCorning® Gorilla® Glass 5 en la parte delantera y trasera\nResolucion: 1080 x 2400 AMOLED 90HZ\nMemoria Interna de 64 GB\nMemoria RAM de 6 GB\nParlantes stereo\nNFC: SI',
@@ -1165,7 +1165,7 @@ export const database = [
     product: "xiaomi note 10s 128gb 6 ram",
     disponibilidad: true,
     descuento: false,
-    id: 101,
+    id: "095",
     price: "849,000",
     description:
       'Pantalla AMOLED de 6.43".\nTiene 4 cámaras traseras de 64Mpx/8Mpx/2Mpx/2Mpx.\nCámaras delanteras de 13Mpx.\nProcesador MediaTek Helio G95 Octa-Core de 2.05GHz con 6GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nA prueba de agua.\nCon reconocimiento facial y sensor de huella dactilar.\nResistente al polvo y a las caídas.',
@@ -1178,7 +1178,7 @@ export const database = [
     product: "iphone 14 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 102,
+    id: "096",
     price: "3,650,000",
     description:
       "Pantalla Super Retina XDR de 6.1 pulgadas.\nSistema avanzado de cámaras para tomar mejores fotos en cualquier condición de luz.\nModo Cine ahora en 4K Dolby Vision de hasta 30cps.\nModo Acción para lograr videos estables, aún con cámara en mano.\nDetección de Choques, una funcionalidad de seguridad que pide ayuda cuando tú no puedes.\nBatería para todo el día y hasta 26 horas de reproducción de vídeo.",
@@ -1191,7 +1191,7 @@ export const database = [
     product: "iphone 11 64gb",
     disponibilidad: true,
     descuento: false,
-    id: 103,
+    id: "097",
     price: "2,369,000",
     description:
       "Sistema de dos cámaras.\nFotos en situaciones de poca luz con el modo Noche.\nResistencia al agua de hasta 30 min (Prof max 2 metros).\nNo incluye adaptador de corriente ni EarPods",
@@ -1204,7 +1204,7 @@ export const database = [
     product: "samsung galaxy a34 5g 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 104,
+    id: "098",
     price: "1,499,000",
     description:
       "Pantalla de 6.6 pulgadas con alta resolución\nCamara Principal de 48MP\nBatería de 5000 mAh de larga duración\nMemoria expandible hasta 1TB\nEscaner de huella en pantalla",
@@ -1217,7 +1217,7 @@ export const database = [
     product: "samsung a04s 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 105,
+    id: "099",
     price: "890,000",
     description:
       'Pantalla PLS de 6.5".\nTiene 3 cámaras traseras de 50Mpx/2Mpx/2Mpx.\nCámara delantera de 5Mpx.\nProcesador Exynos 850 Octa-Core de 2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nCon reconocimiento facial y sensor de huella dactilar.',
@@ -1230,7 +1230,7 @@ export const database = [
     product: "motorola g84 256 5g",
     disponibilidad: true,
     descuento: false,
-    id: 106,
+    id: 100,
     price: "879,000",
     description:
       'Compatible con redes 5G.\nPantalla POLED de 6.5".\nTiene 2 cámaras traseras de 50Mpx/8Mpx.\nCámaras delanteras de 16Mpx.\nProcesador Snapdragon 695 Octa-Core de 2.2GHz con 8GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 256GB.\nCon reconocimiento facial y sensor de huella dactilar.\nTarjeta eSIM incluida en tu dispositivo.',
@@ -1243,7 +1243,7 @@ export const database = [
     product: "motorola g72 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 107,
+    id: 101,
     price: "799,900",
     description:
       'Pantalla POLED de 6.6".\nTiene 3 cámaras traseras de 108Mpx/8Mpx/2Mpx.\nCámara delantera de 16Mpx.\nProcesador MediaTek Helio G99 Octa-Core de 2.2GHz con 6GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nCon reconocimiento facial y sensor de huella dactilar.',
@@ -1256,7 +1256,7 @@ export const database = [
     product: "motorola g54 128gb 5g",
     disponibilidad: true,
     descuento: false,
-    id: 108,
+    id: 102,
     price: "689,000",
     description:
       'Compatible con redes 5G.\nPantalla de 6.5".\nTiene 2 cámaras traseras de 50Mpx/2Mpx.\nCámaras delanteras de 16Mpx.\nProcesador MediaTek Dimensity 7020 Octa-Core de 2.2GHz con 8GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nCon reconocimiento facial y sensor de huella dactilar.\nTarjeta eSIM incluida en tu dispositivo.',
@@ -1269,7 +1269,7 @@ export const database = [
     product: "motorola g52 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 109,
+    id: 103,
     price: "629,900",
     description:
       'Pantalla POLED de 6.6".\nTiene 3 cámaras traseras de 50Mpx/8Mpx/2Mpx.\nCámara delantera de 16Mpx.\nProcesador Snapdragon 680 Octa-Core de 2.4GHz con 6GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente a las salpicaduras.\nCon reconocimiento facial y sensor de huella dactilar.\nResistente al polvo.',
@@ -1282,7 +1282,7 @@ export const database = [
     product: "motorola g51 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 110,
+    id: 104,
     price: "690,000",
     description:
       'Compatible con redes 5G.\nPantalla IPS de 6.8".\nTiene 3 cámaras traseras de 50Mpx/8Mpx/2Mpx.\nCámara delantera de 13Mpx.\nProcesador Snapdragon 480 Plus Octa-Core de 2.2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente a las salpicaduras.\nCon reconocimiento facial y sensor de huella dactilar.\nResistente al polvo.',
@@ -1295,7 +1295,7 @@ export const database = [
     product: "motorola g23 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 111,
+    id: 105,
     price: "569,900",
     description:
       'Pantalla IPS de 6.5".\nTiene 3 cámaras traseras de 50Mpx/5Mpx/2Mpx.\nCámara delantera de 16Mpx.\nProcesador Mediatek MT6769Z Helio G85 Octa-Core de 2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente al agua.\nCon sensor de huella dactilar.',
@@ -1308,7 +1308,7 @@ export const database = [
     product: "motorola g14 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 112,
+    id: 106,
     price: "540,000",
     description:
       'Pantalla IPS de 6.5".\nTiene 2 cámaras traseras de 50Mpx/2Mpx.\nCámara delantera de 8Mpx.\nProcesador Unisoc T616 Octa-Core de 2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente al agua.\nCon reconocimiento facial y sensor de huella dactilar.\nResistente al polvo.',
@@ -1321,7 +1321,7 @@ export const database = [
     product: "motorola g13 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 113,
+    id: 107,
     price: "499,000",
     description:
       'Pantalla IPS de 6.5".\nTiene 3 cámaras traseras de 50Mpx/2Mpx/2Mpx.\nCámara delantera de 8Mpx.\nProcesador MediaTek Helio G85 Octa-Core de 2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente a las salpicaduras.\nCon reconocimiento facial y sensor de huella dactilar.',
@@ -1334,7 +1334,7 @@ export const database = [
     product: "motorola e30 32gb",
     disponibilidad: true,
     descuento: false,
-    id: 114,
+    id: 108,
     price: "450,000",
     description:
       'Pantalla IPS de 6.5".\nTiene 3 cámaras traseras de 48Mpx/2Mpx/2Mpx.\nCámara delantera de 8Mpx.\nProcesador Unisoc T700 Octa-Core de 1.8GHz con 2GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 32GB.\nResistente a las salpicaduras.\nCon sensor de huella dactilar.',
@@ -1347,7 +1347,7 @@ export const database = [
     product: "motorola e22 4/128gb",
     disponibilidad: true,
     descuento: false,
-    id: 115,
+    id: 109,
     price: "399,000",
     description:
       'Pantalla IPS de 6.5".\nTiene 2 cámaras traseras de 16Mpx/2Mpx.\nCámara delantera de 5Mpx.\nProcesador Mediatek MT6765V/CB Helio G37 Octa-Core de 2.3GHz con 4GB de RAM.\nBatería de 4020mAh.\nMemoria interna de 128GB.\nResistente al agua.\nCon reconocimiento facial y sensor de huella dactilar.',
@@ -1360,7 +1360,7 @@ export const database = [
     product: "motorola e13 64gb",
     disponibilidad: true,
     descuento: false,
-    id: 116,
+    id: 110,
     price: "349,000",
     description:
       'Pantalla IPS de 6.5".\nCámara trasera de 13Mpx.\nCámara delantera de 5Mpx.\nProcesador Unisoc T606 Octa-Core de 1.6GHz con 2GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 64GB.\nResistente a las salpicaduras.\nCon reconocimiento facial.',
@@ -1373,7 +1373,7 @@ export const database = [
     product: "memoria micro sd con adaptador 128gb corn",
     disponibilidad: false,
     descuento: false,
-    id: 117,
+    id: 111,
     price: "76,000",
     description: "memoria micro sd con adaptador 128gb corn",
     images_url:
@@ -1385,7 +1385,7 @@ export const database = [
     product: "memoria micro sd con adaptador 64gb corn",
     disponibilidad: true,
     descuento: false,
-    id: 118,
+    id: 112,
     price: "38,000",
     description: "memoria micro sd con adaptador 64gb corn",
     images_url:
@@ -1397,7 +1397,7 @@ export const database = [
     product: "memoria micro sd con adaptador 32gb corn",
     disponibilidad: true,
     descuento: false,
-    id: 119,
+    id: 113,
     price: "36,000",
     description: "memoria micro sd con adaptador 32gb corn",
     images_url:
@@ -1409,7 +1409,7 @@ export const database = [
     product: "memoria micro sd con adaptador 16gb corn",
     disponibilidad: true,
     descuento: false,
-    id: 120,
+    id: 114,
     price: "34,000",
     description: "memoria micro sd con adaptador 16gb corn",
     images_url:
@@ -1421,7 +1421,7 @@ export const database = [
     product: "iphone xs max 256gb",
     disponibilidad: true,
     descuento: false,
-    id: 121,
+    id: 115,
     price: "1,850,000",
     description: "iphone xs max 256gb usado como nuevo",
     images_url:
@@ -1433,7 +1433,7 @@ export const database = [
     product: "iphone 13 pro max 256gb",
     disponibilidad: true,
     descuento: false,
-    id: 122,
+    id: 116,
     price: "3,999,000",
     description: "iphone 13 pro max 256gb usado como nuevo",
     images_url:
@@ -1445,7 +1445,7 @@ export const database = [
     product: "iphone 13 pro 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 123,
+    id: 117,
     price: "3,500,000",
     description: "iphone 13 pro 128gb usado como nuevo",
     images_url:
@@ -1457,7 +1457,7 @@ export const database = [
     product: "iphone 12 pro max 512gb",
     disponibilidad: true,
     descuento: false,
-    id: 124,
+    id: 118,
     price: "3,300,000",
     description: "iphone 12 pro max 512gb usado como nuevo",
     images_url:
@@ -1469,7 +1469,7 @@ export const database = [
     product: "iphone 12 pro max 256gb",
     disponibilidad: true,
     descuento: false,
-    id: 125,
+    id: 119,
     price: "3,200,000",
     description: "iphone 12 pro max 256gb usado como nuevo",
     images_url:
@@ -1481,7 +1481,7 @@ export const database = [
     product: "iphone 12 pro max 128gb",
     disponibilidad: true,
     descuento: false,
-    id: 126,
+    id: 120,
     price: "3,100,000",
     description: "iphone 12 pro max 128gb usado como nuevo",
     images_url:
@@ -1493,7 +1493,7 @@ export const database = [
     product: "iphone 11 64gb",
     disponibilidad: true,
     descuento: false,
-    id: 127,
+    id: 121,
     price: "1,650,000",
     description: "iphone 11 64gb usado como nuevo",
     images_url:
@@ -1505,7 +1505,7 @@ export const database = [
     product: "iphone 8 plus 64gb",
     disponibilidad: true,
     descuento: false,
-    id: 128,
+    id: 122,
     price: "1,050,000",
     description: "iphone 8 plus 64gb usado como nuevo",
     images_url:
@@ -1517,7 +1517,7 @@ export const database = [
     product: "cargador portatil corn 5000 mah",
     disponibilidad: false,
     descuento: false,
-    id: 129,
+    id: 123,
     price: "50,000",
     description:
       "Power bank S63\nMaterial ABS\nCapacidad 5000 mah\nVoltaje entrada DC 5V / 1A\nVoltaje Salida DC 5V / 2A\nDimensiones 90 x 63 x 12.5 mm",
@@ -1530,7 +1530,7 @@ export const database = [
     product: "mini cargador portatil 5000 mah iphone fly",
     disponibilidad: true,
     descuento: false,
-    id: 130,
+    id: 124,
     price: "64,000",
     description: "mini cargador portatil 5000 mah iphone fly",
     images_url:
@@ -1542,7 +1542,7 @@ export const database = [
     product: "cargador iphone 14 pro max apple",
     disponibilidad: true,
     descuento: false,
-    id: 131,
+    id: 125,
     price: "34,000",
     description: "cargador iphone 14 pro max apple",
     images_url:
@@ -1554,7 +1554,7 @@ export const database = [
     product: "cargador tipo b 15w fly",
     disponibilidad: true,
     descuento: false,
-    id: 132,
+    id: 126,
     price: "14,000",
     description: "cargador tipo b 15w fly",
     images_url:
@@ -1566,7 +1566,7 @@ export const database = [
     product: "cargador tipo c 15w fly",
     disponibilidad: true,
     descuento: false,
-    id: 133,
+    id: 127,
     price: "19,000",
     description: "cargador tipo c 15w fly",
     images_url:
@@ -1578,7 +1578,7 @@ export const database = [
     product: "audifonos airdots pro inalambricos xiaomi",
     disponibilidad: true,
     descuento: false,
-    id: 134,
+    id: 128,
     price: "56,000",
     description:
       "Versión compatible con Bluetooth: V5.0 \nDistancia: 10 m \nTiempo de carga: alrededor de 1-2 horas \nTiempo en espera: aproximadamente 80 horas \nTiempo de música: aproximadamente 3 horas \nTiempo de conversación: aproximadamente 4 horas",
@@ -1591,7 +1591,7 @@ export const database = [
     product: "audifonos budslive galaxy samsung",
     disponibilidad: true,
     descuento: false,
-    id: 135,
+    id: 129,
     price: "90,000",
     description:
       "Distancia de transmisión: 10 metros\nVersión inalámbrica: 5.0\nTiempo de conversación: 4 horas\nTiempo de espera: 80 horas\nTiempo de música: 3 horas\nTiempo de carga: 1 hora\nCapacidad de auriculares: 40 mAh\nCapacidad del contenedor de carga: 280 mAh",
@@ -1604,7 +1604,7 @@ export const database = [
     product: "audifonos bud+ inalambrico samsung",
     disponibilidad: true,
     descuento: false,
-    id: 136,
+    id: 130,
     price: "90,000",
     description:
       "Cuenta con tecnología True Wireless.\nAlcance inalámbrico de 10 m.\nModo manos libres incluido.\nAsistente de voz integrado: Bixby.\nCon cancelación de ruido.\nCon estuche de carga inalámbrica.\nCon micrófono incorporado.",
@@ -1617,7 +1617,7 @@ export const database = [
     product: "audifonos inalambricos aearbuds fly-40 incluye cargador",
     disponibilidad: true,
     descuento: false,
-    id: 137,
+    id: 131,
     price: "74,000",
     description:
       "Sistema de sonido: Estéreo\nTipo de auriculares: tapones para los oídos\nVoltaje estándar: 37V\nDistancia compatible con Bluetooth: 10 metros\nProtocolo de soporte: HFP/A2DP/HSP/AVRCP\nCompartimento de batería recargable: 300mAh\nControl de reproducción: toque de huella dactilar\nReducción de ruido inteligente: soporte\nCaracterísticas: estéreo envolvente, cancelación de ruido inteligente, subwoofer",
@@ -1630,7 +1630,7 @@ export const database = [
     product: "audifonos inalambricos unicornio microfono incorporado bluetooth",
     disponibilidad: true,
     descuento: false,
-    id: 138,
+    id: 132,
     price: "88,000",
     description:
       "Tipo: Diamante Unicornio Auriculares con micrófonos\nPatrón: Diamante de colores\nLongitud de la línea: 1,2 m\nResistencia: 32?\nComunicación: cableado\nTipo de enchufe: Tipo de línea\nConectores: 3,5 mm\nMicrófono: sí",
@@ -1643,7 +1643,7 @@ export const database = [
     product: "audifonos blutooth MUSIC BS-N65BT",
     disponibilidad: true,
     descuento: false,
-    id: 139,
+    id: 133,
     price: "67,000",
     description:
       "Pantalla LED\nHasta 8 horas de uso (basado en el volumen nivel 1/3)\nCarga completa en 2.5 horas",
@@ -1656,7 +1656,7 @@ export const database = [
     product: "auriculares inalambricos jellie monsters naranjas",
     disponibilidad: true,
     descuento: false,
-    id: 140,
+    id: 134,
     price: "67,000",
     description:
       "Cuenta con la tecnología True Wireless.\nLa longitud del cable es de 1,2 m.\nSonido superior e ilimitado.\nCómodo y práctico.\nDiseñado para niños.",
@@ -1669,7 +1669,7 @@ export const database = [
     product: "auriculares inalambricos jellie monsters amarillos",
     disponibilidad: true,
     descuento: false,
-    id: 141,
+    id: 135,
     price: "67,000",
     description:
       "Cuenta con la tecnología True Wireless.\nLa longitud del cable es de 1,2 m.\nSonido superior e ilimitado.\nCómodo y práctico.\nDiseñado para niños.",
@@ -1682,7 +1682,7 @@ export const database = [
     product: "audifonos basic ultra deep f33 fly",
     disponibilidad: true,
     descuento: false,
-    id: 142,
+    id: 136,
     price: "15,000",
     description:
       "Ligera y resistente a rayones, la cámara de aluminio anodizado está diseñada con un elegante acabado y contiene un fino grabado con forma de CD para evitar su caída. Elegantes detalles como el borde biselado que da una suave sensación al tacto y añade un toque elegante.",
@@ -1695,7 +1695,7 @@ export const database = [
     product: "audifonos diadema sony extra bass generico",
     disponibilidad: true,
     descuento: false,
-    id: 143,
+    id: 137,
     price: "60,000",
     description: "colores varios, alambrico",
     images_url:
@@ -1707,7 +1707,7 @@ export const database = [
     product: "parlante bluetooth inalambrico y recargable 10w",
     disponibilidad: true,
     descuento: false,
-    id: 144,
+    id: 138,
     price: "86,000",
     description:
       "Es manos libres.\nTipo de parlante: portátil.\nApto para uso en exteriores.\nCon conectividad bluetooth.\nFunción de karaoke incorporada.\nBatería recargable y cargador incluido.\nPotencia de 10W\nDimensiones: 22cm de ancho, 11cm de alto y 7.5cm de profundidad.",
@@ -1721,7 +1721,7 @@ export const database = [
       "cabina amplificadora portable, recargable, incluye microfono y control remoto, 10 pulgadas audio king",
     disponibilidad: true,
     descuento: false,
-    id: 145,
+    id: 139,
     price: "475,000",
     description:
       "600 W\nBluetooth\nRadio FM\nPuerto USB/SD\nMicrófono Inalámbrico\nBatería Recargable\nLuz LED\nIncluye Control",
@@ -1735,7 +1735,7 @@ export const database = [
       "cabina amplificadora de cable, recargable, incluye microfono y control remoto, 10 pulgadas audio king",
     disponibilidad: true,
     descuento: false,
-    id: 146,
+    id: 140,
     price: "445,000",
     description:
       "600 W\nRadio FM\nPuerto USB/SD\nMicrófono\nBatería\nLuz LED\nIncluye Control",
@@ -1748,7 +1748,7 @@ export const database = [
     product: "repetidor de señal wifi inalambrico nexxt kronos 300",
     disponibilidad: true,
     descuento: false,
-    id: 147,
+    id: 141,
     price: "125,000",
     description: "repetidor de señal wifi inalambrico nexxt kronos 300",
     images_url:
@@ -1760,7 +1760,7 @@ export const database = [
     product: "repetidor / router wifi 4 antenas",
     disponibilidad: true,
     descuento: false,
-    id: 148,
+    id: 142,
     price: "68,000",
     description: "repetidor / router wifi 4 antenas",
     images_url:
@@ -1773,7 +1773,7 @@ export const database = [
       "consola retro 500 juegos incluye control adicional + conector a tv pantalla led 2.5",
     disponibilidad: true,
     descuento: false,
-    id: 149,
+    id: 143,
     price: "150,000",
     description:
       "consola retro 500 juegos incluye control adicional + conector a tv pantalla led 2.5",
@@ -1786,7 +1786,7 @@ export const database = [
     product: "consola retro 620 juegos incluye cables adaptadores",
     disponibilidad: true,
     descuento: false,
-    id: 150,
+    id: 144,
     price: "80,000",
     description: "consola retro 620 juegos incluye cables adaptadores",
     images_url:
@@ -1798,7 +1798,7 @@ export const database = [
     product: "consola retro 600 juegos",
     disponibilidad: true,
     descuento: false,
-    id: 151,
+    id: 145,
     price: "75,000",
     description: "consola retro 600 juegos",
     images_url:
@@ -1810,7 +1810,7 @@ export const database = [
     product: "consola retro 400 juegos colores varios incluye 1 control",
     disponibilidad: true,
     descuento: false,
-    id: 152,
+    id: 146,
     price: "60,000",
     description: "consola retro 400 juegos colores varios incluye 1 control",
     images_url:
@@ -1822,7 +1822,7 @@ export const database = [
     product: "atari brick game retro 9999 juegos en 1",
     disponibilidad: true,
     descuento: false,
-    id: 153,
+    id: 147,
     price: "19,000",
     description: "atari brick game retro 9999 juegos en 1",
     images_url:
@@ -1834,7 +1834,7 @@ export const database = [
     product: "combo gamer 4 piezas aoas",
     disponibilidad: true,
     descuento: false,
-    id: 154,
+    id: 148,
     price: "125,000",
     description: "combo gamer 4 piezas aoas",
     images_url:
@@ -1846,7 +1846,7 @@ export const database = [
     product: "combo teclado rgb + mouse luces alambrico",
     disponibilidad: true,
     descuento: false,
-    id: 155,
+    id: 149,
     price: "64,000",
     description: "combo teclado rgb + mouse luces alambrico",
     images_url:
@@ -1858,7 +1858,7 @@ export const database = [
     product: "combo teclado sencillo + mouse inalámbrico",
     disponibilidad: true,
     descuento: false,
-    id: 156,
+    id: 150,
     price: "56,000",
     description: "combo teclado sencillo + mouse inalámbrico",
     images_url:
@@ -1870,7 +1870,7 @@ export const database = [
     product: "puerto lan usb 3.0 de 1 entrada",
     disponibilidad: true,
     descuento: false,
-    id: 157,
+    id: 151,
     price: "50,000",
     description: "puerto lan usb 3.0 de 1 entrada",
     images_url: "https://m.media-amazon.com/images/I/51+5pmEFMFL.jpg",
@@ -1881,7 +1881,7 @@ export const database = [
     product: "hub multipuerto usb 3.0 cuenta con 4 puertos usb",
     disponibilidad: true,
     descuento: false,
-    id: 158,
+    id: 152,
     price: "38,000",
     description: "hub multipuerto usb 3.0 cuenta con 4 puertos usb",
     images_url:
@@ -1893,7 +1893,7 @@ export const database = [
     product: "multitoma adaptador de 6 salidas uso de interiores troen",
     disponibilidad: true,
     descuento: false,
-    id: 159,
+    id: 153,
     price: "21,000",
     description: "multitoma adaptador de 6 salidas uso de interiores troen",
     images_url:
@@ -1905,7 +1905,7 @@ export const database = [
     product: "mouse vertical ergonómico alambrico",
     disponibilidad: false,
     descuento: false,
-    id: 160,
+    id: 154,
     price: "40,000",
     description: "mouse vertical ergonómico alambrico",
     images_url:
@@ -1917,7 +1917,7 @@ export const database = [
     product: "mouse vertical ergonómico inalambrico recargable",
     disponibilidad: true,
     descuento: false,
-    id: 161,
+    id: 155,
     price: "58,000",
     description: "mouse vertical ergonómico inalambrico recargable",
     images_url:
@@ -1929,7 +1929,7 @@ export const database = [
     product: 'portatil hp 14" 1tb 32gb ram amd radeon procesador amd ryzen',
     disponibilidad: true,
     descuento: false,
-    id: 162,
+    id: 156,
     price: "2,748,000",
     description: 'portatil hp 14" 1tb 32gb ram amd radeon procesador amd ryzen',
     images_url:
@@ -1941,7 +1941,7 @@ export const database = [
     product: 'portatil hp 14" 1tb 16gb ram amd radeon procesador amd ryzen',
     disponibilidad: true,
     descuento: false,
-    id: 163,
+    id: 157,
     price: "2,530,000",
     description: 'portatil hp 14" 1tb 16gb ram amd radeon procesador amd ryzen',
     images_url:
@@ -1953,7 +1953,7 @@ export const database = [
     product: 'portatil hp 14" 1tb 8gb ram amd radeon procesador amd ryzen',
     disponibilidad: true,
     descuento: false,
-    id: 164,
+    id: 158,
     price: "2,316,000",
     description: 'portatil hp 14" 1tb 8gb ram amd radeon procesador amd ryzen',
     images_url:
@@ -1965,7 +1965,7 @@ export const database = [
     product: 'portatil hp 14" 512gb 8gb ram amd radeon procesador amd ryzen',
     disponibilidad: true,
     descuento: false,
-    id: 165,
+    id: 159,
     price: "1,990,000",
     description:
       'portatil hp 14" 512gb 8gb ram amd radeon procesador amd ryzen',
@@ -1978,7 +1978,7 @@ export const database = [
     product: 'portatil hp 14" 500gb 8gb ram procesador intel celeron intel uhd',
     disponibilidad: true,
     descuento: false,
-    id: 166,
+    id: 160,
     price: "1,627,000",
     description:
       'portatil hp 14" 500gb 8gb ram procesador intel celeron intel uhd',
@@ -1991,7 +1991,7 @@ export const database = [
     product: 'portatil hp 14" 250gb 8gb ram procesador intel celeron intel uhd',
     disponibilidad: true,
     descuento: false,
-    id: 167,
+    id: 161,
     price: "1,483,000",
     description:
       'portatil hp 14" 250gb 8gb ram procesador intel celeron intel uhd',
@@ -2004,7 +2004,7 @@ export const database = [
     product: 'portatil hp 14" 128gb 4gb ram procesador intel celeron intel uhd',
     disponibilidad: true,
     descuento: false,
-    id: 168,
+    id: 162,
     price: "1,180,000",
     description:
       'portatil hp 14" 128gb 4gb ram procesador intel celeron intel uhd',
@@ -2018,7 +2018,7 @@ export const database = [
       "portatil hp14 14.1 pulgadas 4gb ram 128gb disco duro procesador celeron resolución HD",
     disponibilidad: true,
     descuento: false,
-    id: 169,
+    id: 163,
     price: "1,100,000",
     description:
       "portatil hp14 14.1 pulgadas 4gb ram 128gb disco duro procesador celeron resolución HD",
@@ -2031,7 +2031,7 @@ export const database = [
     product: "cámara panoramica wifi micrófono detección de movimiento",
     disponibilidad: true,
     descuento: false,
-    id: 170,
+    id: 164,
     price: "140,000",
     description:
       "SISTEMA OPERATIVO: SISTEMA OPERATIVO LINUX INCORPORADO\nEstándar de codificación de imagen: Smart H.264+\nSeguimiento de movimiento: Sí\nCalidad de imagen de vigilancia: 1920 * 1080/1280 * 720/640 ×360\nCalidad de vídeo: 1920*1080 1280*720 640 × 360\nDetección de movimiento de imagen: Sí\nIluminación mínima: 0.1 lux F1.2\nFunción de captura: Sí\nVideo Flip: Sí\nEstándar de codificación: G.711\nMicrófono: Sí\nAltavoz: Compatible",
@@ -2044,7 +2044,7 @@ export const database = [
     product: 'soporte para tv de 40" a 80',
     disponibilidad: true,
     descuento: false,
-    id: 171,
+    id: 165,
     price: "173,000",
     description:
       "Modelo Soporte giratorio SPMY07\nTamaño de pantalla entre 32” y 75”\nCarga de hasta 50 Kg\nFácil instalación y ajuste\nBrazo extensible entre 5,0 Cm y 45 Cm\nInclinación : -5º+12º",
@@ -2057,7 +2057,7 @@ export const database = [
     product: 'soporte para tv de 14" a 55',
     disponibilidad: true,
     descuento: false,
-    id: 172,
+    id: 166,
     price: "50,000",
     description:
       "Largo: 46cm\nPeso máximo soportado: 50kg\nCondición del producto: Nuevo\nDimensiones: 22cm x 22cm x 46cm\nAncho: 22cm\nColor: Negro",
@@ -2070,7 +2070,7 @@ export const database = [
     product: 'soporte para tv de 14" a 42',
     disponibilidad: true,
     descuento: false,
-    id: 173,
+    id: 167,
     price: "28,000",
     description:
       'SOPORTE FIJO INCLINABLE DE 14" A 47"\nDiseño practico y sencillo de instalar\nSolida construcción.\nAngulo de inclinación: -5º ~ + 15º\nMaterial: Acero en frío.\nConveniente para pantallas LCD, LCD y Smart TV de 37 hasta 47".\nCarga útil máxima: 25kg / 55 ibs.\nSoporte para **VESA**: 100X100 / 200x200 / 400x400.mm',
@@ -2083,7 +2083,7 @@ export const database = [
     product: "cable hdtv 3m",
     disponibilidad: true,
     descuento: false,
-    id: 174,
+    id: 168,
     price: "12,900",
     description:
       "Ultra resistente\nReforzado Y Protegido En Malla\nDoble Filtro\n5 METROS",
@@ -2096,7 +2096,7 @@ export const database = [
     product: "cámara web sat x13 1080mp",
     disponibilidad: true,
     descuento: false,
-    id: 175,
+    id: 169,
     price: "127,000",
     description: "cámara web sat x13 1080mp",
     images_url:
@@ -2109,7 +2109,7 @@ export const database = [
       "aro de luz led 26cm base telefono 9 niveles de luz soporte giratorio",
     disponibilidad: true,
     descuento: false,
-    id: 176,
+    id: 170,
     price: "90,000",
     description:
       "aro de luz led 26cm base telefono 9 niveles de luz soporte giratorio",
@@ -2122,7 +2122,7 @@ export const database = [
     product: "mini dv worlds voice recorder",
     disponibilidad: true,
     descuento: false,
-    id: 177,
+    id: 171,
     price: "60,000",
     description: "Definición de cámara: HD 720p",
     images_url:
@@ -2134,7 +2134,7 @@ export const database = [
     product: "juego call of duty infitiny warfare xbox one fisico",
     disponibilidad: true,
     descuento: false,
-    id: 178,
+    id: 172,
     price: "190,000",
     description: "juego call of duty infitiny warfare xbox one fisico",
     images_url:
@@ -2146,7 +2146,7 @@ export const database = [
     product: "mando ps4 doubleshock inalámbrico azul",
     disponibilidad: true,
     descuento: false,
-    id: 179,
+    id: 173,
     price: "190,000",
     description: "mando ps4 doubleshock inalámbrico azul",
     images_url:
@@ -2158,12 +2158,12 @@ export const database = [
     product: "mesa laptop con disipador de calor",
     disponibilidad: true,
     descuento: false,
-    id: 180,
+    id: 174,
     price: "99,000",
     description:
       "Mesa de soporte para computadora portátil con alfombrilla de ratón Soportes de diseño ergonómico plegables ajustables Escritorio de computadora portátil para Macbook Netbook Ultrabook Tablet",
     images_url:
-      "https://ae01.alicdn.com/kf/Hbb67669d8eb042b097fd118000dc2e758/Mesa-de-soporte-para-computadora-port-til-con-alfombrilla-de-rat-n-Soportes-de-dise-o.jpg_.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_868915-MLU74114616866_012024-O.webp",
     category: "tecnología",
     sub_category: "mesas para laptop",
   },
@@ -2171,7 +2171,7 @@ export const database = [
     product: "reloj k-watch 2 kalley",
     disponibilidad: true,
     descuento: false,
-    id: 181,
+    id: 175,
     price: "170,000",
     description:
       "Resistencia 5 ATM, úsalo en la ducha y en la piscina.\nMás de 10 diferentes modos deportivos.\nMonitorea tu sueño.\nAlerta y lectura de mensajes.\nMás de 100 diferentes fondos de pantalla.",
@@ -2184,7 +2184,7 @@ export const database = [
     product: "reloj smart watch generico gps y bluetooth",
     disponibilidad: true,
     descuento: false,
-    id: 182,
+    id: 176,
     price: "70,000",
     description: "reloj smart watch generico gps y bluetooth",
     images_url:
@@ -2196,7 +2196,7 @@ export const database = [
     product: "radio am/fm usb, micro sd con control",
     disponibilidad: true,
     descuento: false,
-    id: 183,
+    id: 177,
     price: "76,000",
     description:
       "El Radio Sonivox cuenta con un poderoso sistema de sonido para escuchar tu música con los más altos estándares, Además cuenta con las funciones básicas. es 3 BANDAS (FM-AM-SW) Lector USB, Lector Micro SD",
@@ -2209,7 +2209,7 @@ export const database = [
     product: "cafas de realidad virtual 3d vr box",
     disponibilidad: true,
     descuento: false,
-    id: 184,
+    id: 178,
     price: "39,000",
     description:
       "Te ofrece un efecto de imagen en 3D y una sensación maravillosa, con mando para smartphone",
@@ -2222,7 +2222,7 @@ export const database = [
     product: 'ventilador ciclón 18" universal',
     disponibilidad: true,
     descuento: false,
-    id: 185,
+    id: 179,
     price: "491,000",
     description:
       "Potencia de 120W\nDiámetro hélice metálica de 45.72 cm\nTecnología permawick que mantiene auto lubricado el motor\n3 velocidades\nHélices metálicas\nPatas antideslizantes\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
@@ -2235,7 +2235,7 @@ export const database = [
     product: 'ventilador fresh ultra 3 en 1 18" universal',
     disponibilidad: true,
     descuento: false,
-    id: 186,
+    id: 180,
     price: "399,000",
     description:
       "Potencia de 90W\nTecnología permawick que mantiene auto lubricado el motor\nIncluye control remoto\nPanel de control touch screen\n3 velocidades\nHélice aerodinámica de 6 aspas\nRango de operación de hasta 6 mt\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
@@ -2248,7 +2248,7 @@ export const database = [
     product: 'ventilador fresh ultra 3 en 1 18" universal',
     disponibilidad: true,
     descuento: false,
-    id: 187,
+    id: 181,
     price: "359,000",
     description:
       "Ventilador de 18 pulgadas 3 en 1 (Pedestal, pared y mesa)\nRejilla plástica frontal y rejilla metálica posterior\nHélice de 6 aspas aerodinámicas fabricadas en polipropileno\nBase de piso pesada para mayor estabilidad.\nEl ventilador cuenta con 3 velocidades bajo, medio y alto y\nLa dirección de flujo de aire es con oscilación horizontal.\nEl motor cuenta con la tecnología de lubricación constante “Permawick”\nPotencia de 100 Watts pero a su vez es muy silencioso.\nEs fácil de ensamblar y no requiere herramienta especializada.\n100 W, 120 Vac, 60 Hz",
@@ -2261,7 +2261,7 @@ export const database = [
     product: 'ventilador silence force plus 18" blanco samurai',
     disponibilidad: true,
     descuento: false,
-    id: 188,
+    id: 182,
     price: "289,000",
     description:
       "Con el Ventilador SAMURAI Ultra Silence Force 2en1 podrás pasar largos periodos de tiempo con frescura y quietud, ya que está optimizado para acompañarte durante cada momento del día con sus 4 funciones y su innovador sistema de inclinación accionado por el botón lateral. Además, cuenta con oscilación horizontal de 90 grados para distribuir el aire en todos tus espacios.",
@@ -2274,7 +2274,7 @@ export const database = [
     product: "ventilador fresh de pared universal",
     disponibilidad: true,
     descuento: false,
-    id: 189,
+    id: 183,
     price: "283,900",
     description:
       "Potencia de 80W\nTecnología permawick que mantiene auto lubricado el motor\nSistema de oscilación\n3 velocidades\nHélice de 3 aspas\nHélice aerodinámica de 6 aspas\nIncluye base para pared y chazos\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
@@ -2287,7 +2287,7 @@ export const database = [
     product: 'ventilador 3 en 1 18" blanco kalley',
     disponibilidad: true,
     descuento: false,
-    id: 190,
+    id: 184,
     price: "270,000",
     description:
       "Ventilador 3 en 1 que permite ubicarlo en la pared, piso o pedestal.\nPosee una mayor potencia para más flujo de aire y mayor confort.\nSistema de movimiento oscilatorio de 85° para una cobertura excelente.\nEstructura de plástico permite que sea fácil de guardar y de limpiar.\nModo Eco que permite el ahorro de energía.\nMarca: Kalley.  \nMaterial: Plastico.\nMedidas: Alto (135 cm) x Ancho (51.8 cm) x Largo (47.8 cm).\nPeso: 4.9 kg.\nColor: Blanco.",
@@ -2300,7 +2300,7 @@ export const database = [
     product: 'ventilador silence force 18" samurai',
     disponibilidad: false,
     descuento: false,
-    id: 191,
+    id: 185,
     price: "252,000",
     description:
       "Su motor potente, durable y silencioso.\nCuenta con una tecnología exclusiva, lo que permite que las seis aspas aerodinámicas proporcionen un mayor flujo de aire.\nCuenta con un diseño práctico y sofisticado en color negro, ideal para cualquier espacio.\nCuenta con tres velocidades, las cuales se adaptan a las diferentes situaciones.\nSu malla frontal es removible, facilitando su limpieza.\nCuenta con un seguro sistema de inclinación vertical que se acciona por el botón lateral.\nCuenta con una oscilación horizontal de 90 grados para una óptima distribución del flujo de aire.\nLa altura es ajustable, es decir que permite un óptimo alcance de aire a la elevación que desees.\nEs hecho en Colombia.",
@@ -2313,7 +2313,7 @@ export const database = [
     product: 'ventilador ultra power 18" universal',
     disponibilidad: true,
     descuento: false,
-    id: 192,
+    id: 186,
     price: "249,000",
     description:
       "Ventilador de 3 velocidades.\nPotencia de 90 W.\nIdeal para refrigerar.",
@@ -2326,7 +2326,7 @@ export const database = [
     product: 'ventilador 2 en 1 16" negro corona',
     disponibilidad: true,
     descuento: false,
-    id: 193,
+    id: 187,
     price: "210,000",
     description:
       'Ventilador 2 en 1 (Mesa y Pedestal) de 16" cuenta con 3 velocidades, hélice aerodinámica de 5 aspas, tiene una potencia de 50 Watts, Ventilador con bajo nivel de ruido, Cuenta con tecnología Permawick, sistema de lubricación constante que alarga la vida del motor.\nVoltaje de operación: 110 - 120 Vac\nFrecuencia de operación: 60 Hz',
@@ -2339,7 +2339,7 @@ export const database = [
     product: 'ventilador de piso y pared 8" universal',
     disponibilidad: true,
     descuento: false,
-    id: 194,
+    id: 188,
     price: "119,000",
     description:
       "Potencia de 40W\nRejillas y carcasa para motor de plástico\nHélice de 3 aspas\n3 velocidades\nRotación 180°\nPara mesa y pared\nDisponible en colores verde, morado y azul\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
@@ -2352,7 +2352,7 @@ export const database = [
     product: "mini ventilador de mesa y pinza  110v giratorio",
     disponibilidad: true,
     descuento: false,
-    id: 195,
+    id: 189,
     price: "80,000",
     description:
       "Ventilador de escritorio, ideal para el hogar y la oficina, tiempo de trabajo prolongado, buen flujo de aire, silencioso, dos configuraciones, ventilador de enfriamiento personal.\nCompacto\nPortátil\nEléctrico\nMotor silencioso\n2 Velocidades",
@@ -2365,7 +2365,7 @@ export const database = [
     product: "ventilador de pedestal 18 pulgadas negro olimpo",
     disponibilidad: true,
     descuento: false,
-    id: 196,
+    id: 190,
     price: "140,000",
     description:
       "Ventilador De Pedestal Olimpo 18 Pulgadas Negro OLSF-TGM-LF6B",
@@ -2379,7 +2379,7 @@ export const database = [
       "ventilador recargable de escritorio con portalápices colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 197,
+    id: 191,
     price: "29,000",
     description:
       "Veemoon Ventilador de cerdo Soporte para bolígrafo Mini ventilador de mesa Ventilador de escritorio pequeño Ventilador de mano Ventilador de escritorio portátil Ventilador alimentado por USB Ventilador de escritorio de oficina Ventilador plegable Componente electrónico Mini ventilador de escritorio USB rosa",
@@ -2391,7 +2391,7 @@ export const database = [
     product: 'ventilador de pedestal olimpo 18" negro',
     disponibilidad: true,
     descuento: false,
-    id: 198,
+    id: 192,
     price: "139,925",
     description:
       "Ventilador De Pedestal Olimpo 18 Pulgadas Negro OLSF-TGM-LF6B",
@@ -2404,7 +2404,7 @@ export const database = [
     product: "sanduchera 3 en 1 4 puestos universal",
     disponibilidad: true,
     descuento: false,
-    id: 199,
+    id: 193,
     price: "256,000",
     description:
       "Potencia: 1400 Watts.\nVoltaje: 110-120 Vac.\nFrecuencia: 60 Hz.\nPlacas intercambiables con capa de antiadherente tipo grill (para sánduches y asados) y tipo waffles.\nCubierta superior con acabado en acero inoxidable.\nGancho de seguridad que facilita su almacenamiento.",
@@ -2417,7 +2417,7 @@ export const database = [
     product: "sanduchera panini grill universal",
     disponibilidad: true,
     descuento: false,
-    id: 200,
+    id: 194,
     price: "210,000",
     description:
       "Cuenta con una potencia de 1000W y puede ser conectada a un tomacorriente de 120 Vac.\nTiene dos placas de aluminio tipo grill con recubrimiento antiadherente para evitar que el alimento se pegue.\nFabricado en plástico fenólico con cubierta en acero inoxidable.\nCuenta con un recolector plástico para grasas, bombillos pilotos indicadores de inicio y final de ciclo temperatura y un gancho de cierre seguro que mantiene cerradas las placas.",
@@ -2430,7 +2430,7 @@ export const database = [
     product: "sanduchera 3 en 1 2 puestos universal",
     disponibilidad: true,
     descuento: false,
-    id: 201,
+    id: 195,
     price: "189,000",
     description:
       "Potencia: 750 Watts.\nVoltaje: 110-120 Vac.\nFrecuencia: 60 Hz.\nPlaca tipo grill y waffles intercambiables con 1 capa antiadherente que evita que los alimentos se peguen.\nCubierta superior con acabado en acero inoxidable.\nGancho de seguridad que facilita su almacenamiento.",
@@ -2443,7 +2443,7 @@ export const database = [
     product: "sanduchera panini kalley",
     disponibilidad: true,
     descuento: false,
-    id: 202,
+    id: 196,
     price: "119,000",
     description:
       "760 watts de potencia\nPlanchas tipo Panini: sandwichera / asador - parrilla\nPlanchas antiadherentes: Evitan que los alimentos se peguen a la superficie\nIndicadores Luminosos: Señalan que el producto está encendido, (La Luz Roja indica que está en proceso de cocción y la Luz Verde se enciende cuando éste finaliza..)\nExterior en thermalplus negro (no se mancha con el uso)\nCompartimiento para el cable\nSistema de cierre con seguro desprendible",
@@ -2456,7 +2456,7 @@ export const database = [
     product: "sanduchera mini panini universal",
     disponibilidad: true,
     descuento: false,
-    id: 203,
+    id: 197,
     price: "136,200",
     description:
       "Cubierta de acero inoxidable\nCuenta con doble capa de antiadherente\nEl tamaño de sus placas es de 22 x 14 cm\nIndicador de encendido\nManija en aluminio\nPatas antideslizantes\nCable de alimentación\nPotencia: 850 W\nVoltaje: 110- 120 V",
@@ -2469,7 +2469,7 @@ export const database = [
     product: "waflera maker inox doble capa antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 204,
+    id: 198,
     price: "155,000",
     description:
       "Doble capa de antiadherente Incluye acabados en acero inoxidable \nPerilla de control de temperatura \nIndicadores luminosos de encendido y apagado \nPotencia: 1000 W Voltaje\nFrecuencia:110 - 120 Vac, 60 Hz\nDimensiones básicas del producto: 20.5 x 28 x 12",
@@ -2482,7 +2482,7 @@ export const database = [
     product: "sanduchera grill 2 en 1 750w sonrisa universal",
     disponibilidad: true,
     descuento: false,
-    id: 205,
+    id: 199,
     price: "86,900",
     description:
       "placas tipo grill ideales\ncapacidad para dos sanduches\ndoble recubrimiento antiadherente \nindicadores luminosos del ciclo de cocción\nclip de seguridad para mejor cocción \n750 W, 110 - 120 Vac, 60 H",
@@ -2495,7 +2495,7 @@ export const database = [
     product: "sanduchera sonrisa esencial 750w dos puestos universal",
     disponibilidad: true,
     descuento: false,
-    id: 206,
+    id: 200,
     price: "70,000",
     description:
       "Capacidad para dos sándwiches\nTiene doble recubrimiento antiadherente\nIndicadores luminosos de cocción \nClip de seguridad para mejor cocción\nTamaño pequeño que la hace práctica y liviana\n750 W, 110 - 120 Vac, 60 Hz",
@@ -2508,7 +2508,7 @@ export const database = [
     product: "plancha a vapor universal",
     disponibilidad: true,
     descuento: false,
-    id: 207,
+    id: 201,
     price: "140,000",
     description:
       "Potencia de 1200 Watts, para conexión eléctrica de 120 Vac 60 Hz.\nTres opciones de planchado.\nCuerpo y tanque fabricados en PBT y PP.\nSuperficie de planchado en aluminio con recubrimiento de pintura antiadherente que facilita el deslizamiento sobre las prendas.\nCable de alimentación de 1.8 metros, adecuado para uso ambidiestro.\nDispositivo de seguridad interior que previene incendios y daños al producto ante una falla del controlador de temperatura.\nSistema de vapor constante y spray, apta para planchado vertical.",
@@ -2521,7 +2521,7 @@ export const database = [
     product: "plancha seca universal",
     disponibilidad: true,
     descuento: false,
-    id: 208,
+    id: 202,
     price: "99,900",
     description:
       "Potencia: 1200 Watts, 120 Vac 60 Hz.\nCuerpo fabricado en baquelita que no alcanza altas temperaturas al tacto.\nSuela de planchado en aluminio completamente pulida que facilita el deslizamiento sobre las prendas.\nCable de alimentación de 1.8 metros de longitud.\nDispositivo de seguridad interior que previene incidentes si el controlador de temperatura falla.",
@@ -2534,7 +2534,7 @@ export const database = [
     product: "plancha a vapor extra liviana universal",
     disponibilidad: true,
     descuento: false,
-    id: 209,
+    id: 203,
     price: "89,900",
     description:
       "3 modos de planchado: vapor vertical, vapor constante y golpe de vapor\nOpción de planchado vertical\nPlaca antiadherente\nProtección de seguridad interior que evita incendio, daño del producto y de la ropa\nIncluye vaso plástico\nPotencia: 1200 W\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
@@ -2547,7 +2547,7 @@ export const database = [
     product: "procesador manual 3 en 1 universal",
     disponibilidad: true,
     descuento: false,
-    id: 210,
+    id: 204,
     price: "220,000",
     description:
       "Capacidad del vaso: 800 m, Capacidad del tazon: 1.5 tazas, Potencia: 400 Vatios, Frecuencia de operación : 60 Hz, Voltaje de alimentación : 110 a 120 Vac, 3 en 1 (Batidor inoxidable, picador, licuadora manual todos en acero inoxidable) 2 velocidades (Normal y turbo)",
@@ -2560,7 +2560,7 @@ export const database = [
     product: "procesador de alimentos universal",
     disponibilidad: true,
     descuento: false,
-    id: 211,
+    id: 205,
     price: "180,000",
     description:
       "Un electrodoméstico diseñado para cortar frutas o verduras de manera efectiva, gracias a sus 300w de potencia.\nEste producto está equipado con accesorios removibles de acero inoxidable, incluyendo una cuchilla disco circular y otra para picar, adaptándose a diferentes tamaños de los ingredientes que más usas a diario.\ncuenta con un switch de bloqueo para evitar accidentes. Además, está compuesto por una perilla con 2 velocidades para que obtengas un control más preciso de todo el proceso.",
@@ -2573,7 +2573,7 @@ export const database = [
     product: "horno tostador kalley",
     disponibilidad: true,
     descuento: false,
-    id: 212,
+    id: 206,
     price: "159,000",
     description:
       "Potencia 800 W\nTipos de horno Eléctrico\nTipo de montaje De mesa\nCapacidad en volumen 9 L\nControl de temperatura de 100 - 250°C\nIncluye Parrilla y Bandeja\nTemporizador 60 Minutos",
@@ -2586,7 +2586,7 @@ export const database = [
     product: "tostador de pan 2 puestos kalley",
     disponibilidad: true,
     descuento: false,
-    id: 213,
+    id: 207,
     price: "104,000",
     description:
       "7 Niveles de tostado\nBotón para cancelar\nBandeja recolectora\nPotencia 750W\nFunción descongelar y recalentar",
@@ -2599,7 +2599,7 @@ export const database = [
     product: "exprimidor blanco kalley",
     disponibilidad: true,
     descuento: false,
-    id: 214,
+    id: 208,
     price: "109,000",
     description:
       "Potencia 30W\nIncluye 2 tamaños de conos\nCapacidad 1 Litro\nSistema de rotación automática\n5 niveles de Filtrado",
@@ -2612,7 +2612,7 @@ export const database = [
     product: "exprimidor de citricos cusinart",
     disponibilidad: true,
     descuento: false,
-    id: 215,
+    id: 209,
     price: "299,000",
     description:
       "Escariador ajustable con 3 configuraciones\nCono de exprimidor universal\nBoquilla Snap-Up extra larga\nDiseño de acero inoxidable cepillado\nCapacidad 3 Litros\nColector de pulpa desmontable\nPiezas aptas para lavavajillas\nSistema de Doble Rotación\nTapa tensora",
@@ -2625,7 +2625,7 @@ export const database = [
     product: "cafetera institucional 40 tazas universal",
     disponibilidad: true,
     descuento: false,
-    id: 216,
+    id: 210,
     price: "338,000",
     description:
       '6 litros de capacidad o 40 tazas (cada taza de 150 ml)\nCuerpo en acero inoxidable\nTapa plástica\nAsas laterales "cool touch"\nDosificador de liquido Medidas del producto\nLargo: 19 cm Ancho: 18.5 cm Alto: 42 cm\nPotencia : 950 W Frecuencia: 60 Hz Voltaje: 110-120 Vac',
@@ -2638,7 +2638,7 @@ export const database = [
     product: "cafetera 12 tazas 1.5 lts kalley",
     disponibilidad: true,
     descuento: false,
-    id: 217,
+    id: 211,
     price: "199,000",
     description:
       "Capacidad: 1.5 Lts / 12 tazas\nPotencia: 900W\nJarra: Vidrio\nMantiene caliente: si\nAccesorios: Cuchara medidora, Filtro permanente",
@@ -2651,7 +2651,7 @@ export const database = [
     product: "cafetera 10 tazas 1250 mililitros universal",
     disponibilidad: true,
     descuento: false,
-    id: 218,
+    id: 212,
     price: "134,000",
     description:
       "Potencia: 750 W.\nSistema antigoteo, retira la jarra mietras el café se prepara tranquilamente.\nFiltro reutilizable y de fácl limpieza\nIndicador del nivel de agua, para que sepas en todo momento el nivel de agua que tiene la cafetera.\nSistema de autoapagado",
@@ -2664,7 +2664,7 @@ export const database = [
     product: "cafetera 4 tazas kalley",
     disponibilidad: true,
     descuento: false,
-    id: 219,
+    id: 213,
     price: "109,000",
     description:
       "Filtro permanente de Nylon lavable\nDisfruta de 4 tazas deliciosas tazas de café\nFunción para mantener la bebida caliente\nPotencia de 600W\nJarra en vidrio\nCuentas con 2 años de garantía en más de 96 centros de servicio autorizados por Kalley.",
@@ -2677,7 +2677,7 @@ export const database = [
     product: "cafetera percolada 12 tazas altezza",
     disponibilidad: true,
     descuento: false,
-    id: 220,
+    id: 214,
     price: "104,900",
     description:
       "Cafetera percoladora Altezza de 1.5Lts.\nFondo interior recubierto en aluminio de fácil limpieza y desmontable.\nVertedero de corte interior que no permite la salida del agua hirviendo.\nCable removible.\nPrepara de 12 a 6 tazas de café manteniendo el sabor y temperatura adecuada.\nPotencia: 110V.",
@@ -2690,7 +2690,7 @@ export const database = [
     product: "cafetera milan 12 tazas everhouse",
     disponibilidad: true,
     descuento: false,
-    id: 221,
+    id: 215,
     price: "80,000",
     description:
       "Cafetera clásica\nElaborada en aluminio pulido\nPartes desmontables\nVálvula de seguridad\nAro difusor de calor\nMango en baquelita\nElaborado en materiales de alta calidad",
@@ -2703,7 +2703,7 @@ export const database = [
     product: "cafetera clásica 12 tazas everhouse",
     disponibilidad: true,
     descuento: false,
-    id: 222,
+    id: 216,
     price: "80,000",
     description:
       "Cafetera italiana.\nFuncionamiento: manual.\nSu capacidad es de 6 tazas.\nModo de uso muy sencillo e intuitivo.",
@@ -2716,7 +2716,7 @@ export const database = [
     product: "cafetera clásica 6 tazas everhouse",
     disponibilidad: false,
     descuento: false,
-    id: 223,
+    id: 217,
     price: "79,000",
     description:
       "Fabricadas en aluminio.\nAro difusor de calor.\nMango ergonómico en polipropileno.\nVálvula de seguridad.\nCompatible con estufas a gas, eléctricas, vitrocerámica e inducción.\nElaborado en materiales de alta calidad que garantizan su durabilidad.",
@@ -2729,7 +2729,7 @@ export const database = [
     product: "cafetera moka 9 tazas everhouse milan",
     disponibilidad: true,
     descuento: false,
-    id: 224,
+    id: 218,
     price: "64,000",
     description:
       "Dimensiones: 9.5cm de ancho, 9.5cm de largo y 23cm de profundidad.",
@@ -2742,7 +2742,7 @@ export const database = [
     product: "cafetera clásica 9 tazas everhouse",
     disponibilidad: true,
     descuento: false,
-    id: 225,
+    id: 219,
     price: "63,000",
     description:
       "fabricadas en aluminio\nAro difusor de calor\nMango ergonómico en polipropileno\nVálvula de seguridad\nMango y pomo en baquelita",
@@ -2755,7 +2755,7 @@ export const database = [
     product: "cafetera milán everhouse 6 tazas",
     disponibilidad: true,
     descuento: false,
-    id: 226,
+    id: 220,
     price: "59,000",
     description:
       "Cafetera clásica\nElaborada en aluminio pulido\nPartes desmontables\nVálvula de seguridad\nAro difusor de calor\nMango en baquelita\nElaborado en materiales de alta calidad que garantizan su durabilidad.",
@@ -2768,7 +2768,7 @@ export const database = [
     product: "cafetera express 300ml universal",
     disponibilidad: true,
     descuento: false,
-    id: 227,
+    id: 221,
     price: "67,000",
     description: "cafetera express 300ml universal",
     images_url:
@@ -2780,7 +2780,7 @@ export const database = [
     product: "cafetera francesa 800ml",
     disponibilidad: true,
     descuento: false,
-    id: 228,
+    id: 222,
     price: "48,000",
     description: "cafetera francesa 800ml",
     images_url:
@@ -2792,7 +2792,7 @@ export const database = [
     product: "cafetera francesa 350ml",
     disponibilidad: true,
     descuento: false,
-    id: 229,
+    id: 223,
     price: "36,000",
     description: "cafetera francesa 350ml",
     images_url:
@@ -2804,7 +2804,7 @@ export const database = [
     product: "licuadoras ultra + vaso picatodo universal",
     disponibilidad: true,
     descuento: false,
-    id: 230,
+    id: 224,
     price: "296,800",
     description:
       "Cuerpo en aluminio cromado y vaso de vidrio refractario con capacidad de 1.25 litros.\nIncluye vaso picatodo con tapa.\nMotor de 600 Vatios.\nFrecuencia de operación de 60 Hz.\nVoltaje de alimentación de 110 a 120 Vac.\nSelector de velocidades tipo perilla con 3 posiciones y doble posición de apagado.\n2 cuchillas en acero inoxidable.\nPatas de caucho antideslizantes.",
@@ -2817,7 +2817,7 @@ export const database = [
     product: "licuadora vaso picatodo 1.25 litros oster",
     disponibilidad: true,
     descuento: false,
-    id: 231,
+    id: 225,
     price: "165,900",
     description:
       "Alto: 33 Ancho: 19\nMaterial de la base: Polipropileno\nMarca: OSTER\nMotor cuatro veces mas duradero\nAcople metálico 10 veces mas duradero\nNúmero de velocidades: 2\nVaso de Vidrio resistente a un choque térmico 90 ºC\nCapacidad: 1.5Lts para preparar desde sopas, salsas y bebidas gratinadas con hielo\nRevolucionaria cuchilla tritura hielo",
@@ -2830,7 +2830,7 @@ export const database = [
     product: "licuadora potency mix universal",
     disponibilidad: true,
     descuento: false,
-    id: 232,
+    id: 226,
     price: "162,900",
     description:
       "Capacidad de 1.5 L.\nSu potencia es de 400 W.\nCuchilla resistente de acero inoxidable.\nTapa dosificadora incorporada.\nFunciona con 4 velocidades.\nPica hielo.\nCon cuchilla removible.\nCantidad de cuchillas: 4.",
@@ -2843,7 +2843,7 @@ export const database = [
     product: "licuadora potency mix universal",
     disponibilidad: true,
     descuento: false,
-    id: 233,
+    id: 227,
     price: "162,900",
     description:
       "Cuchillas en acero inoxidable\nVaso de vidrio termorresistente de 1.5 litros\n4 velocidades + pulso\nCuerpo en plástico ABS\nPie de base antideslizante\nPotencia de 400W\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
@@ -2856,7 +2856,7 @@ export const database = [
     product: "licuadora con vaso de vidrio 1.5 litros universal",
     disponibilidad: true,
     descuento: false,
-    id: 234,
+    id: 228,
     price: "129,900",
     description:
       "Vaso de vidrio con capacidad para 1.5 litros refractario, permitiendo la resistencia a choques térmicos\nPotencia del motor: 350 Vatios\nFrecuencia de operación: 60 Hz\nVoltaje de alimentación: 110 a 120 Vac\nSelector de velocidades tipo botonera: 4 velocidades + pulso\nCuchilla 4 aspas en acero inoxidable\nEsta licuadora no es apta para triturar hielo.",
@@ -2869,7 +2869,7 @@ export const database = [
     product: "licuadora blanca corona",
     disponibilidad: true,
     descuento: false,
-    id: 235,
+    id: 229,
     price: "129,900",
     description:
       "Material: Vaso plástico.\nCapacidad 1.5 litros.\nmotor 350W de potencia.\n4 Velocidades y pulso.\nCuchillas en acero inoxidable.\nTapa con visor transparente removible.\nMedidas: Alto (24 cm) Ancho (16.5 cm) Largo (36 cm)\nPeso: 1.5 kg.\nColor: Blanca.",
@@ -2882,7 +2882,7 @@ export const database = [
     product: "licuadora negra vaso de plastico 1.5 litros corona",
     disponibilidad: true,
     descuento: false,
-    id: 236,
+    id: 230,
     price: "129,900",
     description:
       "Material: Vaso plástico.\nCapacidad 1.5 litros.\n4 Velocidades y pulso.\nCuchillas en acero inoxidable.\nTapa con visor transparente removible.\nMedidas: Alto (24 cm) Ancho (16.5 cm) Largo (36 cm)\nPeso: 1.5 kg.\nColor: Negra.",
@@ -2895,7 +2895,7 @@ export const database = [
     product: "licuadora blanca vaso de plastico kalley",
     disponibilidad: true,
     descuento: false,
-    id: 237,
+    id: 231,
     price: "90,000",
     description:
       "Licuadora 400W de potencia\nCuchillas en acero inoxidable, mejor licuado\nVaso plástico de gran capacidad de 1,5L",
@@ -2908,7 +2908,7 @@ export const database = [
     product: "mini licuadora portatil recargable",
     disponibilidad: true,
     descuento: false,
-    id: 238,
+    id: 232,
     price: "49,900",
     description:
       "Licuadora portátil, 12.8 fl oz, mezclador personal de frutas recargable con USB, mini licuadora para batidos de leche, batidos, jugo de frutas para deportes, oficina, viajes, gimnasio y exteriores",
@@ -2921,7 +2921,7 @@ export const database = [
     product: "licuadora cromado oster",
     disponibilidad: true,
     descuento: false,
-    id: 239,
+    id: 233,
     price: "289,000",
     description:
       "Capacidad: 1.25 litros\n3 velocidades\n600 watts de potencia\nVaso de vidrio diseñado para adaptarse con facilidad a la puerta del refrigerador e ideal para guardar jugos, leches, malteadas y otras bebidas congeladas\nCromada\nCuchilla removible de acero inoxidable para triturar frutas congeladas y hielo para preparar jugos",
@@ -2934,7 +2934,7 @@ export const database = [
     product: "licuadora deportiva inox inoxidable 200w universal",
     disponibilidad: true,
     descuento: false,
-    id: 240,
+    id: 234,
     price: "189,000",
     description:
       "4 cuchillas en acero inoxidable\nIncluye 2 termos, 1 en acero inoxidable\nCuerpo recubierto en acero inoxidable\nPie de base antideslizante\nPotencia de 200W\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
@@ -2947,7 +2947,7 @@ export const database = [
     product: "licuadora deportiva 600ml universal",
     disponibilidad: true,
     descuento: false,
-    id: 241,
+    id: 235,
     price: "139,000",
     description:
       "Capacidad 600 ml\nMaterial Plástico\nColor Verde\nTipo Licuadora personal\nPotencia 200W",
@@ -2960,7 +2960,7 @@ export const database = [
     product: "estufa a gas 4 puestos abba",
     disponibilidad: true,
     descuento: false,
-    id: 242,
+    id: 236,
     price: "265,000",
     description:
       "mesa porcelanizada de facil limpieza 58cm x 51cm x 13.5cm abba",
@@ -2973,7 +2973,7 @@ export const database = [
     product: "estufa de mesa 2 puestos haceb",
     disponibilidad: true,
     descuento: false,
-    id: 243,
+    id: 237,
     price: "179,000",
     description:
       "Cocineta eléctrica de 2 puestos con mesa porcelanizada, para una fácil limpieza, su material resistente no se raya ni se decolora con el tiempo. Se acomoda fácilmente en cualquier espacio, fácil de usar y de instalar. Su resistencia tubular de gran eficiencia garantiza una distribución ideal de la temperatura. Cuenta con zona de encharque para evitar derrames.",
@@ -2986,7 +2986,7 @@ export const database = [
     product: "hornilla electrica 2 puestos universal",
     disponibilidad: true,
     descuento: false,
-    id: 244,
+    id: 238,
     price: "143,000",
     description:
       "Marca: Universal\nMateriales: 60 % Lámina cool roll, 20% Partes eléctricas, 10% Acero inoxidable: 10% Polipropileno.\nMedidas: Largo (54.5 cm) Alto (9.5 cm) Ancho (27.5 cm)\nPotencia: 2000 W (1000 W por cada puesto)",
@@ -2999,7 +2999,7 @@ export const database = [
     product: "cocineta 2 puestos a gas haceb",
     disponibilidad: true,
     descuento: false,
-    id: 245,
+    id: 239,
     price: "96,000",
     description:
       "Cocineta a gas de 2 puestos a gas propano, se acomoda fácilmente en cualquier espacio, fácil de usar y de instalar. Cuanta con mesa porcelanizada de fácil limpieza, perillas ergonómicas que controlan la intensidad de la llama y zona de encharque para evitar derrames. Sus parrillas con puntos de apoyo óptimos brindaan seguridad y estabilidad.",
@@ -3012,7 +3012,7 @@ export const database = [
     product: "hornilla electrica 1 puesto universal",
     disponibilidad: true,
     descuento: false,
-    id: 246,
+    id: 240,
     price: "90,000",
     description:
       "Hornilla eléctrica de 1 puesto\nCompacta, liviana y muy práctica\nTiene un selector de temperatura que alcanza hasta 5 niveles\nCuenta con asas frías al tacto que facilitan su manipulación.\nMedida del producto 26 x 9 x 24.5 cm\n1000W, 110-120 Vac, 60 Hz",
@@ -3025,7 +3025,7 @@ export const database = [
     product: "barril ahumador en acero  universal",
     disponibilidad: true,
     descuento: false,
-    id: 247,
+    id: 241,
     price: "445,000",
     description: "55cm x 43cm x 30cm , capacidad: 6 libras universal",
     images_url:
@@ -3037,7 +3037,7 @@ export const database = [
     product: "asador eléctrico rectangular 45 x 25 cm",
     disponibilidad: true,
     descuento: false,
-    id: 248,
+    id: 242,
     price: "210,000",
     description:
       "Tamaño: 45 cm. de longitud x 25 cm. de ancho\nPancha con doble recubrimiento de antiadherente\n5 niveles ajustables de temperatura\nAsas cromadas\nIncluye bandeja recolectora de grasas\nPotencia de 1.400W\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
@@ -3050,7 +3050,7 @@ export const database = [
     product: "asador grill liso 37 x 27 cm kalley",
     disponibilidad: true,
     descuento: false,
-    id: 249,
+    id: 243,
     price: "165,000",
     description:
       "Cuenta con superficie en teflón y selector de temperatura\nSuperficie 27.5cm x 17cm\nBandeja para recolección de grasas\nPotencia de 1500W",
@@ -3063,7 +3063,7 @@ export const database = [
     product: "sarten electrico 30x30cm tapa de vidrio antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 250,
+    id: 244,
     price: "237,000",
     description:
       "Tapa de vidrio termo resistente con aro metálico, perilla tipo pomo y perforación para alivio de vapor\nControlador de temperatura con sistema control extraíble de 6 posiciones\nAsas laterales en material plástico de baquelita) termo resistente\nEl sartén está hecho en aluminio con revestimiento de pintura antiadherente.\nMedidas 30 x 30 cm.",
@@ -3076,7 +3076,7 @@ export const database = [
     product: "lampara luna humidificador luz led colores + base madera",
     disponibilidad: true,
     descuento: false,
-    id: 251,
+    id: 245,
     price: "62,000",
     description: "lampara luna humidificador luz led colores + base madera",
     images_url:
@@ -3088,7 +3088,7 @@ export const database = [
     product: "difusor de aromas 130 ml humidificador",
     disponibilidad: true,
     descuento: false,
-    id: 252,
+    id: 246,
     price: "49,000",
     description: "difusor de aromas 130 ml humidificador",
     images_url:
@@ -3100,7 +3100,7 @@ export const database = [
     product: "difusor de aromas 130 ml humidificador",
     disponibilidad: true,
     descuento: false,
-    id: 253,
+    id: 247,
     price: "49,000",
     description: "difusor de aromas 130 ml humidificador",
     images_url:
@@ -3112,7 +3112,7 @@ export const database = [
     product: "difusor de aromas 300 ml humidificador",
     disponibilidad: true,
     descuento: false,
-    id: 254,
+    id: 248,
     price: "49,000",
     description: "difusor de aromas 300 ml humidificador",
     images_url:
@@ -3124,7 +3124,7 @@ export const database = [
     product: "difusor de aromas 130 ml humidificador",
     disponibilidad: true,
     descuento: false,
-    id: 255,
+    id: 249,
     price: "49,000",
     description: "difusor de aromas 130 ml humidificador",
     images_url:
@@ -3136,7 +3136,7 @@ export const database = [
     product: "difusor de aromas 300 ml humidificador",
     disponibilidad: true,
     descuento: false,
-    id: 256,
+    id: 250,
     price: "49,000",
     description: "difusor de aromas 300 ml humidificador",
     images_url:
@@ -3148,7 +3148,7 @@ export const database = [
     product: "batidor de mano universal",
     disponibilidad: true,
     descuento: false,
-    id: 257,
+    id: 251,
     price: "94,000",
     description:
       'Cuenta con aspas en acero inoxidables de excelente diseño\nRecipiente para guardar cable\nDos aspas en acero inoxidable \n150 watts de potencia \nBotón "Eject" para el desensamble de las cuchillas',
@@ -3161,7 +3161,7 @@ export const database = [
     product: "batidora multiuso black & decker",
     disponibilidad: true,
     descuento: false,
-    id: 258,
+    id: 252,
     price: "204,000",
     description:
       "Voltaje: 120V\nFrecuencia: 60 Hz\nPotencia: 200 W\nCantidad de velocidades: 2\nNo es apto para picar hielo\nMaterial de la hoja: Acero inoxidable\nAccesorios incluidos:  Batidor, Bowl picador, Vaso medidor, Tapa para bowl picador",
@@ -3174,7 +3174,7 @@ export const database = [
     product: "mezclador de bebidas universal",
     disponibilidad: true,
     descuento: false,
-    id: 259,
+    id: 253,
     price: "34,000",
     description:
       "Mezclador de bebidas con batería Incluye botón de encendido y apagado Cuenta con un batidor en acero inoxidable Requiere 2 baterías AA (No incluidas) Poner el batidor al fondo del vaso ya sumergido y mueva de arriba a abajo. Dimensiones básicas del producto • 22 x 4 x 4 cm",
@@ -3187,7 +3187,7 @@ export const database = [
     product: "freidora de aire 1.8 litros oster",
     disponibilidad: true,
     descuento: false,
-    id: 260,
+    id: 254,
     price: "294,000",
     description:
       "Cocina hasta con 99.5% menos aceite, comparado con freidoras tradicionales Oster®\nBandeja de cocción con capacidad de 1.8 litros\nControl de temporizador ajustable de hasta 60 minutos\nPerilla de temperatura ajustable de hasta 200ºC\nMango frío al tacto\nBandeja interior extraíble con recubrimiento antiadherente\nFunción de apagado automático al retirar la bandeja de cocción\nPerfecta para preparar desde pollos y carnes, hasta vegetales, pescado y postres",
@@ -3200,7 +3200,7 @@ export const database = [
     product: "facilfry 3.2 litros 1300w universal",
     disponibilidad: true,
     descuento: false,
-    id: 261,
+    id: 255,
     price: "329,000",
     description:
       "Funciones: hornear, freír, asar y dorar\nTemperatura ajustable 80°C - 200°C\nLuz indicadora\nTecnología de circulación de aire de alta velocidad\nCesta interior fabricada en lámina de acero con recubrimiento en pintura de fácil limpieza\nRejilla interior recubierta con pintura antiadherente\nTemporizador ajustable hasta 30 minutos.\nCapacidad de 3.2 litros\nPotencia: 1300W\nVoltaje 110-120 Vac\nFrecuencia: 60 Hz",
@@ -3213,7 +3213,7 @@ export const database = [
     product: "picatodo chopper mix univesal 375ml",
     disponibilidad: true,
     descuento: false,
-    id: 262,
+    id: 256,
     price: "109,900",
     description:
       "Con una capacidad de 1.5 tazas (aproximadamente 375 ml), este Picatodo Chopper mix es la herramienta ideal para preparar porciones pequeñas o medianas. Su cable de 80 cm de largo te brinda más flexibilidad, facilitando el alcance de las tomas eléctricas.",
@@ -3226,7 +3226,7 @@ export const database = [
     product: "horno microondas 20 litros kalley",
     disponibilidad: true,
     descuento: false,
-    id: 263,
+    id: 257,
     price: "305,000",
     description:
       "Panel digital con amplio menú de funciones\nCapacidad 20 litros perfecto para tu hogar\nElige la potencia para calentar según los 10 niveles\n6 funciones de cocción para preparar tus alimentos\nFunción memoria para guardar tus tiempos de cocción",
@@ -3239,7 +3239,7 @@ export const database = [
     product: "olla arocera 1 litro 5 tazas universal",
     disponibilidad: true,
     descuento: false,
-    id: 264,
+    id: 258,
     price: "141,000",
     description:
       "Olla arrocera de 5 tazas, 1 litro o 1 libra\nVasija de aluminio con doble capa de antiadherente, asas y accesorios resistentes al calor fabricados en polipropileno\nvaporera externa de aluminio y tapa de vidrio templado\nIncluye cuchara y taza medidora\nCuenta con función de cocinar y función automática de calentar",
@@ -3252,7 +3252,7 @@ export const database = [
     product: "aspiradora de carro portatil",
     disponibilidad: true,
     descuento: false,
-    id: 265,
+    id: 259,
     price: "156,000",
     description:
       "Funciona con 12v.\nIncluye 2 boquillas.\nIncluye cable flexible.\nIncluye Linterna Frontal incorporada\nFiltro Lavable\nInterruptor de encindido\nMangera de succión de 24 cms\nCepillo para la tapicería\nFácil de usar y limpiar.\nCompacto y ligero de llevar.\nLargo del cable 2metros y 15cm\nLargo del tubo: 28cm",
@@ -3265,7 +3265,7 @@ export const database = [
     product: "aspiradora magic duo 2 en 1 kalley",
     disponibilidad: true,
     descuento: false,
-    id: 266,
+    id: 260,
     price: "156,000",
     description:
       "2 en 1 Ideal para el hogar y el automóvil\nIncluye boquilla para esquinas y ranuras\nFácil de armar y desarmar\nCapacidad de recolección de polvo 500ml\n90° de Inclinación",
@@ -3278,7 +3278,7 @@ export const database = [
     product: "sopladora aspiradora 6 velocidades",
     disponibilidad: true,
     descuento: false,
-    id: 267,
+    id: 261,
     price: "146,000",
     description:
       "Soplador de mano eléctrico para limpieza de ordenador, limpiador de ordenador de 500W, soplado/recolección de polvo 2 en 1, ventilador de ventilación",
@@ -3291,7 +3291,7 @@ export const database = [
     product: "hidrolavadora 13000 psi karson",
     disponibilidad: true,
     descuento: false,
-    id: 268,
+    id: 262,
     price: "275,000",
     description:
       "caudal max: 5 litros por minuto, alimentación alámbrica, 21cm x 17cm x 37cm",
@@ -3305,153 +3305,153 @@ export const database = [
       "bombillo led plegable redondo maxi light ahorrador de energía luz blanca",
     disponibilidad: true,
     descuento: false,
-    id: 269,
+    id: 263,
     price: "35,000",
     description:
       "Fuente de luz: 2835 32 cuentas\nColor DE LA LUZ: luz blanca 6500K\nPortalámparas: portalámparas E27\nCalidad del material: pantalla PP + PP\nTamaño: 90mm/3,54 pulgadas; 120mm/4,72 pulgadas\nVoltaje: 165-265V/110-265V\nColor: Blanco",
     images_url:
       "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/8e31c540-ea2a-4ba8-8848-3e76ba9a7c84.83a3c1c790d81894f29dec23bb7f64c7.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "bombillo led 50 watts ilumina",
     disponibilidad: true,
     descuento: false,
-    id: 270,
+    id: 264,
     price: "40,000",
     description: "bombillo led 50 watts ilumina",
     images_url:
       "https://tinypic.host/images/2024/01/22/_40.000DG_X2-35-50046-removebg-preview.png",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "bombillo led blutooth rgb con contro luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 271,
+    id: 265,
     price: "39,500",
     description:
       "Dimensiones: 13 cm x 9 cm x 5 cm\nMaterial: Plástico\nPotencia: 12 W\nIncluye\t1 x Bombillo LED BT 1 x Control Remoto",
     images_url:
       "https://falabella.scene7.com/is/image/FalabellaCO/117505013_1?wid=800&hei=800&qlt=70",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "bombillo giratorio flor de loto colores led rosca",
     disponibilidad: true,
     descuento: false,
-    id: 272,
+    id: 266,
     price: "55,000",
     description:
       "Tecnología de iluminación: LED\nColor de la luz: RGB multicolor\nForma: Flor",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_668962-MLM31236020715_062019-O.webp",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "bombilla mata insectos led karluz",
     disponibilidad: true,
     descuento: false,
-    id: 273,
+    id: 267,
     price: "25,000",
     description:
       "Potencia: 9W\nVoltaje: AC220V\nVoltaje de la grilla: >400~800V\nZócalo de la bombilla: E27\nArea de cobertura: 10-30 m2\nColor: Blanco\nDimensiones: 148 x 78 mm\nUso: Interior",
     images_url:
       "https://medishop.gt/whozicoa/2021/12/BOMBILLA-LED-ANTI-MOSQUITOS-VISTA-1-1.jpg",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "bombillo led 40 watts ilumina",
     disponibilidad: true,
     descuento: false,
-    id: 274,
+    id: 268,
     price: "32,000",
     description: "bombillo led 40 watts ilumina",
     images_url:
       "https://tinypic.host/images/2024/01/22/_40.000DG_X2-35-50046-removebg-preview.png",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "bombillo led 15 watts ilumina",
     disponibilidad: true,
     descuento: false,
-    id: 275,
+    id: 269,
     price: "16,000",
     description: "bombillo led 15 watts ilumina",
     images_url:
       "https://tinypic.host/images/2024/01/22/_40.000DG_X2-35-50046-removebg-preview.png",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "bombillo led de colores giratorio 14cm",
     disponibilidad: true,
     descuento: false,
-    id: 276,
+    id: 270,
     price: "9,000",
     description:
       "Tipo de base: E27\nColor de la carcasa: blanco y verde\nPotencia: 4W/6W/9W\nModo de control: automático\nColor LED: rojo/Verde/azul\nVida útil: >50000H\nVoltaje de entrada: 85-265V 220V 110V\nFrecuencia de Línea: 50-60Hz",
     images_url:
       "https://s.alicdn.com/@sc04/kf/HTB1c4tsLNYaK1RjSZFnq6y80pXat.jpg",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "lampara solar con sensor de movimiento 20 luces led",
     disponibilidad: true,
     descuento: false,
-    id: 277,
+    id: 271,
     price: "24,000",
     description:
       "Se recarga automáticamente gracias a su panel solar\nSensor de movimiento capacidad de detección de hasta 8 metros\n20 Leds\nArea de iluminacion: 120°\nImpermeable IP64\nIluminación hasta 440 lm\nBatería de 1200mAh a 1500mAh\nColor de iluminación: blanco\nTemperatura de Color: 6000 K",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_749967-MCO69780887649_062023-O.webp",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "lamparas",
   },
   {
     product: "lampara solar para exteriores led 90w",
     disponibilidad: true,
     descuento: false,
-    id: 278,
+    id: 272,
     price: "215,000",
     description:
       "Fuente energética: Solar\nPotencia: 120w\nDimensión: 720x240x45 mm\nDistribución Lumínica: 130m2\nÁngulo de Apertura: 120°",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_727894-MCO31925819409_082019-O.webp",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "lamparas",
   },
   {
     product: "lampara de emergencia led karluz",
     disponibilidad: true,
     descuento: false,
-    id: 279,
+    id: 273,
     price: "35,000",
     description:
       "lampara de emergencia led karluz, luz led de 44 recargable, capacidad nominal 16000 mah",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_709539-MCO53325884349_012023-O.webp",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "lamparas",
   },
   {
     product: "lampara led recargable incluye cable cargador 1w led switch luz",
     disponibilidad: true,
     descuento: false,
-    id: 280,
+    id: 274,
     price: "35,000",
     description:
       "33 cms de largo\nLuz led frontal super brillante 25 w led\nLuz blanca equivale a 2100 lumens o una bombilla de 150 wats\nBateria recargable de 1500MAH\nVoltaje : 110/120\nFULL CARGA 12 horas\nTIEMPO DE DURACION DE LA CARGA 4-6 horas",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_753570-MCO43080073335_082020-O.webp",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "lamparas",
   },
   {
@@ -3459,20 +3459,20 @@ export const database = [
       "lampara solar recargable duración 10-30 horas incluye 3 bombillos",
     disponibilidad: true,
     descuento: false,
-    id: 281,
+    id: 275,
     price: "148,000",
     description:
       "Autonomía aproximada de hasta 20 horas\nTiempo de carga estimado con panel solar 13 a 15 horas\nTiempo de carga estimado con adaptador de corriente 8 a 10 horas\nDimensiones del panel: 25.5 x 14.5 x 1.4 cm aprox.\nDimensiones del módulo de control 17 x 12.5 x 6.5 cm aprox.\nLargo del cable del panel 3 metros aprox.\nLargo del cable de cada bombillo 4.9 metros aprox.",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_755841-MCO51171015041_082022-O.webp",
-    category: "illuminacion",
+    category: "iluminacion",
     sub_category: "lamparas",
   },
   {
     product: "cinta led 5050 multicolor 5 metros + control",
     disponibilidad: true,
     descuento: false,
-    id: 282,
+    id: 276,
     price: "51,500",
     description: "5 metros, control remoto , multicolor",
     images_url:
@@ -3484,7 +3484,7 @@ export const database = [
     product: "pesa fit boy toys 1kg colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 283,
+    id: 277,
     price: "19,900",
     description:
       "Esta maravillosa pesa es perfecta para ejercitarte en casa, con su peso de 2 lb, podrás realizar ejercicios funcionales que te ayudarán a mantenerte en forma",
@@ -3497,7 +3497,7 @@ export const database = [
     product: "pesa 1kg fisioterapia",
     disponibilidad: true,
     descuento: false,
-    id: 284,
+    id: 278,
     price: "25,000",
     description:
       "Peso: 2Lbs.\nMaterial: Plástico resistente relleno de arenilla\nAlta calidad\nFuncionalidad: Para levantamiento\nAlto: 18 Centimetros\nAncho: 8 Centimetros\nLargo: 8 Centimetros",
@@ -3510,7 +3510,7 @@ export const database = [
     product: "pesas de 2 kilos",
     disponibilidad: true,
     descuento: false,
-    id: 285,
+    id: 279,
     price: "35,500",
     description:
       "Cada mancuerna tiene un peso de 4 Libras (2 Kg) Alto: 23 Centimetros Ancho: 11.00 Centimetros Material plástico inyectado, antideslizante y fácil de limpiar con relleno. No daña ni mancha el piso como otras de hierro (ideal para uso domestico)",
@@ -3523,7 +3523,7 @@ export const database = [
     product: "mancuerna rusa 2.5kg boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 286,
+    id: 280,
     price: "19,600",
     description:
       "Tamaño Producto: 14 x 20 cm.\nPeso: 45 g.\nBolsa térmica para agua caliente o fría, alivia dolores musculares, de espalda, lumbares y cólicos menstruales, sirve para masajes, terapias o terapeutas entre otros usos.\nCuello tipo embudo para facilitar el llenado.\nSoporta agua fría y agua caliente (No superar 80°)\n¡Solo llénala con agua caliente y listo! Su material mantendrá el calor por mucho tiempo.\nAplicar calor sobre tu vientre es una forma natural de calmar estos calambres, pues tiene un efecto analgésico y anti-inflamatorio.\nAdemás te ayudará con golpes, ya que relaja los músculos de la zona en donde la uses.",
@@ -3536,7 +3536,7 @@ export const database = [
     product: "rueda de ejercicios abdominales con tapete",
     disponibilidad: true,
     descuento: false,
-    id: 287,
+    id: 281,
     price: "45,000",
     description:
       "La rueda abdominal resulta un gran producto que no sólo permite tonificar los abdominales, sino que fortalece los músculos del brazo y la mayor parte del tren superior resulta involucrada en el ejercicio.",
@@ -3549,7 +3549,7 @@ export const database = [
     product: "almohada inflable para camping 43x28x9 cm intex",
     disponibilidad: true,
     descuento: false,
-    id: 288,
+    id: 282,
     price: "15,000",
     description:
       "practica almohada inflable que te dará la comodidad de su material aterciopelado. Además, es sencilla de trasportar por su facilidad de sacarle el aire cuando no se va a usar más.",
@@ -3562,8 +3562,8 @@ export const database = [
     product: "porta celular para brazo",
     disponibilidad: true,
     descuento: false,
-    id: 289,
-    price: "",
+    id: 283,
+    price: "10,000",
     description:
       "Brazalete deportivo, Running Gym Universal Smartphone Arm Bag con orificio para auriculares Bolsillos multifuncionales",
     images_url:
@@ -3575,7 +3575,7 @@ export const database = [
     product: "taloneras ortopedicas ultra descanso",
     disponibilidad: true,
     descuento: false,
-    id: 290,
+    id: 284,
     price: "21,000",
     description:
       "Talonera en Silicona un uso diario cómodo: suave y diseño único en forma de U, la grasa artificial en el área azul proporciona un soporte de flexibilidad especial para el centro del talón, evita el impacto del talón y proporciona una distribución uniforme de la presión para que se sienta cómodo todo el día.",
@@ -3588,7 +3588,7 @@ export const database = [
     product: "medias de compresión zip sox",
     disponibilidad: true,
     descuento: false,
-    id: 291,
+    id: 285,
     price: "39,000",
     description:
       "Estos calcetines de compresión con cremallera son fáciles de usar y ayudan a calmar y revitalizar tus piernas, ¡te devuelven el pep en tu paso! De pie todo el día puede causar dolor en las piernas y los pies, pero estos calcetines de compresión con cremallera alivian este dolor al aumentar la circulación",
@@ -3601,7 +3601,7 @@ export const database = [
     product: "corrector de juanetes",
     disponibilidad: true,
     descuento: false,
-    id: 292,
+    id: 286,
     price: "24,000",
     description:
       "Es una férula de descanso, para uso diurno y nocturno. Do- bla cómodamente los huesos y los dedos de los pies. Aplica un sistema de presión de 3 puntos para aliviar la deformidad del hallux valgus. Es ajustable. Posee una almohadilla ósea para aliviar la presión en la articulación del dedo del pie y maximizar la presión dispersa.",
@@ -3614,7 +3614,7 @@ export const database = [
     product: "set guante protector de muñeca y tobillo en tela",
     disponibilidad: true,
     descuento: false,
-    id: 293,
+    id: 287,
     price: "15,000",
     description: "set guante protector de muñeca y tobillo en tela",
     images_url:
@@ -3626,7 +3626,7 @@ export const database = [
     product: "medias de compresion",
     disponibilidad: true,
     descuento: false,
-    id: 294,
+    id: 288,
     price: "31,000",
     description:
       "Medias de compresión médicas, calcetines largos de presión, con cremallera, soporte profesional para piernas, gruesos",
@@ -3639,7 +3639,7 @@ export const database = [
     product: "tensiómetro digital jziki",
     disponibilidad: true,
     descuento: false,
-    id: 295,
+    id: 289,
     price: "98,000",
     description:
       "Monitor de presión arterial de brazo.\nMide la presión sistólica.\nInflado semiautomático.\nCircunferencia del brazalete mínima de 22cm y máxima de 32cm.\nCon indicador de error de movimiento.\nIncluye brazalete.\nDe fácil traslado y manipulación.\nDiseño práctico para mediciones instantáneas.",
@@ -3652,7 +3652,7 @@ export const database = [
     product: "bascula inteligente peso corporal recargable 25cm x 26cm",
     disponibilidad: true,
     descuento: false,
-    id: 296,
+    id: 290,
     price: "69,000",
     description:
       "Tamaño: 26 * 26 cm\nPeso máximo: 180 kg\nRango de pesaje 0,2-180 kg\nValor de graduación: 100g\nConversión de unidades: KG / kg tael; KG / LB ST\nModo de visualización: pantalla LCD de alta definición",
@@ -3665,7 +3665,7 @@ export const database = [
     product: "bascula personal max 150kg",
     disponibilidad: true,
     descuento: false,
-    id: 297,
+    id: 291,
     price: "43,000",
     description:
       "La báscula de vidrio cuenta con una plataforma resistente y segura que soporta hasta 180kg, y su pantalla LCD retroiluminada hace que sea fácil de leer incluso en ambientes con poca luz. Además, su diseño elegante y minimalista se adaptará perfectamente a cualquier espacio de tu hogar.",
@@ -3678,7 +3678,7 @@ export const database = [
     product: "faja cinturilla reductora neopropeno",
     disponibilidad: true,
     descuento: false,
-    id: 298,
+    id: 292,
     price: "27,000",
     description:
       "Material principal: Neoprene\nComposición: Neopreno y tela\nFunciones de la faja reductora: Reductora\nZona de control de la faja reductora: Abdomen",
@@ -3691,7 +3691,7 @@ export const database = [
     product: "bolsa térmica para agua fría o caliente motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 299,
+    id: 293,
     price: "14,000",
     description:
       "Tamaño Producto: 14 x 20 cm.\nPeso: 45 g.\nBolsa térmica para agua caliente o fría, alivia dolores musculares, de espalda, lumbares y cólicos menstruales, sirve para masajes, terapias o terapeutas entre otros usos.\nCuello tipo embudo para facilitar el llenado.\nSoporta agua fría y agua caliente (No superar 80°)\n¡Solo llénala con agua caliente y listo! Su material mantendrá el calor por mucho tiempo.\nAplicar calor sobre tu vientre es una forma natural de calmar estos calambres, pues tiene un efecto analgésico y anti-inflamatorio.\nAdemás te ayudará con golpes, ya que relaja los músculos de la zona en donde la uses.",
@@ -3704,7 +3704,7 @@ export const database = [
     product: "máquina cortadora evok",
     disponibilidad: true,
     descuento: false,
-    id: 300,
+    id: 294,
     price: "168,000",
     description:
       "Cortadora profesional recargable EVOK. Edicion limitada, Cuchillas de acero de carbono de alta precision, palanca ajustable, permite longitudes de corte personalizadas. Indicador LED de carga. 4 horas de corte.",
@@ -3717,7 +3717,7 @@ export const database = [
     product: "cortapelo homecut combo wahl",
     disponibilidad: true,
     descuento: false,
-    id: 301,
+    id: 295,
     price: "135,000",
     description: "incluye maquina de corte y patillera",
     images_url:
@@ -3729,7 +3729,7 @@ export const database = [
     product: "cortapelo color code wahl combo 17 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 302,
+    id: 296,
     price: "12,000",
     description:
       "incluye tijeras, peinilla, estuche y un cepillo combo de 17 piezas",
@@ -3741,7 +3741,7 @@ export const database = [
     product: "cortapelo homecut basica wahl 15 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 303,
+    id: 297,
     price: "96,000",
     description: "incluye tijeras y protector de cuchilla",
     images_url:
@@ -3753,7 +3753,7 @@ export const database = [
     product: "recortadora detalaldora easy trim wahl",
     disponibilidad: true,
     descuento: false,
-    id: 304,
+    id: 298,
     price: "92,000",
     description:
       "funciona con baterias, incluye cepillo, peinilla y 4 guias de corte",
@@ -3766,7 +3766,7 @@ export const database = [
     product: "plancha remington aguacate y macadamia",
     disponibilidad: true,
     descuento: false,
-    id: 305,
+    id: 299,
     price: "210,000",
     description:
       "230°C/450°F Temperatura máxima\nPantalla digital de temperatura\n5 ajustes de temperatura digital: 150°C, 170°C, 190°C, 210°C, 230°C (110V)\nCalentamiento rápido\nPlacas de 25mm x 100mm\nApagado automático\nCierre de seguridad\nCable de 1.8 m\nNegro",
@@ -3779,7 +3779,7 @@ export const database = [
     product: "plancha shine terapy coco remington",
     disponibilidad: true,
     descuento: false,
-    id: 306,
+    id: 300,
     price: "170,000",
     description:
       "8 Ajustes de Temperatura: 150°C – 230°C\nPlacas Flotantes Recubiertas de cerámica y coco\nLuz indicadora LED\nBloqueo de placas\nApagado Automático\nCable Giratorio de 1,8 m\nCierre de seguridad",
@@ -3792,7 +3792,7 @@ export const database = [
     product: "rizador remington 2 en 1",
     disponibilidad: true,
     descuento: false,
-    id: 307,
+    id: 301,
     price: "132,000",
     description:
       "Temperatura máxima: 190°C (375°F)\nUso con cable\nBarra con Clip\nBotón de Encendido y Apagado\nIndicador LED de encendido\nBarra Recubierta de Cerámica\nPunta fría\nCordón Giratorio de 2 metros",
@@ -3805,7 +3805,7 @@ export const database = [
     product: "secador remington aguacate con macadamia",
     disponibilidad: true,
     descuento: false,
-    id: 308,
+    id: 302,
     price: "208,000",
     description:
       "Rejilla de Cerámica con Micro acondicionadores de Aguacate y Macadamia\n3 ajustes de Temperatura\n2 velocidades\nConcentrador de Calor\nDifusor\nCable de 1,8 metros\nRejilla removible",
@@ -3818,7 +3818,7 @@ export const database = [
     product: "cepillo secado y modelador diseño ovalado keratin pro generica",
     disponibilidad: true,
     descuento: false,
-    id: 309,
+    id: 303,
     price: "50,000",
     description:
       "Cepillo secador de pelo de viaje, herramienta de estilismo, iónico negativo, 3 en 1 aire caliente, voluminizador de rizo Alisador",
@@ -3831,7 +3831,7 @@ export const database = [
     product: "cepillo secador volumizador salon one-step waer professional",
     disponibilidad: true,
     descuento: false,
-    id: 310,
+    id: 304,
     price: "50,000",
     description:
       "Para cabellos secos y humedos Revestimiento Ceramico Cerdas Mixtas Ajuste De Temperatura Diseño Ovalado Cable Giratorio 360",
@@ -3844,7 +3844,7 @@ export const database = [
     product: "plancha cepillo alisador electrico",
     disponibilidad: true,
     descuento: false,
-    id: 311,
+    id: 305,
     price: "43,000",
     description: "plancha cepillo alisador electrico",
     images_url: "https://m.media-amazon.com/images/I/71nkotDaC2L.SS700.jpg",
@@ -3855,7 +3855,7 @@ export const database = [
     product: "secador remington aguacate con macadamia",
     disponibilidad: true,
     descuento: false,
-    id: 312,
+    id: 306,
     price: "179,900",
     description:
       "La máscara LED es una forma novedosa de rejuveneci- miento del rostro. Su forma cómoda y no invasiva genera baños de luz que estimulan el desarrollo del colágeno y la elastina dando elasticidad y juventud al rostro, siendo una terapia de lucha contra el envejecimiento y consiguiendo una piel más joven, elástica, tersa y radiante.",
@@ -3868,7 +3868,7 @@ export const database = [
     product: "taladro pulidor de uñas electrico",
     disponibilidad: true,
     descuento: false,
-    id: 313,
+    id: 307,
     price: "85,000",
     description:
       "Taladro pulidor de uñas eléctrico extremadamente silencioso suave y sin vibración. Mano de diseño ligero para la operación exacta. Forma y limpia suavemente las pieles duras incómodas, callos y pegamento duro",
@@ -3881,7 +3881,7 @@ export const database = [
     product: "pulidor de uñas electrico",
     disponibilidad: true,
     descuento: false,
-    id: 314,
+    id: 308,
     price: "35,000",
     description:
       "Este kit de manicura y pedicura en casa incluye 5 cabezales\nde fijación que pulen, brillan, dan forma y lima, Recargable e inalámbrica:\nesta unidad tiene ajustes de avance y retroceso, modos de baja y alta potencia,\nasí como una luz LED para iluminar el clavo",
@@ -3894,7 +3894,7 @@ export const database = [
     product: "olla calentadora de cera",
     disponibilidad: true,
     descuento: false,
-    id: 315,
+    id: 309,
     price: "65,000",
     description:
       "Su uso es muy fácil, sólo conecte a la corriente, Gradúe la temperatura y deje calentar hasta que la cera esté líquida, deslice el aplicador en la piel en sentido al crecimiento del vello y retire la capa de cera",
@@ -3907,7 +3907,7 @@ export const database = [
     product: "lampara led uv secador para uñas",
     disponibilidad: true,
     descuento: false,
-    id: 316,
+    id: 310,
     price: "56,000",
     description:
       "Tipo: Lámpara led.\nModelo: SUN9C Plus.\nMaterial: PC YAMP; ABS.\nPotencia: 24W - 18 leds.\nAdaptador: entrada 100-240V 50 / 60Hz 0.5A.\nSalida: DC12V 1A.\nTiempo de retardo 2 min en modo automático y programable a 30s / 60s.",
@@ -3920,7 +3920,7 @@ export const database = [
     product: "juego de brochas para maquillaje 12 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 317,
+    id: 311,
     price: "28,000",
     description: "Contiene 12 brochas de calidad, material nilón suave",
     images_url:
@@ -3932,7 +3932,7 @@ export const database = [
     product: "set de brochas sirena 4 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 318,
+    id: 312,
     price: "18,500",
     description:
       "Cantidad:10PC.\nMaterial del pincel:Nailon.\nMaterial del mango:Plástico.\nTipo de artículo:Pinceles de Maquillaje.\nIdeal para maquillaje profesional.\nCerdas suaves.\nTamaño Practico.",
@@ -3945,7 +3945,7 @@ export const database = [
     product: 'tijera de barbero profesional 7" 17" evok',
     disponibilidad: true,
     descuento: false,
-    id: 319,
+    id: 313,
     price: "14,000",
     description: 'tijera de barbero profesional 7" 17" evok',
     images_url:
@@ -3957,7 +3957,7 @@ export const database = [
     product: 'tijera de peluqueria 55" 14cm en acero inoxidable evok',
     disponibilidad: true,
     descuento: false,
-    id: 320,
+    id: 314,
     price: "11,000",
     description: 'tijera de peluqueria 55" 14cm en acero inoxidable evok',
     images_url:
@@ -3969,7 +3969,7 @@ export const database = [
     product: "barbera retractil con cuchilla romivible enkor",
     disponibilidad: true,
     descuento: false,
-    id: 321,
+    id: 315,
     price: "9,000",
     description:
       "barbera retractil con cuchilla romivible enkor, Barbera de enkor cuenta con un cabo en plástico, es retráctil y cuenta con una cuchilla removible, viene con una cuchilla incorporada. Es perfecta para profesionales, practicantes, y cualquier perso- na que trabaje con cortes de cabello, por esta ra- zón, permite afeitar, cortar el cabello y darle for- ma a todos los estilos.",
@@ -3982,7 +3982,7 @@ export const database = [
     product: "guias para maquinas de motilar wahl",
     disponibilidad: true,
     descuento: false,
-    id: 322,
+    id: 316,
     price: "6,500",
     description:
       "Conocidas como Guías, Peines o Alzas. Son los accesorios ideales para realizar los cortes de cabe- llo a las alturas que desees. Disponibles desde la #1 hasta la #8",
@@ -3994,7 +3994,7 @@ export const database = [
     product: "peine de corte carbono antiestatic toni&guy",
     disponibilidad: true,
     descuento: false,
-    id: 323,
+    id: 317,
     price: "6,000",
     description: "peine de corte carbono antiestatic toni&guy",
     images_url:
@@ -4006,7 +4006,7 @@ export const database = [
     product: "exploradora ovalada para motocicleta",
     disponibilidad: true,
     descuento: false,
-    id: 324,
+    id: 318,
     price: "75,000",
     description:
       "posee luz alta, luz media y luz estroboscopica, incluye sistema de encendido y apagado",
@@ -4019,7 +4019,7 @@ export const database = [
     product: "juego de 2 lampara de 6 leds c/u",
     disponibilidad: true,
     descuento: false,
-    id: 325,
+    id: 319,
     price: "75,000",
     description:
       "Faro Led para Motocicleta, Faro Auxiliar para Coche, Luz De Conducción Adecuada para Motocicletas, Atvs, Utvs, Iluminación para Scooter",
@@ -4032,7 +4032,7 @@ export const database = [
     product: "luz linterna blanca con pito bicicleta recargable 250 lumens",
     disponibilidad: true,
     descuento: false,
-    id: 326,
+    id: 320,
     price: "39,000",
     description:
       "Material: Plástico de alta calidad.\nTamaño linterna: 10.5 x 5.5 x 4 cm\ntamaño empaque: 10 x 10.5 x 5.4 cm\nPeso empaque: 123 g.\nMax brillo: 250 Lúmenes.",
@@ -4045,7 +4045,7 @@ export const database = [
     product: "luces led decorativas bicicleta 5cm",
     disponibilidad: true,
     descuento: false,
-    id: 327,
+    id: 321,
     price: "12,000",
     description:
       "Material: acero inoxidable y plástico\nColor: rojo, azul, amarillo, verde\nCondición: 100% nuevo y de alta calidad garantizada\nTamaños: 6cm",
@@ -4058,7 +4058,7 @@ export const database = [
     product: "exploradoras en barra 6000lm 6 led fija motocarro",
     disponibilidad: true,
     descuento: false,
-    id: 328,
+    id: 322,
     price: "37,000",
     description:
       "luz exploradora 6 leds de alta potencia 18w c/u este tipo de luz de trabajo led es impermeable a prueba de polvo y puede ser utilizado en cualquier moto, carro o camioneta",
@@ -4070,7 +4070,7 @@ export const database = [
     product: "linterna luz led recargable usb bicicleta",
     disponibilidad: true,
     descuento: false,
-    id: 329,
+    id: 323,
     price: "11,000",
     description:
       "luz de avertencia de seguridad para bicicleta, compacta brillante y facil de llevar, usb recargable",
@@ -4083,7 +4083,7 @@ export const database = [
     product: "candado moto alarma freno de disco o bicicleta",
     disponibilidad: true,
     descuento: false,
-    id: 330,
+    id: 324,
     price: "69,500",
     description:
       "Bloqueo de freno de disco DEALPEAK para motocicleta con alarma de 110 dB sonido de alarma resistente al agua antirrobo sistema de alarma de seguridad con llaves función de alerta universal para Motobike Scooter Bicicleta ATV",
@@ -4096,7 +4096,7 @@ export const database = [
     product: "compresor de aire inflador de llantas portatil 250psi",
     disponibilidad: true,
     descuento: false,
-    id: 331,
+    id: 325,
     price: "30,000",
     description:
       "Mini compresor de aire bomba eléctrica ABS automotriz durable vehículo bomba de aire 250 PSI bomba de inflador de neumáticos DC 12V piezas de coche",
@@ -4109,7 +4109,7 @@ export const database = [
     product: "guantes para moto cortos colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 332,
+    id: 326,
     price: "34,000",
     description: "colores varios largo: 15cm talla unica",
     images_url:
@@ -4121,7 +4121,7 @@ export const database = [
     product: "modulador blutooth para carro",
     disponibilidad: true,
     descuento: false,
-    id: 333,
+    id: 327,
     price: "47,000",
     description:
       "Modulador Bluetooth\n2 Puertos USB\nPuerto TypeC\nBluetooth 3.0\nperilla para Control de Volumen\nContestador de Llamada",
@@ -4134,7 +4134,7 @@ export const database = [
     product: "adaptador blutooth carro b13",
     disponibilidad: true,
     descuento: false,
-    id: 334,
+    id: 328,
     price: "23,000",
     description:
       "GIAUSA X6-receptor Bluetooth Universal V4.1, compatible con tarjeta TF, reproductor de música para llamadas con manos libres, entrada/salida auxiliar para coche, reproductor de música MP3",
@@ -4146,7 +4146,7 @@ export const database = [
     product: "aspiradora de carro portatil",
     disponibilidad: true,
     descuento: false,
-    id: 335,
+    id: 329,
     price: "62,000",
     description:
       "Aspiradora portátil para autos con conexión de 12V para enchufar en el encendedor. Cuenta con boquilla para aspirar en las zonas mas angostas de tu vehiculo.",
@@ -4159,7 +4159,7 @@ export const database = [
     product: "protector de celular para bicicleta con soporte",
     disponibilidad: true,
     descuento: false,
-    id: 336,
+    id: 330,
     price: "26,000",
     description:
       "resistente al agua, forro 17cm x 10cm base giratoria 360 grados",
@@ -4172,7 +4172,7 @@ export const database = [
     product: "soporte pared bicicleta original tornillos chazos",
     disponibilidad: true,
     descuento: false,
-    id: 337,
+    id: 331,
     price: "18,000",
     description:
       "Su instalación es sencilla y no requiere herramientas complejas, lo que le permite colocarlo en cualquier pared con facilidad. Su diseño elegante y discreto se integra perfectamente en cualquier decoración, desde la más moderna hasta la más tradicional.",
@@ -4185,7 +4185,7 @@ export const database = [
     product: "forro cubre el sillin galapago bicicleta",
     disponibilidad: true,
     descuento: false,
-    id: 338,
+    id: 332,
     price: "20,000",
     description:
       "Material: Gel de sílice, esponja, lycra.\nTamaño Aprox.: Forro: 27 x 20 x 4 cm\nEmpaque: 30 x 20 x 4 cm.\nPeso Aprox.: Empaque: 159 g.\nCubierta resistente añade durabilidad y sobretodo comodidad.",
@@ -4198,7 +4198,7 @@ export const database = [
     product: "esquinero para baño rimax",
     disponibilidad: true,
     descuento: false,
-    id: 339,
+    id: 333,
     price: "16,000",
     description:
       "tres entrepaños con el tamaño ideal de los envases. bandejas mas profundas, con mayor altura y perforaciones que permiten filtrar el agua y facilitan la limpieza. adaptador que facilita instalar en cualquier tamaño de grifo,pared o ducha. también se puede retirar o dejar a la preferencia. jabonera con drenaje y espacio para dos rasuradoras. 4 ganchos para colgar accesorios de ducha.",
@@ -4211,7 +4211,7 @@ export const database = [
     product: "gabinete para baño con espejo rimax",
     disponibilidad: true,
     descuento: false,
-    id: 340,
+    id: 334,
     price: "135,000",
     description:
       "Marca: Rimax\nMedidas: Largo. 59.8cm, Ancho. 19.0cm, Alto. 46.5cm\nPeso: 2.5kg",
@@ -4224,7 +4224,7 @@ export const database = [
     product: "organizador esquinero ajustabole",
     disponibilidad: true,
     descuento: false,
-    id: 341,
+    id: 335,
     price: "99,000",
     description:
       "Material: Barra de Metal y bandeja de Plástico\nBarra telescópica ajustable desde 1 metro hasta 2,29 metros\nExtremos antideslizantes\n4 bandejas\nPeso que resiste cada bandeja: 1,7 kilos c/u\nIncluye bandeja con colgador especial para toallas\nIncluye bandeja especial con ganchos para diferentes usos\nMedidas bandejas: 33cm x 21,5cm\nPeso de producto: 2 kg",
@@ -4237,7 +4237,7 @@ export const database = [
     product: "organizador de ducha rimax",
     disponibilidad: true,
     descuento: false,
-    id: 342,
+    id: 336,
     price: "29,500",
     description: "26.5cm x 14.7cm x 720cm colores varios",
     images_url:
@@ -4249,7 +4249,7 @@ export const database = [
     product: "dispensador crema dental soporte esterilizador",
     disponibilidad: true,
     descuento: false,
-    id: 343,
+    id: 337,
     price: "46,000",
     description:
       "Soporte Esterilizador ultravioleta para cepillos dentales con dispensador de pasta dental automático\nDesinfecta y esteriliza tu cepillo de dientes con Luz UV, en sus 4 espacios de almacenamiento de cepillos de todos los tamaños incluyendo cepillos eléctricos\nEl dispensador de crema dental funciona con luz infrarroja y te garantiza no contacto con tu cepillo para evitar contaminaciones cruzadas\nFácil de instalar, sin abrir huecos solo adhiera a una superficie lisa no porosa y listo.",
@@ -4262,7 +4262,7 @@ export const database = [
     product: "dispensador de jabón liquido acero inoxidable 500ml",
     disponibilidad: true,
     descuento: false,
-    id: 344,
+    id: 338,
     price: "56,000",
     description:
       "Resistente dispensador de jabón líquido o gel\nElaborado en acero inoxidable\nVisor para ver cantidad de líquido\nFácil de rellenar desde la parte superior\nCapacidad: 1 litro / 1000 ml\nMedidas: 12 cm ancho, 20,5 cm alto, 6,2 cm profundidad",
@@ -4275,7 +4275,7 @@ export const database = [
     product: "set x2 toallas de manos guirnalda fatelares",
     disponibilidad: true,
     descuento: false,
-    id: 345,
+    id: 339,
     price: "22,000",
     description: "set x2 toallas de manos guirnalda fatelares 40cm x 70cm",
     images_url:
@@ -4287,7 +4287,7 @@ export const database = [
     product: "set juego de baño x3",
     disponibilidad: true,
     descuento: false,
-    id: 346,
+    id: 340,
     price: "31,000",
     description: "motivos varios 80cm x 50cm",
     images_url:
@@ -4299,7 +4299,7 @@ export const database = [
     product: "tapetes estilo moderno veko",
     disponibilidad: true,
     descuento: false,
-    id: 347,
+    id: 341,
     price: "19,000",
     description: "colores varios 80cm x 50cm",
     images_url:
@@ -4311,7 +4311,7 @@ export const database = [
     product: "tapetes estilo moderno veko",
     disponibilidad: true,
     descuento: false,
-    id: 348,
+    id: 342,
     price: "19,000",
     description: "colores varios 80cm x 50cm",
     images_url:
@@ -4323,7 +4323,7 @@ export const database = [
     product: "tapete 1 pieza diseño rayas curvas",
     disponibilidad: true,
     descuento: false,
-    id: 349,
+    id: 343,
     price: "59,000",
     description: "50cm x 80cm diseño rayas curvas",
     images_url:
@@ -4335,7 +4335,7 @@ export const database = [
     product: "tapete 1 pieza diseño rayas rectas",
     disponibilidad: true,
     descuento: false,
-    id: 350,
+    id: 344,
     price: "59,000",
     description: "50cm x 80cm diseño rayas rectas",
     images_url:
@@ -4347,7 +4347,7 @@ export const database = [
     product: "tapete desinfectante domestico",
     disponibilidad: true,
     descuento: false,
-    id: 351,
+    id: 345,
     price: "30,000",
     description: "50cm x 50cm x 3cm",
     images_url:
@@ -4359,7 +4359,7 @@ export const database = [
     product: "tapete desinfectante empresarial",
     disponibilidad: true,
     descuento: false,
-    id: 352,
+    id: 346,
     price: "50,000",
     description: "100cm x 50cm x 3 cm",
     images_url:
@@ -4371,7 +4371,7 @@ export const database = [
     product: "cepillo de dientes cerda semidura para niños",
     disponibilidad: true,
     descuento: false,
-    id: 353,
+    id: 347,
     price: "1,500",
     description: "colores varios",
     images_url:
@@ -4383,7 +4383,7 @@ export const database = [
     product: "cepillo de dientes cerda semidura",
     disponibilidad: true,
     descuento: false,
-    id: 354,
+    id: 348,
     price: "1,500",
     description: "colores varios",
     images_url:
@@ -4395,7 +4395,7 @@ export const database = [
     product: "jaboneras colores y motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 355,
+    id: 349,
     price: "3,600",
     description: "jaboneras colores y motivos varios",
     images_url:
@@ -4407,7 +4407,7 @@ export const database = [
     product: "cojín coxis ortopédico para silla 42cm x 38cm x 12cm",
     disponibilidad: true,
     descuento: false,
-    id: 356,
+    id: 350,
     price: "125,000",
     description:
       "Material: espuma memory foam\nForro removible y lavable\nNo se deforma por el efecto de memoria de su espuma\nAlivia los puntos de presión y facilita la postura lumbar correcta\nPromueve la alineación apropiada columna vertebral\nConserva su forma incluso después de largos periodos de uso\nProbado médicamente para aliviar el dolor de espalda baja y entumecimiento asociado con estar sentado durante largos períodos de tiempo",
@@ -4420,7 +4420,7 @@ export const database = [
     product: "corrector de postura lumbar espaldar silla",
     disponibilidad: true,
     descuento: false,
-    id: 357,
+    id: 351,
     price: "20,000",
     description:
       "Material: Alambre y malla de nailon.\nTamaño Aprox. Producto: 38,5 x 38 x 10 cm\nPeso: 143 g.\nAdaptabilidad: Silla oficina, silla convencional y asiento automóvil.",
@@ -4433,7 +4433,7 @@ export const database = [
     product: "papelera pedal verde 42.5 x 29 x 35 cm 26 litros kendy",
     disponibilidad: true,
     descuento: false,
-    id: 358,
+    id: 352,
     price: "50,300",
     description: "papelera pedal verde 42.5 cm x 29cm x 35 cm 26 litros kendy",
     images_url:
@@ -4445,7 +4445,7 @@ export const database = [
     product: "papelera redonda verde",
     disponibilidad: true,
     descuento: false,
-    id: 359,
+    id: 353,
     price: "25,000",
     description: "",
     images_url: "",
@@ -4456,7 +4456,7 @@ export const database = [
     product: "papelera tapa vaiven style",
     disponibilidad: true,
     descuento: false,
-    id: 360,
+    id: 354,
     price: "55,000",
     description: "25 litros 39.3cm x 28.3cm x 55.4cm",
     images_url:
@@ -4469,7 +4469,7 @@ export const database = [
       "papelera tapa vaiven style 10 litros 29.2cm x 21cm x 44cm colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 361,
+    id: 355,
     price: "27,000",
     description:
       "Papelera Style Tapa Vaivén con diseño moderno que optimiza tus espacios, tiene endiduras en el cuerpo para sujetar la bolsa, de fácil limpieza.",
@@ -4482,7 +4482,7 @@ export const database = [
     product: "papelera tapa vaiven style 5 litros",
     disponibilidad: true,
     descuento: false,
-    id: 362,
+    id: 356,
     price: "21,000",
     description: "32.5cm x 16.3cm x 23.3cm colores varios",
     images_url:
@@ -4494,7 +4494,7 @@ export const database = [
     product: "papelera deluxe 11 litros kendy",
     disponibilidad: true,
     descuento: false,
-    id: 363,
+    id: 357,
     price: "19,000",
     description: "11 litros 23.5cm x 19cm x 38.5cm kendy",
     images_url: "https://tinypic.host/images/2024/01/22/image-1ff.png",
@@ -4505,7 +4505,7 @@ export const database = [
     product: "papelero pedal verde kendy",
     disponibilidad: true,
     descuento: false,
-    id: 364,
+    id: 358,
     price: "40,000",
     description: "42.5cm x 29cm x 35cm 26 litros kendy",
     images_url:
@@ -4517,7 +4517,7 @@ export const database = [
     product: "silla gerente en malla con brazos",
     disponibilidad: false,
     descuento: false,
-    id: 365,
+    id: 359,
     price: "399,000",
     description: "capacidad 120 kg 90cm x 60cm",
     images_url:
@@ -4529,7 +4529,7 @@ export const database = [
     product: "almohada king antialergica",
     disponibilidad: true,
     descuento: false,
-    id: 366,
+    id: 360,
     price: "47,000",
     description: "indeformable 75cm x 40xm x 25cm",
     images_url:
@@ -4541,7 +4541,7 @@ export const database = [
     product: "almohada anatomica antialergica indeformable",
     disponibilidad: true,
     descuento: false,
-    id: 367,
+    id: 361,
     price: "285,000",
     description: "indeformable 65cm x 45cm",
     images_url:
@@ -4553,7 +4553,7 @@ export const database = [
     product: "almohada ortopedica leg pillo",
     disponibilidad: true,
     descuento: false,
-    id: 368,
+    id: 362,
     price: "31,000",
     description:
       "14cm alto x 25cm largo x 25cm ancho funda en tela suave y espuma viscoelastica",
@@ -4566,7 +4566,7 @@ export const database = [
     product: "cesta para ropa linium tejido blanco y mocca",
     disponibilidad: true,
     descuento: false,
-    id: 369,
+    id: 363,
     price: "60,000",
     description: "Alto: 60 cm\nAncho: 46 cm\nColor: Mocca\nModelo: Linu",
     images_url:
@@ -4578,7 +4578,7 @@ export const database = [
     product: "cesta redonda de plastico con manijas rimax",
     disponibilidad: true,
     descuento: false,
-    id: 370,
+    id: 364,
     price: "45,000",
     description:
       "Cesta redonda 61.5X44X44cm Blanca Rimax\nCesta Redonda con Manijas tejida para ropa capacidad total de 51L",
@@ -4591,7 +4591,7 @@ export const database = [
     product: "cesta redonda pequeña plastico",
     disponibilidad: true,
     descuento: false,
-    id: 371,
+    id: 365,
     price: "16,000",
     description: "dimensiones: 30.5cm x 41cm, colores varios",
     images_url:
@@ -4603,7 +4603,7 @@ export const database = [
     product: "cesta redonda pequeña con tapa",
     disponibilidad: true,
     descuento: false,
-    id: 372,
+    id: 366,
     price: "28,000",
     description:
       "dimensiones: 46cm x 46cm x 30cm, material: plastico, colores varios",
@@ -4615,7 +4615,7 @@ export const database = [
     product: "Cajonero Apariencia Rattan 3 Gavetas Altas rimax",
     disponibilidad: true,
     descuento: false,
-    id: 373,
+    id: 367,
     price: "119,000",
     description:
       "Largo: 39 cm\nAncho: 33 cm\nAltura: 66 cm\nPeso: 3.2 Kg\ncolores vario",
@@ -4628,7 +4628,7 @@ export const database = [
     product: "cajonero apariencia alta 4 gavetas altas rimax",
     disponibilidad: true,
     descuento: false,
-    id: 374,
+    id: 368,
     price: "159,000",
     description:
       "Largo: 39 cm\nAncho: 33 cm\nAltura: 83,5 cm\nPeso: 3.7 Kg\nColores varios",
@@ -4642,7 +4642,7 @@ export const database = [
       "Cajonero Apariencia Rattan 2 Gavetas Bajas + 3 Gavetas Altas rimax",
     disponibilidad: true,
     descuento: false,
-    id: 375,
+    id: 369,
     price: "159,000",
     description:
       "Largo: 39 cm\nAncho: 33 cm\nAltura: 87,5 cm\nPeso: 4.4 Kg\ncolores varios",
@@ -4655,7 +4655,7 @@ export const database = [
     product: "cajonero apariencia fique 3 gavetas altas rimax",
     disponibilidad: true,
     descuento: false,
-    id: 376,
+    id: 370,
     price: "154,000",
     description:
       "Medidas 66.7 x 39.4 x 33.3 cm\nCuenta con 3 gavetas con capacidad de 13.5 Litros\nIncluye 2 tacones y 2 rodachinas\nOrganiza lo que quieras\nIdeal para baño, cocina, habitaciones, estudio y closets",
@@ -4668,7 +4668,7 @@ export const database = [
     product: "base cama box fabricada en madera moho",
     disponibilidad: true,
     descuento: false,
-    id: 377,
+    id: 371,
     price: "283,000",
     description:
       "100cm x 190 x 29cm tela eurocuero de facil limpieza y atractiva apareincia",
@@ -4681,7 +4681,7 @@ export const database = [
     product: "juego de sabanas doble transfer follaje kline",
     disponibilidad: true,
     descuento: false,
-    id: 378,
+    id: 372,
     price: "126,000",
     description:
       "100% microfibrapara camas de 140cm x 190cm dobles incluye sabana ajustable sobresaana - 2 fundas",
@@ -4694,7 +4694,7 @@ export const database = [
     product: "juego de sabanas doblessencial marsala kline",
     disponibilidad: true,
     descuento: false,
-    id: 379,
+    id: 373,
     price: "126,000",
     description:
       "100% microfibrapara camas de 140cm x 190cm dobles incluye sabana ajustable sobresaana - 2 fundas",
@@ -4707,7 +4707,7 @@ export const database = [
     product: "combo colchon king + base cama dividida",
     disponibilidad: true,
     descuento: false,
-    id: 380,
+    id: 374,
     price: "3,855,000",
     description:
       "ortopedico dimensiones: 200cm x 200cm colchon hecho en espuma y resortado",
@@ -4720,7 +4720,7 @@ export const database = [
     product: "tablero didactico 108cm altura",
     disponibilidad: true,
     descuento: false,
-    id: 381,
+    id: 375,
     price: "60,500",
     description:
       "tablero o pizarra didáctico con letras y vocales para niños y niñas acrílico borrable en madera con ábaco para aprendizaje y la participación activa de los niños, favoreciendo una mejor comprensión y memorización",
@@ -4733,7 +4733,7 @@ export const database = [
     product: "tablero didactico 90cm altura",
     disponibilidad: true,
     descuento: false,
-    id: 382,
+    id: 376,
     price: "55,000",
     description:
       "tablero o pizarra didáctico con letras y vocales para niños y niñas acrílico borrable en madera con ábaco para aprendizaje y la participación activa de los niños, favoreciendo una mejor comprensión y memorización",
@@ -4746,7 +4746,7 @@ export const database = [
     product: "vehiculo mi primer montable boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 383,
+    id: 377,
     price: "75,000",
     description: "vehiculo mi primer montable boy toys",
     images_url:
@@ -4758,7 +4758,7 @@ export const database = [
     product: "vehiculo mi primer montable boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 384,
+    id: 378,
     price: "75,000",
     description: "vehiculo mi primer montable boy toys",
     images_url:
@@ -4770,7 +4770,7 @@ export const database = [
     product: "vehiculo mi primer montable boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 385,
+    id: 379,
     price: "75,000",
     description: "vehiculo mi primer montable boy toys",
     images_url:
@@ -4782,7 +4782,7 @@ export const database = [
     product: "vehiculo montable formula niña boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 386,
+    id: 380,
     price: "94,000",
     description: "vehiculo montable formula niña boy toys",
     images_url:
@@ -4794,7 +4794,7 @@ export const database = [
     product: "vehiculo montable safari boy toys colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 387,
+    id: 381,
     price: "94,000",
     description: "vehiculo montable safari boy toys colores varios",
     images_url:
@@ -4806,7 +4806,7 @@ export const database = [
     product: "vehiculo montable truck boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 388,
+    id: 382,
     price: "92,500",
     description: "vehiculo montable truck boy toys",
     images_url:
@@ -4818,7 +4818,7 @@ export const database = [
     product: "vehiculo montable jeep full edition boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 389,
+    id: 383,
     price: "91,000",
     description: "vehiculo montable jeep full edition boy toys",
     images_url:
@@ -4830,7 +4830,7 @@ export const database = [
     product: "jeep montable para niñas",
     disponibilidad: true,
     descuento: false,
-    id: 390,
+    id: 384,
     price: "99,000",
     description: "jeep montable para niñas",
     images_url:
@@ -4842,7 +4842,7 @@ export const database = [
     product: "carrito montable boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 391,
+    id: 385,
     price: "99,000",
     description: "carrito montable boy toys",
     images_url:
@@ -4854,7 +4854,7 @@ export const database = [
     product: "vehículo mi camper toys 3 en 1 boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 392,
+    id: 386,
     price: "175,000",
     description:
       "Lo puedes usar para tus hijos como paseador, caminador y montable. Este producto cuenta con un sistema seguro ante caídas y como si fuera poco tiene sonidos reales, para hacer de las aventuras de tus pequeños algo realmente inolvidable",
@@ -4867,7 +4867,7 @@ export const database = [
     product: "cuatrimoto princesas niña con luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 393,
+    id: 387,
     price: "170,000",
     description: "cuatrimoto princesas niña con luces y sonido",
     images_url:
@@ -4879,7 +4879,7 @@ export const database = [
     product: "cuatrimoto militar niño",
     disponibilidad: true,
     descuento: false,
-    id: 394,
+    id: 388,
     price: "170,000",
     description: "cuatrimoto militar niño",
     images_url:
@@ -4891,7 +4891,7 @@ export const database = [
     product: "vehiculo caminador godzilla boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 395,
+    id: 389,
     price: "108,000",
     description: "vehiculo caminador godzilla boy toys",
     images_url:
@@ -4903,7 +4903,7 @@ export const database = [
     product: "jeep full edition incluye pala y palín boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 396,
+    id: 390,
     price: "99,000",
     description: "jeep full edition incluye pala y palín boy toys",
     images_url:
@@ -4915,7 +4915,7 @@ export const database = [
     product: "vehiculo montable cars boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 397,
+    id: 391,
     price: "123,000",
     description: "vehiculo montable cars boy toys",
     images_url:
@@ -4927,7 +4927,7 @@ export const database = [
     product: "vehiculo montable cars boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 398,
+    id: 392,
     price: "123,000",
     description: "vehiculo montable cars boy toys",
     images_url:
@@ -4939,7 +4939,7 @@ export const database = [
     product: "vehiculo montable jeep jungla boy toys con luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 399,
+    id: 393,
     price: "110,000",
     description: "vehiculo montable jeep jungla boy toys con luces y sonidos",
     images_url:
@@ -4951,7 +4951,7 @@ export const database = [
     product: "vehiculo montable jeep colombia boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 400,
+    id: 394,
     price: "101,000",
     description: "vehiculo montable jeep colombia boy toys",
     images_url:
@@ -4963,7 +4963,7 @@ export const database = [
     product: "scooter boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 401,
+    id: 395,
     price: "72,000",
     description: "scooter boy toys",
     images_url:
@@ -4975,7 +4975,7 @@ export const database = [
     product: "scooter boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 402,
+    id: 396,
     price: "75,000",
     description: "scooter boy toys",
     images_url:
@@ -4987,7 +4987,7 @@ export const database = [
     product: "monopatin boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 403,
+    id: 397,
     price: "42,000",
     description: "monopatin boy toys 9 cm x 19 cm x 48 cm",
     images_url:
@@ -4999,7 +4999,7 @@ export const database = [
     product: "scooter plegable ajustable",
     disponibilidad: true,
     descuento: false,
-    id: 404,
+    id: 398,
     price: "80,000",
     description: "scooter plegable ajustable",
     images_url: "https://m.media-amazon.com/images/I/41MXXFpBn9L._AC_.jpg",
@@ -5010,7 +5010,7 @@ export const database = [
     product: "patineta con luces y frenos",
     disponibilidad: true,
     descuento: false,
-    id: 405,
+    id: 399,
     price: "162,500",
     description: "patineta con luces y frenos",
     images_url:
@@ -5022,7 +5022,7 @@ export const database = [
     product: "patineta scooter niños luces y sonido 3-6 años",
     disponibilidad: true,
     descuento: false,
-    id: 406,
+    id: 400,
     price: "86,000",
     description: "patineta scooter niños luces y sonido 3-6 años",
     images_url:
@@ -5035,7 +5035,7 @@ export const database = [
       "kit de patines lemandu talla s 30-34 incluye casco rodillera coderas y bolso",
     disponibilidad: true,
     descuento: false,
-    id: 407,
+    id: 401,
     price: "167,000",
     description:
       "kit de patines lemandu talla s 30-34 incluye casco rodillera coderas y bolso",
@@ -5047,7 +5047,7 @@ export const database = [
     product: "patines lightyear talla s (31-34) disney pixar",
     disponibilidad: true,
     descuento: false,
-    id: 408,
+    id: 402,
     price: "129,000",
     description: "patines lightyear talla s (31-34) disney pixar",
     images_url:
@@ -5059,7 +5059,7 @@ export const database = [
     product: "set muñecas encanto",
     disponibilidad: true,
     descuento: false,
-    id: 409,
+    id: 403,
     price: "42,000",
     description: "set muñecas encanto",
     images_url:
@@ -5072,7 +5072,7 @@ export const database = [
       "muñeca con motocicleta electrica con luces y sonido motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 410,
+    id: 404,
     price: "78,500",
     description:
       "juguete de plástico BO eléctrico de moda, muñeca patinadora musical para niñas con luz y música",
@@ -5085,7 +5085,7 @@ export const database = [
     product: "muñeca de trapo 49cm",
     disponibilidad: true,
     descuento: false,
-    id: 411,
+    id: 405,
     price: "39,000",
     description: "muñeca de trapo 49cm colores varios disponibles",
     images_url: "https://tinypic.host/images/2024/03/18/image-40.png",
@@ -5096,7 +5096,7 @@ export const database = [
     product: "set x3 muñecas rapunzel multicolor",
     disponibilidad: true,
     descuento: false,
-    id: 412,
+    id: 406,
     price: "86,000",
     description: "set x3 muñecas rapunzel multicolor",
     images_url:
@@ -5108,7 +5108,7 @@ export const database = [
     product: "muñeca pretty girl bailarina incluye luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 413,
+    id: 407,
     price: "39,000",
     description: "23cm x 15cm",
     images_url:
@@ -5120,7 +5120,7 @@ export const database = [
     product: "muñeco ken incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 414,
+    id: 408,
     price: "50,000",
     description: "muñeco ken incluye accesorios",
     images_url: "https://tinypic.host/images/2024/03/18/image-30.png",
@@ -5131,7 +5131,7 @@ export const database = [
     product: "muñeca frozen con olaf elsa",
     disponibilidad: true,
     descuento: false,
-    id: 415,
+    id: 409,
     price: "54,500",
     description: "incluye accesorios, corona y sonidos 32 cm",
     images_url: "https://m.media-amazon.com/images/I/71FvNzI3McL._SL1500_.jpg",
@@ -5142,7 +5142,7 @@ export const database = [
     product: "muñeca con scooter",
     disponibilidad: true,
     descuento: false,
-    id: 416,
+    id: 410,
     price: "47,000",
     description: "incluye accesorios, luces y sonido",
     images_url:
@@ -5154,7 +5154,7 @@ export const database = [
     product: "muñeca frozen con olaf ana",
     disponibilidad: true,
     descuento: false,
-    id: 417,
+    id: 411,
     price: "54,500",
     description: "incluye accesorios, corona y sonidos 32 cm",
     images_url:
@@ -5166,7 +5166,7 @@ export const database = [
     product: "set de té barbie motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 418,
+    id: 412,
     price: "65,000",
     description: "set de té barbie motivos varios",
     images_url:
@@ -5178,7 +5178,7 @@ export const database = [
     product: "juego de te tea party set",
     disponibilidad: true,
     descuento: false,
-    id: 419,
+    id: 413,
     price: "48,000",
     description:
       "juego de te incluye tetera, tazas, cucharas, platos y bandeja",
@@ -5191,7 +5191,7 @@ export const database = [
     product: "crucero de lujo luces y sonido con accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 420,
+    id: 414,
     price: "215,000",
     description: "crucero de lujo luces y sonido con accesorios",
     images_url:
@@ -5203,7 +5203,7 @@ export const database = [
     product: "casa de juegos carolina incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 421,
+    id: 415,
     price: "215,000",
     description: "casa de juegos carolina incluye accesorios",
     images_url:
@@ -5215,7 +5215,7 @@ export const database = [
     product: "caravana familiar camping luces sonidos y accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 422,
+    id: 416,
     price: "203,000",
     description: "caravana familiar camping luces sonidos y accesorios",
     images_url:
@@ -5227,7 +5227,7 @@ export const database = [
     product: "funny play house set x2",
     disponibilidad: true,
     descuento: false,
-    id: 423,
+    id: 417,
     price: "49,000",
     description: "15 cm x 14 cm x 7 cm incluye accesorios",
     images_url: "https://m.media-amazon.com/images/I/71sIionDy1L._SL1500_.jpg",
@@ -5238,7 +5238,7 @@ export const database = [
     product: "juguete casa tipo maleta",
     disponibilidad: true,
     descuento: false,
-    id: 424,
+    id: 418,
     price: "42,000",
     description:
       "funny house loving family 33 cm x 17 cm x 6.5 cm incluye accesorios",
@@ -5250,7 +5250,7 @@ export const database = [
     product: "my mini kitchen con luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 425,
+    id: 419,
     price: "195,000",
     description: "my mini kitchen con luces y sonido",
     images_url:
@@ -5262,7 +5262,7 @@ export const database = [
     product: "casa de villa familiar incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 426,
+    id: 420,
     price: "185,000",
     description: "casa de villa familiar incluye accesorios",
     images_url:
@@ -5274,7 +5274,7 @@ export const database = [
     product: "muñeca articulada con bicicleta incluye accesorios e hija",
     disponibilidad: true,
     descuento: false,
-    id: 427,
+    id: 421,
     price: "79,000",
     description: "muñeca articulada con bicicleta incluye accesorios e hija",
     images_url:
@@ -5286,7 +5286,7 @@ export const database = [
     product: "set de muñecas con hijos parque de diversiones  piscina y pelota",
     disponibilidad: true,
     descuento: false,
-    id: 428,
+    id: 422,
     price: "150,000",
     description:
       "set de muñecas con hijos parque de diversiones  piscina y pelota",
@@ -5299,7 +5299,7 @@ export const database = [
     product: "muñeca con hija resbaladero hija y accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 429,
+    id: 423,
     price: "78,500",
     description: "muñeca con hija resbaladero hija y accesorios",
     images_url: "https://tinypic.host/images/2024/01/26/f-removebg-preview.png",
@@ -5310,7 +5310,7 @@ export const database = [
     product: "castillo de muñecas my beauty toy castle incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 430,
+    id: 424,
     price: "148,000",
     description: "castillo de muñecas my beauty toy castle incluye accesorios",
     images_url:
@@ -5322,7 +5322,7 @@ export const database = [
     product: "carruaje de princesa incluye caballo y accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 431,
+    id: 425,
     price: "148,000",
     description: "carruaje de princesa incluye caballo y accesorios",
     images_url: "https://tinypic.host/images/2024/01/29/148.000-DG-3.png",
@@ -5333,7 +5333,7 @@ export const database = [
     product: "muñeca doctora jelena incluye accesorios alto 30cm",
     disponibilidad: true,
     descuento: false,
-    id: 432,
+    id: 426,
     price: "62,000",
     description: "muñeca doctora jelena incluye accesorios alto 30cm",
     images_url:
@@ -5345,7 +5345,7 @@ export const database = [
     product: "muñeca doctora incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 433,
+    id: 427,
     price: "575,000",
     description: "muñeca doctora incluye accesorios",
     images_url:
@@ -5357,7 +5357,7 @@ export const database = [
     product: "set de muñecas con tobogan incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 434,
+    id: 428,
     price: "135,000",
     description: "set de muñecas con tobogan incluye accesorios",
     images_url:
@@ -5369,7 +5369,7 @@ export const database = [
     product: "set de cocina helado sweetie",
     disponibilidad: true,
     descuento: false,
-    id: 435,
+    id: 429,
     price: "45,500",
     description: "incluye accesorios",
     images_url:
@@ -5381,7 +5381,7 @@ export const database = [
     product: "muñeca con hija de campeonato incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 436,
+    id: 430,
     price: "135,000",
     description: "muñeca con hija de campeonato incluye accesorios",
     images_url:
@@ -5393,7 +5393,7 @@ export const database = [
     product: "muñeca doctora juguetes incluye accesorios alto 33 cm",
     disponibilidad: true,
     descuento: false,
-    id: 437,
+    id: 431,
     price: "53,000",
     description: "muñeca doctora juguetes incluye accesorios alto 33 cm",
     images_url:
@@ -5405,7 +5405,7 @@ export const database = [
     product: "muñeca articulada con bicicleta, globos e hija",
     disponibilidad: true,
     descuento: false,
-    id: 439,
+    id: 432,
     price: "56,000",
     description: "muñeca articulada con bicicleta, globos e hija",
     images_url: "https://tinypic.host/images/2024/03/18/image-27.png",
@@ -5416,7 +5416,7 @@ export const database = [
     product: "muñeca vestido de gala con zapateros lavamanos y accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 440,
+    id: 433,
     price: "116,000",
     description: "muñeca vestido de gala con zapateros lavamanos y accesorios",
     images_url:
@@ -5428,7 +5428,7 @@ export const database = [
     product: "muñeca pediatra incluye 2 bebes consultorio y accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 441,
+    id: 434,
     price: "78,500",
     description: "muñeca pediatra incluye 2 bebes consultorio y accesorios",
     images_url:
@@ -5440,7 +5440,7 @@ export const database = [
     product: "muñeca vestido de gala",
     disponibilidad: true,
     descuento: false,
-    id: 442,
+    id: 435,
     price: "115,000",
     description:
       "muñeca vestido de gala incluye hija, bolso, closet y accesorios",
@@ -5453,7 +5453,7 @@ export const database = [
     product: "muñeca veterinaria incluye perro consultorio y accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 443,
+    id: 436,
     price: "95,000",
     description: "muñeca veterinaria incluye perro consultorio y accesorios",
     images_url:
@@ -5465,7 +5465,7 @@ export const database = [
     product: "set de muñecos pop motivos varios dragon ball",
     disponibilidad: true,
     descuento: false,
-    id: 444,
+    id: 437,
     price: "42,000",
     description: "set de muñecos pop motivos varios dragon ball",
     images_url: "https://tinypic.host/images/2024/03/18/image-35.png",
@@ -5476,7 +5476,7 @@ export const database = [
     product: "cocina my little kitchen chef boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 445,
+    id: 438,
     price: "125,000",
     description: "cocina my little kitchen chef boy toys",
     images_url:
@@ -5488,7 +5488,7 @@ export const database = [
     product: "cocina sobre ruedas 26 accesorios colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 446,
+    id: 439,
     price: "54,000",
     description:
       "cocina sobre ruedas 26 accesorios colores varios 36.5 cm x 36.3 cm 22.7 cm",
@@ -5501,7 +5501,7 @@ export const database = [
     product: "cocina didáctica tasty 20 accesorios colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 447,
+    id: 440,
     price: "72,000",
     description: "cocina didáctica tasty 20 accesorios colores varios",
     images_url:
@@ -5513,7 +5513,7 @@ export const database = [
     product: "cocina sobre ruedas boy toys incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 448,
+    id: 441,
     price: "50,800",
     description:
       "cocina sobre ruedas boy toys incluye accesorios 23 cm x 22 cm x 35 cm",
@@ -5525,7 +5525,7 @@ export const database = [
     product: "butaco cocina para niñas boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 449,
+    id: 442,
     price: "108,500",
     description: "butaco cocina para niñas boy toys",
     images_url:
@@ -5537,7 +5537,7 @@ export const database = [
     product: "mi pequeña cocina acrilico",
     disponibilidad: true,
     descuento: false,
-    id: 450,
+    id: 443,
     price: "125,000",
     description: "mi pequeña cocina acrilico",
     images_url:
@@ -5549,7 +5549,7 @@ export const database = [
     product: "carro control remoto legends colores varios 20x9x5 cm",
     disponibilidad: true,
     descuento: false,
-    id: 451,
+    id: 444,
     price: "26,000",
     description: "carro control remoto legends colores varios 20x9x5 cm",
     images_url: "https://tinypic.host/images/2024/04/15/26.000-X3-26-60626.png",
@@ -5560,7 +5560,7 @@ export const database = [
     product: "avión de caza fuerza aerea incluye control romoto y luces",
     disponibilidad: true,
     descuento: false,
-    id: 452,
+    id: 445,
     price: "55,000",
     description:
       "avión de caza fuerza aerea incluye control romoto y luces largo: 23cm ancho:15cm",
@@ -5574,7 +5574,7 @@ export const database = [
       "carro loco + control remoto luces y sonido giros 360 colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 453,
+    id: 446,
     price: "73,000",
     description:
       "carro loco + control remoto luces y sonido giros 360 colores varios",
@@ -5587,7 +5587,7 @@ export const database = [
     product: "juguete tanque de guerra incluye control remoto + baterias",
     disponibilidad: true,
     descuento: false,
-    id: 454,
+    id: 447,
     price: "115,000",
     description: "juguete tanque de guerra incluye control remoto + baterias",
     images_url:
@@ -5599,7 +5599,7 @@ export const database = [
     product: "auto de carreras a control remoto incluye cargador",
     disponibilidad: true,
     descuento: false,
-    id: 455,
+    id: 448,
     price: "115,000",
     description: "auto de carreras a control remoto incluye cargador",
     images_url:
@@ -5611,7 +5611,7 @@ export const database = [
     product: "carro futurista incluye control remoto",
     disponibilidad: true,
     descuento: false,
-    id: 456,
+    id: 449,
     price: "50,000",
     description: "carro futurista incluye control remoto",
     images_url:
@@ -5623,7 +5623,7 @@ export const database = [
     product: "moto a control remoto incluye baterias recargables y cargador",
     disponibilidad: true,
     descuento: false,
-    id: 457,
+    id: 450,
     price: "140,000",
     description:
       "moto a control remoto incluye baterias recargables y cargador",
@@ -5636,7 +5636,7 @@ export const database = [
     product: "camión ingeniería incluye control remoto",
     disponibilidad: true,
     descuento: false,
-    id: 458,
+    id: 451,
     price: "68,000",
     description: "20 cm x 17 cm",
     images_url: "",
@@ -5647,7 +5647,7 @@ export const database = [
     product: "pista de carreras bomberos incluye carro 23 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 459,
+    id: 452,
     price: "77,000",
     description: "pista de carreras bomberos incluye carro 23 piezas",
     images_url:
@@ -5659,7 +5659,7 @@ export const database = [
     product: "pista de dinosaurios 221 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 460,
+    id: 453,
     price: "98,000",
     description: "pista de dinosaurios 221 piezas",
     images_url:
@@ -5671,7 +5671,7 @@ export const database = [
     product: "pista con carro a control remoto 282 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 461,
+    id: 454,
     price: "148,000",
     description: "pista con carro a control remoto 282 piezas",
     images_url:
@@ -5683,7 +5683,7 @@ export const database = [
     product: "pista de dinosaurio inlcuye carro metalico",
     disponibilidad: true,
     descuento: false,
-    id: 462,
+    id: 455,
     price: "146,000",
     description: "pista de dinosaurio inlcuye carro metalico",
     images_url: "https://elenas-media.s3.amazonaws.com/10021047/PISTE.jpg",
@@ -5694,7 +5694,7 @@ export const database = [
     product: "pista de colores magica incluye luces + 2 vehiculos 148 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 463,
+    id: 456,
     price: "104,000",
     description:
       "pista de colores magica incluye luces + 2 vehiculos 148 piezas",
@@ -5706,7 +5706,7 @@ export const database = [
     product: "triciclo metálico peso max. 25kg boy toys colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 464,
+    id: 457,
     price: "101,000",
     description: "triciclo metálico peso max. 25kg boy toys colores varios",
     images_url:
@@ -5718,7 +5718,7 @@ export const database = [
     product: "triciclo moto boy toys colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 465,
+    id: 458,
     price: "96,000",
     description: "triciclo moto boy toys colores varios",
     images_url:
@@ -5730,7 +5730,7 @@ export const database = [
     product: "triciclo monster premium boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 466,
+    id: 459,
     price: "119,000",
     description: "triciclo monster premium boy toys",
     images_url:
@@ -5742,7 +5742,7 @@ export const database = [
     product: "triciclo monster boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 467,
+    id: 460,
     price: "153,000",
     description: "triciclo monster boy toys",
     images_url:
@@ -5754,7 +5754,7 @@ export const database = [
     product: "piano musical eléctrico luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 468,
+    id: 461,
     price: "294,000",
     description: "piano musical eléctrico luces y sonido",
     images_url:
@@ -5766,7 +5766,7 @@ export const database = [
     product: "piano musical eléctrico luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 469,
+    id: 462,
     price: "294,000",
     description: "piano musical eléctrico luces y sonido",
     images_url:
@@ -5778,7 +5778,7 @@ export const database = [
     product: "guitarra infantil con luces y sonidos 47cm",
     disponibilidad: true,
     descuento: false,
-    id: 470,
+    id: 463,
     price: "89,000",
     description: "guitarra infantil con luces y sonidos 47cm",
     images_url:
@@ -5790,7 +5790,7 @@ export const database = [
     product: "dinosaurios pone huevos vapor luz sonido y movimiento",
     disponibilidad: true,
     descuento: false,
-    id: 471,
+    id: 464,
     price: "125,000",
     description: "dinosaurios pone huevos vapor luz sonido y movimiento",
     images_url: "https://m.media-amazon.com/images/I/61m+yUXmx1L.SS700.jpg",
@@ -5801,7 +5801,7 @@ export const database = [
     product: "dinosaurio grande con luces movimientos y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 472,
+    id: 465,
     price: "102,500",
     description: "dinosaurio grande con luces movimientos y sonidos",
     images_url: "https://m.media-amazon.com/images/I/91vm3jsFWsL.SS700.jpg",
@@ -5812,7 +5812,7 @@ export const database = [
     product: "dinosaurio didactico armable",
     disponibilidad: true,
     descuento: false,
-    id: 473,
+    id: 466,
     price: "38,000",
     description: "alto 15cm x ancho 5cm",
     images_url:
@@ -5824,7 +5824,7 @@ export const database = [
     product: "dragón zig zag luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 474,
+    id: 467,
     price: "24,000",
     description: "dragón zig zag luces y sonidos  46cm",
     images_url:
@@ -5836,7 +5836,7 @@ export const database = [
     product: "dinosaurio con sonido alto 20 cm",
     disponibilidad: true,
     descuento: false,
-    id: 475,
+    id: 468,
     price: "39,000",
     description: "dinosaurio con sonido alto 20 cm",
     images_url:
@@ -5848,7 +5848,7 @@ export const database = [
     product: "dinosaurio con sonido alto 20 cm",
     disponibilidad: true,
     descuento: false,
-    id: 476,
+    id: 469,
     price: "39,000",
     description: "dinosaurio con sonido alto 20 cm",
     images_url:
@@ -5860,7 +5860,7 @@ export const database = [
     product: "accesorios de princesa 11 accesorios con luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 477,
+    id: 470,
     price: "159,000",
     description: "accesorios de princesa 11 accesorios con luces y sonido",
     images_url:
@@ -5872,7 +5872,7 @@ export const database = [
     product: "set de belleza incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 478,
+    id: 471,
     price: "44,000",
     description: "set de belleza incluye accesorios",
     images_url:
@@ -5884,7 +5884,7 @@ export const database = [
     product: "mini bolso con mascota",
     disponibilidad: true,
     descuento: false,
-    id: 479,
+    id: 472,
     price: "38,000",
     description:
       "mini bolso con mascota incliue accesorio para mascota 15 cm x 12 cm",
@@ -5896,7 +5896,7 @@ export const database = [
     product: "bolso set de viaje 31 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 480,
+    id: 473,
     price: "44,000",
     description: "bolso set de viaje 31 piezas incluye accesorios",
     images_url:
@@ -5908,7 +5908,7 @@ export const database = [
     product: "bolso set de belleza 31 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 481,
+    id: 474,
     price: "44,000",
     description: "bolso set de belleza 27 piezas incluye accesorios",
     images_url:
@@ -5920,7 +5920,7 @@ export const database = [
     product: "accesorios de princesa 11 accesorios con luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 482,
+    id: 475,
     price: "159,000",
     description: "accesorios de princesa 11 accesorios con luces y sonido",
     images_url:
@@ -5932,7 +5932,7 @@ export const database = [
     product: "mini tocador incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 483,
+    id: 476,
     price: "95,000",
     description: "mini tocador incluye accesorios",
     images_url:
@@ -5944,7 +5944,7 @@ export const database = [
     product: "tocador espejo castillo incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 484,
+    id: 477,
     price: "81,000",
     description: "tocador espejo castillo incluye accesorios",
     images_url:
@@ -5957,7 +5957,7 @@ export const database = [
       "tocador castillo de ensueño incluye maquillaje secador y accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 485,
+    id: 478,
     price: "125,000",
     description:
       "tocador castillo de ensueño incluye maquillaje secador y accesorios",
@@ -5970,7 +5970,7 @@ export const database = [
     product: "maletin set doctora barbie 10 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 486,
+    id: 479,
     price: "79,000",
     description: "maletin set doctora barbie 10 piezas",
     images_url: "https://m.media-amazon.com/images/I/61kCjQWnD7L._SL1500_.jpg",
@@ -5981,7 +5981,7 @@ export const database = [
     product: "bolso tienda de mascotas incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 487,
+    id: 480,
     price: "76,000",
     description: "bolso tienda de mascotas incluye accesorios",
     images_url:
@@ -5993,7 +5993,7 @@ export const database = [
     product: "set saco de boxeo guantes y saco colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 488,
+    id: 481,
     price: "74,000",
     description: "set saco de boxeo guantes y saco colores varios",
     images_url:
@@ -6005,7 +6005,7 @@ export const database = [
     product: "set de arqueria",
     disponibilidad: true,
     descuento: false,
-    id: 489,
+    id: 482,
     price: "69,000",
     description: "incluye flechas, arco, tiro al blanco y arco flexible",
     images_url:
@@ -6017,7 +6017,7 @@ export const database = [
     product: "marco de futbol tubo grueso",
     disponibilidad: true,
     descuento: false,
-    id: 490,
+    id: 483,
     price: "69,000",
     description:
       "material resistente, incluye marco y malla 68cm x 47cm x 36cm tubo: 4cm",
@@ -6030,7 +6030,7 @@ export const database = [
     product: "maquina registradora 7 piezas con accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 491,
+    id: 484,
     price: "69,000",
     description: "maquina registradora 7 piezas con accesorios",
     images_url:
@@ -6042,7 +6042,7 @@ export const database = [
     product: "set de herramientas",
     disponibilidad: true,
     descuento: false,
-    id: 492,
+    id: 485,
     price: "44,000",
     description: "incluye casco y accesorios",
     images_url: "https://tinypic.host/images/2024/03/18/image-34.png",
@@ -6053,7 +6053,7 @@ export const database = [
     product: "juguete set electrodomesticos x8 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 493,
+    id: 486,
     price: "135,000",
     description:
       "arrocera, horno microondas, estufa, batidora de pedestal, licuadora, cafetera, nevera y vaporera",
@@ -6066,7 +6066,7 @@ export const database = [
     product: "juego de bolos sobre ruedas boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 494,
+    id: 487,
     price: "57,000",
     description: "juego de bolos sobre ruedas boy toys 35cm x 25cm x 35cm",
     images_url:
@@ -6078,7 +6078,7 @@ export const database = [
     product: "set de pistola lanzadora motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 495,
+    id: 488,
     price: "41,000",
     description: "set de pistola lanzadora motivos varios incluye accesorios",
     images_url: "https://tinypic.host/images/2024/03/18/image-37.png",
@@ -6089,7 +6089,7 @@ export const database = [
     product: "maletin set doctor con accesorios 8 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 496,
+    id: 489,
     price: "38,700",
     description: "maletin set doctor con accesorios 8 piezas",
     images_url:
@@ -6101,7 +6101,7 @@ export const database = [
     product: "set de pistolero con mascara",
     disponibilidad: true,
     descuento: false,
-    id: 497,
+    id: 490,
     price: "49,000",
     description: "colores varios",
     images_url: "https://tinypic.host/images/2024/03/18/image-32.png",
@@ -6112,7 +6112,7 @@ export const database = [
     product: "juego de bolos sobre ruedas boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 498,
+    id: 491,
     price: "57,000",
     description: "juego de bolos sobre ruedas boy toys 35cm x 25cm x 35cm",
     images_url:
@@ -6124,7 +6124,7 @@ export const database = [
     product: "set de bomberos acción sin miedo",
     disponibilidad: true,
     descuento: false,
-    id: 499,
+    id: 492,
     price: "40,500",
     description:
       "set de bomberos acción sin miedo hacha, sombrero, extintor, radio",
@@ -6136,7 +6136,7 @@ export const database = [
     product: "mini aro baloncesto con soporte",
     disponibilidad: true,
     descuento: false,
-    id: 500,
+    id: 493,
     price: "57,500",
     description: "111 cm x 34 cm, incluye soporte y balón",
     images_url:
@@ -6148,7 +6148,7 @@ export const database = [
     product: "set de construcción",
     disponibilidad: true,
     descuento: false,
-    id: 501,
+    id: 494,
     price: "38,500",
     description: "casco 26 cm x 20 cm camiones 13 cm x 22 cm super power",
     images_url: "https://tinypic.host/images/2024/03/18/Untitled-17.png",
@@ -6159,7 +6159,7 @@ export const database = [
     product: "set de baseball con lanzador",
     disponibilidad: true,
     descuento: false,
-    id: 502,
+    id: 495,
     price: "45,000",
     description:
       "set de baseball con lanzador incluye bate, lanzador automatico, 3 pelotas, hasta 1 metro de elevación",
@@ -6173,7 +6173,7 @@ export const database = [
       "set billar pool familiar 1 mesa 6 patas 38 bolas 2 tacos tripode 2 triangulos 50x25x15 cm",
     disponibilidad: true,
     descuento: false,
-    id: 503,
+    id: 496,
     price: "114,000",
     description:
       "set billar pool familiar 1 mesa 6 patas 38 bolas 2 tacos tripode 2 triangulos 50x25x15 cm",
@@ -6186,7 +6186,7 @@ export const database = [
     product: "juego de mesa bingo grande 90 numeros 48 cartones",
     disponibilidad: true,
     descuento: false,
-    id: 504,
+    id: 497,
     price: "67,000",
     description:
       "Advertencias: Este producto puede contener piezas pequeñas, que representen riesgo de asfixia. Se sugiere supervisión de un adulto.\nEdad Mínima Recomendada: 3 años +",
@@ -6199,7 +6199,7 @@ export const database = [
     product: "juego de mesa 3 en 1 parques, ajedrez y damas",
     disponibilidad: true,
     descuento: false,
-    id: 505,
+    id: 498,
     price: "50,000",
     description: "incluye 2 tableros , piezas de juego y dados 73 piezas",
     images_url:
@@ -6211,7 +6211,7 @@ export const database = [
     product: "juego de mesa bingo clasico boy toys 409 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 506,
+    id: 499,
     price: "37,000",
     description: "juego de mesa bingo clasico boy toys 409 piezas",
     images_url:
@@ -6223,7 +6223,7 @@ export const database = [
     product: "bingo familiar 40 tablas",
     disponibilidad: true,
     descuento: false,
-    id: 507,
+    id: 500,
     price: "49,000",
     description:
       "1 tablero control\n40 tablas de juego\n75 fichas numeradas\nFichas para tapar",
@@ -6236,7 +6236,7 @@ export const database = [
     product: "juego de billar incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 508,
+    id: 501,
     price: "87,500",
     description: "juego de billar incluye accesorios",
     images_url: "https://img.fruugo.com/product/6/28/224080286_max.jpg",
@@ -6247,7 +6247,7 @@ export const database = [
     product: "camión transformador estuche transportador",
     disponibilidad: true,
     descuento: false,
-    id: 509,
+    id: 502,
     price: "72,500",
     description: "camión transformador estuche transportador",
     images_url:
@@ -6259,7 +6259,7 @@ export const database = [
     product: "camión de rescate incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 510,
+    id: 503,
     price: "101,000",
     description: "camión de rescate incluye accesorios",
     images_url:
@@ -6271,7 +6271,7 @@ export const database = [
     product: "carro a bateria transformer",
     disponibilidad: true,
     descuento: false,
-    id: 511,
+    id: 504,
     price: "54,900",
     description:
       "camión: 22 cm x 8 cm x 8 cm / Tranformer: 15 cm x 17 cm x 8 cm",
@@ -6284,7 +6284,7 @@ export const database = [
     product: "camión de fricción trasnportador de coches",
     disponibilidad: true,
     descuento: false,
-    id: 512,
+    id: 505,
     price: "71,000",
     description: "incluye 4 vehiculos largo: 43cm ancho: 12cm alto:14cm",
     images_url:
@@ -6296,7 +6296,7 @@ export const database = [
     product: "container truck vehiculos",
     disponibilidad: true,
     descuento: false,
-    id: 513,
+    id: 506,
     price: "70,000",
     description: "container truck vehiculos",
     images_url:
@@ -6308,7 +6308,7 @@ export const database = [
     product: "camion bombero transformer incluye luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 514,
+    id: 507,
     price: "69,500",
     description: "camion bombero transformer incluye luces y sonidos",
     images_url:
@@ -6320,7 +6320,7 @@ export const database = [
     product: "carro transformer bombero",
     disponibilidad: true,
     descuento: false,
-    id: 515,
+    id: 508,
     price: "55,000",
     description:
       "transformación automatica, incluye spray de agua giro 360 grados robot: 15 cm x 15 cm x 8 cm / camión: 22 cm x 10 cm x 8 cm",
@@ -6333,7 +6333,7 @@ export const database = [
     product: "carro policia super power",
     disponibilidad: true,
     descuento: false,
-    id: 516,
+    id: 509,
     price: "39,000",
     description: "incluye luces y sonidos largo 24 cm ancho 10 cm",
     images_url:
@@ -6345,7 +6345,7 @@ export const database = [
     product: "carro contenedor container truck",
     disponibilidad: true,
     descuento: false,
-    id: 517,
+    id: 510,
     price: "60,000",
     description: "incluye luces y sonidos largo: 41cm ancho: 7cm alto: 13cm",
     images_url:
@@ -6357,7 +6357,7 @@ export const database = [
     product: "helicoptero de combate luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 518,
+    id: 511,
     price: "54,500",
     description: "incluye luces y sonidos 30 cm x 22 cm",
     images_url: "https://tinypic.host/images/2024/03/18/image-28.png",
@@ -6368,7 +6368,7 @@ export const database = [
     product: "camioneta gran racing driving",
     disponibilidad: true,
     descuento: false,
-    id: 519,
+    id: 512,
     price: "41,000",
     description: "camioneta gran racing driving de impulso colores varios",
     images_url:
@@ -6380,7 +6380,7 @@ export const database = [
     product: "camion truck transportador incluye moto y base transportadora",
     disponibilidad: true,
     descuento: false,
-    id: 520,
+    id: 513,
     price: "50,000",
     description:
       "camion truck transportador incluye moto y base transportadora",
@@ -6392,7 +6392,7 @@ export const database = [
     product: "camión transportador de vehiculos militares",
     disponibilidad: true,
     descuento: false,
-    id: 521,
+    id: 514,
     price: "47,000",
     description: "incluye 4 vehiculos 34 cm x 15 cm x 8.5 cm",
     images_url:
@@ -6404,7 +6404,7 @@ export const database = [
     product: "camión volqueta con cubos de impulso",
     disponibilidad: true,
     descuento: false,
-    id: 522,
+    id: 515,
     price: "54,000",
     description: "33 cm largo x 16 cm alto x 18 cm ancho",
     images_url:
@@ -6416,7 +6416,7 @@ export const database = [
     product: "avión jumbo con sonidos boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 523,
+    id: 516,
     price: "50,000",
     description: "avión jumbo con sonidos boy toys 20 cm x 36 cm x 34 cm",
     images_url:
@@ -6428,7 +6428,7 @@ export const database = [
     product: "vehiculo bombero boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 524,
+    id: 517,
     price: "49,000",
     description: "vehiculo bombero boy toys 21 cm x 20 cm x 46 cm",
     images_url:
@@ -6440,7 +6440,7 @@ export const database = [
     product: "moto tipo cross didactica motorcycle",
     disponibilidad: true,
     descuento: false,
-    id: 525,
+    id: 518,
     price: "44,000",
     description: "moto tipo cross didactica motorcycle",
     images_url:
@@ -6452,7 +6452,7 @@ export const database = [
     product: "bus articulado",
     disponibilidad: true,
     descuento: false,
-    id: 526,
+    id: 519,
     price: "69,000",
     description: "modelos: safari, colombia y urbanbus 51cm x 12cm x 12cm",
     images_url:
@@ -6464,7 +6464,7 @@ export const database = [
     product: "robot es cort interstellar lucecs y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 527,
+    id: 520,
     price: "62,000",
     description: "incluye luces, sonido y movimientos 28 cm x 18 cm",
     images_url: "https://m.media-amazon.com/images/I/61GzneDmZlL._SL1000_.jpg",
@@ -6475,7 +6475,7 @@ export const database = [
     product: "carpa para niños montables",
     disponibilidad: true,
     descuento: false,
-    id: 528,
+    id: 521,
     price: "80,000",
     description: "carpa para niños montables",
     images_url:
@@ -6487,7 +6487,7 @@ export const database = [
     product: "carpa castillo princesa casa jardin",
     disponibilidad: true,
     descuento: false,
-    id: 529,
+    id: 522,
     price: "140,000",
     description: "carpa castillo princesa casa jardin",
     images_url: "https://img.fruugo.com/product/4/56/191144564_max.jpg",
@@ -6498,7 +6498,7 @@ export const database = [
     product: "carpa de juguete para niñas",
     disponibilidad: true,
     descuento: false,
-    id: 530,
+    id: 523,
     price: "65,000",
     description:
       "casa de campaña para Niñas, Juego de Castillo Carpas Infantiles con Luces, Princesa Carpa Infantil para Niñas Y Niños para Jugar en Interiores y Exteriores 1.3m",
@@ -6511,7 +6511,7 @@ export const database = [
     product: "carpa de juguete para niños",
     disponibilidad: true,
     descuento: false,
-    id: 531,
+    id: 524,
     price: "65,000",
     description:
       "casa de campaña para Niñas, Juego de Castillo Carpas Infantiles con Luces, Princesa Carpa Infantil para Niñas Y Niños para Jugar en Interiores y Exteriores 1.3m",
@@ -6524,7 +6524,7 @@ export const database = [
     product: "set de juguete maleta de belleza incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 532,
+    id: 525,
     price: "87,000",
     description: "set de juguete maleta de belleza incluye accesorios",
     images_url:
@@ -6536,7 +6536,7 @@ export const database = [
     product: "set de maquillaje 15 piezas con estuche",
     disponibilidad: true,
     descuento: false,
-    id: 533,
+    id: 526,
     price: "29,000",
     description: "set de maquillaje 15 piezas con estuche",
     images_url:
@@ -6548,7 +6548,7 @@ export const database = [
     product: "silla playera infantil colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 534,
+    id: 527,
     price: "23,000",
     description: "silla playera infantil 60cm x 40cm colores varios",
     images_url: "https://tinypic.host/images/2024/01/29/23.000-1.png",
@@ -6559,7 +6559,7 @@ export const database = [
     product: "silla infantil voii kids",
     disponibilidad: true,
     descuento: false,
-    id: 535,
+    id: 528,
     price: "40,000",
     description: "51cm x 43cm colores varios",
     images_url: "https://voiikids.com/wp-content/uploads/2019/10/SAM1-1.jpg",
@@ -6570,7 +6570,7 @@ export const database = [
     product: "silla comedor plastica infantil bandeja removible",
     disponibilidad: true,
     descuento: false,
-    id: 536,
+    id: 529,
     price: "52,000",
     description:
       "silla comedor plastica infantil bandeja removible 28.5 cm x 28 cm x 22 cm",
@@ -6583,7 +6583,7 @@ export const database = [
     product: "silla comedor 2 en 1 bandeja desplegable",
     disponibilidad: true,
     descuento: false,
-    id: 537,
+    id: 530,
     price: "37,000",
     description: "silla comedor 2 en 1 bandeja desplegable",
     images_url:
@@ -6595,7 +6595,7 @@ export const database = [
     product: "silla comedor plastica infantil bandeja removible",
     disponibilidad: true,
     descuento: false,
-    id: 538,
+    id: 531,
     price: "40,500",
     description:
       "silla comedor plastica infantil bandeja removible 28.5 cm x 28 cm x 22 cm",
@@ -6608,7 +6608,7 @@ export const database = [
     product: "deslizadero para niña boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 539,
+    id: 532,
     price: "167,500",
     description: "deslizadero para niña boy toys",
     images_url:
@@ -6620,7 +6620,7 @@ export const database = [
     product: "bloques didacticos armatodo 107 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 540,
+    id: 533,
     price: "88,000",
     description: "bloques didacticos armatodo 107 piezas",
     images_url:
@@ -6632,7 +6632,7 @@ export const database = [
     product: "bus escolar didactico 54 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 541,
+    id: 534,
     price: "50,000",
     description: "35 cm x 17 cm x 21 cm",
     images_url:
@@ -6644,7 +6644,7 @@ export const database = [
     product: "super bloques 120 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 542,
+    id: 535,
     price: "69,000",
     description: "super bloques 120 piezas",
     images_url:
@@ -6656,7 +6656,7 @@ export const database = [
     product: "armatodo bloques grandes con ruedas 76 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 543,
+    id: 536,
     price: "59,000",
     description: "armatodo bloques grandes con ruedas 76 piezas niño y niña",
     images_url:
@@ -6668,7 +6668,7 @@ export const database = [
     product: "tren didactico armatodo 50 piezas maxi bloques",
     disponibilidad: true,
     descuento: false,
-    id: 544,
+    id: 537,
     price: "46,000",
     description: "10 cm x 10 cm x 18 cm",
     images_url:
@@ -6680,7 +6680,7 @@ export const database = [
     product: "bloques grandes con ruedas bloques didacticos 37 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 545,
+    id: 538,
     price: "39,000",
     description:
       "bloques grandes con ruedas bloques didacticos 37 piezas para niña y niña",
@@ -6693,7 +6693,7 @@ export const database = [
     product: "carro didactico 67 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 546,
+    id: 539,
     price: "44,000",
     description: "35 cm x 25 cm x 11cm",
     images_url:
@@ -6705,7 +6705,7 @@ export const database = [
     product: "tablet de aprendizaje",
     disponibilidad: true,
     descuento: false,
-    id: 547,
+    id: 540,
     price: "67,000",
     description:
       "Incluye letras, números, figuras, musica y sonido,\ntablero y marcador\n25cm x 35cm",
@@ -6718,7 +6718,7 @@ export const database = [
     product: "tablet de juguete para niños",
     disponibilidad: true,
     descuento: false,
-    id: 548,
+    id: 541,
     price: "64,000",
     description:
       "Tableta de aprendizaje para niños de alta calidad que es resistente y diseñada para soportar el uso diario durante los años de desarrollo de tu hijo",
@@ -6730,7 +6730,7 @@ export const database = [
     product: "bebé con biberón altura 29 cm lunabebe",
     disponibilidad: true,
     descuento: false,
-    id: 549,
+    id: 542,
     price: "39,000",
     description: "bebé con biberón altura 29 cm lunabebe",
     images_url:
@@ -6742,7 +6742,7 @@ export const database = [
     product: "muñeco bebé coco liso grande",
     disponibilidad: true,
     descuento: false,
-    id: 550,
+    id: 543,
     price: "37,000",
     description: "muñeco bebé coco liso grande incluye chupo y sonido 35 cm",
     images_url: "https://tinypic.host/images/2024/03/18/image-39.png",
@@ -6753,7 +6753,7 @@ export const database = [
     product: "carrito de mercado boy toys incluye accesorios",
     disponibilidad: true,
     descuento: false,
-    id: 551,
+    id: 544,
     price: "79,000",
     description: "carrito de mercado boy toys incluye accesorios",
     images_url:
@@ -6765,7 +6765,7 @@ export const database = [
     product: "coche de bebé",
     disponibilidad: true,
     descuento: false,
-    id: 552,
+    id: 545,
     price: "43,000",
     description: "colores varios 46 cm alto x 51 cm largo x 23 cm",
     images_url:
@@ -6777,7 +6777,7 @@ export const database = [
     product: "perro con movimiento",
     disponibilidad: true,
     descuento: false,
-    id: 553,
+    id: 546,
     price: "62,000",
     description: "incluye luces y sonido, baterias no incluidas 20cm x 11cm",
     images_url:
@@ -6789,7 +6789,7 @@ export const database = [
     product: "juego de aros base figura de oso",
     disponibilidad: true,
     descuento: false,
-    id: 554,
+    id: 547,
     price: "33,000",
     description: "altura de 39cm",
     images_url:
@@ -6801,7 +6801,7 @@ export const database = [
     product: "coche ositos para muñecas boy toy",
     disponibilidad: true,
     descuento: false,
-    id: 555,
+    id: 548,
     price: "39,000",
     description: "62 cm x 28 cm x 46 cm",
     images_url:
@@ -6813,7 +6813,7 @@ export const database = [
     product: "domino didactico para niños",
     disponibilidad: true,
     descuento: false,
-    id: 556,
+    id: 549,
     price: "17,000",
     description: "piezas de madera",
     images_url: "https://tinypic.host/images/2024/03/13/image-25.png",
@@ -6824,7 +6824,7 @@ export const database = [
     product: "domino didactico infantil 28 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 557,
+    id: 550,
     price: "14,900",
     description: "domino didactico infantil 28 piezas",
     images_url:
@@ -6836,7 +6836,7 @@ export const database = [
     product: "cuna de princesa movil peluche y colchón boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 558,
+    id: 551,
     price: "79,000",
     description: "cuna de princesa movil peluche y colchón boy toys",
     images_url:
@@ -6848,7 +6848,7 @@ export const database = [
     product: "tableros didacticos de madera motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 559,
+    id: 552,
     price: "23,000",
     description: "tableros didacticos de madera motivos varios",
     images_url: "https://tinypic.host/images/2024/03/13/image-23.png",
@@ -6859,7 +6859,7 @@ export const database = [
     product: "loteria de animales juego de asociación",
     disponibilidad: true,
     descuento: false,
-    id: 560,
+    id: 553,
     price: "21,000",
     description:
       "juegos de asociación, ejercita la mente, incluye 5 cartones y 60 fichas 3 años en adelante",
@@ -6872,7 +6872,7 @@ export const database = [
     product: "lotera infantil",
     disponibilidad: true,
     descuento: false,
-    id: 561,
+    id: 554,
     price: "21,000",
     description:
       "juegos de asociación, ejercita la mente, incluye 5 cartones y 60 fichas 3 años en adelante",
@@ -6885,7 +6885,7 @@ export const database = [
     product: "loteria bilingue",
     disponibilidad: true,
     descuento: false,
-    id: 562,
+    id: 555,
     price: "16,000",
     description:
       "Recomendado a partir de los 5 años.\nApto para un máximo de 5 jugadores.\nEstimula y aumenta tu ingenio.\nLas imágenes pueden ser ilustrativas.",
@@ -6898,7 +6898,7 @@ export const database = [
     product: "loteria geometrica didactica",
     disponibilidad: true,
     descuento: false,
-    id: 563,
+    id: 556,
     price: "15,100",
     description:
       "Diviértete aprendiendo de Figuras Geometricos Colores Primarios Colores Secundaria",
@@ -6911,7 +6911,7 @@ export const database = [
     product: "rompecabezas didacticos motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 564,
+    id: 557,
     price: "8,000",
     description: "rompecabezas didacticos motivos varios",
     images_url: "https://tinypic.host/images/2024/03/13/image-26.png",
@@ -6922,7 +6922,7 @@ export const database = [
     product: "pupitre escritorio 2 en 1 incluye silla y tablero boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 565,
+    id: 558,
     price: "149,000",
     description:
       "Tamaño del tablero 29cm de alto y 32cm de largo.\nTamaño de la silla 31cm de ancho y 26cm de alto.\nMedidas generales: Alto: 84 cm x Ancho: 41 cm x Largo: 45 cm",
@@ -6935,7 +6935,7 @@ export const database = [
     product: "butaco baul osito boys toys",
     disponibilidad: true,
     descuento: false,
-    id: 566,
+    id: 559,
     price: "68,000",
     description: "50 cm x 30 cm x 57 cm",
     images_url:
@@ -6947,7 +6947,7 @@ export const database = [
     product: "vagón blocks 55 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 567,
+    id: 560,
     price: "68,000",
     description: "55 piezas 23 cm x 22 cm x 35 cm boy toys",
     images_url:
@@ -6959,7 +6959,7 @@ export const database = [
     product: "vagón blocks 55 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 568,
+    id: 561,
     price: "67,000",
     description: "55 piezas 23 cm x 22 cm x 35 cm boy toys",
     images_url:
@@ -6971,7 +6971,7 @@ export const database = [
     product: "perrito inflable saltarin colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 569,
+    id: 562,
     price: "64,000",
     description: "60 cm x 50 cm x 30 cm",
     images_url:
@@ -6983,7 +6983,7 @@ export const database = [
     product: "vaquitas inflables saltarinas",
     disponibilidad: true,
     descuento: false,
-    id: 570,
+    id: 563,
     price: "44,000",
     description: "colores varios 44 cm",
     images_url: "https://tinypic.host/images/2024/03/18/image-33.png",
@@ -6994,7 +6994,7 @@ export const database = [
     product: "renos saltarines colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 571,
+    id: 564,
     price: "39,500",
     description: "renos saltarines colores varios",
     images_url:
@@ -7006,7 +7006,7 @@ export const database = [
     product: "sonajero movil motivo de animales sweetcuddles",
     disponibilidad: true,
     descuento: false,
-    id: 572,
+    id: 565,
     price: "77,000",
     description: "sonajero movil musical motivo de animales osos",
     images_url: "https://m.media-amazon.com/images/I/81EMkZrzaRL._SL1500_.jpg",
@@ -7017,7 +7017,7 @@ export const database = [
     product: "set x3 sonajeros leon, jirafa y pato",
     disponibilidad: true,
     descuento: false,
-    id: 573,
+    id: 566,
     price: "17,000",
     description: "set x3 sonajeros leon, jirafa y pato",
     images_url:
@@ -7029,7 +7029,7 @@ export const database = [
     product: "set x4 sonajeros motivo animales colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 574,
+    id: 567,
     price: "33,500",
     description: "set x4 sonajeros motivo animales colores varios",
     images_url:
@@ -7041,7 +7041,7 @@ export const database = [
     product: "sonajero movil musical electrico con sonido",
     disponibilidad: true,
     descuento: false,
-    id: 575,
+    id: 568,
     price: "72,000",
     description:
       "Movil Para Cuna Carrusel Musical Giratorio Con Base. Movil Musical con base para Cuna De Cuerda Movimientos Giratorios Melodia que surge con la cuerda al movil LAS COMBINACIONES DE COLORES VIENEN DIFERENTES EN CADA CAJA, LOS MOVILES TRAEN COLORES ROSA, MORADO, AMARILLO Y VERDE",
@@ -7054,7 +7054,7 @@ export const database = [
     product: "telefono didactico para niños con sonidos diferentes motivos",
     disponibilidad: true,
     descuento: false,
-    id: 576,
+    id: 569,
     price: "77,000",
     description:
       "medidas: 15CM X 20 CM X 8 CM\nJUGUETE MUSICAL - TELEFONO DIDACTICO MUSICAL DE GATITO\nMaterial: Plástico",
@@ -7067,7 +7067,7 @@ export const database = [
     product: "bus didáctico armatodo 19 piezas armar",
     disponibilidad: true,
     descuento: false,
-    id: 577,
+    id: 570,
     price: "76,000",
     description:
       "19 piezas\nFichas plásticas\nBus con fichas para armar\nMedida Alto 18 cm, ancho 18cm, largo 20cm\nJuguete Didáctico para Armar\nadecuado de 3 años en adelante",
@@ -7080,7 +7080,7 @@ export const database = [
     product: "hongo didactico armatodo bloques armables 60 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 578,
+    id: 571,
     price: "70,000",
     description:
       "Desarrolla la creatividad.\nFomenta la Imaginación.\nProducto apto para niños mayores de 1 años.\nColores llamativos y surtidos.\nContiene 60 piezas.\nContribuye a la concentración y problemas de atención.",
@@ -7093,7 +7093,7 @@ export const database = [
     product: "tren musical acuario giratorio incluye luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 579,
+    id: 572,
     price: "78,500",
     description:
       "Tren Luces & Sonido, su divertido y colorido diseño hará que la diversión nunca termine para tus pequeños, ostenta un diseño único y diferente con su simulación de acuario que rota 360°, su maravillosa forma, colores vibrantes, luces y sonido lo hacen un tren muy especial",
@@ -7106,7 +7106,7 @@ export const database = [
     product: "piano musical helicoptero incluye luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 580,
+    id: 573,
     price: "68,000",
     description:
       "TAMAÑO: 15 x 16 x 2.5cm\nGran color y hermoso diseño\nSONIDOS de ANIMALES + Números\njuguete musical educativo, escuchar diferentes notas musicales\nRequiere 3 pilas AA (no incluidas)",
@@ -7119,7 +7119,7 @@ export const database = [
     product: "elefante encajable rodante 8 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 581,
+    id: 574,
     price: "42,000",
     description: "elefante encajable rodante 8 piezas",
     images_url:
@@ -7131,7 +7131,7 @@ export const database = [
     product: "unicornio magico incluye alas y cuerno lovely pegasus",
     disponibilidad: true,
     descuento: false,
-    id: 582,
+    id: 575,
     price: "64,500",
     description:
       "Material: Plástico\nAlimentación: 3 Baterías AA. (No incluidas)\nTamaño producto: 21 x 21 x 8 cm",
@@ -7144,7 +7144,7 @@ export const database = [
     product: "tren telefono didactico musical electrico con sonido y luces",
     disponibilidad: true,
     descuento: false,
-    id: 583,
+    id: 576,
     price: "74,000",
     description:
       "Teléfono musical electrónico para aprendizaje temprano, el mejor compañero de los bebés\nJuguete musical colorido que proporciona a los bebés un fuerte efecto visual y atrae su gran atención.\nLinterna de dos colores.\nFortalece el sentido de la visión y el crecimiento cerebra",
@@ -7157,7 +7157,7 @@ export const database = [
     product: "xilofono didactico colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 584,
+    id: 577,
     price: "60,000",
     description: "xilofono didactico colores varios",
     images_url: "https://m.media-amazon.com/images/I/61YRWjGDPDL._SL1300_.jpg",
@@ -7168,7 +7168,7 @@ export const database = [
     product: "autobus didactico musical electrico con sonido y luces",
     disponibilidad: true,
     descuento: false,
-    id: 585,
+    id: 578,
     price: "72,500",
     description:
       "Dimensiones: 19 cm x 27 cm x 3 cm\nMateriales: Plástico ABS\nTipo de Baterías: AA\nEdad recomendada: + 3 Años\nCertificado de conformidad: SL-CS-210044\nReferencia: JB214",
@@ -7181,7 +7181,7 @@ export const database = [
     product: "bus didáctico con xilofono incluye figuras geometricas",
     disponibilidad: true,
     descuento: false,
-    id: 586,
+    id: 579,
     price: "55,000",
     description: "30cm x 12cm x 10cm",
     images_url:
@@ -7193,7 +7193,7 @@ export const database = [
     product: "tren didáctico infantil incluye luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 587,
+    id: 580,
     price: "49,000",
     description: "17cm x  15cm x 5cm",
     images_url:
@@ -7205,7 +7205,7 @@ export const database = [
     product: "tren didáctico colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 588,
+    id: 581,
     price: "47,000",
     description:
       "ruedas funcionales, incluye luces y sonido, baterias no incluidas",
@@ -7217,7 +7217,7 @@ export const database = [
     product: "elefante didáctico incluye luces",
     disponibilidad: true,
     descuento: false,
-    id: 589,
+    id: 582,
     price: "45,500",
     description:
       "FunBlast Juguete musical de elefante de dibujos animados para niños Juguete de baile giratorio de 180 grados con luces Sonidos musicales Juguetes para bebés Elefante con sonajeros de bola para niños pequeños|Niños|Niñas",
@@ -7229,7 +7229,7 @@ export const database = [
     product: "juguete helicoptero didactico",
     disponibilidad: true,
     descuento: false,
-    id: 590,
+    id: 583,
     price: "43,600",
     description: "31cm x 14cm x 17cm",
     images_url:
@@ -7241,7 +7241,7 @@ export const database = [
     product: "camiones didácticos armables",
     disponibilidad: true,
     descuento: false,
-    id: 591,
+    id: 584,
     price: "29,000",
     description:
       "incluye 2 herramientas y 2 camiones, 10 cm x 7 cm cada camión",
@@ -7253,7 +7253,7 @@ export const database = [
     product: "juguete guitarra-piano incluye luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 592,
+    id: 585,
     price: "57,000",
     description:
       "juguete guitarra-piano incluye luces y sonidos 42 cm para mas de 12 meses de edad",
@@ -7266,7 +7266,7 @@ export const database = [
     product: "telefono didactico musical luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 593,
+    id: 586,
     price: "28,500",
     description: "diseño: perro",
     images_url:
@@ -7278,7 +7278,7 @@ export const database = [
     product: "telefono didactico musical luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 594,
+    id: 587,
     price: "28,500",
     description: "diseño: leon",
     images_url:
@@ -7290,7 +7290,7 @@ export const database = [
     product: "telefono didactico musical luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 595,
+    id: 588,
     price: "28,500",
     description: "diseño: varios",
     images_url:
@@ -7302,7 +7302,7 @@ export const database = [
     product: "telefono didactico musical luces y sonido",
     disponibilidad: true,
     descuento: false,
-    id: 596,
+    id: 589,
     price: "23,500",
     description: "diseño: vaca",
     images_url:
@@ -7314,7 +7314,7 @@ export const database = [
     product: "telefono musical electrico con sonido y luces",
     disponibilidad: true,
     descuento: false,
-    id: 597,
+    id: 590,
     price: "28,500",
     description: "telefono musical electrico con sonido y luces",
     images_url:
@@ -7326,7 +7326,7 @@ export const database = [
     product: "telefono musical didactico con luces y sonidos",
     disponibilidad: true,
     descuento: false,
-    id: 598,
+    id: 591,
     price: "21,500",
     description: "17cm x 7cm",
     images_url:
@@ -7338,7 +7338,7 @@ export const database = [
     product: "elefante didáctico azul boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 599,
+    id: 592,
     price: "24,000",
     description: "29cm x 20cm x 14cm",
     images_url:
@@ -7350,7 +7350,7 @@ export const database = [
     product: "aros didacticos apilables",
     disponibilidad: true,
     descuento: false,
-    id: 600,
+    id: 593,
     price: "21,000",
     description: "12 piezas 26cm colores varios",
     images_url:
@@ -7362,7 +7362,7 @@ export const database = [
     product: "aros gigantes apilables royal 15 aros",
     disponibilidad: true,
     descuento: false,
-    id: 601,
+    id: 594,
     price: "48,000",
     description: "alto: 50 cm motivos varios",
     images_url:
@@ -7374,7 +7374,7 @@ export const database = [
     product: "aros grandes apilables 12 aros motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 602,
+    id: 595,
     price: "40,000",
     description: "40cm alto, colores varios",
     images_url:
@@ -7386,7 +7386,7 @@ export const database = [
     product: "aros didacticos apilables colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 603,
+    id: 596,
     price: "13,700",
     description: "16 cm 7 piezas vaca",
     images_url:
@@ -7398,7 +7398,7 @@ export const database = [
     product: "aros didacticos apilables colores varios pato",
     disponibilidad: true,
     descuento: false,
-    id: 604,
+    id: 597,
     price: "12,300",
     description: "20cm 7 piezas pato",
     images_url:
@@ -7410,7 +7410,7 @@ export const database = [
     product: "triangulos creativos apilables motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 605,
+    id: 598,
     price: "19,000",
     description: "9 triangulos apilables alto: 30 cm motivos varios",
     images_url: "https://tinypic.host/images/2024/03/13/image-24.png",
@@ -7421,7 +7421,7 @@ export const database = [
     product: "tapete didactico para niños y bebes 120x180cm",
     disponibilidad: true,
     descuento: false,
-    id: 606,
+    id: 599,
     price: "50,000",
     description:
       "Tapete doble cara o Reversible\nCómoda bolsa para llevar el tapete a donde quieras.\nMaterial: Espuma de Poliuretano",
@@ -7434,7 +7434,7 @@ export const database = [
     product: "tapete didactico para niños y bebes 150x180cm",
     disponibilidad: true,
     descuento: false,
-    id: 607,
+    id: 600,
     price: "58,000",
     description:
       "Tapete doble cara o Reversible\nCómoda bolsa para llevar el tapete a donde quieras.\nMaterial: Espuma de Poliuretano",
@@ -7447,7 +7447,7 @@ export const database = [
     product: "tapete didactico para niños y bebes 180x200cm",
     disponibilidad: true,
     descuento: false,
-    id: 608,
+    id: 601,
     price: "8,000",
     description:
       "Tapete doble cara o Reversible\nCómoda bolsa para llevar el tapete a donde quieras.\nMaterial: Espuma de Poliuretano",
@@ -7460,7 +7460,7 @@ export const database = [
     product: "tapete de foami infantil 26 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 609,
+    id: 602,
     price: "87,000",
     description: "30cm x 30cm cada pieza",
     images_url:
@@ -7472,7 +7472,7 @@ export const database = [
     product: "tapete rompecabezas didactico colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 610,
+    id: 603,
     price: "35,000",
     description: "30cm x 30cm Diferentes colores",
     images_url:
@@ -7484,7 +7484,7 @@ export const database = [
     product: "colchoncito tapete agua didactico",
     disponibilidad: true,
     descuento: false,
-    id: 611,
+    id: 604,
     price: "28,000",
     description: "inflable para bebés 69cm x 50cm x 8cm",
     images_url:
@@ -7496,7 +7496,7 @@ export const database = [
     product: "andador mi pequeño leon boy toys",
     disponibilidad: true,
     descuento: false,
-    id: 612,
+    id: 605,
     price: "145,000",
     description:
       "Andador con Forma de León Jungla y 4 ruedas.\nCabeza de león: los ojos son ruedas giratorias, las orejas son botones que giran, el cabello se quita de los anillos y la nariz cuando se presiona emite un sonido.\nMedidas: 36.5x35.5x42 cm 842 Grs\nMaterial: Plástico",
@@ -7509,7 +7509,7 @@ export const database = [
     product: "caminador musical mattina",
     disponibilidad: true,
     descuento: false,
-    id: 613,
+    id: 606,
     price: "124,000",
     description:
       "Caminador Mattina Rosado.\nAsiento removible\nLavable\n7 Ruedas en silicona\nBandeja de juegos con luces y música\nAltura graduable\nMedidas producto armado:\n64 x 53.3 x 51.6",
@@ -7522,7 +7522,7 @@ export const database = [
     product: "rodillo de gateo estimulante 40x18cm",
     disponibilidad: true,
     descuento: false,
-    id: 614,
+    id: 607,
     price: "75,000",
     description:
       "Juguetes de almohada para bebés de 0 a 6 meses, juguetes de almohada de desarrollo temprano para recién nacidos con sonajero desmontable, juguetes para bebés de 3, 6, 9, 12, 24 meses de edad",
@@ -7535,7 +7535,7 @@ export const database = [
     product: "rollo inflable de gateo para bebé",
     disponibilidad: true,
     descuento: false,
-    id: 615,
+    id: 608,
     price: "49,000",
     description: "22cm diametro x 48cm longitud",
     images_url:
@@ -7547,7 +7547,7 @@ export const database = [
     product: "silla vasenilla boy toys colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 616,
+    id: 609,
     price: "97,000",
     description:
       "Con esta hermosa y practica silla vasenilla, ideal para ese proceso de transición de tus pequeños, brindándole diversión y tranquilidad a tu bebé, enseñándole desde temprana edad, el correcto uso del baño, logrando que poco a poco se acostumbre.",
@@ -7560,7 +7560,7 @@ export const database = [
     product: "orinal bebé sapito colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 617,
+    id: 610,
     price: "16,500",
     description: "29cm x 16cm x 13cm",
     images_url:
@@ -7572,7 +7572,7 @@ export const database = [
     product: "vasenilla entrenadora carita magica  colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 618,
+    id: 611,
     price: "59,000",
     description:
       "vasenilla entrenadora carita magica 36cm x 37cm x 30cm colores varios",
@@ -7585,7 +7585,7 @@ export const database = [
     product: "cortadora de cabello recargable especial para bebés genial",
     disponibilidad: true,
     descuento: false,
-    id: 619,
+    id: 612,
     price: "74,000",
     description:
       "Cabeza de cortadora de cerámica de alta calidad y segura\nSilencio ultra bajo, cuidado para la audiencia de su bebé\nIPX7 impermeable, toda la máquina se puede lavar",
@@ -7597,7 +7597,7 @@ export const database = [
     product: "lima uñas - corta uñas electrico",
     disponibilidad: true,
     descuento: false,
-    id: 620,
+    id: 613,
     price: "49,000",
     description: "6 tipos de pulidores, con luz led, colores azul y rosa",
     images_url:
@@ -7609,7 +7609,7 @@ export const database = [
     product: "kit para bebé 10 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 621,
+    id: 614,
     price: "43,000",
     description:
       "incluye cepillo, peine, termometro, cortauñas, cepillo bucal, lima, tijeras especiales, extractor nasal y pinzas especiales",
@@ -7622,7 +7622,7 @@ export const database = [
     product: "bañera anatómica azul 26lt kendy",
     disponibilidad: true,
     descuento: false,
-    id: 622,
+    id: 615,
     price: "37,000",
     description:
       "Grande, confortable, segura, ligera, de diseño contemporáneo. \nErgonómica.\nCon amplia jabonera, textura en el fondo y válvula de pvc. \nPuede usarse por sí sola o colocarse cualquier flotador o fondo antideslizante. \nEstructura estable.",
@@ -7635,7 +7635,7 @@ export const database = [
     product: "set para el cuidado del bebé colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 623,
+    id: 616,
     price: "17,000",
     description: "incluye cepillo peine tijeras cortauñas",
     images_url: "https://m.media-amazon.com/images/I/41Zz8AN1jYL.jpg",
@@ -7646,7 +7646,7 @@ export const database = [
     product: "set de cepillo y peine colores y motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 624,
+    id: 617,
     price: "7,000",
     description: "set de cepillo y peine colores y motivos varios",
     images_url:
@@ -7658,7 +7658,7 @@ export const database = [
     product: "plato adherente en silicona especial para bebés",
     disponibilidad: true,
     descuento: false,
-    id: 625,
+    id: 618,
     price: "30,000",
     description: "22cm x20cm se adhiere a la superficie evitando derrames",
     images_url:
@@ -7670,7 +7670,7 @@ export const database = [
     product: "plato antiderrame 360 grados especial para niños-bebés",
     disponibilidad: true,
     descuento: false,
-    id: 626,
+    id: 619,
     price: "20,000",
     description: "plato antiderrame 360 grados especial para niños-bebés",
     images_url:
@@ -7682,7 +7682,7 @@ export const database = [
     product: "vaso antiderrame magic 360",
     disponibilidad: true,
     descuento: false,
-    id: 627,
+    id: 620,
     price: "20,000",
     description: "capacidad 210ml 10.5 ml x 8 cm",
     images_url:
@@ -7694,7 +7694,7 @@ export const database = [
     product: "vajilla para bebé set x2",
     disponibilidad: true,
     descuento: false,
-    id: 628,
+    id: 621,
     price: "17,000",
     description:
       "incluye plato hondo y triturador de alimentos ideal para realizar pures",
@@ -7707,7 +7707,7 @@ export const database = [
     product: "xilófono bus didáctico inlcuye piezas didacticas",
     disponibilidad: true,
     descuento: false,
-    id: 629,
+    id: 622,
     price: "80,000",
     description:
       "Bus Xilófono, para desarrollar las habilidades de motricidad fina de los pequeños de la casa, además de las estimulación visual y auditiva.\nLargo: 24 cm\nAncho: 9 cm\nAlto: 11 cm",
@@ -7720,7 +7720,7 @@ export const database = [
     product: "xilófono didáctico colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 630,
+    id: 623,
     price: "60,000",
     description:
       "Material: Plástico\nPiezas pequeñas: Sí\nColor: AMARILLO\nGrupo de edad: Etapa 2",
@@ -7732,7 +7732,7 @@ export const database = [
     product: "juguete educativo xilofono trompeta incluye baquetas",
     disponibilidad: true,
     descuento: false,
-    id: 631,
+    id: 624,
     price: "14,900",
     description: "largo: 19cm",
     images_url:
@@ -7744,7 +7744,7 @@ export const database = [
     product: "piano musical motivo de abeja sonido y lcues",
     disponibilidad: true,
     descuento: false,
-    id: 632,
+    id: 625,
     price: "68,000",
     description:
       "Piano Didáctico Mariposa para Bebés con luz y música\nRecomendado + 3 años\nFunciona con 3 pilas AA (NO INCLUIDAS)",
@@ -7757,7 +7757,7 @@ export const database = [
     product: "tetero para bebés wakids",
     disponibilidad: true,
     descuento: false,
-    id: 633,
+    id: 626,
     price: "23,000",
     description: "270ml - 9 onzas",
     images_url: "https://tinypic.host/images/2024/03/11/image-12.png",
@@ -7768,7 +7768,7 @@ export const database = [
     product: "juego de cepillo para teteros",
     disponibilidad: true,
     descuento: false,
-    id: 634,
+    id: 627,
     price: "18,500",
     description: "incluye 2 cepillos, 1 grande de 28cm y 1 pequeño de 5cm",
     images_url:
@@ -7780,7 +7780,7 @@ export const database = [
     product: "set x3 biberones",
     disponibilidad: true,
     descuento: false,
-    id: 635,
+    id: 628,
     price: "17,000",
     description: "incluye biberon 9 onzas - 2 onzas y vasito",
     images_url: "https://tinypic.host/images/2024/03/11/image-13.png",
@@ -7791,7 +7791,7 @@ export const database = [
     product: "set x2 tetinas boca ancha genial",
     disponibilidad: true,
     descuento: false,
-    id: 636,
+    id: 629,
     price: "18,000",
     description: "talla m y talla s",
     images_url:
@@ -7803,7 +7803,7 @@ export const database = [
     product: "chupete con broche ortodontico",
     disponibilidad: true,
     descuento: false,
-    id: 637,
+    id: 630,
     price: "15,000",
     description: "de cero meses en adelante",
     images_url:
@@ -7815,7 +7815,7 @@ export const database = [
     product: "chupo dispensador de alimentos incluye sonajero",
     disponibilidad: true,
     descuento: false,
-    id: 638,
+    id: 631,
     price: "8,500",
     description: "de 6 meses en adelante",
     images_url:
@@ -7827,7 +7827,7 @@ export const database = [
     product: "babero delantal manga larga tela impermeable",
     disponibilidad: true,
     descuento: false,
-    id: 639,
+    id: 632,
     price: "14,900",
     description: "brazo largo 25cm delantal 52cm largo ancho delantal 34cm",
     images_url:
@@ -7839,7 +7839,7 @@ export const database = [
     product: "tetero cuchara dispensador en silicona",
     disponibilidad: true,
     descuento: false,
-    id: 640,
+    id: 633,
     price: "22,000",
     description: "silicona con cuchara blanda largo 20 cm",
     images_url:
@@ -7851,7 +7851,7 @@ export const database = [
     product: "set x3 rasca encias",
     disponibilidad: true,
     descuento: false,
-    id: 641,
+    id: 634,
     price: "23,000",
     description:
       "rellenos de agua, superficie multitextura genial colores varios",
@@ -7864,7 +7864,7 @@ export const database = [
     product: "rasca encias mordedor bebé",
     disponibilidad: true,
     descuento: false,
-    id: 642,
+    id: 635,
     price: "7,500",
     description:
       "especial en gel frio, estimulante de encias, 4 meses en adelante",
@@ -7876,7 +7876,7 @@ export const database = [
     product: "gimnasio tapete piano para bebé diseño para niño y niña",
     disponibilidad: true,
     descuento: false,
-    id: 643,
+    id: 636,
     price: "110,000",
     description: "musical \npiano didáctico\nestampados animales",
     images_url:
@@ -7888,7 +7888,7 @@ export const database = [
     product: "mesa de planchar 20 x 105cm diseños varios",
     disponibilidad: true,
     descuento: false,
-    id: 644,
+    id: 637,
     price: "170,000",
     description: "mesa de planchar con diseño varios medidas: 30cm x 105 cm",
     images_url:
@@ -7900,7 +7900,7 @@ export const database = [
     product: "paraguas reversible plegable doble capa motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 645,
+    id: 638,
     price: "55,000",
     description:
       "paraguas reversible plegable doble capa motivos varios, Radio de 55-61 cm",
@@ -7913,7 +7913,7 @@ export const database = [
     product: "mesa multiusos cuadrada rimax",
     disponibilidad: true,
     descuento: false,
-    id: 646,
+    id: 639,
     price: "55,000",
     description: "35 x 35 x 71.5cm colores varios",
     images_url:
@@ -7925,7 +7925,7 @@ export const database = [
     product: "mesa multiusos triangular shia rimax",
     disponibilidad: true,
     descuento: false,
-    id: 647,
+    id: 640,
     price: "54,000",
     description: "77 x 35.7x 37.5 cm polipropileno",
     images_url:
@@ -7937,7 +7937,7 @@ export const database = [
     product: "repisa redonda 4 niveles rimax",
     disponibilidad: true,
     descuento: false,
-    id: 648,
+    id: 641,
     price: "54,000",
     description:
       "Material: Polipropileno\nMedidas: Alto (73 cm) Ancho (35 cm) Largo (35 cm)\nColor: Blanco",
@@ -7950,7 +7950,7 @@ export const database = [
     product: "mesa portatíl personal largo rimax",
     disponibilidad: true,
     descuento: false,
-    id: 649,
+    id: 642,
     price: "55,000",
     description: "67cm x 34.5cm x 27cm",
     images_url:
@@ -7962,11 +7962,12 @@ export const database = [
     product: "canasta móvil ovalada max 4kg rimax",
     disponibilidad: true,
     descuento: false,
-    id: 650,
+    id: 643,
     price: "69,000",
     description:
       "Material: Plástico\nMedidas: Alto (71.5 cm) Ancho (39.2 cm) Largo (54.5 cm)\nPeso: 1.75 kg",
-    images_url: "",
+    images_url:
+      "https://falabella.scene7.com/is/image/Falabella/gsc_116390359_1470216_1?wid=800&hei=800&qlt=70",
     category: "hogar",
     sub_category: "canastas",
   },
@@ -7974,7 +7975,7 @@ export const database = [
     product: "canasta movil rectangular blanca rimax",
     disponibilidad: true,
     descuento: false,
-    id: 651,
+    id: 644,
     price: "55,000",
     description:
       "Con este práctico y versátil carrito multiusos tendrás todo ordenado ocupando muy poco espacio. Puedes situarlo en el lugar que prefieras en la cocina, en el baño, en el despacho o en la despensa.",
@@ -7987,7 +7988,7 @@ export const database = [
     product: "nevera de icopor 42 litros fabripor",
     disponibilidad: true,
     descuento: false,
-    id: 652,
+    id: 645,
     price: "55,000",
     description: "nevera de icopor 42 litros fabripor",
     images_url:
@@ -7999,7 +8000,7 @@ export const database = [
     product: "nevera de icopor 20 litros fabripor",
     disponibilidad: true,
     descuento: false,
-    id: 653,
+    id: 646,
     price: "25,000",
     description: "nevera de icopor 20 litros fabripor",
     images_url:
@@ -8011,7 +8012,7 @@ export const database = [
     product: "nevera de icopor 18 litros fabripor",
     disponibilidad: true,
     descuento: false,
-    id: 654,
+    id: 647,
     price: "23,000",
     description: "nevera de icopor 18 litros fabripor",
     images_url:
@@ -8023,7 +8024,7 @@ export const database = [
     product: "tapetes de gamusa veko",
     disponibilidad: true,
     descuento: false,
-    id: 655,
+    id: 648,
     price: "35,000",
     description: "80x50cm colores varios",
     images_url:
@@ -8035,7 +8036,7 @@ export const database = [
     product: "tapetes estilo moderno veko 80cm x 50cm colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 656,
+    id: 649,
     price: "19,000",
     description: "tapetes estilo moderno veko 80cm x 50cm colores varios",
     images_url: "",
@@ -8046,7 +8047,7 @@ export const database = [
     product: "recordatorio mis dulces xv 8cm x 7cm x 3 cm",
     disponibilidad: true,
     descuento: false,
-    id: 657,
+    id: 650,
     price: "3,000",
     description: "recordatorio mis dulces xv 8cm x 7cm x 3 cm",
     images_url:
@@ -8058,7 +8059,7 @@ export const database = [
     product: "recordatorio baby sleep 9cm x 4cm x 3cm",
     disponibilidad: true,
     descuento: false,
-    id: 658,
+    id: 651,
     price: "2,000",
     description: "recordatorio baby sleep 9cm x 4cm x 3cm",
     images_url:
@@ -8070,7 +8071,7 @@ export const database = [
     product: "recordatorio baby boy 5cm x 4cm x 1cm",
     disponibilidad: true,
     descuento: false,
-    id: 659,
+    id: 652,
     price: "2,000",
     description: "recordatorio baby boy 5cm x 4cm x 1cm",
     images_url:
@@ -8082,7 +8083,7 @@ export const database = [
     product: "recogedor de basura",
     disponibilidad: true,
     descuento: false,
-    id: 660,
+    id: 653,
     price: "15,500",
     description: "23cm x 80cm colores varios",
     images_url:
@@ -8094,7 +8095,7 @@ export const database = [
     product: "inflador de globos electrico 50hz / 60hz",
     disponibilidad: true,
     descuento: false,
-    id: 661,
+    id: 654,
     price: "80,000",
     description: "voltaje a 110kwh/120kwh frecuencia de 50 hz/60 hz",
     images_url:
@@ -8106,7 +8107,7 @@ export const database = [
     product: "timbre inalambrico inlcuye bateria",
     disponibilidad: true,
     descuento: false,
-    id: 662,
+    id: 655,
     price: "38,000",
     description:
       "rango de 100 metros, bajo consumo de energia, 36 opciones de melodias, incluye bateria",
@@ -8119,7 +8120,7 @@ export const database = [
     product: "abanico de madera",
     disponibilidad: true,
     descuento: false,
-    id: 663,
+    id: 656,
     price: "5,000",
     description: "abanico de madera por unidad o al por mayor",
     images_url:
@@ -8131,7 +8132,7 @@ export const database = [
     product: "individuales",
     disponibilidad: true,
     descuento: false,
-    id: 664,
+    id: 657,
     price: "6,000",
     description: "",
     images_url: "",
@@ -8142,7 +8143,7 @@ export const database = [
     product: "individuales",
     disponibilidad: true,
     descuento: false,
-    id: 665,
+    id: 658,
     price: "5,000",
     description: "",
     images_url: "",
@@ -8153,7 +8154,7 @@ export const database = [
     product: "individuales",
     disponibilidad: true,
     descuento: false,
-    id: 666,
+    id: 659,
     price: "9,500",
     description: "",
     images_url: "",
@@ -8164,7 +8165,7 @@ export const database = [
     product: "vajilla floral 20 piezas my cousine",
     disponibilidad: true,
     descuento: false,
-    id: 667,
+    id: 660,
     price: "122,000",
     description:
       "Marca: My cousine\nModelo: Floral\nCantidad de piezas: 20\nNombre Del Diseño: Floral\nTipo de juego: Almuerzo\nMaterial: Cerámica",
@@ -8177,7 +8178,7 @@ export const database = [
     product: "vajilla leticia 4 puestos 16 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 668,
+    id: 661,
     price: "123,000",
     description:
       "Marca: Corona\nLínea: Leticia\nModelo: Leticia\nTipo de plato de vajilla: Loza\nMaterial: Loza\nForma: Redonda",
@@ -8190,7 +8191,7 @@ export const database = [
     product: "vajilla teresa 4 puestos 16 piezas corona",
     disponibilidad: true,
     descuento: false,
-    id: 669,
+    id: 662,
     price: "123,000",
     description: "6 platos pandos\n4 platos hondos\n4 mugs",
     images_url:
@@ -8202,7 +8203,7 @@ export const database = [
     product: "vajlla ashley 4 puestos 16 piezas corona",
     disponibilidad: true,
     descuento: false,
-    id: 670,
+    id: 663,
     price: "113,000",
     description:
       "Vajilla Corona Ashley 4 Puestos 16 Piezas\n4 Platos Té 14.8cm\n4 Platos 24.2cm \n4 Platos Hondo 587.3ml\n4 Pocillos Té 211.4ml \nColor Amarillo",
@@ -8215,7 +8216,7 @@ export const database = [
     product: "vajilla domino 4 puestos 16 piezas corona",
     disponibilidad: true,
     descuento: false,
-    id: 671,
+    id: 664,
     price: "112,000",
     description:
       "Marca: Corona\nModelo: Domino\nCantidad de piezas: 16\nNombre Del Diseño Dominó\nMaterial: Loza\nApto para microondas y lavavajillas.\nAprobado para el uso en contacto con alimentos.\nCumple con la norma de plomo y cadmio.",
@@ -8228,7 +8229,7 @@ export const database = [
     product: "vajilla malaya 4 puestos 16 piezas corona",
     disponibilidad: true,
     descuento: false,
-    id: 672,
+    id: 665,
     price: "112,000",
     description:
       "Apto para microondas y lavavajilla\nAprobado para el uso en contacto con alimentos\nCumple con la norma de plomo y cadmio\nSe garantiza que el esmalte no va a generar agrietamiento por cualquier cantidad de lavado con detergente.\nResistencia de la decoración a los detergentes\n4 Plato Té 14.5cm\n4 Plato Pando 24cm \n4 Plato Hondo 587.3ml \n4 Pocillo Té 230ml",
@@ -8241,7 +8242,7 @@ export const database = [
     product: "vajilla cala 4 puestos 16 piezas corona",
     disponibilidad: true,
     descuento: false,
-    id: 673,
+    id: 666,
     price: "105,000",
     description:
       "Apto para microondas y lavavajilla\nAprobado para el uso en contacto con alimentos\nCumple con la norma de plomo y cadmio\nSe garantiza que el esmalte no va a generar agrietamiento por cualquier cantidad de lavado con detergentes\nResistencia de la decoración a los detergentes",
@@ -8254,7 +8255,7 @@ export const database = [
     product: "vajilla danna 4 puestos 16 piezas corona",
     disponibilidad: true,
     descuento: false,
-    id: 674,
+    id: 667,
     price: "105,000",
     description:
       "Fabricado en loza\nApto para microondas y lavavajilla\nVajilla apta para 4 puestos, incluye 16 piezas:\n4 Plato Té 14.8cm\n4 Plato Pando 24cm\n4 Pocillo Té 211.4ml\n4 Plato Hondo 587.3ml\nMaterial: Loza\nTamaño: 15cm X 33cm X 25cm",
@@ -8267,7 +8268,7 @@ export const database = [
     product: "set desayuno mickey mouyse 3 piezas disney corona",
     disponibilidad: true,
     descuento: false,
-    id: 675,
+    id: 668,
     price: "64,000",
     description:
       "Apto para microondas y lavavajilla\nAprobado para el uso en contacto con alimentos\nCumple con la norma de plomo y cadmio\nSe garantiza que el esmalte no va a generar agrietamiento por cualquier cantidad de lavado con detergentes\nResistencia de la decoración a los detergentes",
@@ -8280,7 +8281,7 @@ export const database = [
     product: "set desayuno mickey mouse loyal & true 3 piezas disney corona",
     disponibilidad: true,
     descuento: false,
-    id: 676,
+    id: 669,
     price: "64,000",
     description:
       "Apto para microondas en exposición no mayor a 3 minutos\nApto para Lavavajillas\nAprobado para el uso con alimentos. Cumple con la norma de plomo y cadmio\nResistencia al agrietamiento o cuarteado del esmalte a cualquier cantidad de ciclos de lavado\nResistencia de la decoración a los detergentes (no lavar con productos abrasivos)\nExcluyendo las decoraciones de lustre (elementos metalizados normalmente presente en el borde de la pieza)\nNo someter el producto a cambios de temperatura extremos",
@@ -8293,7 +8294,7 @@ export const database = [
     product: "vajilla jaspe verde 4 puestos 16 puestos",
     disponibilidad: true,
     descuento: false,
-    id: 677,
+    id: 670,
     price: "102,000",
     description:
       "4 Plato Té 14.5cm Jaspe Verde\n4 Plato Pando 24cm Jaspe Verde\n4 Plato Hondo 587.3cm3 Jaspe Verde\n4 Pocillo Té 230cm3 Esmalte Color Verde Limón",
@@ -8306,7 +8307,7 @@ export const database = [
     product: "vajilla plastica the avengers",
     disponibilidad: true,
     descuento: false,
-    id: 678,
+    id: 671,
     price: "33,500",
     description: "incluye plato llano, plato hondo, vaso y tenedores",
     images_url:
@@ -8318,7 +8319,7 @@ export const database = [
     product: "vajilla plastica princesas",
     disponibilidad: true,
     descuento: false,
-    id: 679,
+    id: 672,
     price: "33,500",
     description: "incluye plato llano, plato hondo, vaso y tenedores",
     images_url:
@@ -8330,7 +8331,7 @@ export const database = [
     product: "vajilla plastica frozen",
     disponibilidad: true,
     descuento: false,
-    id: 680,
+    id: 673,
     price: "33,500",
     description: "incluye plato llano, plato hondo, vaso y tenedores",
     images_url:
@@ -8342,7 +8343,7 @@ export const database = [
     product: "vajilla plastica minnie mouse",
     disponibilidad: true,
     descuento: false,
-    id: 681,
+    id: 674,
     price: "33,500",
     description: "incluye plato llano, plato hondo, vaso y tenedores",
     images_url:
@@ -8354,7 +8355,7 @@ export const database = [
     product: "set x6 copas lexintong cristar",
     disponibilidad: true,
     descuento: false,
-    id: 682,
+    id: 675,
     price: "59,900",
     description:
       "Display de 6 Copas de Vino capacidad de 170 cc con acabado brillo",
@@ -8366,7 +8367,7 @@ export const database = [
     product: "set x12 copas aragon",
     disponibilidad: true,
     descuento: false,
-    id: 683,
+    id: 676,
     price: "59,000",
     description:
       "Marca: Cristar \nMaterial: Vidrio\nCapacidad: 8 1/2 oz / 250 cc y 10 oz / 300 cc\nMedidas: 10 oz & 8 oz\nReferencia: 9489ELCRISTAR SKU 0012705\nHecho en: Colombia\n6 Copas Aragon vino\n6 Copas Aragon agua",
@@ -8379,7 +8380,7 @@ export const database = [
     product: "set x6 copas lexintong aperitivo cristar",
     disponibilidad: true,
     descuento: false,
-    id: 684,
+    id: 677,
     price: "52,000",
     description:
       "Capacidad: 3 1/2 oz\nMaterial: Vidrio\nModelo: Lexington\nDiámetro: 6.4 cm\nAlto: 6.9 cm\nlargo: 6.4 cm",
@@ -8392,7 +8393,7 @@ export const database = [
       "set x10 piezas copas marruecos, vasos rocks y ensaladeras cristar",
     disponibilidad: true,
     descuento: false,
-    id: 685,
+    id: 678,
     price: "50,700",
     description:
       "Incluye : 4 Copas Marruecos + 4 Vasos Diamante Rocks + 2 Carioca Ensaladeras Pequeñas",
@@ -8404,7 +8405,7 @@ export const database = [
     product: "set bolonia 8 piezas 4 copas +  4 vasos cristar",
     disponibilidad: true,
     descuento: false,
-    id: 686,
+    id: 679,
     price: "47,000",
     description:
       "Marca: Cristar\nModelo: Bolonia\nTipo de producto: Copa\nFormato de venta: Pack\nUnidades por pack: 8\nColor: Transparente\nMaterial: Vidrio",
@@ -8416,7 +8417,7 @@ export const database = [
     product: "set x2 copas ginebra trópico cristar",
     disponibilidad: true,
     descuento: false,
-    id: 687,
+    id: 680,
     price: "31,000",
     description:
       "Capacidad / Peso : 657 ml – 22.2 fl oz  /300 gr\n Alto: 20.5 cm /8.07 pulgadas\n Diámetro: 10.7 cm / 4.2 pulgadas\n Unidad de Empaque: Canastilla x 2 unidades\n Color: Multicolor",
@@ -8429,7 +8430,7 @@ export const database = [
     product: "set x4 copas margarita cristar",
     disponibilidad: true,
     descuento: false,
-    id: 688,
+    id: 681,
     price: "29,000",
     description:
       "Material: policarbonato\nColor: transparente\nCapacidad: 355 ml\nSe pueden meter en el lavavajillas\nCuando laves el producto, utiliza un paño suave o una esponja para evitar el riesgo de dañar o rayar el producto",
@@ -8442,7 +8443,7 @@ export const database = [
     product: "set x2 jarro mug gallerie",
     disponibilidad: true,
     descuento: false,
-    id: 689,
+    id: 682,
     price: "28,000",
     description:
       "Mug Galerie x2 unidades\nCapacidad : 8 oz / 242 cc\nAlto : 14.4 cm, 5.7 pulgadas\nDiámetro 7.5 cm, 3.0 pulgadas",
@@ -8455,7 +8456,7 @@ export const database = [
     product: "set x4 copas de agua 18.8 x 8.9cm cristar",
     disponibilidad: true,
     descuento: false,
-    id: 690,
+    id: 683,
     price: "26,000",
     description:
       "Copa Agua CRISTAR x4\nCapacidad / 370cc\nAlto 18.8 cm / 7.5''\nDiámetro 8.9 cm / 3.6''",
@@ -8467,7 +8468,7 @@ export const database = [
     product: "set x6 copas shot lexington cristar",
     disponibilidad: true,
     descuento: false,
-    id: 691,
+    id: 684,
     price: "23,600",
     description:
       "Alto: 9.4 cm\nCapacidad volumétrica: 74 ml\nDiámetro: 3.9 cm\nMaterial de la copa: Vidrio\nColor: Transparente",
@@ -8480,7 +8481,7 @@ export const database = [
     product: "set x2 jarro cervecero dakota 14cm cristar",
     disponibilidad: true,
     descuento: false,
-    id: 692,
+    id: 685,
     price: "22,000",
     description:
       "Proveedor: Cristar \nMaterial: Vidrio\nCapacidad: 12 1/4 oz / 368 cc\nMedidas: (Alto 14.0 cm) (Diámetro 7.7 cm)",
@@ -8492,7 +8493,7 @@ export const database = [
     product: "jarro cervecero dakota 14cm x 7cm 13oz cristar",
     disponibilidad: true,
     descuento: false,
-    id: 693,
+    id: 686,
     price: "22,000",
     description:
       "Proveedor: Cristar \nMaterial: Vidrio\nCapacidad: 12 1/4 oz / 368 cc\nMedidas: (Alto 14.0 cm) (Diámetro 7.7 cm)",
@@ -8504,7 +8505,7 @@ export const database = [
     product: "copa brunello champaña",
     disponibilidad: true,
     descuento: false,
-    id: 694,
+    id: 687,
     price: "8,000",
     description:
       "Capacidad: 8 oz / 242 cc\nAlto: 21.3 cm, 8.4 pulgadas\nDiámetro: 5 cm\nUnidad de Empaque: Canastilla x 3 unidades",
@@ -8517,7 +8518,7 @@ export const database = [
     product: "copa de helado acapulco 11x11cm",
     disponibilidad: true,
     descuento: false,
-    id: 695,
+    id: 688,
     price: "5,990",
     description:
       "Esta copa de acrílico transparente está elaborada con efecto cristal, un material muy resistente. Diseño elegante para todo tipo de ocasión.",
@@ -8529,7 +8530,7 @@ export const database = [
     product: "set x6 copas shot sodera cristar",
     disponibilidad: true,
     descuento: false,
-    id: 696,
+    id: 689,
     price: "2,500",
     description:
       "Copa aguardientera de vidrio transparente apta para alimentos, es ideal para bebidas fuertes.",
@@ -8542,7 +8543,7 @@ export const database = [
     product: "set x6 cerveceros 4 vasos 22cm + pasanteras 5,2cm cristar",
     disponibilidad: true,
     descuento: false,
-    id: 697,
+    id: 690,
     price: "40,000",
     description:
       "Presentación: Caja Diamonds.\nMaterial: Vidrio\nLargo: 19cm\nAncho: 6cm\nCapacidad: 450ml",
@@ -8555,7 +8556,7 @@ export const database = [
     product: "set x6 vasos barman 15.2cm alto 12oZ cristar",
     disponibilidad: true,
     descuento: false,
-    id: 698,
+    id: 691,
     price: "40,000",
     description:
       "Marca: Cristar\nMaterial: Vidrio\nCapacidad: 12.75 oz | 381 ml\nMedidas: Alto (15.2 cm) Diámetro (8.2 cm)\nPeso: 319 gr",
@@ -8568,7 +8569,7 @@ export const database = [
     product: "set x6 vasos capella tropico cristar",
     disponibilidad: true,
     descuento: false,
-    id: 699,
+    id: 692,
     price: "36,000",
     description:
       "Capacidad / Peso : 408 ml – 13.7 fl oz  / 183 gr\nAlto: 12.4 cm /4.8 pulgadas\nDiámetro: 7 cm / 2.7 pulgadas\nUnidad de Empaque: Canastilla x 6 unidades\nColor: Multicolor",
@@ -8580,7 +8581,7 @@ export const database = [
     product: "vaso bolonia x6 cristar",
     disponibilidad: true,
     descuento: false,
-    id: 700,
+    id: 693,
     price: "26,000",
     description:
       "Capacidad: 458 cc – 15.5 Oz\nAlto: 11.5 cm, 3.5 pulgadas\nDiámetro: 7.3 cm\nUnidad de Empaque: Set x 6 unidades",
@@ -8592,7 +8593,7 @@ export const database = [
     product: "jarro decanter torino mickey mouse 22cm cristar",
     disponibilidad: true,
     descuento: false,
-    id: 701,
+    id: 694,
     price: "25,000",
     description:
       "Capacidad: 33 4/5 Oz / 1.000 cc\nAlto: 22 cm, 8.7 pulgadas\nUnidad de Empaque: Estuche x 1 unidad",
@@ -8604,7 +8605,7 @@ export const database = [
     product: "set x3 vaso davinci bebidas 14.5cm cristar",
     disponibilidad: true,
     descuento: false,
-    id: 702,
+    id: 695,
     price: "24,500",
     description:
       "Capacidad: 15 oz / 453 cc\nAlto: 14.5 cm, 5.7 pulgadas\nDiámetro: 7.7 cm\nUnidad de Empaque: Canastilla x 3 unidades",
@@ -8616,7 +8617,7 @@ export const database = [
     product: "set x6 vasos decorados canastilla motivos varios cristar",
     disponibilidad: true,
     descuento: false,
-    id: 703,
+    id: 696,
     price: "23,200",
     description: "set x6 vasos decorados canastilla motivos varios cristar",
     images_url:
@@ -8628,7 +8629,7 @@ export const database = [
     product: "vaso grande home transparente mundiutil",
     disponibilidad: true,
     descuento: false,
-    id: 704,
+    id: 697,
     price: "8,000",
     description:
       "Vaso con base estable para mayor seguridad\nBordes redondeados, resistente y funcional",
@@ -8641,7 +8642,7 @@ export const database = [
     product: "vaso siena decorado 300ml 7x7x6 cm",
     disponibilidad: true,
     descuento: false,
-    id: 705,
+    id: 698,
     price: "3,500",
     description:
       "ACCESORIOS QUE INCLUYE: Pieza Suelta\nCAPACIDAD: 10 Oz\nMATERIAL ESTRUCTURAL: Vidrio\nANCHO CMS: 30.40\nLARGO CMS: 45.20\nALTO CMS: 27.60",
@@ -8654,7 +8655,7 @@ export const database = [
     product: "ensaladera pequeña trópico x3 cristar",
     disponibilidad: true,
     descuento: false,
-    id: 706,
+    id: 699,
     price: "27,000",
     description: "ensaladera pequeña trópico x3 cristar",
     images_url: "https://tinypic.host/images/2024/01/18/image-21.png",
@@ -8665,7 +8666,7 @@ export const database = [
     product: "set x4 ensaladeras porto cristar",
     disponibilidad: true,
     descuento: false,
-    id: 707,
+    id: 700,
     price: "30,000",
     description:
       "Capacidad: 22 Oz / 653 cc\n Alto: 24.2 cm, 9.5 pulgadas\n Unidad de Empaque: Estuche de 4 unidades\n Color: Transparente",
@@ -8677,7 +8678,7 @@ export const database = [
     product: "set x5 ensaladera porto 61oz - 22oz cristar",
     disponibilidad: true,
     descuento: false,
-    id: 708,
+    id: 701,
     price: "34,000",
     description:
       "Capacidad Ensaladera Grande: 1810 ml / 61 Oz\nAlto Ensaladera Grande: 9,5 cm, 3,7 pulgadas\nMedidas Ensaladera Grande: 18 cm , 7 pulgadas x 20,4 cm, 8 pulgadas\nCapacidad Ensaladera Pequeña: 653 ml / 22 Oz\nAlto Ensaladera Pequeña: 7,4 cm, 2,9 pulgadas\nMedidas Ensaladera Pequeña: 12, 9 cm , 5 pulgadas x 14,4 cm , 5,6 pulgada",
@@ -8690,7 +8691,7 @@ export const database = [
     product: "ensaladera pequeña canastilla x3 cristar",
     disponibilidad: true,
     descuento: false,
-    id: 709,
+    id: 702,
     price: "23,000",
     description:
       "Capacidad: 10 oz / 300 cc\nAlto: 5.6 cm, 2.2 pulgadas\nDiámetro: 10.5 cm\nUnidad de Empaque: Set x 3 unidades",
@@ -8702,7 +8703,7 @@ export const database = [
     product: "set x3 pocillos",
     disponibilidad: true,
     descuento: false,
-    id: 710,
+    id: 703,
     price: "29,000",
     description: "8x6cm motivos varios",
     images_url: "https://tinypic.host/images/2024/01/18/image-18.png",
@@ -8713,7 +8714,7 @@ export const database = [
     product: "set x4 mug holy indian cristar",
     disponibilidad: true,
     descuento: false,
-    id: 711,
+    id: 704,
     price: "27,000",
     description:
       "Capacidad: 9 oz / 269 cc\nAlto: 7.3 cm / 2.9 pulgadas\nDiámetro: 8.6 cm / 3.4 pulgadas\nUnidad de Empaque: Estuche x 4 unidades",
@@ -8726,7 +8727,7 @@ export const database = [
     product: "mug firenze café trópico cristar",
     disponibilidad: true,
     descuento: false,
-    id: 712,
+    id: 705,
     price: "24,000",
     description:
       "Capacidad / Peso : 275 ml – 9.2 fl oz  / 332 gr\nAlto: 8.76 cm /3.44 pulgadas\nDiámetro: 7.78 cm / 3.06 pulgadas\nUnidad de Empaque: Canastilla x 2 unidades",
@@ -8739,7 +8740,7 @@ export const database = [
     product: "set x3 especieros con bandeja redondos",
     disponibilidad: true,
     descuento: false,
-    id: 713,
+    id: 706,
     price: "30,000",
     description: "set x3 especieros con bandeja redondos",
     images_url:
@@ -8751,7 +8752,7 @@ export const database = [
     product: "set 6 especieros universal 125 ml tapa doble incluye soporto",
     disponibilidad: true,
     descuento: false,
-    id: 714,
+    id: 707,
     price: "50,000",
     description: "set 6 especieros universal 125 ml tapa doble incluye soporto",
     images_url:
@@ -8764,7 +8765,7 @@ export const database = [
       "set x4 piezas vinagrera aceitera pimentera y salera + soporte metalico elite universal",
     disponibilidad: true,
     descuento: false,
-    id: 715,
+    id: 708,
     price: "35,000",
     description:
       "set x4 piezas vinagrera aceitera pimentera y salera + soporte metalico elite universal",
@@ -8777,7 +8778,7 @@ export const database = [
     product: "juego de cubiertos 24 piezas universal",
     disponibilidad: true,
     descuento: false,
-    id: 716,
+    id: 709,
     price: "79,000",
     description: "juego de cubiertos 24 piezas universal",
     images_url:
@@ -8790,7 +8791,7 @@ export const database = [
       "juego de cubiertos tramontina malibu set 24 piezas 6 cuchillos 6 cucharas de te y mesa y 6 tenedores",
     disponibilidad: true,
     descuento: false,
-    id: 717,
+    id: 710,
     price: "69,000",
     description:
       "juego de cubiertos tramontina malibu set 24 piezas 6 cuchillos 6 cucharas de te y mesa y 6 tenedores",
@@ -8803,7 +8804,7 @@ export const database = [
     product: "juego de cubiertos universal",
     disponibilidad: true,
     descuento: false,
-    id: 718,
+    id: 711,
     price: "51,000",
     description: "juego de cubiertos universal",
     images_url:
@@ -8815,7 +8816,7 @@ export const database = [
     product: "juego de cubiertos esencial 16 piezas universal",
     disponibilidad: true,
     descuento: false,
-    id: 719,
+    id: 712,
     price: "46,000",
     description: "juego de cubiertos esencial 16 piezas universal",
     images_url:
@@ -8827,7 +8828,7 @@ export const database = [
     product: "juego de cubiertos escencial 16 piezas universal",
     disponibilidad: true,
     descuento: false,
-    id: 720,
+    id: 713,
     price: "39,000",
     description: "juego de cubiertos escencial 16 piezas universal",
     images_url:
@@ -8839,7 +8840,7 @@ export const database = [
     product: "juego de cubiertos hampton 20 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 721,
+    id: 714,
     price: "100,000",
     description: "juego de cubiertos hampton 20 piezas",
     images_url: "https://m.media-amazon.com/images/I/71D-jtqUVcL.jpg",
@@ -8850,7 +8851,7 @@ export const database = [
     product: "juego de cubiertos 4 puestos 3 piezas material acero universal",
     disponibilidad: true,
     descuento: false,
-    id: 722,
+    id: 715,
     price: "30,000",
     description:
       "juego de cubiertos 4 puestos 3 piezas material acero universal",
@@ -8863,7 +8864,7 @@ export const database = [
     product: "set x12 tenedores mango de madera 6 tenedores y 6 cuchillos",
     disponibilidad: true,
     descuento: false,
-    id: 723,
+    id: 716,
     price: "16,000",
     description: "set x12 tenedores mango de madera 6 tenedores y 6 cuchillos",
     images_url:
@@ -8875,7 +8876,7 @@ export const database = [
     product: "cubiertero de mesa colores varios mindiplast 20cm x 18cm",
     disponibilidad: true,
     descuento: false,
-    id: 724,
+    id: 717,
     price: "14,000",
     description: "Dimensiones: 17.5 × 17.5 × 22 cm",
     images_url: "https://tinypic.host/images/2024/02/01/ggg.png",
@@ -8886,7 +8887,7 @@ export const database = [
     product: "cubiertero 3 divisiones kendy",
     disponibilidad: true,
     descuento: false,
-    id: 725,
+    id: 718,
     price: "8,000",
     description: "cubiertero 3 divisiones kendy 18 cm x 25.5 cm x 5cm",
     images_url: "https://tinypic.host/images/2024/03/13/image-21.png",
@@ -8897,7 +8898,7 @@ export const database = [
     product: "olla de presión 13 litros  universal",
     disponibilidad: true,
     descuento: false,
-    id: 726,
+    id: 719,
     price: "319,000",
     description:
       "Cuerpo en aluminio de espesor 2.7 mm\nVálvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad. Pesa para mantener estable la presión a un valor nominal de 80KPa\nSistema de cierre autoajustable y hermético, para evitar fugas de presión\nMangos y asa en baquelita resistente al calor\nDos válvulas de seguridad para mayor tranquilidad\nSistema practipress para facilitar la evacuación del vapor interno de la olla",
@@ -8910,7 +8911,7 @@ export const database = [
     product: "olla de presión 10 litros  universal",
     disponibilidad: true,
     descuento: false,
-    id: 727,
+    id: 720,
     price: "229,000",
     description:
       "Cuerpo en aluminio de espesor 2.7 mm\nVálvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad. Pesa para mantener estable la presión a un valor nominal de 80KPa\nSistema de cierre autoajustable y hermético, para evitar fugas de presión\nMangos y asa en baquelita resistente al calor\nDos válvulas de seguridad para mayor tranquilidad\nSistema practipress para facilitar la evacuación del vapor interno de la olla",
@@ -8923,7 +8924,7 @@ export const database = [
     product: "olla de presión 7 litros imusa",
     disponibilidad: true,
     descuento: false,
-    id: 728,
+    id: 721,
     price: "154,000",
     description:
       "Olla a presión con 3 sistemas de seguridad + Válvula controladora de presión",
@@ -8936,7 +8937,7 @@ export const database = [
     product: "olla de presión 4 litros universal",
     disponibilidad: true,
     descuento: false,
-    id: 729,
+    id: 722,
     price: "130,000",
     description:
       "Cuerpo en aluminio de espesor 2.0 mm\nCuenta con válvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad\nTiene pesa para mantener estable la presión a un valor nominal de 80 KPa\nViene con sistema de cierre autoajustable y hermético, para evitar fugas de presión\nMango en baquelita resistente al calor",
@@ -8949,7 +8950,7 @@ export const database = [
     product: "olla de presión 3 litros universal",
     disponibilidad: true,
     descuento: false,
-    id: 730,
+    id: 723,
     price: "119,000",
     description:
       "Cuerpo en aluminio de 2 mm Tapa en aluminio de 1.8 mm\n3 Sistemas de seguridad\nse debe sellar manualmente cuando se haya evacuado toda la presión interna de la olla\nSistema auto ajustable que permite abrir y cerrar la olla con mayor facilidad, garantizando un cierre totalmente hermético",
@@ -8962,7 +8963,7 @@ export const database = [
     product: "olla de presión 4 litros corona",
     disponibilidad: true,
     descuento: false,
-    id: 731,
+    id: 724,
     price: "93,700",
     description:
       "Material: Aluminio.\nMedidas: Alto (18.6 cm) Ancho (24.1 cm) Largo (39.6 cm)\nPeso: 0.5 kg.\nColor: Plateado.",
@@ -8975,7 +8976,7 @@ export const database = [
     product: "sartén talent master deluxe antiadherente 26cm+ tapa de vidrio",
     disponibilidad: true,
     descuento: false,
-    id: 732,
+    id: 725,
     price: "87,000",
     description:
       "Sartén con 26cm de diámetro con revestimiento Antiadherente Triforce Gold, hasta 5 veces más durable.\nBase difusora que conserva el calor de forma homogénea para preparaciones en su punto.\nEspesor de 2mm, ideal para una cocción perfecta.\nSus Mangos son MÁS ROBUSTOS para un mejor agarre y seguridad al momento de tener contacto con ella. .",
@@ -8988,7 +8989,7 @@ export const database = [
     product: "sartén artik 24cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 733,
+    id: 726,
     price: "62,000",
     description:
       "Cuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9001,7 +9002,7 @@ export const database = [
     product: "sartén talent master deluxe antiadherente 18cm + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
-    id: 734,
+    id: 727,
     price: "57,800",
     description:
       "Sartén con 18cm de diámetro con revestimiento Antiadherente Triforce Gold, hasta 5 veces más durable\nBase difusora que conserva el calor de forma homogénea para preparaciones en su punto\nEspesor de 2mm, ideal para una cocción perfecta\nSu Mango es MÁS ROBUSTO para un mejor agarre y seguridad al momento de tener contacto con ella",
@@ -9014,7 +9015,7 @@ export const database = [
     product: "plancha asadora 6 ultra 23cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 735,
+    id: 728,
     price: "53,000",
     description:
       "Ideal para compartir en familia y preparar deliciosas carnes\nAluminio de 2 mm\nCuerpo en antiadherente\nMango en baquelita\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9027,7 +9028,7 @@ export const database = [
     product: "sartén opalo 20cm antiadherente + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 736,
+    id: 729,
     price: "46,000",
     description:
       "Aluminio de 1.6 mm \nCuerpo en aluminio recubierto en el interior con antiadherente estampado panel\nMango en baquelita resistente al calor\nTapa en vidrio templado Pomo en baquelita\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nLargo 34.8 cm x Ancho: 21.2 cm x Alto: 9 cm",
@@ -9040,7 +9041,7 @@ export const database = [
     product: "sarten talent master deluxe 30cm antiadherente + tapa de vidrio",
     disponibilidad: false,
     descuento: false,
-    id: 737,
+    id: 730,
     price: "109,000",
     description:
       "Antiadherente TRIFORCE\nColor: Gris\nMaterial Interior: Aluminio con revestimiento Antiadherente\nBase difusora especial para distribuir de manera uniforme el calor\nTERMO SEÑAL que cambia de color y te indica que el utensilio está listo para empezar a cocinar, así conservas mejor la textura y nutrientes de los alimentos\nANTIADHERENTE TRIFORCE el cual es hasta tres veces más durable",
@@ -9053,7 +9054,7 @@ export const database = [
     product: "plancha para asar talent antiadherente 27x27cm imusa",
     disponibilidad: true,
     descuento: false,
-    id: 738,
+    id: 731,
     price: "89,000",
     description:
       "Plancha para Asar Cuadrada con revestimiento Antiadherente Triforce, 3 veces más durable\nEspesor de 1,7 mm, grosor ideal para obtener resultados perfectos\nBase difusora especial para distribuir de manera uniforme el calor e ideal para estufa vitrocerámica, gas y eléctrica\nMangos ergonómicos para asegurar tu agarre",
@@ -9066,7 +9067,7 @@ export const database = [
     product: "sartén talent master deluxe 26cm antiadherente + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
-    id: 739,
+    id: 732,
     price: "87,100",
     description:
       "Su antiadherente Triforce es tres veces más resistente\nCon termo señal que indica el momento perfecto para comenzar la preparación de tus alimentos\nBase difusora para una distribución homogénea del calor\nMango ergonómico para un mejor agarre\nTapa de vidrio con válvula de salida de vapor que cubre de salpicaduras",
@@ -9079,7 +9080,7 @@ export const database = [
     product: "sartén artik 28cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 740,
+    id: 733,
     price: "84,500",
     description:
       "5 capas de antiadherente italiano\nCuerpo en aluminio antiadherente de 1.8 mm\nMango y pomo en baquelita\nTapa en vidrio templado de espesor 4 mm\nRemaches en aluminio\nSistema LPC que indica la temperatura ideal para comenzar con la cocción de los alimentos Fondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9092,7 +9093,7 @@ export const database = [
     product: "sartén opalo 30cm antiadherente + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 741,
+    id: 734,
     price: "84,000",
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado panel.\nMango y asa en baquelita resistente al calor.\nTapa en vidrio templado\nPomo en baquelita.\nIdeal para preparar comidas saludables y bajas en grasa.\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base.\nCapacidad nominal: 3.4L\nMedidas con pesa ensamblada: Largo 53 cm x Ancho: 30.7 cm x Alto: 11.7 cm",
@@ -9104,7 +9105,7 @@ export const database = [
     product: "sartén talent master deluxe antiadherente 24cm imusa",
     disponibilidad: false,
     descuento: false,
-    id: 742,
+    id: 735,
     price: "74,000",
     description:
       "Cuenta con Termo Señal, un indicador que cambiar de color y muestra el momento justo para comenzar a cocinar\nTiene Base difusora que conserva el calor de forma homogénea para preparaciones en su punto\nSus Mangos con MÁS ROBUSTOS para un mejor agarre y seguridad al momento de tener contacto con ella\nTiene un espesor de 2 milímetros\nMaterial: Aluminio / Antiadherente Triforce Gold \nAlto: 9.5 40.8cm Ancho: 24.6cm Largo: 40 cm",
@@ -9117,7 +9118,7 @@ export const database = [
     product: "sarten antiadherente 6 ultra universal",
     disponibilidad: true,
     descuento: false,
-    id: 743,
+    id: 736,
     price: "43,000",
     description: "sarten antiadherente 6 ultra universal",
     images_url:
@@ -9129,7 +9130,7 @@ export const database = [
     product: "set de sartenes 18cm 20cm 24cm imusa",
     disponibilidad: true,
     descuento: false,
-    id: 744,
+    id: 737,
     price: "71,600",
     description:
       "tamaños 18,20 y 24 cm\nDiseño con acabado en pintura metalizada, fabricados en aluminio de alta pureza\nInterior con 4 capas de antiadherente, resistentes e ideal para todo tipo de preparación \nMango en baquelita resistente al calor y para llamas integrado\nBase grafitada para mayor estabilidad al cocinar y mejor distribución de calor\nSuperficie antiadherente de fácil limpieza, ideal para preparar comidas saludables y bajas en grasa",
@@ -9142,7 +9143,7 @@ export const database = [
     product: "sartén talent master deluxe 20cm antiadherente + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
-    id: 745,
+    id: 738,
     price: "64,000",
     description:
       "Cuenta con Termo Señal, un indicador que cambiar de color y muestra el momento justo para comenzar a cocinar\nTiene Base difusora que conserva el calor de forma homogénea para preparaciones en su punto\nsu Mango es MÁS ROBUSTOS para un mejor agarre y seguridad al momento de tener contacto con ella\nantiadherente Triforce Gold",
@@ -9155,7 +9156,7 @@ export const database = [
     product: "sartén artik 24cm 7 ultra antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 746,
+    id: 739,
     price: "62,000",
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nFondo grafilado para mayor estabilidad al cocinar\nMejor distribución de calor en la base",
@@ -9168,7 +9169,7 @@ export const database = [
     product: "set x3 sartenes azul 18cm 20cm 24cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 747,
+    id: 740,
     price: "60,000",
     description:
       "Cuerpos en aluminio con recubrimiento antiadherente en el interior y pintura exterior resistente al calor\nMango en material resistente al calor\nFondo grafilado para mayor estabilidad al cocina\nMejor distribución de calor en la base\nCapacidades:18cm 0.7L-20cm 0.9L-24cm 1,5L",
@@ -9181,7 +9182,7 @@ export const database = [
     product: "juego x3 sartenes 18cm 20cm 24cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 748,
+    id: 741,
     price: "60,000",
     description:
       "Sartén 18 cm Antiadherente\nSartén 20 cm Antiadherente\nSartén 24 cm Antiadherente\nInterior con 4 capas de Antiadherente\nMango en Baquelita, Resistente al Calor\nAcabado Exterior con pintura Metalizada",
@@ -9195,7 +9196,7 @@ export const database = [
       "sartén talent master deluxe antiadherente 18cm + tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 749,
+    id: 742,
     price: "58,000",
     description:
       "antiadherente Triforce Gold \nCuenta con Termo Señal, un indicador que cambiar de color en el momento justo para comenzar a cocinar\nTiene Base difusora que conserva el calor de forma homogénea para preparaciones en su punto\nMangos con MÁS ROBUSTOS para un mejor agarre",
@@ -9208,7 +9209,7 @@ export const database = [
     product: "sartén antiadherente aliada 24cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 750,
+    id: 743,
     price: "57,000",
     description:
       "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base",
@@ -9221,7 +9222,7 @@ export const database = [
     product: "sartén artik 18cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 751,
+    id: 744,
     price: "52,000",
     description:
       "Cuerpo En Aluminio Antiadherente De 1,8 Mm\nMango Y Pomo En Baquelita\nTapa En Vidrio Templado De Espesor 4 Mm\nRemaches En Aluminio\nIdeal Para Preparar Comidas Saludables Y Bajas En Grasa,\nSistema Lpc Que Indica La Temperatura Ideal Para Comenzar Con La Cocción De Los Alimentos\nFondo Grafilado Para Mayor Estabilidad Al Cocinar\nMejor Distribución De Calor En La Base",
@@ -9234,7 +9235,7 @@ export const database = [
     product: "set x2 sartenes aliada 20cm 24cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 752,
+    id: 745,
     price: "50,000",
     description:
       "Cuerpo en aluminio antiadherente\nasas en aluminio\npomo en plástico\nsuperficie antiadherente de fácil limpieza\nideal para preparar comidas saludables y bajas en grasa\nfondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base\ntapa de vidrio templado\nCapacidad nominal: Sartén 24 cm: 1.5L Sartén 20 cm: 0.9L",
@@ -9247,7 +9248,7 @@ export const database = [
     product: "sartén 6 ultra 20cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 753,
+    id: 746,
     price: "49,000",
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la bas",
@@ -9260,7 +9261,7 @@ export const database = [
     product: "sartén opalo 24cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 754,
+    id: 747,
     price: "46,000",
     description:
       "Sartén de 24 cm \ncuerpo en aluminio recubierto en el interior con antiadherente estampado en forma de panel\nmango en baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nfondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nTecnología de 6 capas de recubrimiento antiadherente",
@@ -9273,7 +9274,7 @@ export const database = [
     product: "sartén 6 ultra colors 20cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 755,
+    id: 748,
     price: "35,000",
     description:
       "Cuerpo en aluminio con recubrimiento interior antiadherente.\nMango en material resistente al calor.\nPomo en plástico.\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base.",
@@ -9286,7 +9287,7 @@ export const database = [
     product: "sartén opalo 20cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 756,
+    id: 749,
     price: "36,000",
     description:
       "Cuerpo en aluminio recubierto en el interior con antiadherente estampado panel\nMango en baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9299,7 +9300,7 @@ export const database = [
     product: "sartén aliada 18cm antiadherente +  tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 757,
+    id: 750,
     price: "34,000",
     description:
       "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\ntamaño: 18 cm de ancho 24 cm de ancho 28 cm de ancho",
@@ -9312,7 +9313,7 @@ export const database = [
     product: "sartén aliada 24cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 758,
+    id: 751,
     price: "35,000",
     description:
       "Aluminio De 1,2 Mm\nCuerpo En Aluminio Recubierto En El Interior Con Antiadherente\nMango En Baquelita Resistente Al Calor\nIdeal Para Preparar Comidas Saludables Y Bajas En Grasa\nFondo Grafilado Para Mayor Estabilidad Al Cocinar Y Mejor Distribución De Calor En La Base",
@@ -9325,7 +9326,7 @@ export const database = [
     product: "sartén aliada 20cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 759,
+    id: 752,
     price: "27,000",
     description:
       "Marca: Universal\nMaterial: Aluminio\nMedidas: Alto (5.6 cm) Ancho (20 cm)\nPeso: 0.27 kg\nColor: Negro",
@@ -9338,7 +9339,7 @@ export const database = [
     product: "sartén aliada 18cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 760,
+    id: 753,
     price: "23,000",
     description:
       "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9351,7 +9352,7 @@ export const database = [
     product: "sartén opalo 30cm antiadherente italiano universal",
     disponibilidad: true,
     descuento: false,
-    id: 761,
+    id: 754,
     price: "66,000",
     description:
       "Cuerpo en aluminio recubierto en el interior con antiadherente estampado panel\nMango en baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución del calor en la base",
@@ -9364,7 +9365,7 @@ export const database = [
     product: "sartén 6 ultra 24cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 762,
+    id: 755,
     price: "60,000",
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra.\nMango en baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base",
@@ -9377,7 +9378,7 @@ export const database = [
     product: "sartén antiadherente aliada 20cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 763,
+    id: 756,
     price: "39,000",
     description:
       "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nMedidas: Alto (9 cm) x Ancho (21 cm) x Largo (33.5 cm)",
@@ -9390,7 +9391,7 @@ export const database = [
     product: "wok 6 ultra 24cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 764,
+    id: 757,
     price: "75,000",
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en Baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9403,7 +9404,7 @@ export const database = [
     product: "wok 6 ultra 24cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 765,
+    id: 758,
     price: "53,000",
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en Baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9416,7 +9417,7 @@ export const database = [
     product: "wok aliada 24cm antiadherente + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 766,
+    id: 759,
     price: "64,200",
     description:
       "Aluminio de 1.6 mm\nTapa de vidrio\nCuerpo en antiadherente\nMango en baquelita\nCapacidad: 2 litros\nColor: Negro",
@@ -9429,7 +9430,7 @@ export const database = [
     product: "sartén wok antiadherente 30cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 767,
+    id: 760,
     price: "89,000",
     description:
       "Aluminio de alta pureza de 2.7 mm\nRecubrimiento antiadherente interior de mayor resistencia\nMango en acero inoxidable\n4 remaches que sujetan el mango proporcionando mayor resistencia",
@@ -9442,7 +9443,7 @@ export const database = [
     product: "wok mass color 24cm tapa de vidrio antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 768,
+    id: 761,
     price: "50,000",
     description:
       "Cuerpo en Aluminio antiadherente de 1.6 mm con pintura exterior resistente a la temperatura\nMango en baquelita\nTapa en vidrio templado y pomo en polipropileno\nFondo grafilado para una mejor distribución de la temperatura\nCapacidad: 2.8L",
@@ -9455,7 +9456,7 @@ export const database = [
     product: "wok 6 ultra colors 24 cm tapa de vidrio antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 769,
+    id: 762,
     price: "60,000",
     description:
       "Cuerpo en Aluminio antiadherente con pintura exterior negra resistente a la temperatura.\nMango en baquelita\nTapa en vidrio templado y pomo en polipropileno\nFondo grafilado para una mejor distribución de la temperatura\nIdeal para la cocción de verduras\nCapacidad: 2.8L",
@@ -9468,7 +9469,7 @@ export const database = [
     product: "wok opalo 24cm + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
-    id: 770,
+    id: 763,
     price: "66,000",
     description:
       "Cuerpo en aluminio antiadherente de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado panel\nMango en baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar",
@@ -9481,7 +9482,7 @@ export const database = [
     product: "olla 6 ultra 24cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 771,
+    id: 764,
     price: "79,000",
     description:
       "Fabricada en aluminio de alta pureza\nCuenta 6 capas antiadherente\nSu antiadherente tipo panel altamente es resistente \nMangos en baquelita resistentes al calor con sistema de fácil limpieza \nBase Grafilada con mejor distribución de calor y protección de la pintura\nPintura antiflama que no cambia de color con el calor y su acabado es metalizado\nno se sobrecalienta en un solo lado\nMayor profundidad en los cuerpos de los sartenes\nTextura 6 Ultra con diseño Italiano",
@@ -9494,7 +9495,7 @@ export const database = [
     product: "olla 6 ultra colors 20cm tapa de vidrio antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 772,
+    id: 765,
     price: "69,000",
     description:
       "Tiene seis capas de antiadherente para mejor antiadherencia, por lo que necesitas menos aceite y cocinas más saludable,  Textura 6 Ultra: Diseño hexagonal italiano, producción Colombiana, Aluminio eficiente para distribución uniforme de la temperatura evitando el sobrecalentamiento, Mayor profundidad y menos salpicaduras durante la cocción.",
@@ -9507,7 +9508,7 @@ export const database = [
     product: "cacerola aliada asa 16cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 773,
+    id: 766,
     price: "42,000",
     description:
       "Acabados fabricados en aluminio de alta resistencia y bajo estrictos controles de calidad\nAcabado con pintura exterior horneada resistente al calor y acabado metalizado\nMangos y asas en baquelita resistentes al calor con parallamas integrado\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución del calor en la base\nSuperficie antiadherente de fácil limpieza, ideal para preparar comidas saludables y bajas en grasa\nTamaño: 14 cm de ancho",
@@ -9520,7 +9521,7 @@ export const database = [
     product: "olla institucional 9 lts universal",
     disponibilidad: true,
     descuento: false,
-    id: 774,
+    id: 767,
     price: "113,000",
     description:
       "Cuerpo en aluminio de 2.7 mm de espesor\nTapa en aluminio de 1.8 mm de espesor\nAsas en acero inoxidable ensambladas con remaches de aluminio\nCapacidad 9 litros\nMedidas: 34.5 x 18 x 19.5 cm",
@@ -9533,7 +9534,7 @@ export const database = [
     product: "olla talent 24cm triforce + tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 775,
+    id: 768,
     price: "90,000",
     description:
       "Olla 24cm de diámetro con su Antiadherente Triforce, 3 veces más durable\nEspesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees\nBase difusora especial para distribuir de manera uniforme el calor\nIdeal para estufa vitrocerámica, gas y eléctrica",
@@ -9546,7 +9547,7 @@ export const database = [
     product: "olla talent con tapa de vidrio imusa 20 cm",
     disponibilidad: true,
     descuento: false,
-    id: 776,
+    id: 769,
     price: "60,500",
     description:
       "Olla 20cm de diámetro con su Antiadherente Triforce, 3 veces más durable.\nEspesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees.\nBase difusora especial para distribuir de manera uniforme el calor.\nIdeal para estufa vitrocerámica, gas y eléctrica.",
@@ -9559,7 +9560,7 @@ export const database = [
     product: "olla artik 24cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 777,
+    id: 770,
     price: "79,000",
     description:
       "Cuerpo en aluminio antiadherente de 1.8 mm\nAsas y pomo en baquelita Tapa en vidrio templado de espesor 4 mm\nSistema LPC que indica la temperatura ideal para comenzar con la cocción de los alimentos\nFondo grafilado para mayor estabilidad al cocinar",
@@ -9572,7 +9573,7 @@ export const database = [
     product: "olla aliada 24cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 778,
+    id: 771,
     price: "75,000",
     description:
       "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9585,7 +9586,7 @@ export const database = [
     product: "olla 6 ultra 20cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 779,
+    id: 772,
     price: "69,000",
     description:
       "Fabricada en aluminio de alta pureza\nCuenta 6 capas antiadherente por lo que necesitas menos aceite y cocinar más saludable\nMangos en baquelita resistentes al calor con sistema de fácil limpieza \nBase Grafilada con mejor distribución de calor y protección de la pintura, además genera mayor estabilidad en la estufa\nPintura antiflama que no cambia de color con el calor y su acabado es metalizado\nAluminio que no se sobrecalienta en un solo lado\nMayor profundidad en los cuerpos de los sartenes, para evitar salpicaduras durante la cocción\nTextura 6 Ultra con diseño Italiano (Hexágono)",
@@ -9598,7 +9599,7 @@ export const database = [
     product: "olla talent 24cm + tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 780,
+    id: 773,
     price: "89,900",
     description:
       "Base difusora y termo señal\nAntiadherente Triforce\nAluminio de alta pureza\nHecho en Colombia\nAmigable con el medio ambiente",
@@ -9611,7 +9612,7 @@ export const database = [
     product: "olla artik 20cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 781,
+    id: 774,
     price: "59,000",
     description:
       "Cuerpo en aluminio antiadherente de 1.8 mm\nAsas y pomo en baquelita\nTapa en vidrio templado de espesor 4 mm\nRemaches en aluminio\nSistema LPC que indica la temperatura ideal para comenzar con la cocción\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base",
@@ -9624,7 +9625,7 @@ export const database = [
     product: "olla aliada antiadherente 20cm + tapa de vidrio universal",
     disponibilidad: false,
     descuento: false,
-    id: 782,
+    id: 775,
     price: "55,000",
     description:
       "Capacidad de 1,5 litros.\nProducto diseñado para cocinas de gas.\nTipo de revestimiento exterior: antiadherente.\nFabricado en aluminio.\nCon revestimiento antiadherente.\nEl complemento ideal para tu cocina.",
@@ -9637,7 +9638,7 @@ export const database = [
     product: "olla aliada 18cm antiadherente + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 783,
+    id: 776,
     price: "45,000",
     description:
       "Cuenta 6 capas antiadherente \nSu antiadherente tipo panel altamente es resistente y no permite que los alimentos se peguen\nMangos en baquelita resistentes al calor con sistema de fácil limpieza\nbase Grafilada con mejor distribución de calor y protección de la pintura\nPintura antiflama que no cambia de color con el calor y su acabado es metalizado\nAluminio eficiente con distribución uniforme de la temperatura, no se sobrecalienta en un solo lado\nMayor profundidad en los cuerpos de los sartenes, para evitar salpicaduras durante la cocción\nTextura 6 Ultra con diseño Italiano (Hexágono",
@@ -9650,7 +9651,7 @@ export const database = [
     product: "cacerola smart triforce 16cm imusa",
     disponibilidad: true,
     descuento: false,
-    id: 784,
+    id: 777,
     price: "36,400",
     description:
       "Material: Aluminio Antiadherente\nColor: Gris\nCuenta con antiadherente Triforce\nBase difusora especial para distribuir de manera uniforme el calor\nCuenta con Termo Señal cambia de color e indica que está listo para empezar a cocinar\nConserva mejor la textura y nutrientes de los alimentos\nCuenta con el sello de calidad Imusa\nSus materiales son amigables con el ambiente y cuida tu salud",
@@ -9663,7 +9664,7 @@ export const database = [
     product: "cacerola aliada 16cm +  tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 785,
+    id: 778,
     price: "34,000",
     description:
       "Cuerpo fabricado en aluminio\nMango fabricado en baquelita\nCon un diámetro de 12cm\nSu peso es de 0.26kg\nCon superficie antiadherente",
@@ -9676,7 +9677,7 @@ export const database = [
     product: "chocolatera 2 litros universal",
     disponibilidad: true,
     descuento: false,
-    id: 786,
+    id: 779,
     price: "30,000",
     description:
       "Fabricada en aluminio con una capacidad dos litros para calentar todas tus bebidas\nCapacidad para 2 libras\nFabricada en aluminio puro y resistente\nAcabado brillante\nRemaches para mayor fijación",
@@ -9689,7 +9690,7 @@ export const database = [
     product: "cacerola smart triforce 12cm imusa",
     disponibilidad: true,
     descuento: false,
-    id: 787,
+    id: 780,
     price: "29,000",
     description:
       "Línea: Smart\nMaterial: Aluminio Antiadherente\nColor: Gris\nDiámetro: 12cm\nBase difusora para una distribución homogénea del calor\nMango ergonómico para un mejor agarre\nTapa en aluminio",
@@ -9702,7 +9703,7 @@ export const database = [
     product: "olla talent triforce 18cm + tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 788,
+    id: 781,
     price: "61,000",
     description:
       "Cacerola 18cm de diámetro con su Antiadherente Triforce, 3 veces más durable\nEspesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees\nBase difusora especial para distribuir de manera uniforme el calor\nIdeal para estufa vitrocerámica, gas y eléctrica",
@@ -9715,7 +9716,7 @@ export const database = [
     product: "olla aliada antiadherente 24cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 789,
+    id: 782,
     price: "69,000",
     description:
       "Fabricada en aluminio de alta pureza.\nCuenta 6 capas antiadherente \nantiadherente tipo panel \nMangos en baquelita resistentes al calor con sistema de fácil limpieza \nBase Grafilada con mejor distribución de calor y protección de la pintura\nno se sobrecalienta en un solo lado.\nMayor profundidad en los cuerpos de los sartenes, para evitar salpicaduras durante la cocción.\nTextura 6 Ultra con diseño Italiano",
@@ -9728,7 +9729,7 @@ export const database = [
     product: "caldero antiadherente experta 20cm universal + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
-    id: 790,
+    id: 783,
     price: "59,000",
     description:
       "Cuerpo en aluminio antiadherente de 2 mm de espesor\nAsas en aluminio\nPomo en polipropileno\nSuperficie antiadherente de fácil limpieza\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base\nTapa de vidrio templado",
@@ -9741,7 +9742,7 @@ export const database = [
     product: "caldero fundido 24cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 791,
+    id: 784,
     price: "59,000",
     description:
       "Cuerpo elaborado en aluminio fundido de alta calidad\nAsas grandes para mejor agarre y seguridad al transporte\nAcabado Interior brillo perlado",
@@ -9755,7 +9756,7 @@ export const database = [
       "caldero fundido antiadherente 22cm + tapa de pomo verde universal",
     disponibilidad: true,
     descuento: false,
-    id: 792,
+    id: 785,
     price: "58,000",
     description:
       "Cuerpo Elaborado En Aluminio Fundido De La Más Alta Calidad\nPomo En Polipropileno Ecológico\nAsas: Grandes Para Mejor Agarre Y Mayor Seguridad Al Transportarlos\nAcabados: Interior Brillo Perlado\nCapacidad: 1,25 Libras De Arroz Crudo / 2,3 Litros",
@@ -9768,7 +9769,7 @@ export const database = [
     product: "caldero 20cm con tapa imusa",
     disponibilidad: true,
     descuento: false,
-    id: 793,
+    id: 786,
     price: "51,900",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos.\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
@@ -9781,7 +9782,7 @@ export const database = [
     product: "caldero fundido 20cm + tapa de pomo verde universal",
     disponibilidad: true,
     descuento: false,
-    id: 794,
+    id: 787,
     price: "49,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad\nAhorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlo\nPomo plástico ecológico\nAcabados: Interior brillo perlado",
@@ -9794,7 +9795,7 @@ export const database = [
     product: "caldero fundido 20cm 1libra +  tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 795,
+    id: 788,
     price: "46,350",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nAcabados: Interior brillo perlado\nCapacidad: 1 libra de arroz cocido/1.7 litros",
@@ -9807,7 +9808,7 @@ export const database = [
     product: "caldero artik 20cm antiadherente + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 796,
+    id: 789,
     price: "65,000",
     description:
       "Cuerpo en aluminio antiadherente de 1.8 mm \nAsas y pomo en baquelita \nTapa en vidrio templado de espesor 4 mm\n Remaches en aluminio \nSistema LPC que indica la temperatura ideal para comenzar con la cocción de los alimentos \nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -9820,7 +9821,7 @@ export const database = [
     product: "caldero 24cm 3.5L antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 797,
+    id: 790,
     price: "69,000",
     description:
       "Cuerpo en aluminio antiadherente de 2 mm de espesor\nAsas en aluminio\nPomo en polipropileno\nSuperficie antiadherente de fácil limpieza, ideal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nTapa de vidrio templado",
@@ -9833,7 +9834,7 @@ export const database = [
     product: "caldero fundido antiadherente 24cm + tapa de pomo verde",
     disponibilidad: true,
     descuento: false,
-    id: 798,
+    id: 791,
     price: "68,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad\nExcelente conductor de calor y proporciona un mayor ahorro de energía\nAsas grandes para mejor agarre y mayor seguridad al transportarlo\nPomo plástico ecológico\nAcabado interior con brillo perlado\nMedidas: Alto (10 cm) x Ancho (24.5 cm) x Largo (cm)",
@@ -9847,7 +9848,7 @@ export const database = [
       "caldero cuadrado 24cm en aluminio fundido + tapa de aluminio universal",
     disponibilidad: true,
     descuento: false,
-    id: 799,
+    id: 792,
     price: "68,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad; excelente conductor de calor y mayor ahorro de energía\nAsas grandes para mejor agarre y mayor seguridad al transportarlos\nInterior brillo perlado\nAncho: 21 cm Largo: 26.5 cm Alto: 8 cm\nRecubrimiento: Antiadherente\nCapacidad: 1.63 lb\nMaterial de la tapa: Aluminio fundido",
@@ -9860,7 +9861,7 @@ export const database = [
     product: "caldero fundido 22cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 800,
+    id: 793,
     price: "60,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos.\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
@@ -9873,7 +9874,7 @@ export const database = [
     product: "caldero fundido antiadherente 18cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 801,
+    id: 794,
     price: "42,000",
     description:
       "Caldero antiadherente 18 centímetros\nAluminio fundido que permite excelente difusión\nFondo antideslizante\nAsas más grandes\ntapa de vidrio\nColor: Gris\nAncho: 24.4 cm Largo: 18 cm Alto: 13.5 cm\nRecubrimiento: Antiadherente\nCapacidad: 0.75 lb\nMaterial de la tapa: Vidrio",
@@ -9886,7 +9887,7 @@ export const database = [
     product: "caldero fundido antiadherente 14cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 802,
+    id: 795,
     price: "30,500",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlo\nPomo plástico ecológico\nAcabados: Interior brillo perlado",
@@ -9899,7 +9900,7 @@ export const database = [
     product: "caldero artik 24cm antiadherente + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 803,
+    id: 796,
     price: "79,000",
     description:
       "Cuerpo En Aluminio Antiadherente De 1,8 Mm\nAsas Y Remaches En Aluminio\nTapa En Vidrio Templado De Espesor 4 M\nPomo En Baquelita\nIdeal Para Preparar Comidas Saludables Y Bajas En Grasa\nSistema Lpc Que Indica La Temperatura Ideal Para Comenzar Con La Cocción De Los Alimentos\nFondo Grafilado Para Mayor Estabilidad Al Cocinar Y Mejor Distribución De Calor En La Base",
@@ -9912,7 +9913,7 @@ export const database = [
     product: "caldero fundido 26cm 2.5 Libras + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 804,
+    id: 797,
     price: "76,200",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
@@ -9925,7 +9926,7 @@ export const database = [
     product: "caldero fundido 26cm 2.5 Libras + tapa fundida universal",
     disponibilidad: true,
     descuento: false,
-    id: 805,
+    id: 798,
     price: "78,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía.\nAsas: grandes para mejor agarre y mayor seguridad al transportarlo.\nPomo plástico ecológico.\nAcabados: Interior brillo perlado.\nAluminio: 96%\nPolipropileno: 4%",
@@ -9938,7 +9939,7 @@ export const database = [
     product: "caldero fundido 30cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 806,
+    id: 799,
     price: "85,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
@@ -9950,7 +9951,7 @@ export const database = [
     product: "caldero fundido 30cm 4 Libras + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 807,
+    id: 800,
     price: "85,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
@@ -9963,7 +9964,7 @@ export const database = [
     product: "caldero antiadherente experta 30cm universal + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
-    id: 808,
+    id: 801,
     price: "89,000",
     description:
       "Cuerpo en aluminio antiadherente de 2 mm de espesor\nAsas en aluminio\nPomo en polipropileno\nSuperficie antiadherente de fácil limpieza, ideal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\nTapa de vidrio templado.",
@@ -9976,7 +9977,7 @@ export const database = [
     product: "caldero en aluminio fundido antiadherente 18cm + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
-    id: 809,
+    id: 802,
     price: "89,000",
     description:
       "Marca: Imusa\nMaterial: Aluminio Fundido\nMedidas: Diámetro (18 cm)\nTapa de vidrio\nFondo antideslizante\nAsas más grandes\nColor: Negro",
@@ -9989,7 +9990,7 @@ export const database = [
     product: "caldero fundido + tapa fundida 9,5lb 42cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 810,
+    id: 803,
     price: "178,000",
     description:
       "Marca: Universal\nMaterial: Aluminio\nMedidas: Alto (34 cm) x Ancho (275 cm) x Largo (39 cm)\nColor: Plateado\nCondición del producto: Nuevo",
@@ -10002,7 +10003,7 @@ export const database = [
     product: "caldero #9 fundido 30 cm incluye tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 811,
+    id: 804,
     price: "131,000",
     description:
       "Base Antideslizante\nAsas más gruesas para mejor agarre\nAluminio de alta pureza\nMaterial Interior del Caldero Antiadherente\nTonalidad Exacta del Color Gris a Negro",
@@ -10015,7 +10016,7 @@ export const database = [
     product: "caldero #5 fundido 24cm 3.5l + tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 812,
+    id: 805,
     price: "118,000",
     description:
       "Caldero antiadherente 24 centímetros\nAluminio fundido que permite excelente difusión\nAntiadherente negro\nFondo antideslizante\nAsas más grandes\nTapa de vidrio\nColor: Negro\nPeso: 1,4\nLargo: 31cm\nAlto: 14cm\nAncho: 25cm",
@@ -10028,7 +10029,7 @@ export const database = [
     product: "caldero antiadherente 26cm + tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 813,
+    id: 806,
     price: "115,000",
     description:
       "Cuenta con recubrimiento interior y exterior en antiadherente, para que no se le peguen los alimentos y facilitar la limpieza\nCaldero fabricado con materiales aptos para el contacto con alimentos, de alta pureza, certificados y que protegen la salud\nAdicionalmente, es altamente resistente a golpes e impactos por sus paredes extra gruesas y su resistente material",
@@ -10042,7 +10043,7 @@ export const database = [
       "caldero en aluminio fundido antiadherente 22cm + tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 814,
+    id: 807,
     price: "109,000",
     description:
       "Marca: Imusa\nMaterial: Aluminio Fundido\nMedidas: Diámetro (22 cm)\nTapa de vidrio\nFondo antideslizante\nAsas más grandes\nColor: Negro",
@@ -10056,7 +10057,7 @@ export const database = [
       "caldero en aluminio fundido antiadherente 20cm + tapa de vidrio imusa",
     disponibilidad: true,
     descuento: false,
-    id: 815,
+    id: 808,
     price: "99,000",
     description:
       "Cuenta con recubrimiento interior y exterior en antiadherente, para que no se le peguen los alimentos y facilitar la limpieza\nCaldero fabricado con materiales aptos para el contacto con alimentos, de alta pureza, certificados y que protegen la salud\nAdicionalmente, es altamente resistente a golpes e impactos por sus paredes extra gruesas y su resistente material",
@@ -10069,7 +10070,7 @@ export const database = [
     product: "bateria 6 ultra 12 piezas universal",
     disponibilidad: true,
     descuento: false,
-    id: 816,
+    id: 809,
     price: "329,000",
     description:
       "Bateria universal 12 piezas\n6 ultra( 6 capas de antiadherente, lo que hace que se conserven mejor sus alimentos) con material de aluminio de alta pureza.\n\nOlla 6 ultra 24 cm + tapa de vidrio\nOlla 6 ultra 20 cm + tapa de vidrio\nPerol 6 ultra 16 cm + tapa de vidrio\nCacerola 6 ultra 16 cm con mango + tapa de vidrio\nWok 6 ultra 24 cm\nPlancha asadora 6 ultra 23 cm\nSartén 6 ultra 20 cm\nCucharón aliada nylon",
@@ -10082,7 +10083,7 @@ export const database = [
     product: "bateria de cocina trend 7 piezas antiadherente everhouse",
     disponibilidad: true,
     descuento: false,
-    id: 817,
+    id: 810,
     price: "276,000",
     description:
       "Batería Home elements 7 piezas\nOlla con tapa 24 cms capacidad de 3.6lts\nOlla con tapa 20 cms capacidad de 1.8lts\nPerol con tapa 16 cms capacidad 1.5lts\nSartén 24 cms\nMaterial en antiadherente, resistente al calor\nManijas en baquelita resistentes para altas temperaturas\nTapas de vidrio con regulador de vapor\nBase conductora de calor",
@@ -10095,7 +10096,7 @@ export const database = [
     product: "bateria de cocina trend 4 piezas antiadherente everhouse",
     disponibilidad: true,
     descuento: false,
-    id: 818,
+    id: 811,
     price: "169,000",
     description:
       "Incluye: 1 perol de 18cm, 1 olla 20cm, 1 sartén y tapa de 20cm,Elaborado en aluminio con 2 ,capas de antiadherentes y 2.0mm de groso, Fondo difusor de calor , Tapa de vidrio con pomo y asas remachadas en baquelita resistentes al calor.",
@@ -10108,7 +10109,7 @@ export const database = [
     product: "bateria de cocina 11 piezas universal",
     disponibilidad: true,
     descuento: false,
-    id: 819,
+    id: 812,
     price: "255,000",
     description:
       "Sartén Aliada de 24 cm\nOlla Aliada de 24 cm + tapa de vidrio\nOlla Aliada 20 cm + tapa de vidrio\nPerol Aliada 16 cm + tapa de vidrio\nCacerola 14 cm asas + tapa de aluminio\nPerol Aliada 10 cm\nPlancha asadora redonda 23 cm",
@@ -10121,7 +10122,7 @@ export const database = [
     product: "bateria aliada 8 piezas universal",
     disponibilidad: true,
     descuento: false,
-    id: 820,
+    id: 813,
     price: "178,000",
     description:
       "set de ollas Aliada cuenta 4 capas de antiadherente resistentes e ideales para todo tipo de preparación\nCuenta con asas en baquelita resistentes al calor y parallamas integrado\nBase grafilada para mayor estabilidad al cocinar y mejor distribución de calor\nSuperficie antiadherente de fácil limpieza\nOlla Aliada de 24 cm + tapa de vidrio\nOlla Aliada de 20 cm + tapa de vidrio\nOlla Aliada de 18 cm + tapa de vidrio\nOlla Aliada de 16 cm + tapa de vidrio",
@@ -10134,7 +10135,7 @@ export const database = [
     product: "bateria 7 piezas antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 821,
+    id: 814,
     price: "159,000",
     description:
       "Olla 24 cm + tapa de vidrio\ncacerola 16 cm + tapa aluminio\nsartén 24 cm\nperol 16 cm + tapa de vidrio",
@@ -10147,7 +10148,7 @@ export const database = [
     product: "bateria de ollas 10 piezas universal",
     disponibilidad: true,
     descuento: false,
-    id: 822,
+    id: 815,
     price: "144,000",
     description:
       "juego de ollas universal de 10 piezas en Aluminio\n14cm o 1.4litros\n16cm o 1.9litros\n18cm o 2.6litros\n20cm o 3.4litros\n24cm o 5.2litros\nTodas las 5 ollas vienen con su tapa de vidrio con válvula reguladora de presión",
@@ -10160,7 +10161,7 @@ export const database = [
     product: "bateria aliada 4 piezas universal",
     disponibilidad: true,
     descuento: false,
-    id: 823,
+    id: 816,
     price: "99,000",
     description:
       "Ideal para preparar comidas saludables y bajas en grasa\nEspesor de la olla y el sartén de 1.4 mm. Espesor del wok de 1.6 mm\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
@@ -10173,7 +10174,7 @@ export const database = [
     product: "set x4 cuchillos en acero kalley",
     disponibilidad: true,
     descuento: false,
-    id: 824,
+    id: 817,
     price: "46,000",
     description:
       'Cuchillo Chef 8" Grosor: 1.8mm\nCuchillo Fileteador 8" Grosor: 1.8mm\nCuchillo Multiusos 5.5" Grosor: 1.5mm\nCuchillo Pelador 3.5" Grosor: 1.5mm',
@@ -10186,7 +10187,7 @@ export const database = [
     product: "set cuchillos tijeras color negro",
     disponibilidad: false,
     descuento: false,
-    id: 825,
+    id: 818,
     price: "46,000",
     description:
       "set cuchillos + tijera color negro, incluye 2 cuchillos de filetear, cuchillo rebanador, cuchillo para pan y tijera de cocina",
@@ -10199,7 +10200,7 @@ export const database = [
     product: "set x5 cuchillos + base universal",
     disponibilidad: true,
     descuento: false,
-    id: 826,
+    id: 819,
     price: "153,000",
     description:
       'Incluye:\n1 cuchillo chef 8"\n1 cuchillo pan 8"\n1 cuchillo multiusos 7.5"\n1 cuchillo deshuesador 4.5"\n1 cuchillo pelar 3.5"\nBase de plastico antideslizante\nPiezas en acero Inoxidable',
@@ -10212,7 +10213,7 @@ export const database = [
     product: "set de cuchillos corto y largo tijera tabla de picar y afilador",
     disponibilidad: true,
     descuento: false,
-    id: 827,
+    id: 820,
     price: "36,000",
     description:
       "set de cuchillos corto y largo tijera tabla de picar y afilador",
@@ -10224,7 +10225,7 @@ export const database = [
     product: "set x4 cuchillos ultra universal",
     disponibilidad: true,
     descuento: false,
-    id: 828,
+    id: 821,
     price: "28,000",
     description: "set x4 cuchillos ultra universal",
     images_url:
@@ -10236,7 +10237,7 @@ export const database = [
     product: "set x4 cuchillos incametal",
     disponibilidad: true,
     descuento: false,
-    id: 829,
+    id: 822,
     price: "28,000",
     description: "set x4 cuchillos incametal",
     images_url:
@@ -10248,7 +10249,7 @@ export const database = [
     product: "juego de cuchillos chef",
     disponibilidad: true,
     descuento: false,
-    id: 830,
+    id: 823,
     price: "55,000",
     description: 'incluye 3.5" 6" 8" 10',
     images_url:
@@ -10260,7 +10261,7 @@ export const database = [
     product: 'cuchillo brazileiro 8" universal',
     disponibilidad: true,
     descuento: false,
-    id: 831,
+    id: 824,
     price: "16,000",
     description: "Cuchillo Multiusos Brazileiro Incametal 8",
     images_url:
@@ -10272,7 +10273,7 @@ export const database = [
     product: 'cuchillo brazileiro 6" universal',
     disponibilidad: true,
     descuento: false,
-    id: 832,
+    id: 825,
     price: "12,000",
     description:
       'Practico en tu Hogar \nCuchillo Multiusos 6" pulgadas\nMaterial: acero inoxidable\nAlta calidad',
@@ -10286,7 +10287,7 @@ export const database = [
       "portacomida lunch box acero inoxidable 1.5 lt incluye cuchara colores y diseños varios",
     disponibilidad: true,
     descuento: false,
-    id: 833,
+    id: 826,
     price: "50,000",
     description:
       "Tipo: Fiambrera/Caja Tiffin\nMaterial: exterior de plástico e interior de acero inoxidable.\nCapacidad: 1000ml\nCuchara gratis\nAlta calidad y portátil\nDurable",
@@ -10299,7 +10300,7 @@ export const database = [
     product: "portacomidas 3 divisiones en vidrio refractario hermetico 1.5lt",
     disponibilidad: false,
     descuento: false,
-    id: 834,
+    id: 827,
     price: "30,000",
     description:
       "portacomidas 3 divisiones en vidrio refractario hermetico 1.5lt",
@@ -10313,7 +10314,7 @@ export const database = [
       "portacomidas electrónico 1.05 litros incluye cuchara y cable de poder",
     disponibilidad: true,
     descuento: false,
-    id: 835,
+    id: 828,
     price: "49,000",
     description:
       "portacomidas electrico\ncalienta tu comida fuera de casa\n40w de potencia - 110v /240 - 50hz/60hz\ncapacidad: 1.05 litros\nincluye una cuchara y cable de poder",
@@ -10326,7 +10327,7 @@ export const database = [
     product: "plancha grill botanical antiadherente 45x26cm",
     disponibilidad: true,
     descuento: false,
-    id: 836,
+    id: 829,
     price: "120,000",
     description:
       "Plancha grill fabricada en aluminio fundido antiadherente\n2 capas de antiadherente Teflon y asas con protector de silicona.\nTiene disco magnético apto para cocinas de inducción, estufas a gas, de vitrocerámica y estufas eléctricas.\nLargo x Ancho: 45 cm x 26 cm\nEspesor: 2.5 mm\nPeso: 1.58 kg",
@@ -10339,7 +10340,7 @@ export const database = [
     product: "teppamgrill plus elite 34x25cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 837,
+    id: 830,
     price: "94,000",
     description:
       "TEPPAN GRILL PLUS\nPlancha grill fabricada en aluminio fundido antiadherente \nTiene una aplicación de recubrimiento antiadherente de 2 capas el cual le otorga una resistencia a la abrasión de hasta 14,000 ciclos\nEs apto para lavavajillas, gracias a su disco de inducción electromagnética también se puede ser utilizado en cocinas de inducción, a gas, vitrocerámicas y de resistencia eléctrica medidas: 43 x 26 x 2.5cm",
@@ -10352,7 +10353,7 @@ export const database = [
     product: "parrilla para arepas 19.2cm aluminio imusa",
     disponibilidad: false,
     descuento: false,
-    id: 838,
+    id: 831,
     price: "32,000",
     description:
       "Mango ergonómico, que te ayudará a la hora de cocinar arepas en tu cómoda cocina\nEspeciales para una cocina moderna y auténtica\nFácil de limpiar\nPara asar pinchos, carnes y arepas\nMaterial: Aluminio\nMedidas: Alto (3 cm) x Ancho (19.2 cm) x Largo (38 cm)\nColor: Negro",
@@ -10365,7 +10366,7 @@ export const database = [
     product: "parrilla para arepas AA aliada antiadherente 20cm",
     disponibilidad: true,
     descuento: false,
-    id: 839,
+    id: 832,
     price: "27,000",
     description:
       "Cuerpo en aluminio con recubrimiento interior antiadherente y pintura exterior resistente a la temperatura\nInterior con recubrimiento Antiadherente\nMango ergonómico hecho en material resistente al calor\nEl tipo de ensamble de los mangos es remachado directamente al cuerpo con remaches en aluminio\nDiseño perfecto para asar arepas uniformemente en cuestión de minutos",
@@ -10378,7 +10379,7 @@ export const database = [
     product: "perol artik 18cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 840,
+    id: 833,
     price: "49,000",
     description:
       "Tecnología 7 Ultra optimiza la distribución del calor\nResiste hasta 7000 ciclos de abrasión\nNuevo diseño de asas y pomos\nAntiadherente italiano de 5 capas alta calidad\nLibre de PFOA ( ácido perfluorooctanoico)",
@@ -10391,7 +10392,7 @@ export const database = [
     product: "perol 6 ultra 16cm + tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 841,
+    id: 834,
     price: "45,000",
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en Baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de\ncalor en la base",
@@ -10404,7 +10405,7 @@ export const database = [
     product: "olla perol con vertedero 8.5cm",
     disponibilidad: true,
     descuento: false,
-    id: 842,
+    id: 835,
     price: "27,000",
     description:
       "Mango de baquelita de diseño ergonómico para mayor comodidad y seguridad\nAdecuado para calentar salsas, salsas, mantequilla, leche o chocolate derretido.\nPequeño y duradero, no ocupa demasiado espacio\nAntiescaldadura sartén antiadherente, el revestimiento interior es revestimiento antiadherente",
@@ -10417,7 +10418,7 @@ export const database = [
     product: "perol 6 ultra colors 16cm tapa de vidrio universal",
     disponibilidad: true,
     descuento: false,
-    id: 843,
+    id: 836,
     price: "39,000",
     description: "perol 6 ultra colors 16cm tapa de vidrio universal",
     images_url:
@@ -10429,7 +10430,7 @@ export const database = [
     product: "perol aliada 10cm antiadherente universal",
     disponibilidad: true,
     descuento: false,
-    id: 844,
+    id: 837,
     price: "23,000",
     description:
       "Cuerpo en aluminio con antiadherente de espesor 1 mm\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base. Garantía de 1 año\nMango en baquelita resistente al calor",
@@ -10442,7 +10443,7 @@ export const database = [
     product: "bowl nova en acero inoxidable 32cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 845,
+    id: 838,
     price: "45,000",
     description: "bowl nova en acero inoxidable 32cm universal",
     images_url:
@@ -10454,7 +10455,7 @@ export const database = [
     product: "bowl nova en acero inoxidable 26cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 846,
+    id: 839,
     price: "31,700",
     description: "bowl nova en acero inoxidable 26cm universal",
     images_url:
@@ -10466,7 +10467,7 @@ export const database = [
     product: "bowl nova en acero inoxidable 22cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 847,
+    id: 840,
     price: "13,000",
     description: "bowl nova en acero inoxidable 22cm universal",
     images_url:
@@ -10478,7 +10479,7 @@ export const database = [
     product: "bowl nova en acero inoxidable 18cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 848,
+    id: 841,
     price: "13,600",
     description: "bowl nova en acero inoxidable 18cm universal",
     images_url:
@@ -10490,7 +10491,7 @@ export const database = [
     product: "bowl nova en acero inoxidable 16cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 849,
+    id: 842,
     price: "11,300",
     description: "bowl nova en acero inoxidable 16cm universal",
     images_url:
@@ -10502,7 +10503,7 @@ export const database = [
     product: "set x3 termo de bebida caliente/frío",
     disponibilidad: true,
     descuento: false,
-    id: 850,
+    id: 843,
     price: "98,000",
     description: "colores varios 7.57lt, 2.40 lt , 1.25 lt",
     images_url:
@@ -10514,7 +10515,7 @@ export const database = [
     product: "termo en acero inox universal 0.5 litros plateado",
     disponibilidad: true,
     descuento: false,
-    id: 851,
+    id: 844,
     price: "64,000",
     description: "Resistentes al calor, manchas y corrosión",
     images_url:
@@ -10527,7 +10528,7 @@ export const database = [
       "termo de bebida caliente / frío 7.57 litros con dispensador colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 852,
+    id: 845,
     price: "47,000",
     description:
       "termo de bebida caliente / frío 7.57 litros con dispensador colores varios",
@@ -10540,7 +10541,7 @@ export const database = [
     product: "termo de bebida caliente / frío 1.25 litros colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 853,
+    id: 846,
     price: "17,000",
     description: "termo de bebida caliente / frío 1.25 litros colores varios",
     images_url:
@@ -10552,7 +10553,7 @@ export const database = [
     product: "termo de bebida caliente/frío 2.40 litros colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 854,
+    id: 847,
     price: "37,000",
     description:
       "Capacidad 2.4 Litros\nTamaño : 18 cm. de largo / 18 cm. de ancho / 26 cm. de alto\nCubicaje : Insulado Térmico",
@@ -10565,7 +10566,7 @@ export const database = [
     product: "termo aislante de temperatura 1 litro motivos varios vanyplas",
     disponibilidad: true,
     descuento: false,
-    id: 855,
+    id: 848,
     price: "44,000",
     description:
       "Termo de un 1 litro, con tapa rosca para controlar la salida del líquido, tapa taza para servir la bebida, manija amplia y de fácil agarre, mantiene la temperatura por 8 horas",
@@ -10578,7 +10579,7 @@ export const database = [
     product: "termo botella motivacional 2 litros colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 856,
+    id: 849,
     price: "42,000",
     description: "termos botella motivacionales 2 litros colores varios",
     images_url: "https://img.fruugo.com/product/9/27/198154279_max.jpg",
@@ -10589,7 +10590,7 @@ export const database = [
     product: "termo motivacional 1 litro colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 857,
+    id: 850,
     price: "46,000",
     description: "termos motivacionales1 litro colores varios",
     images_url:
@@ -10601,7 +10602,7 @@ export const database = [
     product: "termo rg 1 litro colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 858,
+    id: 851,
     price: "30,000",
     description: "termo rg 1 litro colores varios",
     images_url:
@@ -10613,7 +10614,7 @@ export const database = [
     product: "termo motivacional colores varios 2 litros",
     disponibilidad: true,
     descuento: false,
-    id: 859,
+    id: 852,
     price: "52,000",
     description: "termo motivacional colores varios 2 litros",
     images_url:
@@ -10625,7 +10626,7 @@ export const database = [
     product: "termo motivacional 2.2 litros colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 860,
+    id: 853,
     price: "66,000",
     description: "termo motivacional 2.2 litros colores varios",
     images_url:
@@ -10637,7 +10638,7 @@ export const database = [
     product: "termo aislante de temperatura especial para bebés 1 litros imusa",
     disponibilidad: true,
     descuento: false,
-    id: 861,
+    id: 854,
     price: "62,000",
     description:
       "Capacidad: 0.75 litros\nAmpolla de vidrio\nTapa rosca con movimiento giratorio para un cierre efectivo\nIdeal para conservar el calor de tus bebidas hasta por 10 horas",
@@ -10650,7 +10651,7 @@ export const database = [
     product: "termo motivacional 2.2 litros transparente",
     disponibilidad: true,
     descuento: false,
-    id: 862,
+    id: 855,
     price: "58,000",
     description: "termo motivacional 2.2 litros transparente",
     images_url: "https://img.fruugo.com/product/1/91/205303911_max.jpg",
@@ -10661,7 +10662,7 @@ export const database = [
     product: "coctelera 750ml acero",
     disponibilidad: true,
     descuento: false,
-    id: 863,
+    id: 856,
     price: "42,000",
     description: "coctelera 750ml acero inoxidable",
     images_url:
@@ -10673,7 +10674,7 @@ export const database = [
     product: "coctelera 550ml plat novum",
     disponibilidad: true,
     descuento: false,
-    id: 864,
+    id: 857,
     price: "39,500",
     description: "coctelera 550ml plat novum",
     images_url:
@@ -10685,7 +10686,7 @@ export const database = [
     product: "cuchara tenedor bar en acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 865,
+    id: 858,
     price: "14,500",
     description: "cuchara tenedor bar en acero inoxidable",
     images_url:
@@ -10697,7 +10698,7 @@ export const database = [
     product: "cuchara bar pomo fino en acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 866,
+    id: 859,
     price: "15,000",
     description: "cuchara bar pomo fino en acero inoxidable",
     images_url:
@@ -10709,7 +10710,7 @@ export const database = [
     product: "cuchara mezcladora pajita bar en acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 867,
+    id: 860,
     price: "8,500",
     description: "cuchara mezcladora en Acero inoxidable",
     images_url:
@@ -10721,7 +10722,7 @@ export const database = [
     product: "cuchara bar moneda en acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 868,
+    id: 861,
     price: "14,500",
     description:
       "Cuchara de Bar Con Disco\nFunciona para los Gin Tonic\nDiseñado con balance ideal para un óptimo control\nAcero inoxidable\nCOMO SE USA: No requiere uso especial",
@@ -10734,7 +10735,7 @@ export const database = [
     product: "copa medidora cilindrica 30/60 ml acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 869,
+    id: 862,
     price: "9,000",
     description:
       "Color: plateado\nMaterial: acero inoxidable\nEste producto destaca por su capacidad variable de 30/60ml, ideal para medir líquidos con precisión",
@@ -10747,7 +10748,7 @@ export const database = [
     product: "copa medidora conica 30/60 ml acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 870,
+    id: 863,
     price: "17,000",
     description:
       "Color: plateado\nMaterial: acero inoxidable\nEste producto destaca por su capacidad variable de 30/60ml, ideal para medir líquidos con precisión",
@@ -10760,7 +10761,7 @@ export const database = [
     product: "copa medidora 25/50 ml acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 871,
+    id: 864,
     price: "16,000",
     description:
       "Color: plateado\nMaterial: acero inoxidable\nEste producto destaca por su capacidad variable de 25/50ml, ideal para medir líquidos con precisión",
@@ -10773,7 +10774,7 @@ export const database = [
     product: "tabla de picar acrilico 50cm x 36cm",
     disponibilidad: true,
     descuento: false,
-    id: 872,
+    id: 865,
     price: "34,000",
     description: "tabla de picar acrilico 50cm x 36cm",
     images_url:
@@ -10785,7 +10786,7 @@ export const database = [
     product: "set x3 tabla de picar acrilico 3 tamaños",
     disponibilidad: true,
     descuento: false,
-    id: 873,
+    id: 866,
     price: "30,000",
     description: "set x3 tabla de picar acrilico 3 tamaños",
     images_url:
@@ -10797,7 +10798,7 @@ export const database = [
     product: "tabla de cocina para picar fabricada en bambu 100% universal",
     disponibilidad: true,
     descuento: false,
-    id: 874,
+    id: 867,
     price: "26,200",
     description: "tabla de cocina para picar fabricada en bambu 100% universal",
     images_url:
@@ -10809,7 +10810,7 @@ export const database = [
     product: "tabla de picar universal 31.5 x 20 x 0.8",
     disponibilidad: true,
     descuento: false,
-    id: 875,
+    id: 868,
     price: "19,000",
     description: "tabla de picar universal 31.5 x 20 x 0.8",
     images_url:
@@ -10821,7 +10822,7 @@ export const database = [
     product: "escurridor platero optimo sencillo 45x28x12cm blanco",
     disponibilidad: true,
     descuento: false,
-    id: 876,
+    id: 869,
     price: "40,000",
     description: "escurridor platero optimo sencillo 45x28x12cm blanco",
     images_url:
@@ -10833,7 +10834,7 @@ export const database = [
     product: "porta vajilla escurridor 57x45x29cm rimax",
     disponibilidad: true,
     descuento: false,
-    id: 877,
+    id: 870,
     price: "69,000",
     description: "porta vajilla escurridor 57x45x29cm rimax",
     images_url:
@@ -10845,7 +10846,7 @@ export const database = [
     product: "bascula gramera digital torenyx max . 5kg",
     disponibilidad: true,
     descuento: false,
-    id: 878,
+    id: 871,
     price: "36,500",
     description: "bascula gramera digital torenyx max . 5kg",
     images_url:
@@ -10857,7 +10858,7 @@ export const database = [
     product: "gramera de cocina sf-400",
     disponibilidad: true,
     descuento: false,
-    id: 879,
+    id: 872,
     price: "25,000",
     description: "gramera de cocina sf-400",
     images_url:
@@ -10869,7 +10870,7 @@ export const database = [
     product: "rallador escurridor 9 en 1 mango de silicona 2 litros universal",
     disponibilidad: true,
     descuento: false,
-    id: 880,
+    id: 873,
     price: "63,000",
     description:
       "rallador escurridor 9 en 1 mango de silicona 2 litros universal",
@@ -10882,7 +10883,7 @@ export const database = [
     product: "rallador inox verde 23cm universal",
     disponibilidad: true,
     descuento: false,
-    id: 881,
+    id: 874,
     price: "17,000",
     description: "rallador inox verde 23cm universal",
     images_url:
@@ -10894,7 +10895,7 @@ export const database = [
     product: "rallador ocean 3 caras universal acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 882,
+    id: 875,
     price: "20,000",
     description: "rallador ocean 3 caras universal acero inoxidable",
     images_url:
@@ -10906,7 +10907,7 @@ export const database = [
     product: "recipiente 22 litros incluye tapa y grifo",
     disponibilidad: true,
     descuento: false,
-    id: 883,
+    id: 876,
     price: "46,900",
     description:
       "Marca: Kendy\nMaterial: Polipropileno\nMedidas: Alto (355 cm) Ancho (30 cm) Largo (355 cm)",
@@ -10919,7 +10920,7 @@ export const database = [
     product: "valvula manual dispensadora",
     disponibilidad: true,
     descuento: false,
-    id: 884,
+    id: 877,
     price: "30,000",
     description: "adaptable a botellones, presión hacia abajo",
     images_url:
@@ -10931,7 +10932,7 @@ export const database = [
     product: "afilador de cuchillo y tijera navajas en acero inoxidable 21cm",
     disponibilidad: true,
     descuento: false,
-    id: 885,
+    id: 878,
     price: "12,000",
     description:
       "Diseño elegante y seguro, fácil de limpiar y almacenar.\nLos pies de goma antideslizantes garantizan la estabilidad durante el uso.\nTiene 3 etapas de afilado (fina, cerámica y grano grueso), para un resultado de afilado perfecto.\nMaterial: ABS y ranura de acero inoxidable.",
@@ -10944,7 +10945,7 @@ export const database = [
     product: "afilador de cuchillo en acero inoxidable universal",
     disponibilidad: true,
     descuento: false,
-    id: 886,
+    id: 879,
     price: "25,000",
     description: "afilador de cuchillo en acero inoxidable universal",
     images_url:
@@ -10956,7 +10957,7 @@ export const database = [
     product: 'Chaira Afilador De Cuchillo institucional 12" incametal',
     disponibilidad: true,
     descuento: false,
-    id: 887,
+    id: 880,
     price: "60,700",
     description:
       'Chaira con Asta en acero carbono 12"\nrevestida con cromo duro. Mango de polipropileno.',
@@ -10969,7 +10970,7 @@ export const database = [
     product: "juego de utensilios de cocina fabricado 100% en bambú universal",
     disponibilidad: true,
     descuento: false,
-    id: 888,
+    id: 881,
     price: "40,000",
     description:
       "Set de servidoras en bambú de 30cm. Es un utensilio de cocina con diferentes propósitos esenciales.",
@@ -10982,7 +10983,7 @@ export const database = [
     product: "set x4 utensilios de cocina élite universal",
     disponibilidad: true,
     descuento: false,
-    id: 889,
+    id: 882,
     price: "45,000",
     description: "continene Espátula, Espumadera, Cuchara y Cucharón",
     images_url:
@@ -10994,7 +10995,7 @@ export const database = [
     product: "utensilios de cocina universal",
     disponibilidad: true,
     descuento: false,
-    id: 890,
+    id: 883,
     price: "73,000",
     description:
       "incluye ESCURRIDOR,TENEDOR, CUCHARA, CUCHARON, PALA, CUCHILLO",
@@ -11007,7 +11008,7 @@ export const database = [
     product: "kit de pasteleria decoración 137 piezas",
     disponibilidad: true,
     descuento: false,
-    id: 891,
+    id: 884,
     price: "108,000",
     description: "kit de pasteleria decoración 137 piezas",
     images_url:
@@ -11019,7 +11020,7 @@ export const database = [
     product: "set de 12 utensilios en silicona y mango en madera",
     disponibilidad: true,
     descuento: false,
-    id: 892,
+    id: 885,
     price: "122,000",
     description: "set de 12 utensilios en silicona y mango en madera",
     images_url:
@@ -11031,7 +11032,7 @@ export const database = [
     product: "set de asados y parrilladas",
     disponibilidad: true,
     descuento: false,
-    id: 893,
+    id: 886,
     price: "182,000",
     description:
       "incluye brocha cuchillo pinza espatula limpiador 2 saleros 6 pinchos 1 termometro 1 jeringa 2 ganchos y un guante",
@@ -11044,7 +11045,7 @@ export const database = [
     product: "juego de utensilios x6 combo con soporte",
     disponibilidad: true,
     descuento: false,
-    id: 894,
+    id: 887,
     price: "70,000",
     description:
       "Fabricación en Acero inoxidable para mayor resistencia y de calidad.\nNuestros utensilios son ideales para simplificar las tareas del hogar, por eso son de fácil manejo.\nMango en Nylon resistentes al calor que te ayudará a resolver los inconvenientes que se presentan al momento de cocinar y te brindará más confianza y seguridad.\nIncluye Pala, cuchillo, cucharón, tenedor, cuchara, batidor y soporte.",
@@ -11057,7 +11058,7 @@ export const database = [
     product: "set x3 utensilios cocina",
     disponibilidad: true,
     descuento: false,
-    id: 895,
+    id: 888,
     price: "25,000",
     description:
       "Fabricado en acero inoxidable 430.\nMango en polipropileno.\nEspesor tenedor mil: 1.8 mm.\nEspesor cuchara mil: 1.8 mm.\nEspesor servicio del cucharon mil: 0.9 mm.\nEspesor mango del cucharon mil: 1.8 mm.",
@@ -11070,7 +11071,7 @@ export const database = [
     product: "set utensilios de cocina x4 unidades",
     disponibilidad: true,
     descuento: false,
-    id: 896,
+    id: 889,
     price: "25,000",
     description:
       "Medidas del producto • Espátula: largo:30.9 cm - ancho: 7.3 cm • Espumadera: largo:30.6 cm - ancho: 9.5 cm • Cuchara: largo:28.3 cm - ancho: 6.4 cm • Cucharón: largo:29.1 cm - ancho: 8.3 cm Materiales del producto: • Nylon 100%",
@@ -11084,7 +11085,7 @@ export const database = [
       "set x3 tijera pelador y cortador 8 pulgadas acero inoxidable everhouse",
     disponibilidad: true,
     descuento: false,
-    id: 897,
+    id: 890,
     price: "26,000",
     description:
       "set x3 tijera pelador y cortador 8 pulgadas acero inoxidable everhouse",
@@ -11098,7 +11099,7 @@ export const database = [
       "pala lisa, cuchara perforadora y cucharon premiun practick cook plus nylon borde siliconado",
     disponibilidad: true,
     descuento: false,
-    id: 898,
+    id: 891,
     price: "22,500",
     description:
       "pala lisa, cuchara perforadora y cucharon premiun practick cook plus nylon borde siliconado",
@@ -11110,7 +11111,7 @@ export const database = [
     product: "contenedor de vidrio 14 x 12 cm 1.2 litros universal",
     disponibilidad: true,
     descuento: false,
-    id: 899,
+    id: 892,
     price: "20,000",
     description:
       "Contenedor con cuerpo de vidrio y tapa de aluminio\nRecipiente compacto que garantizan la conservación de los alimentos y evita la formación de bacterias\nMedidas del contenedor: Ancho: 11 cm Largo: 11 cm Alto: 13.7 cm\nCapacidad de cada contenedor: 1200 ml",
@@ -11123,7 +11124,7 @@ export const database = [
     product: "frasco mistic grande encanto x2 18.1cm cristar",
     disponibilidad: true,
     descuento: false,
-    id: 900,
+    id: 893,
     price: "24,000",
     description:
       "Capacidad: 37,53 oz / 1110 cc\nAlto: 18.1 cm, 7.1 pulgadas\nDiámetro: 9,5 cm , 3,7 pulgadas\nUnidad de Empaque: Set x 2 unidades",
@@ -11136,7 +11137,7 @@ export const database = [
     product: "frasco mistic grande 18.2 x 9.5 cm cristar",
     disponibilidad: true,
     descuento: false,
-    id: 901,
+    id: 894,
     price: "14,500",
     description:
       "Capacidad: 37 1/2 oz / 1110 cc\nAlto: 18.2 cm, 7,2 pulgadas\nDiámetro: 9,5 cm, 3,7 pulgadas\nUnidad de Empaque: Estuche x 1 unidad",
@@ -11148,10 +11149,11 @@ export const database = [
     product: "set x2 frascos mistique limones 29oz cristar",
     disponibilidad: true,
     descuento: false,
-    id: 902,
+    id: 895,
     price: "14,000",
     description: "set x2 frascos mistique limones 29oz cristar",
-    images_url: "",
+    images_url:
+      "https://firebasestorage.googleapis.com/v0/b/igb-img.appspot.com/o/image%20(43).png?alt=media&token=66af84be-979e-464b-8635-64e243f0cbb6",
     category: "cocina",
     sub_category: "contenedores",
   },
@@ -11159,7 +11161,7 @@ export const database = [
     product: "frasco mistique pequeño 10 x 12 cm cristar",
     disponibilidad: true,
     descuento: false,
-    id: 903,
+    id: 896,
     price: "12,700",
     description: "frasco mistique pequeño 10 x 12 cm cristar",
     images_url:
@@ -11171,7 +11173,7 @@ export const database = [
     product: "contenedor de vidrio 22cm x 11cm 2 litros cristar",
     disponibilidad: true,
     descuento: false,
-    id: 904,
+    id: 897,
     price: "32,000",
     description:
       "Contenedor con cuerpo de vidrio y tapa de aluminio\nRecipiente compacto que garantizan la conservación de los alimentos y evita la formación de bacterias\nMedidas del contenedor: Ancho: 11 cm Largo: 11 cm Alto: 21.9 cm\nCapacidad de cada contenedor: 2000 ml",
@@ -11184,7 +11186,7 @@ export const database = [
     product: "set x3 contenedores capacidad 800ml universal",
     disponibilidad: true,
     descuento: false,
-    id: 905,
+    id: 898,
     price: "30,000",
     description:
       "Set por 3 contenedores con cuerpo de vidrio y tapa de aluminio\nRecipientes compactos que garantizan la conservación de los alimentos y evitan la formación de bacterias\nLos contenedores vienen marcados para azúcar, café y té, pero si prefieres pueden ser utilizados para conservar otros alimentos\nDiámetro: 10.3 cm\nAlto: 12.7 cm\nCapacidad de cada contenedor: 800 ml",
@@ -11197,7 +11199,7 @@ export const database = [
     product: "contenedor de vidrio 1.6 litros 11x11x17.8cm",
     disponibilidad: true,
     descuento: false,
-    id: 906,
+    id: 899,
     price: "22,000",
     description:
       "Contenedor con cuerpo de vidrio y tapa de aluminio\nRecipiente compacto que garantizan la conservación de los alimentos y evita la formación de bacterias\nMedidas del contenedor:Ancho: 11 cm Largo: 11 cm Alto: 17.8 cm\nCapacidad de cada contenedor: 1600 ml",
@@ -11210,7 +11212,7 @@ export const database = [
     product: "recipiente 1500ml tapa de madera everhouse",
     disponibilidad: true,
     descuento: false,
-    id: 907,
+    id: 900,
     price: "26,000",
     description: "recipiente 1500ml tapa de madera everhouse",
     images_url:
@@ -11222,7 +11224,7 @@ export const database = [
     product: "juego de reposteros x3",
     disponibilidad: true,
     descuento: false,
-    id: 908,
+    id: 901,
     price: "23,000",
     description: "juego de reposteros x3",
     images_url:
@@ -11234,7 +11236,7 @@ export const database = [
     product: "set x3 contenedores 2.2l x 1.1l x 0.65l kendy",
     disponibilidad: true,
     descuento: false,
-    id: 909,
+    id: 902,
     price: "22,700",
     description: "set x3 contenedores 2.2l x 1.1l x 0.65l kendy",
     images_url: "https://tinypic.host/images/2024/03/13/image-16.png",
@@ -11245,7 +11247,7 @@ export const database = [
     product: "recipiente plastico tapa de madera 680ml everhouse",
     disponibilidad: true,
     descuento: false,
-    id: 910,
+    id: 903,
     price: "20,000",
     description: "recipiente plastico tapa de madera 680ml everhouse",
     images_url:
@@ -11257,7 +11259,7 @@ export const database = [
     product: "pote dispensador grande kendy 2.75 litros",
     disponibilidad: true,
     descuento: false,
-    id: 911,
+    id: 904,
     price: "8,000",
     description:
       "pote dispensador grande kendy 2.75 litros 19cm x 16 cm x 8 cm",
@@ -11270,7 +11272,7 @@ export const database = [
     product: "recipientes kendy x3",
     disponibilidad: true,
     descuento: false,
-    id: 912,
+    id: 905,
     price: "12,000",
     description: "Recipientes x3 Kendy de plastico",
     images_url: "https://tinypic.host/images/2024/02/01/12000.png",
@@ -11281,7 +11283,7 @@ export const database = [
     product: "taper eva rectangular gplast 24",
     disponibilidad: true,
     descuento: false,
-    id: 913,
+    id: 906,
     price: "11,000",
     description: "Apto Microondas Y Refrigerador\nCapacidad: 2.8 Kg",
     images_url:
@@ -11293,7 +11295,7 @@ export const database = [
     product: "caja picnic #2 con división 2.5 litros kendy",
     disponibilidad: true,
     descuento: false,
-    id: 914,
+    id: 907,
     price: "8,000",
     description:
       "caja picnic #2 con división 2.5 litros kendy 25 cm x 16 cm x 8 cm",
@@ -11305,7 +11307,7 @@ export const database = [
     product: "caja picnic alta #2 3.5 litros kendy",
     disponibilidad: true,
     descuento: false,
-    id: 915,
+    id: 908,
     price: "8,400",
     description: "caja picnic alta #2 3.5 litros kendy 27 cm x 18 cm x 11 cm",
     images_url:
@@ -11317,7 +11319,7 @@ export const database = [
     product: "caja cuadrada alta #2 1.5 litros colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 916,
+    id: 909,
     price: "8,400",
     description: "caja cuadrada alta #2 1.5 litros colores varios",
     images_url:
@@ -11329,7 +11331,7 @@ export const database = [
     product: "caja redonda alta #2 1.1 litros colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 917,
+    id: 910,
     price: "8,500",
     description: "caja redonda alta #2 1.1 litros colores varios 15cm x 10.5cm",
     images_url:
@@ -11341,7 +11343,7 @@ export const database = [
     product: "pote kendy 3 pack 1 litro kendy",
     disponibilidad: true,
     descuento: false,
-    id: 918,
+    id: 911,
     price: "8,700",
     description: "pote kendy 3 pack 1 litro kendy 14cm x 8.5cm colores varios",
     images_url: "https://tinypic.host/images/2024/03/13/image-18.png",
@@ -11352,7 +11354,7 @@ export const database = [
     product: "caja redonda alta #3 kendyfresh 2.2 litros colroes varios",
     disponibilidad: true,
     descuento: false,
-    id: 919,
+    id: 912,
     price: "9,000",
     description:
       "caja redonda alta #3 kendyfresh 2.2 litros colroes varios 18cm x 12cm",
@@ -11365,7 +11367,7 @@ export const database = [
     product: "set caja picnic + 3 recipientes kendy",
     disponibilidad: true,
     descuento: false,
-    id: 920,
+    id: 913,
     price: "17,700",
     description: "set caja picnic + 3 recipientes kendy",
     images_url:
@@ -11377,7 +11379,7 @@ export const database = [
     product: "x3 tarros redondos altos 20cm alto rimo plasticas",
     disponibilidad: true,
     descuento: false,
-    id: 921,
+    id: 914,
     price: "40,000",
     description: "x3 tarros redondos altos 20cm alto rimo plasticas",
     images_url:
@@ -11389,7 +11391,7 @@ export const database = [
     product: "recipiente hermetico x3",
     disponibilidad: true,
     descuento: false,
-    id: 922,
+    id: 915,
     price: "10,000",
     description:
       "Materiales: Plástico\nMedidas del artículo: Diámetro: 11.7 x Alto 7.2",
@@ -11402,7 +11404,7 @@ export const database = [
     product: "juego de caja picnic x2 + hermetico kendy",
     disponibilidad: true,
     descuento: false,
-    id: 923,
+    id: 916,
     price: "20,000",
     description: "juego de caja picnic x2 + hermetico kendy",
     images_url:
@@ -11414,7 +11416,7 @@ export const database = [
     product: "juego de recipientes x3 motivos varios",
     disponibilidad: true,
     descuento: false,
-    id: 924,
+    id: 917,
     price: "34,000",
     description: "juego de recipientes x3 motivos varios",
     images_url:
@@ -11426,7 +11428,7 @@ export const database = [
     product: "juego de recipientes x4 cuadrados diseño y colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 925,
+    id: 918,
     price: "38,000",
     description: "juego de recipientes x4 cuadrados diseño y colores varios",
     images_url:
@@ -11438,7 +11440,7 @@ export const database = [
     product: "set x7 recipientes plasticos universal",
     disponibilidad: true,
     descuento: false,
-    id: 926,
+    id: 919,
     price: "56,000",
     description: "set x7 recipientes plasticos universal",
     images_url:
@@ -11450,7 +11452,7 @@ export const database = [
     product: "set caja picnic x2 + 3 recipientes kendy",
     disponibilidad: true,
     descuento: false,
-    id: 927,
+    id: 920,
     price: "25,500",
     description: "set caja picnic x2 + 3 recipientes kendy",
     images_url:
@@ -11462,7 +11464,7 @@ export const database = [
     product: "caja picnic x3 capacidad 3,5lt - 2,5lt - 1,7lt kendy",
     disponibilidad: true,
     descuento: false,
-    id: 928,
+    id: 921,
     price: "23,500",
     description: "caja picnic x3 capacidad 3,5lt - 2,5lt - 1,7lt kendy",
     images_url:
@@ -11474,7 +11476,7 @@ export const database = [
     product: "juego de recipientes alpes kendy",
     disponibilidad: true,
     descuento: false,
-    id: 929,
+    id: 922,
     price: "17,000",
     description: "juego de recipientes alpes kendy",
     images_url: "https://tinypic.host/images/2024/02/01/17000_.png",
@@ -11485,7 +11487,7 @@ export const database = [
     product: "tarro hermetico redondo 4 alto kendy",
     disponibilidad: true,
     descuento: false,
-    id: 930,
+    id: 923,
     price: "10,300",
     description: "2.40 litros 16cm x 16.5cm colores varios",
     images_url:
@@ -11497,7 +11499,7 @@ export const database = [
     product: "tarro maxi 3.25 litros 3 unidades decorados rimo",
     disponibilidad: true,
     descuento: false,
-    id: 931,
+    id: 924,
     price: "34,000",
     description: "tarro maxi 3.25 litros 3 unidades decorados rimo",
     images_url:
@@ -11509,7 +11511,7 @@ export const database = [
     product: "set jarro x3 multiuso motivos varios 20cm, 15cm, 10cm",
     disponibilidad: true,
     descuento: false,
-    id: 932,
+    id: 925,
     price: "15,000",
     description: "set jarro x3 multiuso motivos varios 20cm, 15cm, 10cm",
     images_url:
@@ -11521,7 +11523,7 @@ export const database = [
     product: "caja alpes #3 4 litros kendy",
     disponibilidad: true,
     descuento: false,
-    id: 933,
+    id: 926,
     price: "12,000",
     description: "caja alpes #3 4 litros kendy 30cm x 22cm x 8.5cm",
     images_url:
@@ -11534,7 +11536,7 @@ export const database = [
       "jarra kool cuenta con pico dispensador capacidad 2.2lt colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 934,
+    id: 927,
     price: "11,500",
     description:
       "Jarra plastica, con pico ideal para servir sin derrames, hecha con plastico de excelente cadidad, tapas con colores surtidos, amplia capacidad y cuenta con la calidad Kendy.",
@@ -11547,7 +11549,7 @@ export const database = [
     product: "jarra kendy x2 2.2 litros 1 litro",
     disponibilidad: true,
     descuento: false,
-    id: 935,
+    id: 928,
     price: "11,000",
     description: "jarra kendy x2 2.2 litros 1 litro",
     images_url:
@@ -11559,7 +11561,7 @@ export const database = [
     product: "jarra home 2 litros hecha en poliestireno",
     disponibilidad: true,
     descuento: false,
-    id: 936,
+    id: 929,
     price: "25,000",
     description: "jarra home 2  litros hecha en poliestireno",
     images_url:
@@ -11571,7 +11573,7 @@ export const database = [
     product: "jarra caribe 3.5 litros + 4 vasos caribe 400 ml",
     disponibilidad: true,
     descuento: false,
-    id: 937,
+    id: 930,
     price: "22,000",
     description: "jarra caribe 3.5 litros + 4 vasos caribe 400 ml",
     images_url:
@@ -11583,7 +11585,7 @@ export const database = [
     product: "jarra cristal 4 litros tapa colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 938,
+    id: 931,
     price: "10,500",
     description:
       "Material: Plástico\nMedidas: Alto (26.5 cm) x Ancho (186 cm) x Largo (24.5 cm)\nColor: Surtido",
@@ -11596,10 +11598,11 @@ export const database = [
     product: "jarra practitapa 3litros incluye 4 vasos kendy",
     disponibilidad: true,
     descuento: false,
-    id: 939,
+    id: 932,
     price: "16,600",
     description: "jarra practitapa 3litros incluye 4 vasos kendy",
-    images_url: "",
+    images_url:
+      "https://firebasestorage.googleapis.com/v0/b/igb-img.appspot.com/o/s-l1600%20(1).png?alt=media&token=16696305-b129-4ad7-8cfe-ce7c0df15818",
     category: "cocina",
     sub_category: "jarras",
   },
@@ -11607,7 +11610,7 @@ export const database = [
     product: "set jarra 2 litros y 4 vasos home",
     disponibilidad: true,
     descuento: false,
-    id: 940,
+    id: 933,
     price: "52,000",
     description: "set jarra con tapa 2 litros y 4 vasos home",
     images_url:
@@ -11619,7 +11622,7 @@ export const database = [
     product: "jarra practitapa 3 litros kendy colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 941,
+    id: 934,
     price: "10,000",
     description:
       "jarra practitapa 3 litros kendy colores varios 21.5 cmdiametro x 17.5 cm alto",
@@ -11631,7 +11634,7 @@ export const database = [
     product: "jara kendy 3 litros colores varios",
     disponibilidad: true,
     descuento: false,
-    id: 942,
+    id: 935,
     price: "9,600",
     description:
       "jara kendy 3 litros colores varios 22.5cm diametro x 17.5cm alto",
@@ -11644,7 +11647,7 @@ export const database = [
     product: "jarra kool tapa y pico dispensador 2.7 litros",
     disponibilidad: true,
     descuento: false,
-    id: 943,
+    id: 936,
     price: "8,500",
     description:
       "jarra kool tapa y pico dispensador 2.7 litros 25.5cm x 19cm x14cm colores varios",
@@ -11656,7 +11659,7 @@ export const database = [
     product: "destapador, abrelatas y sacacorchos acero inoxidable universal",
     disponibilidad: false,
     descuento: false,
-    id: 944,
+    id: 937,
     price: "19,000",
     description:
       "destapador, abrelatas y sacacorchos acero inoxidable universal",
@@ -11669,7 +11672,7 @@ export const database = [
     product: "sacachorchos esencial universal",
     disponibilidad: true,
     descuento: false,
-    id: 945,
+    id: 938,
     price: "14,700",
     description: "sacachorchos esencial universal",
     images_url:
@@ -11681,7 +11684,7 @@ export const database = [
     product: "abrelatas en acero inoxidable 23cm",
     disponibilidad: true,
     descuento: false,
-    id: 946,
+    id: 939,
     price: "8,000",
     description: "abrelatas en acero inoxidable 23cm",
     images_url:
@@ -11693,7 +11696,7 @@ export const database = [
     product: "pelapapas vertical 18.9cm acero inoxidable universal",
     disponibilidad: true,
     descuento: false,
-    id: 947,
+    id: 940,
     price: "11,000",
     description:
       "Fabricación en acero inoxidable para más resistencia y no transmite olor ni sabor\nSu color plateado que caracteriza el acero, te brindará el beneficio de ubicarlo en cualquier lugar de tu cocina\nApto para lavavajilla",
@@ -11706,7 +11709,7 @@ export const database = [
     product: "pelador élite universal en acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 948,
+    id: 941,
     price: "18,000",
     description: "pelador élite universal en acero inoxidable",
     images_url:
@@ -11718,7 +11721,7 @@ export const database = [
     product: "tijera multiusos universal",
     disponibilidad: true,
     descuento: false,
-    id: 949,
+    id: 942,
     price: "25,000",
     description:
       "tijera multiusos universal, destapador, alimentos, abrebotellas y descamador",
@@ -11730,7 +11733,7 @@ export const database = [
     product: "tijera de cocina profesional acero inoxidable 26cm",
     disponibilidad: true,
     descuento: false,
-    id: 950,
+    id: 943,
     price: "19,000",
     description: "tijera de cocina profesional acero inoxidable 26cm",
     images_url:
@@ -11742,7 +11745,7 @@ export const database = [
     product: "colador incainox 10cm universal",
     disponibilidad: false,
     descuento: false,
-    id: 951,
+    id: 944,
     price: "20,000",
     description: "colador incainox 10cm universal",
     images_url:
@@ -11754,7 +11757,7 @@ export const database = [
     product: "set x3 coladores amarillo",
     disponibilidad: true,
     descuento: false,
-    id: 952,
+    id: 945,
     price: "11,000",
     description: "set x3 coladores amarillo",
     images_url: "",
@@ -11765,7 +11768,7 @@ export const database = [
     product: "juego de utensilios por unidad",
     disponibilidad: true,
     descuento: false,
-    id: 953,
+    id: 946,
     price: "11,000",
     description:
       "Fabricación en Acero inoxidable para mayor resistencia y de calidad.\nNuestros utensilios son ideales para simplificar las tareas del hogar, por eso son de fácil manejo.\nMango en Nylon resistentes al calor que te ayudará a resolver los inconvenientes que se presentan al momento de cocinar y te brindará más confianza y seguridad.",
@@ -11778,7 +11781,7 @@ export const database = [
     product: "espatula de silicona mango de madera universal 30.5cm",
     disponibilidad: true,
     descuento: false,
-    id: 954,
+    id: 947,
     price: "13,000",
     description:
       "Espátula de silicona de color gris\nmango en madera \nservicio de silicona\nsoporta temperaturas hasta 220 °C\nSus medidas son: 29,6 x 5,1 x 1,4 cm",
@@ -11791,7 +11794,7 @@ export const database = [
     product: "batidor mediano inoxidable universal",
     disponibilidad: true,
     descuento: false,
-    id: 955,
+    id: 948,
     price: "14,000",
     description: "Mango y servicio fabricados en acero inoxidable",
     images_url:
@@ -11803,7 +11806,7 @@ export const database = [
     product: "filtro purificador de agua bioenergetico adaptable a los grifos",
     disponibilidad: true,
     descuento: false,
-    id: 956,
+    id: 949,
     price: "9,000",
     description: "se venden en sets de 2 unidades, cambio cada 2 meses",
     images_url:
@@ -11815,7 +11818,7 @@ export const database = [
     product: "set refractaria rectangular 2.9 litros + 1 pinza",
     disponibilidad: false,
     descuento: false,
-    id: 957,
+    id: 950,
     price: "47,000",
     description: "Ancho: 34.2 cm\nAlto: 6.8 cm\nLargo: 23 cm",
     images_url: "https://tinypic.host/images/2024/01/18/2509172_01.jpeg",
@@ -11826,7 +11829,7 @@ export const database = [
     product: "portarollo triple de cocina de plastico rimax",
     disponibilidad: true,
     descuento: false,
-    id: 958,
+    id: 951,
     price: "33,000",
     description: "portarollo triple de cocina de plastico rimax",
     images_url:
@@ -11838,7 +11841,7 @@ export const database = [
     product: "martillo de cocina universal",
     disponibilidad: true,
     descuento: false,
-    id: 959,
+    id: 952,
     price: "19,000",
     description: "martillo de cocina universal",
     images_url:
@@ -11850,7 +11853,7 @@ export const database = [
     product: "cuchara heladera universal en acero inoxidable",
     disponibilidad: true,
     descuento: false,
-    id: 960,
+    id: 953,
     price: "20,000",
     description: "cuchara heladera universal en acero inoxidable",
     images_url:
@@ -11862,10 +11865,11 @@ export const database = [
     product: "exprimidor citricos manual aluminio universal",
     disponibilidad: true,
     descuento: false,
-    id: 961,
+    id: 954,
     price: "25,000",
     description: "exprimidor citricos manual aluminio universal",
-    images_url: "",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167115-800-auto?v=638452097870630000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "exprimidores",
   },
@@ -11873,7 +11877,7 @@ export const database = [
     product: "prensa de pure en acero inoxidable universal",
     disponibilidad: true,
     descuento: false,
-    id: 962,
+    id: 955,
     price: "23,000",
     description: "prensa de pure en acero inoxidable universal",
     images_url:
@@ -11885,7 +11889,7 @@ export const database = [
     product: "corta pizza incaonix incametal",
     disponibilidad: true,
     descuento: false,
-    id: 963,
+    id: 956,
     price: "12,000",
     description:
       "Corta Pizza Fabricado En Acero Inoxidable, Con Hoja En Aleación 420 Y Mango En Aleación 430. Apto Para Estar En Contacto Con Los Alimentos Y Bebidas",
@@ -11898,7 +11902,7 @@ export const database = [
     product: "spray rociador de alimentos universal 100ml",
     disponibilidad: true,
     descuento: false,
-    id: 964,
+    id: 957,
     price: "22,000",
     description: "spray rociador de alimentos universal 100ml",
     images_url:
@@ -11910,7 +11914,7 @@ export const database = [
     product: "termómetro digital de cocina punzón sonda temperatura comida",
     disponibilidad: true,
     descuento: false,
-    id: 965,
+    id: 958,
     price: "23,000",
     description: "termómetro digital de cocina punzón sonda temperatura comida",
     images_url:
@@ -11922,7 +11926,7 @@ export const database = [
     product: "pala para torta universal",
     disponibilidad: true,
     descuento: false,
-    id: 966,
+    id: 959,
     price: "13,000",
     description:
       "Longitud del mango: 122 mm\nLargo total: 275.5 mm\ndiametro del mango: 19 mm Ancho servicio: 56 mm\n100 % Acero inoxidable",
@@ -11935,7 +11939,7 @@ export const database = [
     product: "dispesador de jabon liquido lavaplatos",
     disponibilidad: true,
     descuento: false,
-    id: 967,
+    id: 960,
     price: "26,000",
     description: "incluye esponja de cocina",
     images_url:
@@ -11947,7 +11951,7 @@ export const database = [
     product: "moledor de sal y pimienta universal",
     disponibilidad: true,
     descuento: false,
-    id: 968,
+    id: 961,
     price: "59,000",
     description:
       "Funciona con 4 baterías AAA no incluidas\nEl nivel de molienda se puede ajustar por el usuario de manera manual",
@@ -11960,7 +11964,7 @@ export const database = [
     product: "servilletero armonia incametal",
     disponibilidad: true,
     descuento: false,
-    id: 969,
+    id: 962,
     price: "9,000",
     description: "servilletero armonia incametal",
     images_url:
@@ -11972,7 +11976,7 @@ export const database = [
     product: "brocha de cocina incaonix incametal",
     disponibilidad: true,
     descuento: false,
-    id: 970,
+    id: 963,
     price: "9,000",
     description:
       "Brocha para Cocina y Repostería Universal\nMedidas:\nLargo Total: 20 cm\nLargo del Mango 13 cm\nAncho: 4 cm",
