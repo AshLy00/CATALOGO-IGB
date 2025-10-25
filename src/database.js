@@ -11985,17 +11985,4 @@ export const database = [
     category: "cocina",
     sub_category: "brochas de cocina",
   },
-   {
-    product: "test",
-    disponibilidad: true,
-    descuento: false,
-    id: 964,
-    price: "1000",
-    description:
-      "Test de prueba",
-    images_url:
-      "https://sirsasin.com/wp-content/uploads/2021/09/Test-Product.jpeg",
-    category: "cocina",
-    sub_category: "brochas de cocina",
-  },
 ];
