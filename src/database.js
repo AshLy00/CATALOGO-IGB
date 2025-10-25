@@ -425,7 +425,7 @@ export const database = [
     price: "59,000",
     description: "flotador ballena gigante inflable 193cm x 119cm intex",
     images_url:
-      "https://i.linio.com/p/01a9783afb9c37bde0187403c75410fb-product.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_874124-MCO53505312047_012023-F.webp",
     category: "piscinas y accesorios",
     sub_category: "flotadores",
   },
@@ -5132,7 +5132,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 409,
-    price: "54,500",
+    price: "54,000",
     description: "incluye accesorios, corona y sonidos 32 cm",
     images_url: "https://m.media-amazon.com/images/I/71FvNzI3McL._SL1500_.jpg",
     category: "jugueteria",
