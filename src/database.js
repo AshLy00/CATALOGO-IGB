@@ -11998,4 +11998,17 @@ export const database = [
     category: "cocina",
     sub_category: "brochas de cocina",
   },
+  {
+    product: "Test2",
+    disponibilidad: true,
+    descuento: false,
+    id: 965,
+    price: "9,100,000",
+    description:
+    "Test descrop2",
+    images_url:
+      "https://btoys.co/cdn/shop/files/CPF4180-2_Nina.jpg?v=1733934872&width=1800",
+    category: "jugueteria",
+    sub_category: "muñecas",
+  },
 ];
