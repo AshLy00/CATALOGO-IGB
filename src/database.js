@@ -11985,30 +11985,4 @@ export const database = [
     category: "cocina",
     sub_category: "brochas de cocina",
   },
-  {
-    product: "Test",
-    disponibilidad: true,
-    descuento: false,
-    id: 964,
-    price: "100,000",
-    description:
-    "Test descrop",
-    images_url:
-      "https://www.mestraloposicions.cat/wp-content/uploads/2024/06/board-361516_1280.jpg",
-    category: "cocina",
-    sub_category: "brochas de cocina",
-  },
-  {
-    product: "Test2",
-    disponibilidad: true,
-    descuento: false,
-    id: 965,
-    price: "9,100,000",
-    description:
-    "Test descrop2",
-    images_url:
-      "https://btoys.co/cdn/shop/files/CPF4180-2_Nina.jpg?v=1733934872&width=1800",
-    category: "jugueteria",
-    sub_category: "muñecas",
-  },
-];
+  ];
