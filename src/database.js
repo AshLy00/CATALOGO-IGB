@@ -11985,4 +11985,17 @@ export const database = [
     category: "cocina",
     sub_category: "brochas de cocina",
   },
+  {
+    product: "Test",
+    disponibilidad: true,
+    descuento: false,
+    id: 964,
+    price: "100,000",
+    description:
+    "Test descrop",
+    images_url:
+      "https://www.mestraloposicions.cat/wp-content/uploads/2024/06/board-361516_1280.jpg",
+    category: "cocina",
+    sub_category: "brochas de cocina",
+  },
 ];
