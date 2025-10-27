@@ -5473,7 +5473,7 @@ export const database = [
     sub_category: "sets de muñecas",
   },
   {
-    product: "cocina my little kitchen chef boy toys",
+    product: "cocina my little kitchen chef boy toys 72*32*49Cms",
     disponibilidad: true,
     descuento: false,
     id: 438,
