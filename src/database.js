@@ -2835,7 +2835,7 @@ export const database = [
     description:
       "Capacidad de 1.5 L.\nSu potencia es de 400 W.\nCuchilla resistente de acero inoxidable.\nTapa dosificadora incorporada.\nFunciona con 4 velocidades.\nPica hielo.\nCon cuchilla removible.\nCantidad de cuchillas: 4.",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_122215887_3279630_1?wid=800&hei=800&qlt=70",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/161399-800-auto?v=637389071250170000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "licuadoras",
   },
