@@ -5493,7 +5493,7 @@ export const database = [
     description:
       "cocina sobre ruedas 26 accesorios colores varios 36.5 cm x 36.3 cm 22.7 cm",
     images_url:
-      "https://i.linio.com/p/c7c3fba55bdd3e17f840e3cb560e7bf1-product.webp",
+      "https://www.surtibaby.com/cdn/shop/products/cocinaruedas8_500x.png?v=1599940175",
     category: "jugueteria",
     sub_category: "cocinas de juguete",
   },
