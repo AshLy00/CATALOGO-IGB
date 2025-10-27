@@ -2815,7 +2815,7 @@ export const database = [
   },
   {
     product: "licuadora vaso picatodo 1.25 litros oster",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 225,
     price: "165,900",
@@ -2831,7 +2831,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 226,
-    price: "162,900",
+    price: "139,000",
     description:
       "Capacidad de 1.5 L.\nSu potencia es de 400 W.\nCuchilla resistente de acero inoxidable.\nTapa dosificadora incorporada.\nFunciona con 4 velocidades.\nPica hielo.\nCon cuchilla removible.\nCantidad de cuchillas: 4.",
     images_url:
@@ -2844,11 +2844,11 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 227,
-    price: "162,900",
+    price: "139,000",
     description:
       "Cuchillas en acero inoxidable\nVaso de vidrio termorresistente de 1.5 litros\n4 velocidades + pulso\nCuerpo en plástico ABS\nPie de base antideslizante\nPotencia de 400W\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
-      "https://electrobello.vtexassets.com/arquivos/ids/158473-1200-auto?v=637884999963970000&width=1200&height=auto&aspect=true",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/161399-800-auto?v=637389071250170000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "licuadoras",
   },
@@ -2870,7 +2870,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 229,
-    price: "129,900",
+    price: "92,000",
     description:
       "Material: Vaso plástico.\nCapacidad 1.5 litros.\nmotor 350W de potencia.\n4 Velocidades y pulso.\nCuchillas en acero inoxidable.\nTapa con visor transparente removible.\nMedidas: Alto (24 cm) Ancho (16.5 cm) Largo (36 cm)\nPeso: 1.5 kg.\nColor: Blanca.",
     images_url:
@@ -2883,7 +2883,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 230,
-    price: "129,900",
+    price: "98,000",
     description:
       "Material: Vaso plástico.\nCapacidad 1.5 litros.\n4 Velocidades y pulso.\nCuchillas en acero inoxidable.\nTapa con visor transparente removible.\nMedidas: Alto (24 cm) Ancho (16.5 cm) Largo (36 cm)\nPeso: 1.5 kg.\nColor: Negra.",
     images_url:
@@ -2896,7 +2896,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 231,
-    price: "90,000",
+    price: "85,000",
     description:
       "Licuadora 400W de potencia\nCuchillas en acero inoxidable, mejor licuado\nVaso plástico de gran capacidad de 1,5L",
     images_url:
@@ -2922,7 +2922,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 233,
-    price: "289,000",
+    price: "342,000",
     description:
       "Capacidad: 1.25 litros\n3 velocidades\n600 watts de potencia\nVaso de vidrio diseñado para adaptarse con facilidad a la puerta del refrigerador e ideal para guardar jugos, leches, malteadas y otras bebidas congeladas\nCromada\nCuchilla removible de acero inoxidable para triturar frutas congeladas y hielo para preparar jugos",
     images_url:
