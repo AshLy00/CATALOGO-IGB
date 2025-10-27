@@ -2848,7 +2848,7 @@ export const database = [
     description:
       "Cuchillas en acero inoxidable\nVaso de vidrio termorresistente de 1.5 litros\n4 velocidades + pulso\nCuerpo en plástico ABS\nPie de base antideslizante\nPotencia de 400W\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/161399-800-auto?v=637389071250170000&width=800&height=auto&aspect=true",
+      "https://i0.wp.com/facihogar.com.co/wp-content/uploads/2022/03/Licuadora-Potency-Mix-Negra-Universal-1.jpg?fit=1080%2C1080&ssl=1",
     category: "electrodomesticos",
     sub_category: "licuadoras",
   },
