@@ -2800,33 +2800,7 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "cafeteras",
   },
-  {
-    product: "licuadoras ultra + vaso picatodo universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 224,
-    price: "296,800",
-    description:
-      "Cuerpo en aluminio cromado y vaso de vidrio refractario con capacidad de 1.25 litros.\nIncluye vaso picatodo con tapa.\nMotor de 600 Vatios.\nFrecuencia de operación de 60 Hz.\nVoltaje de alimentación de 110 a 120 Vac.\nSelector de velocidades tipo perilla con 3 posiciones y doble posición de apagado.\n2 cuchillas en acero inoxidable.\nPatas de caucho antideslizantes.",
-    images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/158257-800-auto?v=636710834887970000&width=800&height=auto&aspect=true",
-    category: "electrodomesticos",
-    sub_category: "licuadoras",
-  },
-  {
-    product: "licuadora vaso picatodo 1.25 litros oster",
-    disponibilidad: false,
-    descuento: false,
-    id: 225,
-    price: "165,900",
-    description:
-      "Alto: 33 Ancho: 19\nMaterial de la base: Polipropileno\nMarca: OSTER\nMotor cuatro veces mas duradero\nAcople metálico 10 veces mas duradero\nNúmero de velocidades: 2\nVaso de Vidrio resistente a un choque térmico 90 ºC\nCapacidad: 1.5Lts para preparar desde sopas, salsas y bebidas gratinadas con hielo\nRevolucionaria cuchilla tritura hielo",
-    images_url:
-      "https://homecenterco.scene7.com/is/image/SodimacCO/473480_1?wid=800&hei=800&qlt=70",
-    category: "electrodomesticos",
-    sub_category: "licuadoras",
-  },
-  {
+    {
     product: "licuadora potency mix universal",
     disponibilidad: true,
     descuento: false,
@@ -2853,7 +2827,7 @@ export const database = [
     sub_category: "licuadoras",
   },
   {
-    product: "licuadora con vaso de vidrio 1.5 litros universal",
+    product: "Licuadora Con Vaso de Vidrio 1.5 Litros 4 Velocidades + pulso Universal",
     disponibilidad: true,
     descuento: false,
     id: 228,
@@ -2861,7 +2835,7 @@ export const database = [
     description:
       "Vaso de vidrio con capacidad para 1.5 litros refractario, permitiendo la resistencia a choques térmicos\nPotencia del motor: 350 Vatios\nFrecuencia de operación: 60 Hz\nVoltaje de alimentación: 110 a 120 Vac\nSelector de velocidades tipo botonera: 4 velocidades + pulso\nCuchilla 4 aspas en acero inoxidable\nEsta licuadora no es apta para triturar hielo.",
     images_url:
-      "https://cacharreriamilenio.com/wp-content/uploads/2023/03/Licuadora-con-vaso-de-vidrio-L50803-1.png",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/160786-800-auto?v=637297364682270000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "licuadoras",
   },
