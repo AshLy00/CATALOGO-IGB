@@ -11907,4 +11907,17 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "ventiladores",
   },
+   {
+    product: "Ventilador de Techo Orbital Altezza 18 pulg",
+    disponibilidad: true,
+    descuento: false,
+    id: 968,
+    price: "281,000",
+    description:
+      "Potencia de 80W, Rejilla metalica Motor Potente y duradero\n3 velocidades\nHélice de 4 aspas\nHélice aerodinámica de 4 aspas\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
+    images_url:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_893283-MLA95404933094_102025-F.webp",
+    category: "electrodomesticos",
+    sub_category: "ventiladores",
+  },
   ];
