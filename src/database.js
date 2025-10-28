@@ -2431,7 +2431,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 204,
-    price: "220,000",
+    price: "180,000",
     description:
       "Capacidad del vaso: 800 m, Capacidad del tazon: 1.5 tazas, Potencia: 400 Vatios, Frecuencia de operación : 60 Hz, Voltaje de alimentación : 110 a 120 Vac, 3 en 1 (Batidor inoxidable, picador, licuadora manual todos en acero inoxidable) 2 velocidades (Normal y turbo)",
     images_url:
@@ -2444,7 +2444,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 205,
-    price: "180,000",
+    price: "149,000",
     description:
       "Un electrodoméstico diseñado para cortar frutas o verduras de manera efectiva, gracias a sus 300w de potencia.\nEste producto está equipado con accesorios removibles de acero inoxidable, incluyendo una cuchilla disco circular y otra para picar, adaptándose a diferentes tamaños de los ingredientes que más usas a diario.\ncuenta con un switch de bloqueo para evitar accidentes. Además, está compuesto por una perilla con 2 velocidades para que obtengas un control más preciso de todo el proceso.",
     images_url:
@@ -2963,7 +2963,7 @@ export const database = [
     sub_category: "humidificadores y difusores",
   },
     {
-    product: "batidora multiuso black & decker",
+    product: "Licuadora de mano BLACK+DECKER 3 en 1 Mezcla, Bate y Tritura",
     disponibilidad: true,
     descuento: false,
     id: 252,
@@ -11839,5 +11839,18 @@ export const database = [
       "https://exitocol.vtexassets.com/arquivos/ids/13370556/Cafetera-Para-Cafe-Helado-OSTER-2170832-3181793_a.jpg?v=637916451221530000",
     category: "electrodomesticos",
     sub_category: "cafeteras",
+  },
+  {
+    product: "Licuadora de mano BLACK+DECKER 3 en 1 Mezcla, Bate y Tritura",
+    disponibilidad: true,
+    descuento: false,
+    id: 971,
+    price: "180,000",
+    description:
+      "Voltaje: 120V\nFrecuencia: 60 Hz\nPotencia: 200 W\nCantidad de velocidades: 2\nNo es apto para picar hielo\nMaterial de la hoja: Acero inoxidable\nAccesorios incluidos:  Batidor, Bowl picador, Vaso medidor, Tapa para bowl picador",
+    images_url:
+      "https://www.alkosto.com/medias/050875820586-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxODM5OHxpbWFnZS93ZWJwfGFEVmpMMmd4TkM4eE5ESTRNVGsxT0RRMU56TTNOQzh3TlRBNE56VTRNakExT0RaZk1EQXhYemMxTUZkNE56VXdTQXxjZWQ2MGI0YmM2ZDJmMDIyOGUzMjE0ZmFiY2ZkYjZiZjAzZWI0MWI4NDM5OTk2MDRhMjA1ZWViYzBmZWVlMWFi",
+    category: "electrodomesticos",
+    sub_category: "procesadores de alimentos",
   },
   ];
