@@ -11959,4 +11959,17 @@ export const database = [
     category: "cocina",
     sub_category: "brochas de cocina",
   },
+  {
+    product: "Licuadora mass vital 2 velocidades menta Universal",
+    disponibilidad: true,
+    descuento: false,
+    id: 964,
+    price: "96,000",
+    description:
+      "Vaso de vidrio con capacidad para 1.7 litros termoresistente\nCuchilla con 4 aspas en acero inoxidable con tecnologia Chrome Steel, control tipo perilla de 2 velocidades\nPotencia del motor: 550 Vatios\nFrecuencia de operación: 60 Hz\nVoltaje de alimentación: 110 a 120 Vac\nSelector de velocidades tipo botonera: 2 velocidades + pulso\nMotor autorefrigerado, cable de 80 Cm.",
+    images_url:
+      "https://distrisilva.com/wp-content/uploads/2025/02/L50870-LICUADORA-MASS-VITAL-MENTA-03.webp",
+    category: "electrodomesticos",
+    sub_category: "licuadoras",
+  },
   ];
