@@ -11816,4 +11816,28 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "ventiladores",
   },
+  {
+    product: "cafetera francesa 600ml",
+    disponibilidad: true,
+    descuento: false,
+    id: 969,
+    price: "39,000",
+    description: "cafetera francesa 600ml",
+    images_url:
+      "https://cdn.salla.sa/ZVDDl/bXy1oGxkyOZY70ZATO18f0YmHsPQUwCKUoCYvZ1y.jpg",
+    category: "electrodomesticos",
+    sub_category: "cafeteras",
+  },
+  {
+    product: "Cafetera Para Café Helado OSTER",
+    disponibilidad: true,
+    descuento: false,
+    id: 970,
+    price: "135,000",
+    description: "Cafetera Para Café Helado OSTER",
+    images_url:
+      "https://exitocol.vtexassets.com/arquivos/ids/13370556/Cafetera-Para-Cafe-Helado-OSTER-2170832-3181793_a.jpg?v=637916451221530000",
+    category: "electrodomesticos",
+    sub_category: "cafeteras",
+  },
   ];
