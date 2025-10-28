@@ -11981,7 +11981,7 @@ export const database = [
     description:
       "Funciones: hornear, freír, asar\nTemperatura ajustable 80°C - 200°C\nLuz indicadora\nTecnología de circulación de aire de alta velocidad\nCesta interior fabricada en lámina de acero con recubrimiento en pintura de fácil limpieza\nRejilla interior recubierta con pintura antiadherente\nTemporizador ajustable hasta 60 minutos.\nCapacidad de 4 litros\nPotencia: 1300W\nVoltaje 110-120 Vac\nFrecuencia: 60 Hz",
     images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/166365-800-auto?v=638028260266870000&width=800&height=auto&aspect=true",
+      "https://www.alkosto.com/medias/053891175937-002-750Wx750H?context=bWFzdGVyfGltYWdlc3wyNzczNnxpbWFnZS93ZWJwfGFEQmpMMmc1WlM4eE5EWTVOalkxTmpnek1EUTVOQzh3TlRNNE9URXhOelU1TXpkZk1EQXlYemMxTUZkNE56VXdTQXw5YzUyZjIyMDQwODU5OGY3ZDgxNmY5YjQ4NWM5ODlkYzkxZjdjODUzZDJjYmYwZmRiZTA3ZjIxZTJhZTZiOTZj",
     category: "electrodomesticos",
     sub_category: "ollas freidoras",
   },
