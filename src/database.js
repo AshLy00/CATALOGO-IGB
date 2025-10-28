@@ -2922,7 +2922,7 @@ export const database = [
     price: "49,000",
     description: "difusor de aromas 130 ml humidificador",
     images_url:
-      "https://exitocol.vtexassets.com/arquivos/ids/10758093/difusor-de-aromas-130-ml-humidificador-aromaterapia-ultrason.jpg?v=637716434750170000",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_826032-MLA92778454605_092025-F.webp",
     category: "electrodomesticos",
     sub_category: "humidificadores y difusores",
   },
