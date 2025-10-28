@@ -3136,7 +3136,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 254,
-    price: "294,000",
+    price: "225,900",
     description:
       "Cocina hasta con 99.5% menos aceite, comparado con freidoras tradicionales Oster®\nBandeja de cocción con capacidad de 1.8 litros\nControl de temporizador ajustable de hasta 60 minutos\nPerilla de temperatura ajustable de hasta 200ºC\nMango frío al tacto\nBandeja interior extraíble con recubrimiento antiadherente\nFunción de apagado automático al retirar la bandeja de cocción\nPerfecta para preparar desde pollos y carnes, hasta vegetales, pescado y postres",
     images_url:
@@ -3149,7 +3149,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 255,
-    price: "329,000",
+    price: "239,000",
     description:
       "Funciones: hornear, freír, asar y dorar\nTemperatura ajustable 80°C - 200°C\nLuz indicadora\nTecnología de circulación de aire de alta velocidad\nCesta interior fabricada en lámina de acero con recubrimiento en pintura de fácil limpieza\nRejilla interior recubierta con pintura antiadherente\nTemporizador ajustable hasta 30 minutos.\nCapacidad de 3.2 litros\nPotencia: 1300W\nVoltaje 110-120 Vac\nFrecuencia: 60 Hz",
     images_url:
@@ -11958,5 +11958,31 @@ export const database = [
       "https://multihogar.co/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NzU3LCJwdXIiOiJibG9iX2lkIn19--6c8792a0b1b7db07061e941067eebca04fffdf96/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJQTkciLCJyZXNpemVfdG9fZml0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--5bc749b878ff7aeaa8c5e47bd558bf4c834c3584/Licuadora-oster-menta-vaso-plastico-1.PNG?locale=es",
     category: "electrodomesticos",
     sub_category: "licuadoras",
+  },
+  {
+    product: "Procesador / Licuadora Manual Universal 3 En 1",
+    disponibilidad: true,
+    descuento: false,
+    id: 966,
+    price: "180,000",
+    description:
+      "Procesador / Licuadora Manual Universal 3 En 1, Voltaje: 110V\nFrecuencia: 60 Hz\nPotencia: 400 W\nCantidad de velocidades: 2\nNo es apto para picar hielo\nMaterial de la hoja: Acero inoxidable\nAccesorios incluidos:  Batidor, Bowl picador, Vaso medidor, Tapa para bowl picador",
+    images_url:
+      "https://www.almihogar.com/wp-content/uploads/2021/05/Universal-Procesador-Manual-3-en-1-2.jpg",
+    category: "electrodomesticos",
+    sub_category: "batidoras",
+  },
+  {
+    product: "Freidora de aire OSTER 4Lts Manual DiamondForce Negra",
+    disponibilidad: true,
+    descuento: false,
+    id: 967,
+    price: "299,900",
+    description:
+      "Funciones: hornear, freír, asar\nTemperatura ajustable 80°C - 200°C\nLuz indicadora\nTecnología de circulación de aire de alta velocidad\nCesta interior fabricada en lámina de acero con recubrimiento en pintura de fácil limpieza\nRejilla interior recubierta con pintura antiadherente\nTemporizador ajustable hasta 60 minutos.\nCapacidad de 4 litros\nPotencia: 1300W\nVoltaje 110-120 Vac\nFrecuencia: 60 Hz",
+    images_url:
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/166365-800-auto?v=638028260266870000&width=800&height=auto&aspect=true",
+    category: "electrodomesticos",
+    sub_category: "ollas freidoras",
   },
   ];
