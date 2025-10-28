@@ -11972,4 +11972,17 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "licuadoras",
   },
+  {
+    product: "Licuadora Oster Menta Vaso Plástico",
+    disponibilidad: true,
+    descuento: false,
+    id: 965,
+    price: "135,000",
+    description:
+      "Licuadora Oster Menta Vaso Plástico El poderoso motor con alta fuerza de torsión y vaso de plástico resistente a las roturas de la licuadora Oster® son ideales para preparar una amplia variedad de recetas frías y calientes, jugos, batidos y mucho más. Motor cuatro veces más duradero, Acople metálico 10 más fuerte, Vaso de plástico, que te permite procesar ingredientes hirviendo sin necesidad de esperar a que estos se enfríen, Dos velocidades con pulso alto y bajo, Capacidad de 1.25 litros (5 tazas) para preparar desde sopas hasta jugos, salsas y bebidas gratinadas con hielo, Revolucionaria cuchilla trituradora de hielo*Comparado con el motor del modelo PU5443127-6115-AL en pruebas de carga**Con un nivel de resistencia a la tracción superior comparado con los acoples plásticos",
+    images_url:
+      "https://multihogar.co/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NzU3LCJwdXIiOiJibG9iX2lkIn19--6c8792a0b1b7db07061e941067eebca04fffdf96/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJQTkciLCJyZXNpemVfdG9fZml0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--5bc749b878ff7aeaa8c5e47bd558bf4c834c3584/Licuadora-oster-menta-vaso-plastico-1.PNG?locale=es",
+    category: "electrodomesticos",
+    sub_category: "licuadoras",
+  },
   ];
