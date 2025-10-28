@@ -3984,7 +3984,7 @@ export const database = [
     images_url:
       "https://falabella.scene7.com/is/image/Falabella/gsc_125884266_4364055_1?wid=1500&hei=1500&qlt=70",
     category: "accesorios para vehiculos",
-    sub_category: "limpieza",
+    sub_category: "aspiradoras",
   },
   {
     product: "protector de celular para bicicleta con soporte",
