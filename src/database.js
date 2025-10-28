@@ -2922,7 +2922,7 @@ export const database = [
     price: "49,000",
     description: "difusor de aromas 130 ml humidificador",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_117769458_1888603_1?wid=800&hei=800&qlt=70",
+      "https://exitocol.vtexassets.com/arquivos/ids/10758093/difusor-de-aromas-130-ml-humidificador-aromaterapia-ultrason.jpg?v=637716434750170000",
     category: "electrodomesticos",
     sub_category: "humidificadores y difusores",
   },
