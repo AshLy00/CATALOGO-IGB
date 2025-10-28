@@ -2413,46 +2413,20 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "sanducheras y wafleras",
   },
-  {
-    product: "plancha a vapor universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 201,
-    price: "140,000",
-    description:
-      "Potencia de 1200 Watts, para conexión eléctrica de 120 Vac 60 Hz.\nTres opciones de planchado.\nCuerpo y tanque fabricados en PBT y PP.\nSuperficie de planchado en aluminio con recubrimiento de pintura antiadherente que facilita el deslizamiento sobre las prendas.\nCable de alimentación de 1.8 metros, adecuado para uso ambidiestro.\nDispositivo de seguridad interior que previene incendios y daños al producto ante una falla del controlador de temperatura.\nSistema de vapor constante y spray, apta para planchado vertical.",
-    images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_884946-MLU73284813765_122023-O.webp",
-    category: "electrodomesticos",
-    sub_category: "planchas para ropa",
-  },
-  {
+   {
     product: "plancha seca universal",
     disponibilidad: true,
     descuento: false,
     id: 202,
-    price: "99,900",
+    price: "89,900",
     description:
       "Potencia: 1200 Watts, 120 Vac 60 Hz.\nCuerpo fabricado en baquelita que no alcanza altas temperaturas al tacto.\nSuela de planchado en aluminio completamente pulida que facilita el deslizamiento sobre las prendas.\nCable de alimentación de 1.8 metros de longitud.\nDispositivo de seguridad interior que previene incidentes si el controlador de temperatura falla.",
     images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/160774-800-auto?v=637297349377430000&width=800&height=auto&aspect=true",
+      "https://www.alkosto.com/medias/7702561406002-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxODkxOTN8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzBOQzlvWmpFdk9Ea3hNekEzTURRMU5qZzJNaTVxY0djfDljNmJjOGI5NzZmZDJjZDYxMjI0ZjQ2YjVhNTdiODczOWJlMTdjMGExMGIwMmNmZmFhMThiN2ZkNGQ1YWIyZWM",
     category: "electrodomesticos",
     sub_category: "planchas para ropa",
   },
-  {
-    product: "plancha a vapor extra liviana universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 203,
-    price: "89,900",
-    description:
-      "3 modos de planchado: vapor vertical, vapor constante y golpe de vapor\nOpción de planchado vertical\nPlaca antiadherente\nProtección de seguridad interior que evita incendio, daño del producto y de la ropa\nIncluye vaso plástico\nPotencia: 1200 W\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
-    images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/160830-800-auto?v=637297442787200000&width=800&height=auto&aspect=true",
-    category: "electrodomesticos",
-    sub_category: "planchas para ropa",
-  },
-  {
+   {
     product: "procesador manual 3 en 1 universal",
     disponibilidad: true,
     descuento: false,
@@ -3118,20 +3092,7 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "aspiradoras",
   },
-  {
-    product: "hidrolavadora 13000 psi karson",
-    disponibilidad: true,
-    descuento: false,
-    id: 262,
-    price: "275,000",
-    description:
-      "caudal max: 5 litros por minuto, alimentación alámbrica, 21cm x 17cm x 37cm",
-    images_url:
-      "https://homecenterco.scene7.com/is/image/SodimacCO/379159_1?wid=800&hei=800&qlt=70",
-    category: "electrodomesticos",
-    sub_category: "hidrolavadoras",
-  },
-  {
+    {
     product:
       "bombillo led plegable redondo maxi light ahorrador de energía luz blanca",
     disponibilidad: true,
@@ -3974,7 +3935,7 @@ export const database = [
     sub_category: "adaptadores",
   },
   {
-    product: "aspiradora de carro portatil",
+    product: "aspiradora de carro Cableada",
     disponibilidad: true,
     descuento: false,
     id: 329,
