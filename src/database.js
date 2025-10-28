@@ -2509,7 +2509,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 210,
-    price: "338,000",
+    price: "300,000",
     description:
       '6 litros de capacidad o 40 tazas (cada taza de 150 ml)\nCuerpo en acero inoxidable\nTapa plástica\nAsas laterales "cool touch"\nDosificador de liquido Medidas del producto\nLargo: 19 cm Ancho: 18.5 cm Alto: 42 cm\nPotencia : 950 W Frecuencia: 60 Hz Voltaje: 110-120 Vac',
     images_url:
@@ -2519,7 +2519,7 @@ export const database = [
   },
   {
     product: "cafetera 12 tazas 1.5 lts kalley",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 211,
     price: "199,000",
@@ -2545,7 +2545,7 @@ export const database = [
   },
   {
     product: "cafetera 4 tazas kalley",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 213,
     price: "109,000",
@@ -2561,7 +2561,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 214,
-    price: "104,900",
+    price: "99,000",
     description:
       "Cafetera percoladora Altezza de 1.5Lts.\nFondo interior recubierto en aluminio de fácil limpieza y desmontable.\nVertedero de corte interior que no permite la salida del agua hirviendo.\nCable removible.\nPrepara de 12 a 6 tazas de café manteniendo el sabor y temperatura adecuada.\nPotencia: 110V.",
     images_url:
@@ -2582,33 +2582,7 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "cafeteras",
   },
-  {
-    product: "cafetera clásica 12 tazas everhouse",
-    disponibilidad: true,
-    descuento: false,
-    id: 216,
-    price: "80,000",
-    description:
-      "Cafetera italiana.\nFuncionamiento: manual.\nSu capacidad es de 6 tazas.\nModo de uso muy sencillo e intuitivo.",
-    images_url:
-      "https://paracocina.com.co/wp-content/uploads/2019/06/cafetera-italiana.png",
-    category: "electrodomesticos",
-    sub_category: "cafeteras",
-  },
-  {
-    product: "cafetera clásica 6 tazas everhouse",
-    disponibilidad: false,
-    descuento: false,
-    id: 217,
-    price: "79,000",
-    description:
-      "Fabricadas en aluminio.\nAro difusor de calor.\nMango ergonómico en polipropileno.\nVálvula de seguridad.\nCompatible con estufas a gas, eléctricas, vitrocerámica e inducción.\nElaborado en materiales de alta calidad que garantizan su durabilidad.",
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/125175917_1?wid=800&hei=800&qlt=70",
-    category: "electrodomesticos",
-    sub_category: "cafeteras",
-  },
-  {
+      {
     product: "cafetera moka 9 tazas everhouse milan",
     disponibilidad: true,
     descuento: false,
@@ -2623,7 +2597,7 @@ export const database = [
   },
   {
     product: "cafetera clásica 9 tazas everhouse",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 219,
     price: "63,000",
@@ -2634,22 +2608,9 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "cafeteras",
   },
-  {
-    product: "cafetera milán everhouse 6 tazas",
-    disponibilidad: true,
-    descuento: false,
-    id: 220,
-    price: "59,000",
-    description:
-      "Cafetera clásica\nElaborada en aluminio pulido\nPartes desmontables\nVálvula de seguridad\nAro difusor de calor\nMango en baquelita\nElaborado en materiales de alta calidad que garantizan su durabilidad.",
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_124687347_4061341_1?wid=800&hei=800&qlt=70",
-    category: "electrodomesticos",
-    sub_category: "cafeteras",
-  },
-  {
+    {
     product: "cafetera express 300ml universal",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 221,
     price: "67,000",
@@ -2673,7 +2634,7 @@ export const database = [
   },
   {
     product: "cafetera francesa 350ml",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 223,
     price: "36,000",
