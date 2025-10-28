@@ -2314,7 +2314,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 193,
-    price: "256,000",
+    price: "229,000",
     description:
       "Potencia: 1400 Watts.\nVoltaje: 110-120 Vac.\nFrecuencia: 60 Hz.\nPlacas intercambiables con capa de antiadherente tipo grill (para sánduches y asados) y tipo waffles.\nCubierta superior con acabado en acero inoxidable.\nGancho de seguridad que facilita su almacenamiento.",
     images_url:
@@ -2331,7 +2331,7 @@ export const database = [
     description:
       "Cuenta con una potencia de 1000W y puede ser conectada a un tomacorriente de 120 Vac.\nTiene dos placas de aluminio tipo grill con recubrimiento antiadherente para evitar que el alimento se pegue.\nFabricado en plástico fenólico con cubierta en acero inoxidable.\nCuenta con un recolector plástico para grasas, bombillos pilotos indicadores de inicio y final de ciclo temperatura y un gancho de cierre seguro que mantiene cerradas las placas.",
     images_url:
-      "https://homecenterco.scene7.com/is/image/SodimacCO/557658_1?wid=800&hei=800&qlt=70",
+      "https://www.alkosto.com/medias/7702561873125-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDI1ODh8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGtZaTlvT1dJdk9UVXhOemt5TVRRek5UWTNPQzVxY0djfGUyOGI2ZmEzN2E1NTk3MDM3NGM0NGE1NzUzOWRhYWU0OTk5MzljYjliNDE3ZDdmYjQyZTM0NDgyOThiMTU4OWQ",
     category: "electrodomesticos",
     sub_category: "sanducheras y wafleras",
   },
@@ -2344,7 +2344,7 @@ export const database = [
     description:
       "Potencia: 750 Watts.\nVoltaje: 110-120 Vac.\nFrecuencia: 60 Hz.\nPlaca tipo grill y waffles intercambiables con 1 capa antiadherente que evita que los alimentos se peguen.\nCubierta superior con acabado en acero inoxidable.\nGancho de seguridad que facilita su almacenamiento.",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_120668773_2759463_1?wid=800&hei=800&qlt=70",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167806-800-auto?v=638845751404970000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "sanducheras y wafleras",
   },
@@ -2353,7 +2353,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 196,
-    price: "119,000",
+    price: "76,000",
     description:
       "760 watts de potencia\nPlanchas tipo Panini: sandwichera / asador - parrilla\nPlanchas antiadherentes: Evitan que los alimentos se peguen a la superficie\nIndicadores Luminosos: Señalan que el producto está encendido, (La Luz Roja indica que está en proceso de cocción y la Luz Verde se enciende cuando éste finaliza..)\nExterior en thermalplus negro (no se mancha con el uso)\nCompartimiento para el cable\nSistema de cierre con seguro desprendible",
     images_url:
@@ -2483,7 +2483,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 208,
-    price: "109,000",
+    price: "67,000",
     description:
       "Potencia 30W\nIncluye 2 tamaños de conos\nCapacidad 1 Litro\nSistema de rotación automática\n5 niveles de Filtrado",
     images_url:
@@ -2496,11 +2496,11 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 209,
-    price: "299,000",
+    price: "169,900",
     description:
       "Escariador ajustable con 3 configuraciones\nCono de exprimidor universal\nBoquilla Snap-Up extra larga\nDiseño de acero inoxidable cepillado\nCapacidad 3 Litros\nColector de pulpa desmontable\nPiezas aptas para lavavajillas\nSistema de Doble Rotación\nTapa tensora",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/1954919_1?wid=800&hei=800&qlt=70",
+      "https://pepeganga.vtexassets.com/arquivos/ids/1273065-800-auto?v=638949479943470000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "exprimidores",
   },
@@ -2904,7 +2904,7 @@ export const database = [
   },
   {
     product: "difusor de aromas 130 ml humidificador",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 246,
     price: "49,000",
