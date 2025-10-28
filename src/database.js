@@ -2223,7 +2223,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 179,
-    price: "491,000",
+    price: "350,000",
     description:
       "Potencia de 120W\nDiámetro hélice metálica de 45.72 cm\nTecnología permawick que mantiene auto lubricado el motor\n3 velocidades\nHélices metálicas\nPatas antideslizantes\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
@@ -2236,46 +2236,20 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 180,
-    price: "399,000",
+    price: "229,000",
     description:
       "Potencia de 90W\nTecnología permawick que mantiene auto lubricado el motor\nIncluye control remoto\nPanel de control touch screen\n3 velocidades\nHélice aerodinámica de 6 aspas\nRango de operación de hasta 6 mt\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/119695878_1?wid=800&hei=800&qlt=70",
+      "https://www.ktronix.com/medias/7702561756800-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wzMjA3NnxpbWFnZS93ZWJwfGFHTmtMMmhqT1M4eE5ETXpOakUzTmpJNU1UZzNNQzgzTnpBeU5UWXhOelUyT0RBd1h6QXdNVjgzTlRCWGVEYzFNRWd8NzEzNjFiYjU3NTUxYTdhNjlhMDU0NDY4YzZmM2E1MDBmNDY2NzRlOWZiNDgwMjlhMTI4YmM2ZDE4M2I5YTFiNQ",
     category: "electrodomesticos",
     sub_category: "ventiladores",
   },
-  {
-    product: 'ventilador fresh ultra 3 en 1 18" universal',
-    disponibilidad: true,
-    descuento: false,
-    id: 181,
-    price: "359,000",
-    description:
-      "Ventilador de 18 pulgadas 3 en 1 (Pedestal, pared y mesa)\nRejilla plástica frontal y rejilla metálica posterior\nHélice de 6 aspas aerodinámicas fabricadas en polipropileno\nBase de piso pesada para mayor estabilidad.\nEl ventilador cuenta con 3 velocidades bajo, medio y alto y\nLa dirección de flujo de aire es con oscilación horizontal.\nEl motor cuenta con la tecnología de lubricación constante “Permawick”\nPotencia de 100 Watts pero a su vez es muy silencioso.\nEs fácil de ensamblar y no requiere herramienta especializada.\n100 W, 120 Vac, 60 Hz",
-    images_url:
-      "https://i.linio.com/p/6f91be304897dfdef36fed4568858cb3-product.jpg",
-    category: "electrodomesticos",
-    sub_category: "ventiladores",
-  },
-  {
-    product: 'ventilador silence force plus 18" blanco samurai',
-    disponibilidad: true,
-    descuento: false,
-    id: 182,
-    price: "289,000",
-    description:
-      "Con el Ventilador SAMURAI Ultra Silence Force 2en1 podrás pasar largos periodos de tiempo con frescura y quietud, ya que está optimizado para acompañarte durante cada momento del día con sus 4 funciones y su innovador sistema de inclinación accionado por el botón lateral. Además, cuenta con oscilación horizontal de 90 grados para distribuir el aire en todos tus espacios.",
-    images_url:
-      "https://pepeganga.vtexassets.com/arquivos/ids/662372/125449841-1.png?v=637733706425500000",
-    category: "electrodomesticos",
-    sub_category: "ventiladores",
-  },
-  {
+      {
     product: "ventilador fresh de pared universal",
     disponibilidad: true,
     descuento: false,
     id: 183,
-    price: "283,900",
+    price: "239,000",
     description:
       "Potencia de 80W\nTecnología permawick que mantiene auto lubricado el motor\nSistema de oscilación\n3 velocidades\nHélice de 3 aspas\nHélice aerodinámica de 6 aspas\nIncluye base para pared y chazos\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
@@ -2283,46 +2257,7 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "ventiladores",
   },
-  {
-    product: 'ventilador 3 en 1 18" blanco kalley',
-    disponibilidad: true,
-    descuento: false,
-    id: 184,
-    price: "270,000",
-    description:
-      "Ventilador 3 en 1 que permite ubicarlo en la pared, piso o pedestal.\nPosee una mayor potencia para más flujo de aire y mayor confort.\nSistema de movimiento oscilatorio de 85° para una cobertura excelente.\nEstructura de plástico permite que sea fácil de guardar y de limpiar.\nModo Eco que permite el ahorro de energía.\nMarca: Kalley.  \nMaterial: Plastico.\nMedidas: Alto (135 cm) x Ancho (51.8 cm) x Largo (47.8 cm).\nPeso: 4.9 kg.\nColor: Blanco.",
-    images_url:
-      "https://gigantedelhogar.vtexassets.com/arquivos/ids/157282-800-auto?v=638339361490070000&width=800&height=auto&aspect=true",
-    category: "electrodomesticos",
-    sub_category: "ventiladores",
-  },
-  {
-    product: 'ventilador silence force 18" samurai',
-    disponibilidad: false,
-    descuento: false,
-    id: 185,
-    price: "252,000",
-    description:
-      "Su motor potente, durable y silencioso.\nCuenta con una tecnología exclusiva, lo que permite que las seis aspas aerodinámicas proporcionen un mayor flujo de aire.\nCuenta con un diseño práctico y sofisticado en color negro, ideal para cualquier espacio.\nCuenta con tres velocidades, las cuales se adaptan a las diferentes situaciones.\nSu malla frontal es removible, facilitando su limpieza.\nCuenta con un seguro sistema de inclinación vertical que se acciona por el botón lateral.\nCuenta con una oscilación horizontal de 90 grados para una óptima distribución del flujo de aire.\nLa altura es ajustable, es decir que permite un óptimo alcance de aire a la elevación que desees.\nEs hecho en Colombia.",
-    images_url:
-      "https://depositoabo.com/cdn/shop/files/158282-1200-auto_800x.webp?v=1695162151",
-    category: "electrodomesticos",
-    sub_category: "ventiladores",
-  },
-  {
-    product: 'ventilador ultra power 18" universal',
-    disponibilidad: true,
-    descuento: false,
-    id: 186,
-    price: "249,000",
-    description:
-      "Ventilador de 3 velocidades.\nPotencia de 90 W.\nIdeal para refrigerar.",
-    images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_683567-MCO32904979542_112019-O.webp",
-    category: "electrodomesticos",
-    sub_category: "ventiladores",
-  },
-  {
+      {
     product: 'ventilador 2 en 1 16" negro corona',
     disponibilidad: true,
     descuento: false,
@@ -2340,7 +2275,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 188,
-    price: "119,000",
+    price: "90,000",
     description:
       "Potencia de 40W\nRejillas y carcasa para motor de plástico\nHélice de 3 aspas\n3 velocidades\nRotación 180°\nPara mesa y pared\nDisponible en colores verde, morado y azul\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
     images_url:
@@ -2353,7 +2288,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 189,
-    price: "80,000",
+    price: "59,900",
     description:
       "Ventilador de escritorio, ideal para el hogar y la oficina, tiempo de trabajo prolongado, buen flujo de aire, silencioso, dos configuraciones, ventilador de enfriamiento personal.\nCompacto\nPortátil\nEléctrico\nMotor silencioso\n2 Velocidades",
     images_url:
@@ -2361,20 +2296,7 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "ventiladores",
   },
-  {
-    product: "ventilador de pedestal 18 pulgadas negro olimpo",
-    disponibilidad: true,
-    descuento: false,
-    id: 190,
-    price: "140,000",
-    description:
-      "Ventilador De Pedestal Olimpo 18 Pulgadas Negro OLSF-TGM-LF6B",
-    images_url:
-      "https://olimpica.vtexassets.com/arquivos/ids/1118977-800-auto?v=638235875163900000&width=800&height=auto&aspect=true",
-    category: "electrodomesticos",
-    sub_category: "ventiladores",
-  },
-  {
+    {
     product:
       "ventilador recargable de escritorio con portalápices colores varios",
     disponibilidad: true,
@@ -2387,20 +2309,7 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "ventiladores",
   },
-  {
-    product: 'ventilador de pedestal olimpo 18" negro',
-    disponibilidad: true,
-    descuento: false,
-    id: 192,
-    price: "139,925",
-    description:
-      "Ventilador De Pedestal Olimpo 18 Pulgadas Negro OLSF-TGM-LF6B",
-    images_url:
-      "https://olimpica.vtexassets.com/arquivos/ids/1118977-600-auto?v=638235875163900000&width=600&height=auto&aspect=true",
-    category: "electrodomesticos",
-    sub_category: "ventiladores",
-  },
-  {
+    {
     product: "sanduchera 3 en 1 4 puestos universal",
     disponibilidad: true,
     descuento: false,
@@ -11984,5 +11893,18 @@ export const database = [
       "https://www.alkosto.com/medias/053891175937-002-750Wx750H?context=bWFzdGVyfGltYWdlc3wyNzczNnxpbWFnZS93ZWJwfGFEQmpMMmc1WlM4eE5EWTVOalkxTmpnek1EUTVOQzh3TlRNNE9URXhOelU1TXpkZk1EQXlYemMxTUZkNE56VXdTQXw5YzUyZjIyMDQwODU5OGY3ZDgxNmY5YjQ4NWM5ODlkYzkxZjdjODUzZDJjYmYwZmRiZTA3ZjIxZTJhZTZiOTZj",
     category: "electrodomesticos",
     sub_category: "ollas freidoras",
+  },
+   {
+    product: "Ventilador DYNAMIC VENTO 3-1 16 Pulgadas Negro",
+    disponibilidad: true,
+    descuento: false,
+    id: 968,
+    price: "199,000",
+    description:
+      "Potencia de 60W\nTecnología permawick que mantiene auto lubricado el motor\nSistema de oscilación\n3 velocidades\nHélice de 6 aspas\nHélice aerodinámica de 6 aspas\nIncluye base para pared y chazos\nFrecuencia: 60 Hz\nVoltaje: 110 - 120 Vac",
+    images_url:
+      "https://www.ktronix.com/medias/7702561755452-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMjE4NHxpbWFnZS93ZWJwfGFESXdMMmd3WkM4eE5ETXpOakUzT0RNNE9UQXlNaTgzTnpBeU5UWXhOelUxTkRVeVh6QXdNVjgzTlRCWGVEYzFNRWd8MmNiMGRjOWI1YjJkZGU5YmVjYmNkM2Q4Njg3NjRjZTU3M2RjNjliYmM5YjhkZDRkYTFmZWUzMzJlZTMyYTA2Yg",
+    category: "electrodomesticos",
+    sub_category: "ventiladores",
   },
   ];
