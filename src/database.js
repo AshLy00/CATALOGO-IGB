@@ -2574,7 +2574,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 206,
-    price: "159,000",
+    price: "139,000",
     description:
       "Potencia 800 W\nTipos de horno Eléctrico\nTipo de montaje De mesa\nCapacidad en volumen 9 L\nControl de temperatura de 100 - 250°C\nIncluye Parrilla y Bandeja\nTemporizador 60 Minutos",
     images_url:
@@ -2587,7 +2587,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 207,
-    price: "104,000",
+    price: "79,000",
     description:
       "7 Niveles de tostado\nBotón para cancelar\nBandeja recolectora\nPotencia 750W\nFunción descongelar y recalentar",
     images_url:
@@ -3118,46 +3118,20 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "humidificadores y difusores",
   },
-  {
-    product: "batidor de mano universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 251,
-    price: "94,000",
-    description:
-      'Cuenta con aspas en acero inoxidables de excelente diseño\nRecipiente para guardar cable\nDos aspas en acero inoxidable \n150 watts de potencia \nBotón "Eject" para el desensamble de las cuchillas',
-    images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_977106-MCO43876921623_102020-O.webp",
-    category: "electrodomesticos",
-    sub_category: "batidoras",
-  },
-  {
+    {
     product: "batidora multiuso black & decker",
     disponibilidad: true,
     descuento: false,
     id: 252,
-    price: "204,000",
+    price: "180,000",
     description:
       "Voltaje: 120V\nFrecuencia: 60 Hz\nPotencia: 200 W\nCantidad de velocidades: 2\nNo es apto para picar hielo\nMaterial de la hoja: Acero inoxidable\nAccesorios incluidos:  Batidor, Bowl picador, Vaso medidor, Tapa para bowl picador",
     images_url:
-      "https://www.alkomprar.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-050875820586-001.jpg?context=bWFzdGVyfGltYWdlc3w5ODI0OHxpbWFnZS9qcGVnfGFHTmxMMmc0T0M4eE16WTBNVEV3TmpJeU56SXpNQzgzTlRCWGVEYzFNRWhmYldGemRHVnlMMmh2ZEdadmJHUmxjaTkwY21GdWMyWmxjaTlwYm1OdmJXbHVaeTlrWlhCdmMybDBMMmg1WW5KcGN5MXBiblJsY21aaFkyVnpMMGxPTDIxbFpHbGhMM0J5YjJSMVkzUXZNRFV3T0RjMU9ESXdOVGcyWHpBd01TNXFjR2N8MDAyMGNmOGVlMDhhN2Q2Y2NhNTM5ZDY0NWZiMTQ1ZTBiZGU4YjY3YzE0ZGQ1M2JjOWUyZjRkZDc4OTdmOThiMA",
+      "https://www.alkosto.com/medias/050875820586-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxODM5OHxpbWFnZS93ZWJwfGFEVmpMMmd4TkM4eE5ESTRNVGsxT0RRMU56TTNOQzh3TlRBNE56VTRNakExT0RaZk1EQXhYemMxTUZkNE56VXdTQXxjZWQ2MGI0YmM2ZDJmMDIyOGUzMjE0ZmFiY2ZkYjZiZjAzZWI0MWI4NDM5OTk2MDRhMjA1ZWViYzBmZWVlMWFi",
     category: "electrodomesticos",
     sub_category: "batidoras",
   },
-  {
-    product: "mezclador de bebidas universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 253,
-    price: "34,000",
-    description:
-      "Mezclador de bebidas con batería Incluye botón de encendido y apagado Cuenta con un batidor en acero inoxidable Requiere 2 baterías AA (No incluidas) Poner el batidor al fondo del vaso ya sumergido y mueva de arriba a abajo. Dimensiones básicas del producto • 22 x 4 x 4 cm",
-    images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/166054-800-auto?v=637853638793000000&width=800&height=auto&aspect=true",
-    category: "electrodomesticos",
-    sub_category: "batidoras",
-  },
-  {
+    {
     product: "freidora de aire 1.8 litros oster",
     disponibilidad: true,
     descuento: false,
