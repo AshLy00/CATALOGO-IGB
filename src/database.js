@@ -3982,7 +3982,7 @@ export const database = [
     description:
       "Aspiradora portátil para autos con conexión de 12V para enchufar en el encendedor. Cuenta con boquilla para aspirar en las zonas mas angostas de tu vehiculo.",
     images_url:
-      "https://falabella.scene7.com/is/image/Falabella/gsc_125884266_4364055_1?wid=1500&hei=1500&qlt=70",
+      "https://olimpica.vtexassets.com/arquivos/ids/1595105-800-auto?v=638967591020530000&width=800&height=auto&aspect=true",
     category: "accesorios para vehiculos",
     sub_category: "limpieza",
   },
