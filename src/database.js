@@ -3071,7 +3071,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 256,
-    price: "109,900",
+    price: "89,000",
     description:
       "Con una capacidad de 1.5 tazas (aproximadamente 375 ml), este Picatodo Chopper mix es la herramienta ideal para preparar porciones pequeñas o medianas. Su cable de 80 cm de largo te brinda más flexibilidad, facilitando el alcance de las tomas eléctricas.",
     images_url:
@@ -3105,38 +3105,12 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "ollas aroceras",
   },
-  {
-    product: "aspiradora de carro portatil",
-    disponibilidad: true,
-    descuento: false,
-    id: 259,
-    price: "156,000",
-    description:
-      "Funciona con 12v.\nIncluye 2 boquillas.\nIncluye cable flexible.\nIncluye Linterna Frontal incorporada\nFiltro Lavable\nInterruptor de encindido\nMangera de succión de 24 cms\nCepillo para la tapicería\nFácil de usar y limpiar.\nCompacto y ligero de llevar.\nLargo del cable 2metros y 15cm\nLargo del tubo: 28cm",
-    images_url:
-      "https://tinypic.host/images/2024/01/16/D_NQ_NP_723628-MCO32375493758_092019-O.webp",
-    category: "electrodomesticos",
-    sub_category: "aspiradoras",
-  },
-  {
-    product: "aspiradora magic duo 2 en 1 kalley",
-    disponibilidad: true,
-    descuento: false,
-    id: 260,
-    price: "156,000",
-    description:
-      "2 en 1 Ideal para el hogar y el automóvil\nIncluye boquilla para esquinas y ranuras\nFácil de armar y desarmar\nCapacidad de recolección de polvo 500ml\n90° de Inclinación",
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/127915485_1?wid=800&hei=800&qlt=70",
-    category: "electrodomesticos",
-    sub_category: "aspiradoras",
-  },
-  {
+     {
     product: "sopladora aspiradora 6 velocidades",
     disponibilidad: true,
     descuento: false,
     id: 261,
-    price: "146,000",
+    price: "113,000",
     description:
       "Soplador de mano eléctrico para limpieza de ordenador, limpiador de ordenador de 500W, soplado/recolección de polvo 2 en 1, ventilador de ventilación",
     images_url:
@@ -4004,7 +3978,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 329,
-    price: "62,000",
+    price: "42,000",
     description:
       "Aspiradora portátil para autos con conexión de 12V para enchufar en el encendedor. Cuenta con boquilla para aspirar en las zonas mas angostas de tu vehiculo.",
     images_url:
