@@ -2946,7 +2946,7 @@ export const database = [
     price: "49,000",
     description: "difusor de aromas 130 ml humidificador",
     images_url:
-      "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/a4052d22-95b5-4b1a-8967-3ffc684c1185.3f26f2192ca89dc8399daaf680fc5779.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "https://exitocol.vtexassets.com/arquivos/ids/10758093/difusor-de-aromas-130-ml-humidificador-aromaterapia-ultrason.jpg?v=637716434750170000",
     category: "electrodomesticos",
     sub_category: "humidificadores y difusores",
   },
