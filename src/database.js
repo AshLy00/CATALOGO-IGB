@@ -8647,42 +8647,16 @@ export const database = [
     category: "comedor",
     sub_category: "cubiertero",
   },
-  {
-    product: "olla de presión 13 litros  universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 719,
-    price: "319,000",
-    description:
-      "Cuerpo en aluminio de espesor 2.7 mm\nVálvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad. Pesa para mantener estable la presión a un valor nominal de 80KPa\nSistema de cierre autoajustable y hermético, para evitar fugas de presión\nMangos y asa en baquelita resistente al calor\nDos válvulas de seguridad para mayor tranquilidad\nSistema practipress para facilitar la evacuación del vapor interno de la olla",
-    images_url:
-      "https://www.alkosto.com/medias/7702561272300-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w2ODA0N3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaFlTOW9NVGt2TVRBME16QTVOVGt3TlRnNU56UXVhbkJufDllZDZhZDcyOWJmZTAxMTA5ZjA1Mzg4NWQyOTM1MmMyNGNmZDAzNzgxOGY1ZDU5N2ZhMDc1M2FiOGYxOWFjNjU",
-    category: "cocina",
-    sub_category: "ollas a presión",
-  },
-  {
-    product: "olla de presión 10 litros  universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 720,
-    price: "229,000",
-    description:
-      "Cuerpo en aluminio de espesor 2.7 mm\nVálvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad. Pesa para mantener estable la presión a un valor nominal de 80KPa\nSistema de cierre autoajustable y hermético, para evitar fugas de presión\nMangos y asa en baquelita resistente al calor\nDos válvulas de seguridad para mayor tranquilidad\nSistema practipress para facilitar la evacuación del vapor interno de la olla",
-    images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/162396-1200-auto?v=637551446612370000&width=1200&height=auto&aspect=true",
-    category: "cocina",
-    sub_category: "ollas a presión",
-  },
-  {
+      {
     product: "olla de presión 7 litros imusa",
     disponibilidad: true,
     descuento: false,
     id: 721,
-    price: "154,000",
+    price: "149,000",
     description:
       "Olla a presión con 3 sistemas de seguridad + Válvula controladora de presión",
     images_url:
-      "https://www.alkosto.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-7702073030443-001.jpg?context=bWFzdGVyfGltYWdlc3wxMjY4ODN8aW1hZ2UvanBlZ3xhRFpsTDJoaE5pOHhNemN6TWpZM09EZ3lPREEyTWk4M05UQlhlRGMxTUVoZmJXRnpkR1Z5TDJodmRHWnZiR1JsY2k5MGNtRnVjMlpsY2k5cGJtTnZiV2x1Wnk5a1pYQnZjMmwwTDJoNVluSnBjeTFwYm5SbGNtWmhZMlZ6TDBsT0wyMWxaR2xoTDNCeWIyUjFZM1F2Tnpjd01qQTNNekF6TURRME0xOHdNREV1YW5CbnwyNjhkYzVhZjM3MTJkZDA5NTRhZTJkZTNjZmM2Y2Y1NTY1OWVmZGEzYzQ3ZjcyMGI4MDNhYzVhNjM1ZDEzNTgy",
+      "https://www.alkosto.com/medias/7702073030443-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w5MDIyfGltYWdlL3dlYnB8YURRMEwyZzNPUzh4TkRVMk1UTXhNelU0TnpJek1DODNOekF5TURjek1ETXdORFF6WHpBd01WODNOVEJYZURjMU1FZ3wzMTk4ZjFiZGUxOTY0OTc0NjcyMmU5ZGIwYTJmYTFjNzM4NGNkYzgwYmVkNjQwYjliMGRmODQ3OTQyMzI4NWM3",
     category: "cocina",
     sub_category: "ollas a presión",
   },
@@ -8691,11 +8665,11 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 722,
-    price: "130,000",
+    price: "120,000",
     description:
       "Cuerpo en aluminio de espesor 2.0 mm\nCuenta con válvula de seguridad para garantizar el correcto funcionamiento y una máxima seguridad\nTiene pesa para mantener estable la presión a un valor nominal de 80 KPa\nViene con sistema de cierre autoajustable y hermético, para evitar fugas de presión\nMango en baquelita resistente al calor",
     images_url:
-      "https://electrobello.vtexassets.com/arquivos/ids/155777-800-auto?v=637734611632300000&width=800&height=auto&aspect=true",
+      "https://www.alkosto.com/medias/7702561264404-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDEwNnxpbWFnZS93ZWJwfGFERmlMMmhsTUM4eE5URTBORGs1TVRJNU16UTNNQzgzTnpBeU5UWXhNalkwTkRBMFh6QXdNVjgzTlRCWGVEYzFNRWd8YTA3YTk2OTU0NzQ1ZjVkOTM3ZDhhYWFhMGM5MzRlMjFiMjc2OTQ0NWVlMDBmZTA5YTZhODYxY2UxMWE1N2JmYg",
     category: "cocina",
     sub_category: "ollas a presión",
   },
@@ -8704,11 +8678,11 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 723,
-    price: "119,000",
+    price: "110,000",
     description:
       "Cuerpo en aluminio de 2 mm Tapa en aluminio de 1.8 mm\n3 Sistemas de seguridad\nse debe sellar manualmente cuando se haya evacuado toda la presión interna de la olla\nSistema auto ajustable que permite abrir y cerrar la olla con mayor facilidad, garantizando un cierre totalmente hermético",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119838169_2500315_1?wid=1500&hei=1500&qlt=70",
+      "https://i0.wp.com/facihogar.com.co/wp-content/uploads/2020/11/1-8.jpg?fit=1080%2C1080&ssl=1",
     category: "cocina",
     sub_category: "ollas a presión",
   },
@@ -8717,11 +8691,11 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 724,
-    price: "93,700",
+    price: "99,000",
     description:
       "Material: Aluminio.\nMedidas: Alto (18.6 cm) Ancho (24.1 cm) Largo (39.6 cm)\nPeso: 0.5 kg.\nColor: Plateado.",
     images_url:
-      "https://gigantedelhogar.vtexassets.com/arquivos/ids/159510-1200-auto?v=638188041349370000&width=1200&height=auto&aspect=true",
+      "https://media.falabella.com/sodimacCO/514803/w=1036,h=832,f=webp,fit=contain,q=85",
     category: "cocina",
     sub_category: "ollas a presión",
   },
@@ -11852,5 +11826,31 @@ export const database = [
       "https://www.alkosto.com/medias/050875820586-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxODM5OHxpbWFnZS93ZWJwfGFEVmpMMmd4TkM4eE5ESTRNVGsxT0RRMU56TTNOQzh3TlRBNE56VTRNakExT0RaZk1EQXhYemMxTUZkNE56VXdTQXxjZWQ2MGI0YmM2ZDJmMDIyOGUzMjE0ZmFiY2ZkYjZiZjAzZWI0MWI4NDM5OTk2MDRhMjA1ZWViYzBmZWVlMWFi",
     category: "electrodomesticos",
     sub_category: "procesadores de alimentos",
+  },
+  {
+    product: "olla de presión 6 litros corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 972,
+    price: "120,000",
+    description:
+      "Material: Aluminio.\nMedidas: Alto (22 cm) Ancho (22 cm) Largo (39 cm)",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/159510-1200-auto?v=638188041349370000&width=1200&height=auto&aspect=true",
+    category: "cocina",
+    sub_category: "ollas a presión",
+  },
+  {
+    product: "olla de presión 13 litros corona",
+    disponibilidad: true,
+    descuento: false,
+    id: 973,
+    price: "249,000",
+    description:
+      "Material: Aluminio.\nMedidas: Alto (32 cm) Ancho (27 cm) Largo (46 cm)",
+    images_url:
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/159417-800-auto?v=638790370742630000&width=800&height=auto&aspect=true",
+    category: "cocina",
+    sub_category: "ollas a presión",
   },
   ];
