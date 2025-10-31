@@ -11708,7 +11708,7 @@ export const database = [
     description:
       "Brocha para Cocina y Repostería Universal\nMedidas:\nLargo Total: 20 cm\nLargo del Mango 13 cm\nAncho: 4 cm",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_126763290_4681205_1?wid=1500&hei=1500&qlt=70",
+      "https://images.rappi.com/products/f355cb5f-d452-4641-bff7-3d758e3cd2d9.png?d=900x750&e=webp&q=30",
     category: "cocina",
     sub_category: "brochas de cocina",
   },
