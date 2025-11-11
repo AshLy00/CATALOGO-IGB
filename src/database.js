@@ -2259,7 +2259,7 @@ export const database = [
   },
       {
     product: 'ventilador 2 en 1 16" negro corona',
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 187,
     price: "210,000",
@@ -2513,16 +2513,16 @@ export const database = [
     description:
       '6 litros de capacidad o 40 tazas (cada taza de 150 ml)\nCuerpo en acero inoxidable\nTapa plástica\nAsas laterales "cool touch"\nDosificador de liquido Medidas del producto\nLargo: 19 cm Ancho: 18.5 cm Alto: 42 cm\nPotencia : 950 W Frecuencia: 60 Hz Voltaje: 110-120 Vac',
     images_url:
-      "https://luegopago.blob.core.windows.net/temporary/161968-1200-auto.jpg",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/161969-800-auto?v=637504776824300000&width=800&height=auto&aspect=true",
     category: "electrodomesticos",
     sub_category: "cafeteras",
   },
   {
     product: "cafetera 12 tazas 1.5 lts kalley",
-    disponibilidad: false,
+    disponibilidad: true,
     descuento: false,
     id: 211,
-    price: "199,000",
+    price: "155,000",
     description:
       "Capacidad: 1.5 Lts / 12 tazas\nPotencia: 900W\nJarra: Vidrio\nMantiene caliente: si\nAccesorios: Cuchara medidora, Filtro permanente",
     images_url:
@@ -2899,7 +2899,7 @@ export const database = [
     description: "lampara luna humidificador luz led colores + base madera",
     images_url:
       "https://cdnx.jumpseller.com/gestell-technology/image/34218828/resize/1200/1200?1681787414",
-    category: "electrodomesticos",
+    category: "hogar",
     sub_category: "humidificadores y difusores",
   },
   {
@@ -2911,7 +2911,7 @@ export const database = [
     description: "difusor de aromas 130 ml humidificador",
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/10758093/difusor-de-aromas-130-ml-humidificador-aromaterapia-ultrason.jpg?v=637716434750170000",
-    category: "electrodomesticos",
+    category: "hogar",
     sub_category: "humidificadores y difusores",
   },
   {
@@ -2923,7 +2923,7 @@ export const database = [
     description: "difusor de aromas 130 ml humidificador",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_2X_826032-MLA92778454605_092025-F.webp",
-    category: "electrodomesticos",
+    category: "hogar",
     sub_category: "humidificadores y difusores",
   },
   {
@@ -2935,7 +2935,7 @@ export const database = [
     description: "difusor de aromas 300 ml humidificador",
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/7516396/difusor-de-aroma-humidificador-de-ambiente-300-ml-madera-clara.jpg?v=637558459508670000",
-    category: "electrodomesticos",
+    category: "hogar",
     sub_category: "humidificadores y difusores",
   },
   {
@@ -2947,7 +2947,7 @@ export const database = [
     description: "difusor de aromas 130 ml humidificador",
     images_url:
       "https://exitocol.vtexassets.com/arquivos/ids/10758093/difusor-de-aromas-130-ml-humidificador-aromaterapia-ultrason.jpg?v=637716434750170000",
-    category: "electrodomesticos",
+    category: "hogar",
     sub_category: "humidificadores y difusores",
   },
   {
@@ -2959,7 +2959,7 @@ export const database = [
     description: "difusor de aromas 300 ml humidificador",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_807316-MLC51169194218_082022-O.webp",
-    category: "electrodomesticos",
+    category: "hogar",
     sub_category: "humidificadores y difusores",
   },
     {
@@ -3016,7 +3016,7 @@ export const database = [
   },
   {
     product: "horno microondas 20 litros kalley",
-    disponibilidad: false,
+    disponibilidad: true,
     descuento: false,
     id: 257,
     price: "305,000",
@@ -11852,5 +11852,44 @@ export const database = [
       "https://gigantedelhogar.vtexassets.com/arquivos/ids/159417-800-auto?v=638790370742630000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas a presión",
+  },
+  {
+    product: "Estufa de Mesa Haceb Eléctrica 2 Puestos",
+    disponibilidad: true,
+    descuento: false,
+    id: 974,
+    price: "179,000",
+    description:
+      "Estufa de Mesa Haceb Eléctrica 2 Puestos, Resistencia eléctrica tubular de gran eficiencia, Perillas ergonómicas para mejor control, Zona antiderrames para una mejor limpieza, Con acabado en esmalte porcelanizado de fácil limpieza, Resistente a altas temperaturas, Se acomoda en cualquier espacio de tu cocina, así es la cocineta eléctrica de 2 puestos HACEB. Cocina las mejores recetas gracias a su resistencia tubular de mayor eficiencia y garantiza la temperatura ideal. Además, sus acabados en porcelanizado y zona de encharque te permiten fácil limpieza. ¡Llévala a casa!",
+    images_url:
+      "https://hacebco.vtexassets.com/arquivos/ids/157471-1600-1600?v=636815349241570000&width=1600&height=1600&aspect=true",
+    category: "electrodomesticos",
+    sub_category: "estufas electricas",
+  },
+    {
+    product: 'Ventilador Comfort maxx Plus 2en1 Samurai negro',
+    disponibilidad: true,
+    descuento: false,
+    id: 975,
+    price: "229,000",
+    description:
+      'Ventilador Comfort maxx Plus 2en1 Samurai negro, Mallas, hélice y motor que máximizan la frescura, Altura ajustable para mayor comodidad, Piezas plásticas para una limpieza fácil, Diseño práctico para un ensamblaje sencillo, Oscilación de 90º para mayor distribución de aire, ¡Disfruta de la frescura máxima con el Comfort Maxx 2en1! Experimenta un flujo de aire potente gracias a su innovador diseño de mallas, diseñado para llevarte al siguiente nivel de frescura. Versátil y práctico, este ventilador se adapta perfectamente a tus necesidades, ya sea como ventilador de pedestal o montado en la pared. Con su oscilación horizontal de 90°, garantiza una cobertura completa en toda la habitación. ¿Qué esperas para tener el tuyo?',
+    images_url:
+      "https://groupesebcol.vtexassets.com/arquivos/ids/166495/5861032598-1.jpg?v=638161479196600000&width=338&height=338&aspect=true-338-338",
+    category: "electrodomesticos",
+    sub_category: "ventiladores",
+  },
+   {
+    product: 'Ventilador SAMURAI Turbo Power Pared Negro',
+    disponibilidad: true,
+    descuento: false,
+    id: 976,
+    price: "189,000",
+    description:
+      'Ventilador SAMURAI Turbo Power Pared Negro, Potente flujo de aire con un bajo nivel de ruido, Cuenta con 3 velocidades para cada necesidad, Motor con bujes autolubricados para mayor durabilidad, Moderno y potente diseño, Fácil de armar y desarmar para limpiarlo fácilmente, ¡El ventilador que tu habitación necesita! Si te encanta dormir con frescura y descansar al máximo, nuestro Ventilador de Pared SAMURAI Turbo Power es perfecto para ti. Este ventilador, gracias a su fácil acople en la pared, no ocupará espacio y te permitirá refrescarte al máximo. Sus 3 velocidades son ideales para que lo uses según tus necesidades y cuenta con un sistema de oscilación horizontal automática para que cubra toda tu habitación. Su malla frontal removible permite una fácil limpieza. Cuenta con una garantía de 2 años y el respaldo de la marca SAMURAI. ¡Adquiere el tuyo aquí!',
+    images_url:
+      "https://www.alkosto.com/medias/7702073292001-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w2NTcxNnxpbWFnZS93ZWJwfGFHVXlMMmcxTXk4eE5EazBORE0yTVRBeU1UUTNNQzgzTnpBeU1EY3pNamt5TURBeFh6QXdNVjgzTlRCWGVEYzFNRWd8NDU4N2I1YmRiN2E4ZDFiYmZjZThmNDFmMzAzOWZkNmJiMTA2ZTBmYzRiZWQwYjU4ZmU1YTU4MTUyZDY3NTdhOQ",
+    category: "electrodomesticos",
+    sub_category: "ventiladores",
   },
   ];
