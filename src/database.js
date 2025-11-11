@@ -8804,7 +8804,7 @@ export const database = [
     sub_category: "sartenes",
   },
   {
-    product: "sartén artik 28cm universal",
+    product: "sartén artik 28cm universal + Tapa de Vidrio",
     disponibilidad: true,
     descuento: false,
     id: 733,
@@ -8824,7 +8824,7 @@ export const database = [
     price: "84,000",
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado panel.\nMango y asa en baquelita resistente al calor.\nTapa en vidrio templado\nPomo en baquelita.\nIdeal para preparar comidas saludables y bajas en grasa.\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base.\nCapacidad nominal: 3.4L\nMedidas con pesa ensamblada: Largo 53 cm x Ancho: 30.7 cm x Alto: 11.7 cm",
-    images_url: "https://tinypic.host/images/2024/01/15/L37223-2.png",
+    images_url: "https://media.falabella.com/falabellaCO/44833971_1/w=800,h=800,fit=pad",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -8871,7 +8871,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 738,
-    price: "64,000",
+    price: "54,000",
     description:
       "Cuenta con Termo Señal, un indicador que cambiar de color y muestra el momento justo para comenzar a cocinar\nTiene Base difusora que conserva el calor de forma homogénea para preparaciones en su punto\nsu Mango es MÁS ROBUSTOS para un mejor agarre y seguridad al momento de tener contacto con ella\nantiadherente Triforce Gold",
     images_url:
@@ -8880,7 +8880,7 @@ export const database = [
     sub_category: "sartenes",
   },
   {
-    product: "sartén artik 24cm 7 ultra antiadherente universal",
+    product: "sartén artik 24cm 7 ultra antiadherente universal + Tapa de Vidrio",
     disponibilidad: true,
     descuento: false,
     id: 739,
@@ -9041,7 +9041,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 751,
-    price: "35,000",
+    price: "31,500",
     description:
       "Aluminio De 1,2 Mm\nCuerpo En Aluminio Recubierto En El Interior Con Antiadherente\nMango En Baquelita Resistente Al Calor\nIdeal Para Preparar Comidas Saludables Y Bajas En Grasa\nFondo Grafilado Para Mayor Estabilidad Al Cocinar Y Mejor Distribución De Calor En La Base",
     images_url:
