@@ -8713,7 +8713,7 @@ export const database = [
     sub_category: "sartenes",
   },
   {
-    product: "sartén artik 24cm universal",
+    product: "sartén artik 24cm universal + Tapa de Vidrio",
     disponibilidad: true,
     descuento: false,
     id: 726,
@@ -8842,12 +8842,12 @@ export const database = [
     sub_category: "sartenes",
   },
   {
-    product: "sarten antiadherente 6 ultra universal",
+    product: "sarten antiadherente 18 Cm 6 ultra universal",
     disponibilidad: true,
     descuento: false,
     id: 736,
     price: "43,000",
-    description: "sarten antiadherente 6 ultra universal",
+    description: "sarten antiadherente Cm 6 ultra universal",
     images_url:
       "https://marketrcn.vtexassets.com/arquivos/ids/1381286/image-37000de7d5e74584bde8ce769fc373c5.jpg?v=638048206533130000",
     category: "cocina",
@@ -8937,7 +8937,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 743,
-    price: "57,000",
+    price: "51,000",
     description:
       "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar\nmejor distribución de calor en la base",
     images_url:
@@ -8980,7 +8980,7 @@ export const database = [
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la bas",
     images_url:
-      "https://www.distribucionescaldas.com/wp-content/uploads/2020/08/SARTEN-6-ULTRATAPA-VIDRIO-18CM-UNIVERSAL_01.jpg",
+      "https://gigantedelhogar.vtexassets.com/arquivos/ids/157399-800-auto?v=638180320584700000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "sartenes",
   },
@@ -9028,7 +9028,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 750,
-    price: "34,000",
+    price: "29,000",
     description:
       "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base\ntamaño: 18 cm de ancho 24 cm de ancho 28 cm de ancho",
     images_url:
@@ -10137,7 +10137,7 @@ export const database = [
     description:
       "Mango de baquelita de diseño ergonómico para mayor comodidad y seguridad\nAdecuado para calentar salsas, salsas, mantequilla, leche o chocolate derretido.\nPequeño y duradero, no ocupa demasiado espacio\nAntiescaldadura sartén antiadherente, el revestimiento interior es revestimiento antiadherente",
     images_url:
-      "https://tinypic.host/images/2024/01/16/157b2c03-1806-4413-84cc-c3a323c6c4ab.136357af85a3291bc3fba57e6601470a.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_926054-MCO85352366839_052025-F.webp",
     category: "cocina",
     sub_category: "peroles",
   },
@@ -10162,7 +10162,7 @@ export const database = [
     description:
       "Cuerpo en aluminio con antiadherente de espesor 1 mm\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base. Garantía de 1 año\nMango en baquelita resistente al calor",
     images_url:
-      "https://www.distribucionescaldas.com/wp-content/uploads/2020/09/PEROL-ALIADA-10CM-UNIVERSAL_01.jpg",
+      "https://www.alkosto.com/medias/7702561371003-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDgxMnxpbWFnZS93ZWJwfGFHUTBMMmczTnk4eE5ETTJORFEyTVRZeU9UUTNNQzgzTnpBeU5UWXhNemN4TURBelh6QXdNVjgzTlRCWGVEYzFNRWd8NDIxMDZlZGUwMjNkOGYwYzI0ZDdlYjc3MzBjNzczYjZiYTFlOGYwMjEyYTQxNGE3MzcxYWZlMmMwNjRiYjM0MQ",
     category: "cocina",
     sub_category: "peroles",
   },
