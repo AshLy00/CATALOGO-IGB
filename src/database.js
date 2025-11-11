@@ -8901,7 +8901,7 @@ export const database = [
     description:
       "Sartén 18 cm Antiadherente\nSartén 20 cm Antiadherente\nSartén 24 cm Antiadherente\nInterior con 4 capas de Antiadherente\nMango en Baquelita, Resistente al Calor\nAcabado Exterior con pintura Metalizada",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119696302_2446802_1?wid=800&hei=800&qlt=70",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_732969-MCO72461767975_102023-F.webp",
     category: "cocina",
     sub_category: "sartenes",
   },
