@@ -8828,20 +8828,7 @@ export const database = [
     category: "cocina",
     sub_category: "sartenes",
   },
-  {
-    product: "sartén talent master deluxe antiadherente 24cm imusa",
-    disponibilidad: false,
-    descuento: false,
-    id: 735,
-    price: "74,000",
-    description:
-      "Cuenta con Termo Señal, un indicador que cambiar de color y muestra el momento justo para comenzar a cocinar\nTiene Base difusora que conserva el calor de forma homogénea para preparaciones en su punto\nSus Mangos con MÁS ROBUSTOS para un mejor agarre y seguridad al momento de tener contacto con ella\nTiene un espesor de 2 milímetros\nMaterial: Aluminio / Antiadherente Triforce Gold \nAlto: 9.5 40.8cm Ancho: 24.6cm Largo: 40 cm",
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/11565626_1?wid=800&hei=800&qlt=70",
-    category: "cocina",
-    sub_category: "sartenes",
-  },
-  {
+    {
     product: "sarten antiadherente 18 Cm 6 ultra universal",
     disponibilidad: true,
     descuento: false,
