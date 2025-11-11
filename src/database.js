@@ -8892,20 +8892,7 @@ export const database = [
     category: "cocina",
     sub_category: "sartenes",
   },
-  {
-    product: "juego x3 sartenes 18cm 20cm 24cm universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 741,
-    price: "60,000",
-    description:
-      "Sartén 18 cm Antiadherente\nSartén 20 cm Antiadherente\nSartén 24 cm Antiadherente\nInterior con 4 capas de Antiadherente\nMango en Baquelita, Resistente al Calor\nAcabado Exterior con pintura Metalizada",
-    images_url:
-      "https://http2.mlstatic.com/D_NQ_NP_2X_732969-MCO72461767975_102023-F.webp",
-    category: "cocina",
-    sub_category: "sartenes",
-  },
-  {
+    {
     product:
       "sartén talent master deluxe antiadherente 18cm + tapa de vidrio imusa",
     disponibilidad: true,
