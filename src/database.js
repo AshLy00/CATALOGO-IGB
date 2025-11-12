@@ -9102,7 +9102,7 @@ export const database = [
     sub_category: "woks",
   },
   {
-    product: "wok 6 ultra 24cm universal",
+    product: "Wok 6 ultra 24cm universal SIN TAPA",
     disponibilidad: true,
     descuento: false,
     id: 758,
@@ -9110,7 +9110,7 @@ export const database = [
     description:
       "Aluminio de 1.6 mm\nCuerpo en aluminio recubierto en el interior con antiadherente estampado 6 ultra\nMango en Baquelita resistente al calor\nTapa en vidrio templado de espesor 1 mm\nPomo en polipropileno\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
     images_url:
-      "https://tinypic.host/images/2024/01/15/images-removebg-preview.png",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/168522-800-auto?v=638824015019100000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "woks",
   },
@@ -9123,20 +9123,20 @@ export const database = [
     description:
       "Aluminio de 1.6 mm\nTapa de vidrio\nCuerpo en antiadherente\nMango en baquelita\nCapacidad: 2 litros\nColor: Negro",
     images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/156845-800-auto?v=636251605830070000&width=800&height=auto&aspect=true",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167730-1600-auto?v=638610784848800000&width=1600&height=auto&aspect=true",
     category: "cocina",
     sub_category: "woks",
   },
   {
     product: "sartén wok antiadherente 30cm universal",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 760,
     price: "89,000",
     description:
       "Aluminio de alta pureza de 2.7 mm\nRecubrimiento antiadherente interior de mayor resistencia\nMango en acero inoxidable\n4 remaches que sujetan el mango proporcionando mayor resistencia",
     images_url:
-      "https://dotacionesromil.com/wp-content/uploads/2022/09/Wok_Universal.jpg",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/158662-800-auto?v=636873244397600000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "woks",
   },
@@ -11865,5 +11865,18 @@ export const database = [
       "https://www.alkosto.com/medias/7702073292001-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w2NTcxNnxpbWFnZS93ZWJwfGFHVXlMMmcxTXk4eE5EazBORE0yTVRBeU1UUTNNQzgzTnpBeU1EY3pNamt5TURBeFh6QXdNVjgzTlRCWGVEYzFNRWd8NDU4N2I1YmRiN2E4ZDFiYmZjZThmNDFmMzAzOWZkNmJiMTA2ZTBmYzRiZWQwYjU4ZmU1YTU4MTUyZDY3NTdhOQ",
     category: "electrodomesticos",
     sub_category: "ventiladores",
+  },
+  {
+    product: "Wok 30 cm UNIVERSAL Aluminio con Tapa Vidrio Ambar",
+    disponibilidad: true,
+    descuento: false,
+    id: 977,
+    price: "89,900",
+    description:
+      "Wok 30 cm UNIVERSAL Aluminio con Tapa Vidrio Ambar, Fondo garfilado, Color y diseño vibrante, Con 5.500 ciclos de abrasión, Tonalidad de Color Bronce, Capacidad 3.9 Litros, Medidas (Alto X Ancho X Fondo) Cms 15.5 x 30.5 x 38 cm, Apto Para Estufas de Gas, Apto Para Estufas Eléctricas Con Fondo Difusor, Llena de estilo tu cocina con la colección ambar de UNIVERSAL. El wok 30 cm con tapa de vidrio es el complemento ideal para tus recetas. Fabricado en aluminio, es excelente conductor de calor y más resistente a la corrosión. Consciente a los que más quieres con las mejores recetas, saltea, fríe y mucho más. Cuenta con 5 capas de antiadherente ideal para que nada se le pegue, logrando así preparaciones más saludables para ti y toda tu familia. ¡Encuéntralo aquí!",
+    images_url:
+      "https://www.alkosto.com/medias/7702561490704-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w3NzYwfGltYWdlL3dlYnB8YUdRNUwyZ3lOQzh4TlRFeE16Y3pPVE13TkRrNU1DODNOekF5TlRZeE5Ea3dOekEwWHpBd01WODNOVEJYZURjMU1FZ3w5ZTYxNTVhYTRjNjY3ZmM2ZjdjYzQ5ZTliMjVjYzMzYWNhNGU4YTYyNjg1YzRjNGY3NTNiY2VhZWU4ZTVmMGYx",
+    category: "cocina",
+    sub_category: "woks",
   },
   ];
