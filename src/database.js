@@ -9188,7 +9188,7 @@ export const database = [
     description:
       "Fabricada en aluminio de alta pureza\nCuenta 6 capas antiadherente\nSu antiadherente tipo panel altamente es resistente \nMangos en baquelita resistentes al calor con sistema de fácil limpieza \nBase Grafilada con mejor distribución de calor y protección de la pintura\nPintura antiflama que no cambia de color con el calor y su acabado es metalizado\nno se sobrecalienta en un solo lado\nMayor profundidad en los cuerpos de los sartenes\nTextura 6 Ultra con diseño Italiano",
     images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/167005-1200-auto?v=638392032906400000&width=1200&height=auto&aspect=true",
+      "https://olimpica.vtexassets.com/arquivos/ids/807270-800-auto?v=637859969223500000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -9227,7 +9227,7 @@ export const database = [
     description:
       "Cuerpo en aluminio de 2.7 mm de espesor\nTapa en aluminio de 1.8 mm de espesor\nAsas en acero inoxidable ensambladas con remaches de aluminio\nCapacidad 9 litros\nMedidas: 34.5 x 18 x 19.5 cm",
     images_url:
-      "https://dotacionesromil.com/wp-content/uploads/2022/11/L49413_universal.jpg",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/159360-800-auto?v=637027012605200000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -9267,19 +9267,6 @@ export const database = [
       "Cuerpo en aluminio antiadherente de 1.8 mm\nAsas y pomo en baquelita Tapa en vidrio templado de espesor 4 mm\nSistema LPC que indica la temperatura ideal para comenzar con la cocción de los alimentos\nFondo grafilado para mayor estabilidad al cocinar",
     images_url:
       "https://www.alkosto.com/medias/7702561373038-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNTI3NDZ8aW1hZ2UvanBlZ3xhRE01TDJobFppOHhNelEyT1RZeE1ESTNPRGswTWk4M056QXlOVFl4TXpjek1ETTRYekF3TVY4M05UQlhlRGMxTUVnfDdiY2Y5ZDcwYjUxNTcwY2M1ZjJhMDdlODExNWE1MmYwMDI3OTZhNjM4NDBhODgzMDQyMzc2YWE1ZDM5YzgxMTA",
-    category: "cocina",
-    sub_category: "ollas",
-  },
-  {
-    product: "olla aliada 24cm + tapa de vidrio universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 771,
-    price: "75,000",
-    description:
-      "Aluminio de 1.2 mm\nCuerpo en aluminio recubierto en el interior con antiadherente\nMango en Baquelita resistente al calor\nIdeal para preparar comidas saludables y bajas en grasa\nFondo grafilado para mayor estabilidad al cocinar y mejor distribución de calor en la base",
-    images_url:
-      "https://jumbocolombiaio.vtexassets.com/arquivos/ids/225128-1200-1200?v=637816535378670000&width=1200&height=1200&aspect=true",
     category: "cocina",
     sub_category: "ollas",
   },
@@ -9846,7 +9833,7 @@ export const database = [
     sub_category: "baterias de cocina",
   },
   {
-    product: "bateria de ollas 10 piezas universal",
+    product: "bateria de ollas 10 piezas universal con Tapa de Vidrio",
     disponibilidad: true,
     descuento: false,
     id: 815,
@@ -9854,7 +9841,7 @@ export const database = [
     description:
       "juego de ollas universal de 10 piezas en Aluminio\n14cm o 1.4litros\n16cm o 1.9litros\n18cm o 2.6litros\n20cm o 3.4litros\n24cm o 5.2litros\nTodas las 5 ollas vienen con su tapa de vidrio con válvula reguladora de presión",
     images_url:
-      "https://i.linio.com/p/e707d0bc39c06bd82e498435ae45df3d-product.jpg",
+      "https://media.falabella.com/falabellaCO/130315632_01/w=1500,h=1500,fit=pad",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
