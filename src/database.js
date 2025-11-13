@@ -9435,7 +9435,7 @@ export const database = [
     description:
       "Cuerpo elaborado en aluminio fundido de alta calidad\nAsas grandes para mejor agarre y seguridad al transporte\nAcabado Interior brillo perlado",
     images_url:
-      "https://www.alkosto.com/medias/7702561790392-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNzg5Mjh8aW1hZ2UvanBlZ3xhREJqTDJoallTOHhNek0xTnpBd056WTVPVGs1T0M4M056QXlOVFl4Tnprd016a3lYekF3TVY4M05UQlhlRGMxTUVnfDM2YjIzYTkxY2FiODM0ODM5MzBlMGRhYTNkYWY0ZDVkZjg2ZWI5ZjY0OTYxMTJmNzEwYTc4MWRhOWMxMDczNmI",
+      "https://www.alkosto.com/medias/7702561790392-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNTcyOHxpbWFnZS93ZWJwfGFHRTFMMmc0WkM4eE5ETXpNak16TXpVMU5UYzBNaTgzTnpBeU5UWXhOemt3TXpreVh6QXdNVjgzTlRCWGVEYzFNRWd8ZjM5MzkyODg0YjkxOWJiMDM2MmMwYjVhMDRmZjgyZTBhYThjMTc4YjRhM2NhZTM4N2EwMDNjN2UwMTJiYThlOQ",
     category: "cocina",
     sub_category: "calderos",
   },
