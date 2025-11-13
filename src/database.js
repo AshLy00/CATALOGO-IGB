@@ -395,13 +395,13 @@ export const database = [
     sub_category: "piscinas",
   },
   {
-    product: "floatdor inflable ballena azul 160cm x 152cm intex",
+    product: "flotador inflable ballena azul 160cm x 152cm intex",
     disponibilidad: true,
     descuento: false,
     id: "033",
     price: "69,000",
-    description: "floatdor inflable ballena azul 160cm x 152cm intex",
-    images_url: "https://tinypic.host/images/2024/01/19/image-32.png",
+    description: "flotador inflable ballena azul 160cm x 152cm intex",
+    images_url: "https://colombiaintex.com.co/wp-content/uploads/2020/12/58523-3.jpg",
     category: "piscinas y accesorios",
     sub_category: "flotadores",
   },
@@ -9834,7 +9834,7 @@ export const database = [
   },
   {
     product: "set x4 cuchillos en acero kalley",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 817,
     price: "46,000",
@@ -9859,7 +9859,7 @@ export const database = [
     sub_category: "cuchillos",
   },
   {
-    product: "set x5 cuchillos + base universal",
+    product: "set x5 cuchillos en ACERO + base universal",
     disponibilidad: true,
     descuento: false,
     id: 819,
@@ -9867,7 +9867,7 @@ export const database = [
     description:
       'Incluye:\n1 cuchillo chef 8"\n1 cuchillo pan 8"\n1 cuchillo multiusos 7.5"\n1 cuchillo deshuesador 4.5"\n1 cuchillo pelar 3.5"\nBase de plastico antideslizante\nPiezas en acero Inoxidable',
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119696197_2446956_1?wid=1500&hei=1500&qlt=70",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167422-1600-auto?v=638563347759200000&width=1600&height=auto&aspect=true",
     category: "cocina",
     sub_category: "cuchillos",
   },
@@ -9884,12 +9884,12 @@ export const database = [
     sub_category: "cuchillos",
   },
   {
-    product: "set x4 cuchillos ultra universal",
+    product: "set x4 cuchillos ultra universal hoja en Acero Inoxidable",
     disponibilidad: true,
     descuento: false,
     id: 821,
     price: "28,000",
-    description: "set x4 cuchillos ultra universal",
+    description: "set x4 cuchillos ultra universal, hoja en acero inoxidable, Mango Plastico, Incluye 4 cuchillos 1 cuchillo para pelar de 3 Pulg, 1 cuchillo para asados de 4.5 pulg, 1 cuchillo multiusos de 5 pulg, 1 cuchillo Chef de 6 pulg ",
     images_url:
       "https://hogaruniversal.vtexassets.com/arquivos/ids/161676-800-auto?v=637439041886400000&width=800&height=auto&aspect=true",
     category: "cocina",
@@ -9900,8 +9900,8 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 822,
-    price: "28,000",
-    description: "set x4 cuchillos incametal",
+    price: "23,000",
+    description: "set x4 cuchillos incametal, hoja en acero inoxidable, Mango Plastico, Incluye 4 cuchillos 1 cuchillo para pelar de 3 Pulg, 1 cuchillo para frutas y verduras de 5 pulg, 1 cuchillo multiusos de 6 pulg, 1 cuchillo Chef de 6 pulg",
     images_url:
       "https://http2.mlstatic.com/D_NQ_NP_877123-MCO43043871018_082020-O.webp",
     category: "cocina",
@@ -9909,7 +9909,7 @@ export const database = [
   },
   {
     product: "juego de cuchillos chef",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 823,
     price: "55,000",
@@ -9927,7 +9927,7 @@ export const database = [
     price: "16,000",
     description: "Cuchillo Multiusos Brazileiro Incametal 8",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119275869_2283516_1?wid=800&hei=800&qlt=70",
+      "https://almacencoogranada.com/wp-content/uploads/2023/02/24.jpg",
     category: "cocina",
     sub_category: "cuchillos",
   },
