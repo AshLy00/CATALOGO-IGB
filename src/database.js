@@ -9488,7 +9488,7 @@ export const database = [
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nAcabados: Interior brillo perlado\nCapacidad: 1 libra de arroz cocido/1.7 litros",
     images_url:
-      "https://homecenterco.scene7.com/is/image/SodimacCO/582243_01?wid=800&hei=800&qlt=70",
+      "https://www.alkosto.com/medias/7702561790385-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDI1NnxpbWFnZS93ZWJwfGFEVmhMMmc1WWk4eE5ETXpNak16TVRRMU9EVTVNQzgzTnpBeU5UWXhOemt3TXpnMVh6QXdNVjgzTlRCWGVEYzFNRWd8Y2ZiZjgwYjExZDkyYWM0MGI5ZDcyNjc5NjNmNTU2MTg5OWExNzgwYTFhYjQyZTMxN2I0ZGM5M2ExZTczNjg1Mw",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -9534,7 +9534,7 @@ export const database = [
   {
     product:
       "caldero cuadrado 24cm en aluminio fundido + tapa de aluminio universal",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 792,
     price: "68,000",
@@ -9547,7 +9547,7 @@ export const database = [
   },
   {
     product: "caldero fundido 22cm + tapa de vidrio universal",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 793,
     price: "60,000",
@@ -9636,19 +9636,6 @@ export const database = [
     sub_category: "calderos",
   },
   {
-    product: "caldero fundido 30cm 4 Libras + tapa de vidrio universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 800,
-    price: "85,000",
-    description:
-      "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
-    images_url:
-      "https://i.linio.com/p/c027de74edecd6da6ef600f0be540d02-product.jpg",
-    category: "cocina",
-    sub_category: "calderos",
-  },
-  {
     product: "caldero antiadherente experta 30cm universal + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
@@ -9689,14 +9676,14 @@ export const database = [
   },
   {
     product: "caldero #9 fundido 30 cm incluye tapa de vidrio imusa",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 804,
     price: "131,000",
     description:
       "Base Antideslizante\nAsas más gruesas para mejor agarre\nAluminio de alta pureza\nMaterial Interior del Caldero Antiadherente\nTonalidad Exacta del Color Gris a Negro",
     images_url:
-      "https://i.linio.com/p/096ef2cebe9800492645fbcad36db2e3-product.jpg",
+      "https://easycolombia.vtexassets.com/arquivos/ids/190622-1600-1600?v=638066300529300000&width=1600&height=1600&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
