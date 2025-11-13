@@ -2776,7 +2776,7 @@ export const database = [
   },
   {
     product: "estufa a gas 4 puestos abba",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 236,
     price: "265,000",
@@ -2787,22 +2787,9 @@ export const database = [
     category: "electrodomesticos",
     sub_category: "estufas a gas",
   },
-  {
-    product: "estufa de mesa 2 puestos haceb",
-    disponibilidad: true,
-    descuento: false,
-    id: 237,
-    price: "179,000",
-    description:
-      "Cocineta eléctrica de 2 puestos con mesa porcelanizada, para una fácil limpieza, su material resistente no se raya ni se decolora con el tiempo. Se acomoda fácilmente en cualquier espacio, fácil de usar y de instalar. Su resistencia tubular de gran eficiencia garantiza una distribución ideal de la temperatura. Cuenta con zona de encharque para evitar derrames.",
-    images_url:
-      "https://hacebco.vtexassets.com/arquivos/ids/157476-1600-1600?v=636815349246730000&width=1600&height=1600&aspect=true",
-    category: "electrodomesticos",
-    sub_category: "estufas electricas",
-  },
-  {
+    {
     product: "hornilla electrica 2 puestos universal",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 238,
     price: "143,000",
@@ -2815,7 +2802,7 @@ export const database = [
   },
   {
     product: "cocineta 2 puestos a gas haceb",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 239,
     price: "96,000",
@@ -2828,7 +2815,7 @@ export const database = [
   },
   {
     product: "hornilla electrica 1 puesto universal",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 240,
     price: "90,000",
