@@ -9763,7 +9763,7 @@ export const database = [
     description:
       "Batería Home elements 7 piezas\nOlla con tapa 24 cms capacidad de 3.6lts\nOlla con tapa 20 cms capacidad de 1.8lts\nPerol con tapa 16 cms capacidad 1.5lts\nSartén 24 cms\nMaterial en antiadherente, resistente al calor\nManijas en baquelita resistentes para altas temperaturas\nTapas de vidrio con regulador de vapor\nBase conductora de calor",
     images_url:
-      "https://exitocol.vtexassets.com/arquivos/ids/9599216/bateria-ollas-7-piezas-ever-house-44535-set-antiadherente.jpg?v=637662143594170000",
+      "https://mundotecnologicoexpress.com.co/wp-content/uploads/2022/03/1-32.jpeg",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
