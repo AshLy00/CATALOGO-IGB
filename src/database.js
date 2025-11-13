@@ -9815,7 +9815,7 @@ export const database = [
     description:
       "Olla 24 cm + tapa de vidrio\ncacerola 16 cm + tapa aluminio\nsartén 24 cm\nperol 16 cm + tapa de vidrio",
     images_url:
-      "https://hogaruniversal.vtexassets.com/arquivos/ids/160164-800-auto?v=637145471268700000&width=800&height=auto&aspect=true",
+      "https://media.falabella.com/falabellaCO/117197196_01/w=1500,h=1500,fit=pad",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
