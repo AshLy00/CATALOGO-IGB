@@ -9445,7 +9445,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 785,
-    price: "58,000",
+    price: "55,000",
     description:
       "Cuerpo Elaborado En Aluminio Fundido De La Más Alta Calidad\nPomo En Polipropileno Ecológico\nAsas: Grandes Para Mejor Agarre Y Mayor Seguridad Al Transportarlos\nAcabados: Interior Brillo Perlado\nCapacidad: 1,25 Libras De Arroz Crudo / 2,3 Litros",
     images_url:
@@ -9523,7 +9523,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 791,
-    price: "68,000",
+    price: "59,900",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad\nExcelente conductor de calor y proporciona un mayor ahorro de energía\nAsas grandes para mejor agarre y mayor seguridad al transportarlo\nPomo plástico ecológico\nAcabado interior con brillo perlado\nMedidas: Alto (10 cm) x Ancho (24.5 cm) x Largo (cm)",
     images_url:
@@ -9576,7 +9576,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 795,
-    price: "30,500",
+    price: "27,500",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlo\nPomo plástico ecológico\nAcabados: Interior brillo perlado",
     images_url:
@@ -9602,11 +9602,11 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 797,
-    price: "76,200",
+    price: "74,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
     images_url:
-      "https://www.alkosto.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-7702561789341-001.jpg?context=bWFzdGVyfGltYWdlc3w5NjIyOXxpbWFnZS9qcGVnfGFHWXlMMmcwTUM4eE16YzRNRFE0TURFMk16ZzNNQzgzTlRCWGVEYzFNRWhmYldGemRHVnlMMmh2ZEdadmJHUmxjaTkwY21GdWMyWmxjaTlwYm1OdmJXbHVaeTlrWlhCdmMybDBMMmg1WW5KcGN5MXBiblJsY21aaFkyVnpMMGxPTDIxbFpHbGhMM0J5YjJSMVkzUXZOemN3TWpVMk1UYzRPVE0wTVY4d01ERXVhbkJufGE0N2I2YzVjYjdjM2UzMTE3NTAzODg2MzU2YzhjOTNjMTUyMTI3MWU3ZmFkODdjNzNkMDYxOTMwZWJlZDQ1ZDc",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/166456-800-auto?v=638053474705570000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -9615,7 +9615,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 798,
-    price: "78,000",
+    price: "69,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad, lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía.\nAsas: grandes para mejor agarre y mayor seguridad al transportarlo.\nPomo plástico ecológico.\nAcabados: Interior brillo perlado.\nAluminio: 96%\nPolipropileno: 4%",
     images_url:
@@ -9631,7 +9631,7 @@ export const database = [
     price: "85,000",
     description:
       "Cuerpo elaborado en aluminio fundido de la más alta calidad de 2.3 mm lo que permite que sea un excelente conductor de calor y proporciona un mayor ahorro de energía\nAsas: grandes para mejor agarre y mayor seguridad al transportarlos\nPomo: fabricado en baquelita, resistente al calor\nAcabados: Interior brillo perlado",
-    images_url: "https://tinypic.host/images/2024/01/15/image-4.png",
+    images_url: "https://media.falabella.com/sodimacCO/582245_01/w=1036,h=832,f=webp,fit=contain,q=85",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -9662,15 +9662,15 @@ export const database = [
     sub_category: "calderos",
   },
   {
-    product: "caldero en aluminio fundido antiadherente 18cm + tapa de vidrio",
+    product: "caldero en aluminio fundido antiadherente 18cm IMUSA + tapa de vidrio",
     disponibilidad: true,
     descuento: false,
     id: 802,
-    price: "89,000",
+    price: "79,000",
     description:
       "Marca: Imusa\nMaterial: Aluminio Fundido\nMedidas: Diámetro (18 cm)\nTapa de vidrio\nFondo antideslizante\nAsas más grandes\nColor: Negro",
     images_url:
-      "https://i.linio.com/p/ca1de4b095b4e98b2297f32af04cb90c-product.jpg",
+      "https://olimpica.vtexassets.com/arquivos/ids/1786801-800-auto?v=638767991916200000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "calderos",
   },
@@ -9679,7 +9679,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 803,
-    price: "178,000",
+    price: "168,000",
     description:
       "Marca: Universal\nMaterial: Aluminio\nMedidas: Alto (34 cm) x Ancho (275 cm) x Largo (39 cm)\nColor: Plateado\nCondición del producto: Nuevo",
     images_url:
@@ -9705,7 +9705,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 805,
-    price: "118,000",
+    price: "110,000",
     description:
       "Caldero antiadherente 24 centímetros\nAluminio fundido que permite excelente difusión\nAntiadherente negro\nFondo antideslizante\nAsas más grandes\nTapa de vidrio\nColor: Negro\nPeso: 1,4\nLargo: 31cm\nAlto: 14cm\nAncho: 25cm",
     images_url:
@@ -9718,7 +9718,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 806,
-    price: "115,000",
+    price: "109,000",
     description:
       "Cuenta con recubrimiento interior y exterior en antiadherente, para que no se le peguen los alimentos y facilitar la limpieza\nCaldero fabricado con materiales aptos para el contacto con alimentos, de alta pureza, certificados y que protegen la salud\nAdicionalmente, es altamente resistente a golpes e impactos por sus paredes extra gruesas y su resistente material",
     images_url:
@@ -9732,7 +9732,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 807,
-    price: "109,000",
+    price: "94,000",
     description:
       "Marca: Imusa\nMaterial: Aluminio Fundido\nMedidas: Diámetro (22 cm)\nTapa de vidrio\nFondo antideslizante\nAsas más grandes\nColor: Negro",
     images_url:
@@ -9746,7 +9746,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 808,
-    price: "99,000",
+    price: "87,000",
     description:
       "Cuenta con recubrimiento interior y exterior en antiadherente, para que no se le peguen los alimentos y facilitar la limpieza\nCaldero fabricado con materiales aptos para el contacto con alimentos, de alta pureza, certificados y que protegen la salud\nAdicionalmente, es altamente resistente a golpes e impactos por sus paredes extra gruesas y su resistente material",
     images_url:
