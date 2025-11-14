@@ -9907,19 +9907,7 @@ export const database = [
     category: "cocina",
     sub_category: "cuchillos",
   },
-  {
-    product: "juego de cuchillos chef",
-    disponibilidad: false,
-    descuento: false,
-    id: 823,
-    price: "55,000",
-    description: 'incluye 3.5" 6" 8" 10',
-    images_url:
-      "https://tinypic.host/images/2024/03/12/Cuchillollo-Chef-Semipro-8-Incametal_02-removebg-preview-1.png",
-    category: "cocina",
-    sub_category: "cuchillos",
-  },
-  {
+    {
     product: 'cuchillo brazileiro 8" universal',
     disponibilidad: true,
     descuento: false,
@@ -9974,7 +9962,7 @@ export const database = [
   },
   {
     product: "plancha grill botanical antiadherente 45x26cm",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 829,
     price: "120,000",
@@ -9985,20 +9973,7 @@ export const database = [
     category: "cocina",
     sub_category: "parrillas",
   },
-  {
-    product: "teppamgrill plus elite 34x25cm antiadherente universal",
-    disponibilidad: true,
-    descuento: false,
-    id: 830,
-    price: "94,000",
-    description:
-      "TEPPAN GRILL PLUS\nPlancha grill fabricada en aluminio fundido antiadherente \nTiene una aplicación de recubrimiento antiadherente de 2 capas el cual le otorga una resistencia a la abrasión de hasta 14,000 ciclos\nEs apto para lavavajillas, gracias a su disco de inducción electromagnética también se puede ser utilizado en cocinas de inducción, a gas, vitrocerámicas y de resistencia eléctrica medidas: 43 x 26 x 2.5cm",
-    images_url:
-      "https://tinypic.host/images/2024/01/15/295831941_5295016973867157_6580319915232745487_n.png",
-    category: "cocina",
-    sub_category: "parrillas",
-  },
-  {
+    {
     product: "parrilla para arepas 19.2cm aluminio imusa",
     disponibilidad: false,
     descuento: false,
@@ -10229,7 +10204,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 849,
-    price: "42,000",
+    price: "38,000",
     description: "termos botella motivacionales 2 litros colores varios",
     images_url: "https://img.fruugo.com/product/9/27/198154279_max.jpg",
     category: "cocina",
@@ -10240,7 +10215,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 850,
-    price: "46,000",
+    price: "29,000",
     description: "termos motivacionales1 litro colores varios",
     images_url:
       "https://m.media-amazon.com/images/I/61vAcQe9scL._AC_SL1024_.jpg",
@@ -10261,7 +10236,7 @@ export const database = [
   },
   {
     product: "termo motivacional colores varios 2 litros",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 852,
     price: "52,000",
@@ -10276,7 +10251,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 853,
-    price: "66,000",
+    price: "49,000",
     description: "termo motivacional 2.2 litros colores varios",
     images_url:
       "https://s.alicdn.com/@sc04/kf/Hbae857a0b28049588fd62454a199c79bO.jpg",
@@ -10288,7 +10263,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 854,
-    price: "62,000",
+    price: "44,000",
     description:
       "Capacidad: 0.75 litros\nAmpolla de vidrio\nTapa rosca con movimiento giratorio para un cierre efectivo\nIdeal para conservar el calor de tus bebidas hasta por 10 horas",
     images_url:
@@ -10303,7 +10278,7 @@ export const database = [
     id: 855,
     price: "58,000",
     description: "termo motivacional 2.2 litros transparente",
-    images_url: "https://img.fruugo.com/product/1/91/205303911_max.jpg",
+    images_url: "https://i5.walmartimages.com/asr/f2a214b0-99e4-4113-ac49-792b4be21376.0cec4a926a109b32ac386a1d1b458870.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
     category: "cocina",
     sub_category: "termos",
   },
@@ -11826,5 +11801,18 @@ export const database = [
       "https://www.alkosto.com/medias/7702561490704-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w3NzYwfGltYWdlL3dlYnB8YUdRNUwyZ3lOQzh4TlRFeE16Y3pPVE13TkRrNU1DODNOekF5TlRZeE5Ea3dOekEwWHpBd01WODNOVEJYZURjMU1FZ3w5ZTYxNTVhYTRjNjY3ZmM2ZjdjYzQ5ZTliMjVjYzMzYWNhNGU4YTYyNjg1YzRjNGY3NTNiY2VhZWU4ZTVmMGYx",
     category: "cocina",
     sub_category: "woks",
+  },
+   {
+    product: "Termo 1 litro doble vaso UNIVERSAL",
+    disponibilidad: true,
+    descuento: false,
+    id: 978,
+    price: "35,000",
+    description:
+      "Medidas: 13.2 cm x 10.3 cm x 30 cm, Capacidad 1 Litro, Rendimiento: Conservación de 3 a 4 horas, ¡Descubre lo mejor de compartir! Nuestro termo de 1 litro viene con 2 tazas, ideales para disfrutar de tus bebidas favoritas en compañía. Diseñado para mantener tus bebidas en la temperatura ideal, este termo es perfecto para todo tipo de situaciones.",
+    images_url:
+      "https://almacenesmirna.com.ec/wp-content/uploads/2021/04/CO-0321.jpg",
+    category: "cocina",
+    sub_category: "termos",
   },
   ];
