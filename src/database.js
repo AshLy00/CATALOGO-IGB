@@ -11811,7 +11811,7 @@ export const database = [
     description:
       "Medidas: 13.2 cm x 10.3 cm x 30 cm, Capacidad 1 Litro, Rendimiento: Conservación de 3 a 4 horas, ¡Descubre lo mejor de compartir! Nuestro termo de 1 litro viene con 2 tazas, ideales para disfrutar de tus bebidas favoritas en compañía. Diseñado para mantener tus bebidas en la temperatura ideal, este termo es perfecto para todo tipo de situaciones.",
     images_url:
-      "https://almacenesmirna.com.ec/wp-content/uploads/2021/04/CO-0321.jpg",
+      "https://hogaruniversal.vtexassets.com/arquivos/ids/167718-800-auto?v=638603002960600000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "termos",
   },
