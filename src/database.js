@@ -10468,13 +10468,13 @@ export const database = [
   },
   {
     product: "bascula gramera digital torenyx max . 5kg",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 871,
     price: "36,500",
     description: "bascula gramera digital torenyx max . 5kg",
     images_url:
-      "https://llevalos.com/wp-content/uploads/2023/03/Gramera-de-alimentos-digital-3.png",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_701145-MLA93872987496_102025-F.webp",
     category: "cocina",
     sub_category: "grameras",
   },
