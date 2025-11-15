@@ -10284,7 +10284,7 @@ export const database = [
   },
   {
     product: "Coctelera 750ml Acero Inoxidable",
-    disponibilidad: false,
+    disponibilidad: true,
     descuento: false,
     id: 856,
     price: "42,000",
