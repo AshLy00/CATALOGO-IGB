@@ -10408,19 +10408,19 @@ export const database = [
   },
   {
     product: "set x3 tabla de picar acrilico 3 tamaños",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 866,
     price: "30,000",
     description: "set x3 tabla de picar acrilico 3 tamaños",
     images_url:
-      "https://cdnprod.mafretailproxy.com/sys-master-root/hb1/h73/12958345920542/642753_main.jpeg_480Wx480H",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_610288-MCO49329341617_032022-F.webp",
     category: "cocina",
     sub_category: "tablas de picar",
   },
   {
     product: "tabla de cocina para picar fabricada en bambu 100% universal",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 867,
     price: "26,200",
@@ -10432,7 +10432,7 @@ export const database = [
   },
   {
     product: "tabla de picar universal 31.5 x 20 x 0.8",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 868,
     price: "19,000",
