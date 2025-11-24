@@ -10545,7 +10545,7 @@ export const database = [
     disponibilidad: true,
     descuento: false,
     id: 877,
-    price: "30,000",
+    price: "25,000",
     description: "adaptable a botellones, presión hacia abajo",
     images_url:
       "https://cdn1.totalcommerce.cloud/casalimpia/product-zoom/es/valvula-para-dispensador-de-agua-cce-1.webp",
@@ -11814,5 +11814,17 @@ export const database = [
       "https://hogaruniversal.vtexassets.com/arquivos/ids/167718-800-auto?v=638603002960600000&width=800&height=auto&aspect=true",
     category: "cocina",
     sub_category: "termos",
+  },
+  {
+    product: "Dispensador de Agua Electrico para Botellon Bomba Recargable Usb",
+    disponibilidad: true,
+    descuento: false,
+    id: 979,
+    price: "24,000",
+    description: "Dispensador de Agua Electrico para Botellon Bomba Recargable Usb, Características Bomba de agua automática. Dispensador eléctrico recargable Alimentado por USB Material libre de BPA. Duradero y reutilizable 100% seguro para el consumo de agua Puede bombear 4-6 jarras de agua si está completamente cargada Fácil uso para niños y ancianos Interruptor encendido / apagado Se adapta a botellas con tapa de rosca 4.5L - 19L Pequeño y ligero. Ideal para usar en casa o en la oficina Tiempo de carga: 3-4 horas",
+    images_url:
+      "https://media.falabella.com/sodimacCO/644785/w=1036,h=832,f=webp,fit=contain,q=85",
+    category: "cocina",
+    sub_category: "dispensadores",
   },
   ];
