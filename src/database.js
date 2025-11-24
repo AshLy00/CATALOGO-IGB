@@ -10757,19 +10757,7 @@ export const database = [
     category: "cocina",
     sub_category: "contenedores",
   },
-  {
-    product: "frasco mistic grande 18.2 x 9.5 cm cristar",
-    disponibilidad: false,
-    descuento: false,
-    id: 894,
-    price: "14,500",
-    description:
-      "Capacidad: 37 1/2 oz / 1110 cc\nAlto: 18.2 cm, 7,2 pulgadas\nDiámetro: 9,5 cm, 3,7 pulgadas\nUnidad de Empaque: Estuche x 1 unidad",
-    images_url: "https://tinypic.host/images/2024/01/18/image-30.png",
-    category: "cocina",
-    sub_category: "contenedores",
-  },
-  {
+    {
     product: "set x2 frascos mistique limones 29oz cristar",
     disponibilidad: true,
     descuento: false,
@@ -10781,19 +10769,7 @@ export const database = [
     category: "cocina",
     sub_category: "contenedores",
   },
-  {
-    product: "frasco mistique pequeño 10 x 12 cm cristar",
-    disponibilidad: false,
-    descuento: false,
-    id: 896,
-    price: "12,700",
-    description: "frasco mistique pequeño 10 x 12 cm cristar",
-    images_url:
-      "https://exitocol.vtexassets.com/arquivos/ids/15944009/FRASCO-MISTIQUE-PEQUEO-CRISTAR-0714AL12-107812_a.jpg?v=638068889860700000",
-    category: "cocina",
-    sub_category: "contenedores",
-  },
-  {
+    {
     product: "contenedor de vidrio 22cm x 11cm 2 litros cristar",
     disponibilidad: true,
     descuento: false,
@@ -10856,18 +10832,7 @@ export const database = [
     category: "cocina",
     sub_category: "contenedores",
   },
-  {
-    product: "set x3 contenedores 2.2l x 1.1l x 0.65l kendy",
-    disponibilidad: false,
-    descuento: false,
-    id: 902,
-    price: "22,700",
-    description: "set x3 contenedores 2.2l x 1.1l x 0.65l kendy",
-    images_url: "https://tinypic.host/images/2024/03/13/image-16.png",
-    category: "cocina",
-    sub_category: "contenedores",
-  },
-  {
+   {
     product: "recipiente plastico tapa de madera 680ml everhouse",
     disponibilidad: true,
     descuento: false,
