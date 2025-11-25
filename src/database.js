@@ -9763,7 +9763,7 @@ export const database = [
     description:
       "Incluye: 1 perol de 18cm, 1 olla 20cm, 1 sartén y tapa de 20cm,Elaborado en aluminio con 2 ,capas de antiadherentes y 2.0mm de groso, Fondo difusor de calor , Tapa de vidrio con pomo y asas remachadas en baquelita resistentes al calor.",
     images_url:
-      "https://www.compulago.com/wp-content/uploads/erp/productos/282814336140/1651099511715.png",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_794883-MLU74488217683_022024-F.webp",
     category: "cocina",
     sub_category: "baterias de cocina",
   },
@@ -9782,7 +9782,7 @@ export const database = [
   },
   {
     product: "bateria aliada 8 piezas universal",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 813,
     price: "178,000",
