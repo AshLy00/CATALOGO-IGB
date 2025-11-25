@@ -11244,20 +11244,7 @@ export const database = [
     category: "cocina",
     sub_category: "jarras",
   },
-  {
-    product: "destapador, abrelatas y sacacorchos acero inoxidable universal",
-    disponibilidad: false,
-    descuento: false,
-    id: 937,
-    price: "19,000",
-    description:
-      "destapador, abrelatas y sacacorchos acero inoxidable universal",
-    images_url:
-      "https://www.universalhome.com/wp-content/uploads/2022/05/Nuevo-proyecto-19-4.jpg",
-    category: "cocina",
-    sub_category: "sacacorchos",
-  },
-  {
+    {
     product: "sacachorchos esencial universal",
     disponibilidad: true,
     descuento: false,
@@ -11349,12 +11336,12 @@ export const database = [
     id: 945,
     price: "11,000",
     description: "set x3 coladores amarillo",
-    images_url: "",
+    images_url: "https://www.alkosto.com/medias/7703147364037-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNDgwOHxpbWFnZS93ZWJwfGFEY3hMMmc1TUM4eE5EUTVPVEl5TWpNMU5UazVPQzgzTnpBek1UUTNNelkwTURNM1h6QXdNVjgzTlRCWGVEYzFNRWd8NGQxYjQ3ZjVmNjRjOWNjZmU3NzU2YzBjOWJhMjM4OWU1ZTE0NGNkZmJhMDIwY2M5MWNiNGRkN2YwNzBhYTQyOA",
     category: "cocina",
     sub_category: "coladores",
   },
   {
-    product: "juego de utensilios por unidad",
+    product: "juego de utensilios universal por unidad",
     disponibilidad: true,
     descuento: false,
     id: 946,
@@ -11362,7 +11349,7 @@ export const database = [
     description:
       "Fabricación en Acero inoxidable para mayor resistencia y de calidad.\nNuestros utensilios son ideales para simplificar las tareas del hogar, por eso son de fácil manejo.\nMango en Nylon resistentes al calor que te ayudará a resolver los inconvenientes que se presentan al momento de cocinar y te brindará más confianza y seguridad.",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_119832190_2496982_1?wid=800&hei=800&qlt=70",
+      "https://media.falabella.com/sodimacCO/769125/w=1154,h=832,f=webp,fit=contain,q=85",
     category: "cocina",
     sub_category: "utensilios",
   },
@@ -11380,14 +11367,14 @@ export const database = [
     sub_category: "utensilios",
   },
   {
-    product: "batidor mediano inoxidable universal",
+    product: "Batidor Mediano Acero Inoxidable Universal",
     disponibilidad: true,
     descuento: false,
     id: 948,
     price: "14,000",
     description: "Mango y servicio fabricados en acero inoxidable",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/19022997_1?wid=800&hei=800&qlt=70",
+      "https://novum.com.co/cdn/shop/files/160_1680x.png?v=1732753706",
     category: "cocina",
     sub_category: "utensilios",
   },
@@ -11399,7 +11386,7 @@ export const database = [
     price: "9,000",
     description: "se venden en sets de 2 unidades, cambio cada 2 meses",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_126731660_4671123_1?wid=800&hei=800&qlt=70",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_630489-MCO78595024915_082024-F.webp",
     category: "cocina",
     sub_category: "filtros de agua",
   },
@@ -11791,5 +11778,17 @@ export const database = [
       "https://media.falabella.com/sodimacCO/644785/w=1036,h=832,f=webp,fit=contain,q=85",
     category: "cocina",
     sub_category: "dispensadores",
+  },
+  {
+    product: "Filtro De Agua Para Grifo Con Purificacion Avanzada",
+    disponibilidad: true,
+    descuento: false,
+    id: 980,
+    price: "52,000",
+    description: "Garantiza la pureza del agua en tu hogar con este avanzado filtro de agua para grifo. Diseñado para eliminar impurezas y mejorar la calidad del agua, este purificador es fácil de instalar y usar. Ideal para cocinas, proporciona agua limpia y segura para beber, cocinar y lavar alimentos. Con su tecnología de purificación de múltiples niveles, este filtro asegura que el agua de tu hogar esté libre de contaminantes y tenga un sabor fresco y agradable.",
+    images_url:
+      "https://olimpica.vtexassets.com/arquivos/ids/1442997-800-auto?v=638532377404300000&width=800&height=auto&aspect=true",
+    category: "cocina",
+    sub_category: "filtros de agua",
   },
   ];
