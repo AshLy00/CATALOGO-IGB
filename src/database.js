@@ -11479,4 +11479,95 @@ export const database = [
     category: "cocina",
     sub_category: "filtros de agua",
   },
+   {
+    product: "Celular Xiaomi REDMI A5 3/64GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "981",
+    price: "340,000",
+    description:
+      'Celular Xiaomi REDMI A5 3/64GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554425463-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjQyNHxpbWFnZS93ZWJwfGFEa3dMMmhqTXk4eE5UQTJORFE1TlRFeU9EWXdOaTgyT1RNeU5UVTBOREkxTkRZelh6QXdNVjgzTlRCWGVEYzFNRWd8Njc3NmM3YjU0MGI5YzAzMGFmMTg4NjM3NmZlODY0ZjZhMjcwZWZlMDdkZjFmOGFlNGQxYzUwNjY5YzQ0ZjUzYg",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI A5 4/128GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "982",
+    price: "399,000",
+    description:
+      'Celular Xiaomi REDMI A5 4/128GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554425135-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjkwNnxpbWFnZS93ZWJwfGFEVmtMMmd4Tnk4eE5UQTJORFE0T1RJek1ETTJOaTgyT1RNeU5UVTBOREkxTVRNMVh6QXdNVjgzTlRCWGVEYzFNRWd8MzVhZGM4MTgzYmUyOGM4YTBkY2Y1NzNmZjczZjllNGYyNGUxODFiNDI5MWE1NTI3NDAyYzRmNWE2YWJjZjM1MQ",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI 15 6/128GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "983",
+    price: "590,000",
+    description:
+      'Celular Xiaomi REDMI 15 6/128GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554450113-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNDAxOHxpbWFnZS93ZWJwfGFHTmhMMmhrWWk4eE5UTXdNakl5Tmprd016QTNNQzgyT1RNeU5UVTBORFV3TVRFelh6QXdNVjgzTlRCWGVEYzFNRWd8OTljMGY5OWY4ZDUxYWNmNDFhM2RhMTZjN2I5NzZhMDBmMmQ3NjAzMTVmOTA4M2UxNWMzMzMyYTNkYjVhYjg3Nw",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI 15 8/256GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "984",
+    price: "750,000",
+    description:
+      'Celular Xiaomi REDMI 15 8/256GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554445065-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNjU2NnxpbWFnZS93ZWJwfGFHRXpMMmd6TUM4eE5UTXdNakl4TlRFd05qVTVNQzgyT1RNeU5UVTBORFExTURZMVh6QXdNVjgzTlRCWGVEYzFNRWd8OGVlZDQzM2IwMDEzNTA5NDI2ODU3NWVlMDVmNGViZmZiNjlmOTg2OWQ0MmM5OGZjMmJhMTYyMzhkYTE5MTkyMg",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI 15C 4/128GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "985",
+    price: "525,000",
+    description:
+      'Celular Xiaomi REDMI 15C 4/128GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554456016-001-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMTIyMTR8aW1hZ2Uvd2VicHxhRFk0TDJoak1TOHhOVE13TWpJek9EYzJOVEE0Tmk4Mk9UTXlOVFUwTkRVMk1ERTJYekF3TVY4eE5EQXdWM2d4TkRBd1NBfDE3YjlhZDZlMGU0ZDRiZGZiYjg4ZDBkNjJhYjQ1NjdkZWEzZDZjNTQ0MjMxNzE0MjNhZmIzNGEwZTM4OGUwMDk",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI 15C 4/256GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "986",
+    price: "990,000",
+    description:
+      'Celular Xiaomi REDMI 15C 4/256GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554444815-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjAyNnxpbWFnZS93ZWJwfGFESTBMMmcwWlM4eE5UTTBOVFF3TlRFek1qZ3pNQzgyT1RNeU5UVTBORFEwT0RFMVh6QXdNVjgzTlRCWGVEYzFNRWd8NjkzMTlmMjk5MTcxYjNhYmE3ODQ2ZTU0ZjhhNGEzZTM2NGVhZTUyODE4NzFkMDg4YTA5Nzg1ZGVjMTQzYTUyOA",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI 15C 8/256GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "987",
+    price: "1,090,000",
+    description:
+      'Celular Xiaomi REDMI 15C 8/256GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554455941-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjk4NHxpbWFnZS93ZWJwfGFEQXdMMmhrTnk4eE5UTTBOVFF4TVRBek1UQTNNQzgyT1RNeU5UVTBORFUxT1RReFh6QXdNVjgzTlRCWGVEYzFNRWd8ZmFhZWRlNjAwNWI0MTRjZDBiMWNhNTg3N2IxNzZiNTY4MzE0YjVhZTZhNjliYzVlNWZkYmRmYThjYTlkNzAwZQ",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
   ];
