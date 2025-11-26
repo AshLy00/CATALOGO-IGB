@@ -1065,7 +1065,7 @@ export const database = [
     price: "76,000",
     description: "memoria micro sd con adaptador 128gb corn",
     images_url:
-      "blob:https://web.whatsapp.com/f0993606-3707-475f-926e-2309e1535e3f",
+      "https://web.whatsapp.com/f0993606-3707-475f-926e-2309e1535e3f",
     category: "tecnología",
     sub_category: "memorias micro sd",
   },
@@ -1077,7 +1077,7 @@ export const database = [
     price: "38,000",
     description: "memoria micro sd con adaptador 64gb corn",
     images_url:
-      "blob:https://web.whatsapp.com/f0993606-3707-475f-926e-2309e1535e3f",
+      "https://web.whatsapp.com/f0993606-3707-475f-926e-2309e1535e3f",
     category: "tecnología",
     sub_category: "memorias micro sd",
   },
@@ -1089,7 +1089,7 @@ export const database = [
     price: "36,000",
     description: "memoria micro sd con adaptador 32gb corn",
     images_url:
-      "blob:https://web.whatsapp.com/f0993606-3707-475f-926e-2309e1535e3f",
+      "https://web.whatsapp.com/f0993606-3707-475f-926e-2309e1535e3f",
     category: "tecnología",
     sub_category: "memorias micro sd",
   },
@@ -1101,7 +1101,7 @@ export const database = [
     price: "34,000",
     description: "memoria micro sd con adaptador 16gb corn",
     images_url:
-      "blob:https://web.whatsapp.com/f0993606-3707-475f-926e-2309e1535e3f",
+      "https://web.whatsapp.com/f0993606-3707-475f-926e-2309e1535e3f",
     category: "tecnología",
     sub_category: "memorias micro sd",
   },
