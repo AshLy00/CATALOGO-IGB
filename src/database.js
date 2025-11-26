@@ -849,319 +849,7 @@ export const database = [
     category: "mascotas",
     sub_category: "guantes quita pelo",
   },
-  {
-    product: "xiaomi redmi note 12s 8gb / 256gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "071",
-    price: "1,540,000",
-    description:
-      "Cámara de 108 MPx donde vas a capturar mayor detalle\nPantalla AMOLED con amplia gama de colores\nCarga rápida de 33W, carga de 0 a 100 en aprox. 58 min\nUn procesador que se adapta a todas las tareas diarias\nTen mejores fotos aprovechando nuestra AI",
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/124513472_1?wid=800&hei=800&qlt=70",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi note 12 pro 8gb / 256gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "072",
-    price: "990,000",
-    description:
-      "Android 11, MIUI 13\nAMOLED, 120 Hz\nTamaño: 6,67 pulgadas\nResolución:  1080 x 2400 píxeles\nInterna: 256GB\nRAM: 8GB\nMicroSD: microSDXC (utiliza ranura SIM compartida)\nUFS 2.2",
-    images_url:
-      "https://redsolucionesmoviles.com/wp-content/uploads/2023/11/Celular-Xiaomi-Note-12-Pro-4G-256GB-8GB-RAM-1-1.jpg",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi note 12 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "073",
-    price: "799,000",
-    description:
-      'Memoria RAM: 4 GB\nDispositivo desbloqueado para que elijas la compañía telefónica que prefieras.\nPantalla AMOLED de 6.67"\nTiene 3 cámaras traseras de 50Mpx/8Mpx/2Mpx\nCámaras delanteras de 13Mpx\nProcesador Snapdragon 685 Octa-Core de 2.8GHz con 4GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar\nResistente al polvo',
-    images_url:
-      "https://cdnx.jumpseller.com/tiquemobile/image/35853602/NOTE_12_AZUL.png?1685378673",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi a2 64gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "074",
-    price: "379,000",
-    description:
-      'Pantalla IPS de 6.52"\nTiene 2 cámaras traseras de 8Mpx/0.08Mpx\nCámara delantera de 5Mpx\nProcesador MediaTek Helio G36 Octa-Core de 2.2GHz con 2GB de RAM\nBatería de 5000mAh\nMemoria interna de 64G.',
-    images_url:
-      "https://www.alkosto.com/medias/6941812748466-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMzIwMzB8aW1hZ2Uvd2VicHxhREV5TDJnMU5DOHhOREkxTlRjeU9UQXhOamcyTWk4Mk9UUXhPREV5TnpRNE5EWTJYekF3TVY4M05UQlhlRGMxTUVnfDJmZDgyZTY5ZDJmNmQ2ZDk5YWJmMWMzMmQ3MTJlOWI1ZjY0YmM5MDVlN2Q2YWFlNzVmZmExYTQyYTk0MjY2NjQ",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 13c 8gb 256gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "075",
-    price: "760,000",
-    description:
-      "Pantalla: 6.74\nAndroid 13\nProcesador: Octa-core\n8GB Ram\nAlmacenamiento de 128GB\nBatería de 5000 mAh\nCámara principal: 50MP\nCámara frontal: 8MP",
-    images_url:
-      "https://gsmphone.co/wp-content/uploads/2024/01/xiaomi_redmi_13c_verde_01_l.jpeg",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiomi redmi 13c 8gb 256gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "076",
-    price: "750,000",
-    description:
-      "Memoria interna: 256GB\nMarca y modelo del procesador: MediaTek Helio G85\nMemoria RAM: 8GB\nSistema operativo: Android 13\nConectividad: 4G",
-    images_url:
-      "https://cdn1.totalcommerce.cloud/mercacentro/product-zoom/es/celular-xiaomi-redmi-13c-256gb-8gb-ram-negro-1.webp",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 13c 6gb 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "077",
-    price: "650,000",
-    description:
-      "generacion: 4G\nmemoria expandible: Sobre 512GB\nmemoria ram: 8GB\nprocesador: Mediatek\nsistema operativo: Android",
-    images_url:
-      "https://gsmphone.co/wp-content/uploads/2024/01/xiaomi_redmi_13c_negro_01_l.jpeg",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 13c 4gb 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "078",
-    price: "550,000",
-    description:
-      "generacion: 4G\nmemoria expandible: 256GB\nmemoria ram: 8GB\nsistema operativo: Android",
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_127137349_4812980_1?wid=800&hei=800&qlt=70",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 12 256gb 8ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "079",
-    price: "900,000",
-    description:
-      "generacion: 4G\nmemoria expandible: Sobre 512GB\nmemoria ram: 4GB\nprocesador: Qualcomm snapdragon\nsistema operativo: Android",
-    images_url:
-      "https://gsmphone.co/wp-content/uploads/2023/07/13099559-800-auto.webp",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 12 128gb 4ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "080",
-    price: "656,000",
-    description:
-      "Capacidad de almacenamiento: 128GB\nConectividad: WiFi/3G/4G\nMarca y modelo del procesador: MediaTek Helio G88\nSistema operativo: Android 13\nMemoria RAM: 4GB",
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/69528160_1?wid=1500&hei=1500&qlt=70",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 10c 64gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "081",
-    price: "430,000",
-    description:
-      "PANTALLA: LCD 6,71 pulgadas \nResolución HD+ (1.650 x 720 píxeles)\nDIMENSIONES Y PESO: 169,59 x 76,56 x 8,29 mm 190 g\nPROCESADOR: Snapdragon 680\nRAM: 4 GB LPDDR4X\nALMACENAMIENTO: 64 GB / 128 GB UFS 2.2\nCÁMARA FRONTAL: 5 MP f/2.2\nCÁMARA TRASERA: 50 MP f/1.8 - 2 MP f/2.4\nBATERÍA: 5.000 mAh Carga rápida 18 W\nSISTEMA OPERATIVO: Android 11 MIUI 13",
-    images_url:
-      "https://celularesimportados.com.co/wp-content/uploads/2022/09/new-1-2-5-7-4-1-125741-1649767549-1649767549.jpg",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 10c 4ram 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "082",
-    price: "590,000",
-    description:
-      'Pantalla IPS de 6.71"\nTiene 2 cámaras traseras de 50Mpx/2Mpx\nCámara delantera de 5Mpx\nProcesador Snapdragon 680 Octa-Core de 2.4GHz con 4GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar\nResistente a las caídas',
-    images_url:
-      "https://pepeganga.vtexassets.com/arquivos/ids/797633/image-56c2bf7f3010418e87bb4dcdbaf39160.jpg?v=637938467996470000",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 10a 64gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "083",
-    price: "420,000",
-    description:
-      'Dispositivo desbloqueado para que elijas la compañía telefónica que prefieras\nPantalla IPS de 6.53"\nCámara delantera de 5Mpx\nProcesador MediaTek MT6762G Helio G25 Octa-Core de 2GHz con 3GB de RAM\nBatería de 5000mAh\nMemoria interna de 64GB\nCon reconocimiento facial y sensor de huella dactilar',
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_118192961_2008212_1?wid=800&hei=800&qlt=70",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 10a 32gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "084",
-    price: "390,000",
-    description:
-      'Dispositivo desbloqueado para que elijas la compañía telefónica que prefieras\nPantalla IPS de 6.53"\nCámara delantera de 5Mpx\nProcesador MediaTek MT6762G Helio G25 Octa-Core de 2GHz con 3GB de RAM\nBatería de 5000mAh\nMemoria interna de 32GB\nCon reconocimiento facial y sensor de huella dactilar',
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_118192961_2008212_1?wid=800&hei=800&qlt=70",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 10 2022 6ram 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "085",
-    price: "613,000",
-    description:
-      'Dispositivo desbloqueado para que elijas la compañía telefónica que prefieras\nPantalla LCD de 6.5"\nTiene 4 cámaras traseras de 50Mpx/8Mpx/2Mpx/2Mpx\nCámaras delanteras de 8Mpx\nProcesador MediaTek Helio G88 Octa-Core de 2GHz con 6GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar',
-    images_url:
-      "https://copservir.vtexassets.com/arquivos/ids/980859-800-auto?v=638228961911000000&width=800&height=auto&aspect=true",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 10 2022 4ram 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "086",
-    price: "513,000",
-    description:
-      'Dispositivo desbloqueado para que elijas la compañía telefónica que prefieras\nPantalla LCD de 6.5"\nTiene 4 cámaras traseras de 50Mpx/8Mpx/2Mpx/2Mpx\nCámaras delanteras de 8Mpx\nProcesador MediaTek Helio G88 Octa-Core de 2GHz con 4GB de RAM\nBatería de 5000mAh\nMemoria interna de 128GB\nCon reconocimiento facial y sensor de huella dactilar',
-    images_url:
-      "https://copservir.vtexassets.com/arquivos/ids/980859-800-auto?v=638228961911000000&width=800&height=auto&aspect=true",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi redmi 9a 32gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "087",
-    price: "390,000",
-    description:
-      "Pantalla 6.53” HD\nProcesador MediaTek Helio G25\nOcta-core, 12nm\n8* 2.0 GHZ\nMemoria 2 + 32Gb\nRed 2G GSM B2/3/5/8, 3GUMTS:1/2/4/5/8,\n4G LTE: B1/2/3/4/5/7/8/20/28/38/40/41\nCámara trasera 13MP, frontal 5MP\nConectividad 2 ranuras Nano SIM + 1 ranura Micro SD, Micro USB\nConector para auriculares de 3,5 mm",
-    images_url:
-      "https://www.alkosto.com/medias/7709143338416-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMzkzNTN8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzNaaTlvWTJNdk1USTBNVFl3TVRZMU5EYzROekF1YW5Cbnw4MWEzY2Q0ZWQzNTA5YmM5YmNkMjBkZmUwMjgwOGFkNzgyNGNhNGEyMGEyY2JhZmFjZDIzNzY4ODIzMTBlYjJj",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi note 12 256gb 8 ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "088",
-    price: "890,000",
-    description:
-      "Android 12, MIUI 13\nDimensiones: 165,9 x 76,2 x 8 mm 188 g\nDual SIM híbrida (Nano-SIM, doble stand-by)\nIP53, resistente al polvo y a las salpicaduras\nPantalla: AMOLED, 120 Hz, 1200 nits (pico)\nTamaño: 6,67 pulgadas\nResolución: 1080 x 2400 píxeles\nCorning Gorilla Glass 3\nProcesador: Qualcomm Snapdragon 680 (SM6225)\nOcta-core 4x2.4 GHz Kryo 265 Gold + 4x1.9GHz Kryo 265 Silver Adreno 610\nMemoria Interna: 128GB\nRAM: 4GB\nMicroSD: SI, SD en slot independiente\nUFS 2.2",
-    images_url:
-      "https://www.yasui.com.py/storage/sku/xiaomi-ofertas-0-estres-xiaomi-note-12-de-128gb-1-1-1684980307.jpeg",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi note 12 128gb 8ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "089",
-    price: "790,000",
-    description:
-      "generacion: 4G\nmemoria expandible: 128GB\nmemoria ram: 8GB\nprocesador: Qualcomm snapdragon Snapdragon 212\nsistema operativo: Android",
-    images_url:
-      "https://static.ticimax.cloud/58097/uploads/urunresimleri/buyuk/redmi-note-12-53-2c3.png",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi note 12 128gb 6ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "090",
-    price: "750,000",
-    description:
-      "generacion: 4G\nmemoria expandible: 128GB\nmemoria ram: 6GB\nprocesador: Qualcomm snapdragon Snapdragon 212\nsistema operativo: Android",
-    images_url:
-      "https://static.ticimax.cloud/58097/uploads/urunresimleri/buyuk/redmi-note-12-53-2c3.png",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi note 12 128gb 4ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "091",
-    price: "690,000",
-    description:
-      "generacion: 4G\nmemoria expandible: 128GB\nmemoria ram: 4GB\nprocesador: Qualcomm snapdragon Snapdragon 212\nsistema operativo: Android",
-    images_url:
-      "https://static.ticimax.cloud/58097/uploads/urunresimleri/buyuk/redmi-note-12-53-2c3.png",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi note 12 5g 128gb 4ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "092",
-    price: "900,000",
-    description:
-      "generacion: 5G\nmemoria expandible: 128GB\nmemoria ram: 4GB\nprocesador: Qualcomm snapdragon Snapdragon 212\nsistema operativo: Android",
-    images_url:
-      "https://static.ticimax.cloud/58097/uploads/urunresimleri/buyuk/redmi-note-12-53-2c3.png",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi note 11s 128gb 6 ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "093",
-    price: "890,000",
-    description:
-      'Procesador Snapdragon 680\nGpu: Adreno 610\nPantalla: 6.43" DotDisplay FHD+, Corning® Gorilla® Glass 5\nCorning® Gorilla® Glass 5 en la parte delantera y trasera\nResolucion: 1080 x 2400 AMOLED 90HZ\nMemoria Interna de 128 GB\nMemoria RAM de 6 GB\nParlantes stereo\nNFC: SI',
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/117712889_1?wid=800&hei=800&qlt=70",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
-    product: "xiaomi note 11s 64gb 6 ram",
-    disponibilidad: true,
-    descuento: false,
-    id: "094",
-    price: "790,000",
-    description:
-      'Procesador Snapdragon 680\nGpu: Adreno 610\nPantalla: 6.43" DotDisplay FHD+, Corning® Gorilla® Glass 5\nCorning® Gorilla® Glass 5 en la parte delantera y trasera\nResolucion: 1080 x 2400 AMOLED 90HZ\nMemoria Interna de 64 GB\nMemoria RAM de 6 GB\nParlantes stereo\nNFC: SI',
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/117712889_1?wid=800&hei=800&qlt=70",
-    category: "tecnología",
-    sub_category: "xiaomi",
-  },
-  {
+    {
     product: "xiaomi note 10s 128gb 6 ram",
     disponibilidad: true,
     descuento: false,
@@ -3055,19 +2743,19 @@ export const database = [
     sub_category: "bombillos",
   },
   {
-    product: "bombillo led 50 watts ilumina",
+    product: "bombillo led Alta Potencia 50 watts ilumina",
     disponibilidad: true,
     descuento: false,
     id: 264,
-    price: "40,000",
-    description: "bombillo led 50 watts ilumina",
+    price: "39,000",
+    description: "bombillo led Alta Potencia 50 watts ilumina",
     images_url:
-      "https://tinypic.host/images/2024/01/22/_40.000DG_X2-35-50046-removebg-preview.png",
+      "https://media.falabella.com/sodimacCO/493617/w=1036,h=832,f=webp,fit=contain,q=85",
     category: "iluminacion",
     sub_category: "bombillos",
   },
   {
-    product: "bombillo led blutooth rgb con contro luces y sonido",
+    product: "bombillo led bluetooth rgb con control Remoto luces y sonido",
     disponibilidad: true,
     descuento: false,
     id: 265,
@@ -3075,7 +2763,7 @@ export const database = [
     description:
       "Dimensiones: 13 cm x 9 cm x 5 cm\nMaterial: Plástico\nPotencia: 12 W\nIncluye\t1 x Bombillo LED BT 1 x Control Remoto",
     images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/117505013_1?wid=800&hei=800&qlt=70",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_722905-MLA94282014671_102025-F.webp",
     category: "iluminacion",
     sub_category: "bombillos",
   },
@@ -3106,20 +2794,20 @@ export const database = [
     sub_category: "bombillos",
   },
   {
-    product: "bombillo led 40 watts ilumina",
+    product: "bombillo led 40 watts Alta Potencia ilumina",
     disponibilidad: true,
     descuento: false,
     id: 268,
     price: "32,000",
-    description: "bombillo led 40 watts ilumina",
+    description: "bombillo led 40 watts Alta Potencia ilumina",
     images_url:
-      "https://tinypic.host/images/2024/01/22/_40.000DG_X2-35-50046-removebg-preview.png",
+      "https://media.falabella.com/sodimacCO/493617/w=1036,h=832,f=webp,fit=contain,q=85",
     category: "iluminacion",
     sub_category: "bombillos",
   },
   {
     product: "bombillo led 15 watts ilumina",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 269,
     price: "16,000",
@@ -3170,7 +2858,7 @@ export const database = [
   },
   {
     product: "lampara de emergencia led karluz",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 273,
     price: "35,000",
@@ -3183,7 +2871,7 @@ export const database = [
   },
   {
     product: "lampara led recargable incluye cable cargador 1w led switch luz",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 274,
     price: "35,000",
@@ -3197,7 +2885,7 @@ export const database = [
   {
     product:
       "lampara solar recargable duración 10-30 horas incluye 3 bombillos",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 275,
     price: "148,000",
