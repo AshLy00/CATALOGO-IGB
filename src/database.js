@@ -851,7 +851,7 @@ export const database = [
   },
     {
     product: "xiaomi note 10s 128gb 6 ram",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: "095",
     price: "849,000",
@@ -11567,6 +11567,71 @@ export const database = [
       'Celular Xiaomi REDMI 15C 8/256GB',
     images_url:
       "https://www.alkosto.com/medias/6932554455941-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjk4NHxpbWFnZS93ZWJwfGFEQXdMMmhrTnk4eE5UTTBOVFF4TVRBek1UQTNNQzgyT1RNeU5UVTBORFUxT1RReFh6QXdNVjgzTlRCWGVEYzFNRWd8ZmFhZWRlNjAwNWI0MTRjZDBiMWNhNTg3N2IxNzZiNTY4MzE0YjVhZTZhNjliYzVlNWZkYmRmYThjYTlkNzAwZQ",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+   {
+    product: "Celular Xiaomi REDMI Note 14 6/128GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "988",
+    price: "809,000",
+    description:
+      'Celular Xiaomi REDMI Note 14 6/128GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554408190-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDc3NHxpbWFnZS93ZWJwfGFHWXdMMmc1WXk4eE5EZzVNREF4TlRNNU1UYzNOQzgyT1RNeU5UVTBOREE0TVRrd1h6QXdNVjgzTlRCWGVEYzFNRWd8NDRiN2U1NGZkYjYxNGEwYzlkNmJkYjA3ZWI3YWUzZDc1NTg2OTIyMjYyYTdkZDI0MjQyN2JmOWI4ZjQyM2MyZQ",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI Note 14 8/256GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "989",
+    price: "940,000",
+    description:
+      'Celular Xiaomi REDMI Note 14 8/256GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554408152-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjgyOHxpbWFnZS93ZWJwfGFETTBMMmc0T0M4eE5EZzVNREF3T1RRNU16VXpOQzgyT1RNeU5UVTBOREE0TVRVeVh6QXdNVjgzTlRCWGVEYzFNRWd8MDk1MDkxZmQ5OWJiN2UwMTBmMzdmOWI2MDMxMzk0YzEyNzNiYjNmNDUxYjJmNmVjMWE3OGE1NWY1ZTYyNzRjZA",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI Note 14s 8/256GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "990",
+    price: "1,090,000",
+    description:
+      'Celular Xiaomi REDMI Note 14s 8/256GB',
+    images_url:
+      "https://olimpica.vtexassets.com/arquivos/ids/1846139-800-auto?v=638811290620800000&width=800&height=auto&aspect=true",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi REDMI Note 14 PRO+ 8/256GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "991",
+    price: "1,790,000",
+    description:
+      'Celular Xiaomi REDMI Note 14 PRO+ 8/256GB',
+    images_url:
+      "https://www.alkosto.com/medias/6932554401313-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNDU2OHxpbWFnZS93ZWJwfGFEZzRMMmczTWk4eE5Ea3pPRFE1TVRRNE5qSXpPQzgyT1RNeU5UVTBOREF4TXpFelh6QXdNVjgzTlRCWGVEYzFNRWd8NDM5MjU4YzMwMTkyNGNjYjY1NTNlYjJiOTUwZmRjYmEwYzczZjU2ZDZiYjJkMjgzYzE0MjQ1MjVlOWZhZTgyYw",
+    category: "tecnología",
+    sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Xiaomi POCO X7PRO 12/512GB",
+    disponibilidad: true,
+    descuento: false,
+    id: "992",
+    price: "1,390,000",
+    description:
+      'Celular Xiaomi POCO X7PRO 12/512GB',
+    images_url:
+      "https://olimpica.vtexassets.com/arquivos/ids/1702313-800-auto?v=638723780309400000&width=800&height=auto&aspect=true",
     category: "tecnología",
     sub_category: "xiaomi",
   },
