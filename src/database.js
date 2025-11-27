@@ -864,7 +864,7 @@ export const database = [
   },
   {
     product: "iphone 14 128gb",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: "096",
     price: "3,650,000",
@@ -875,20 +875,7 @@ export const database = [
     category: "tecnología",
     sub_category: "iphone",
   },
-  {
-    product: "iphone 11 64gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "097",
-    price: "2,369,000",
-    description:
-      "Sistema de dos cámaras.\nFotos en situaciones de poca luz con el modo Noche.\nResistencia al agua de hasta 30 min (Prof max 2 metros).\nNo incluye adaptador de corriente ni EarPods",
-    images_url:
-      "https://exitocol.vtexassets.com/arquivos/ids/20755254/Iphone-11-De-64GB-En-Blanco-APPLE-MHDC3LZA-3009227_a.jpg?v=638393705834670000",
-    category: "tecnología",
-    sub_category: "iphone",
-  },
-  {
+   {
     product: "samsung galaxy a34 5g 128gb",
     disponibilidad: false,
     descuento: false,
