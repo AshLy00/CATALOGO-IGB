@@ -871,7 +871,7 @@ export const database = [
     description:
       "Pantalla Super Retina XDR de 6.1 pulgadas.\nSistema avanzado de cámaras para tomar mejores fotos en cualquier condición de luz.\nModo Cine ahora en 4K Dolby Vision de hasta 30cps.\nModo Acción para lograr videos estables, aún con cámara en mano.\nDetección de Choques, una funcionalidad de seguridad que pide ayuda cuando tú no puedes.\nBatería para todo el día y hasta 26 horas de reproducción de vídeo.",
     images_url:
-      "https://tiendasishop.com/media/catalog/product/i/p/iphone_14_yellow_pdp_image_position-1a_coes.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_788199-MLA95695531788_102025-F.webp",
     category: "tecnología",
     sub_category: "iphone",
   },
@@ -11751,5 +11751,31 @@ export const database = [
       "https://www.alkosto.com/medias/8806097017929-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTEzNnxpbWFnZS93ZWJwfGFEazFMMmcyTWk4eE5Ea3lNRFk1TmpNMk5UQTROaTg0T0RBMk1EazNNREUzT1RJNVh6QXdNVjgzTlRCWGVEYzFNRWd8ZDRmNzkyMGM2MjE2MmRlYmJkYTliYjNiYjQ1OWJhNTQzMDc1MzQyZGQ1ZTRkYmRhNjMxOWI5OTc5MGRhNzFiMg",
     category: "tecnología",
     sub_category: "samsung",
+  },
+  {
+    product: "iphone 13 128gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "1004",
+    price: "2,190,000",
+    description:
+      "iphone 13 128gb",
+    images_url:
+      "https://www.alkosto.com/medias/194252707432-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTUxNHxpbWFnZS93ZWJwfGFHUXlMMmcwWkM4eE5ETXhOak0yT1RjM01qVTNOQzh4T1RReU5USTNNRGMwTXpKZk1EQXhYemMxTUZkNE56VXdTQXxiODU4OTg5MmU2NGZhNDljNjc1ZDM4MWU3NTFmNjMxZjdmY2FiZDhlNTg0MmQ0MTg1MjAwMWRhMTMwMTIwMDE5",
+    category: "tecnología",
+    sub_category: "iphone",
+  },
+   {
+    product: "iphone 15 128gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "1005",
+    price: "3,190,000",
+    description:
+      "iphone 15 128gb",
+    images_url:
+      "https://www.alkosto.com/medias/195949036095-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjAwOHxpbWFnZS93ZWJwfGFHUXlMMmhsWXk4eE5ETTFOakExTWpBME9UazFNQzh4T1RVNU5Ea3dNell3T1RWZk1EQXhYemMxTUZkNE56VXdTQXw1NmY5NTA5N2ZhZTViYTA3NjFjMDE3MTBlNzc3MjYwNzE5NjQ4MTlhZmI2YjFmZWQxMzk3YjRjYzk2MTdiMDFj",
+    category: "tecnología",
+    sub_category: "iphone",
   },
   ];
