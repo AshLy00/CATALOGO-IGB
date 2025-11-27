@@ -890,7 +890,7 @@ export const database = [
   },
   {
     product: "samsung galaxy a34 5g 128gb",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: "098",
     price: "1,499,000",
@@ -901,22 +901,9 @@ export const database = [
     category: "tecnología",
     sub_category: "samsung",
   },
-  {
-    product: "samsung a04s 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: "099",
-    price: "890,000",
-    description:
-      'Pantalla PLS de 6.5".\nTiene 3 cámaras traseras de 50Mpx/2Mpx/2Mpx.\nCámara delantera de 5Mpx.\nProcesador Exynos 850 Octa-Core de 2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nCon reconocimiento facial y sensor de huella dactilar.',
-    images_url:
-      "https://www.mugen.crkaizen.com/wp-content/uploads/2023/06/010_galaxy_a04s_green_front.png",
-    category: "tecnología",
-    sub_category: "samsung",
-  },
-  {
+   {
     product: "motorola g84 256 5g",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 100,
     price: "879,000",
@@ -11634,5 +11621,148 @@ export const database = [
       "https://olimpica.vtexassets.com/arquivos/ids/1702313-800-auto?v=638723780309400000&width=800&height=auto&aspect=true",
     category: "tecnología",
     sub_category: "xiaomi",
+  },
+  {
+    product: "Celular Samsung Galaxy A06 4/64gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "993",
+    price: "350,000",
+    description:
+      "Celular Samsung Galaxy A06 4/64gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806095817576-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjk2NHxpbWFnZS93ZWJwfGFETmlMMmcwTWk4eE5Ea3lOVFV6TWpRek1ETTJOaTg0T0RBMk1EazFPREUzTlRjMlh6QXdNVjgzTlRCWGVEYzFNRWd8OGQzZWJlZjQyOWE5M2RkODQ2MTExZTExMDA0NzQwODIxNWE2ZGVjMzUzNDM2MTRiMmM4YmIxOTdhZWJkMDI2Nw",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+  {
+    product: "Celular Samsung Galaxy A07 4/128gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "994",
+    price: "520,000",
+    description:
+      "Celular Samsung Galaxy A07 4/128gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806097661153-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w5NTM0fGltYWdlL3dlYnB8YURrNEwyZzJOeTh4TlRNeE5URTBOakkzTmpnNU5DODRPREEyTURrM05qWXhNVFV6WHpBd01WODNOVEJYZURjMU1FZ3wwMjNkNThmYTFjZDAyZWYwMjllYzliNmY0ZjE1OGFjODU2ZGMxMGEyNjAyY2Q1NTUzNjU0YjQ4MWQyNjQxNmVi",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+   {
+    product: "Celular Samsung Galaxy A16 6/128gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "995",
+    price: "739,000",
+    description:
+      "Celular Samsung Galaxy A16 6/128gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806097626756-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTk4NnxpbWFnZS93ZWJwfGFHRXdMMmhpT1M4eE5USTNOamt4TkRVd056Z3dOaTg0T0RBMk1EazNOakkyTnpVMlh6QXdNVjgzTlRCWGVEYzFNRWd8ODhmZGUyNzU3NDlkNTBiYmJlNmFmNWI4YzQxZDQ2MDZkNWNmOTEwZDI0ODZlYjE1YTQ1NzJmY2M3NTNmYmY0Mg",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+  {
+    product: "Celular Samsung Galaxy A16 8/256gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "996",
+    price: "820,000",
+    description:
+      "Celular Samsung Galaxy A16 8/256gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806095819068-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTg1OHxpbWFnZS93ZWJwfGFHWTVMMmhpTXk4eE5UQXhPVFkzT1RBMU5Ua3dNaTg0T0RBMk1EazFPREU1TURZNFh6QXdNVjgzTlRCWGVEYzFNRWd8MjMwNzNkMzc0ZjBmZjNjOTkzNzdlZTgzMDU4Nzg1NDAxNDY2NTExZDJjNzVlZjg1OGIxNTU5ODM3MGZhYjEwYQ",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+  {
+    product: "Celular Samsung Galaxy A17 4/128gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "997",
+    price: "699,000",
+    description:
+      "Celular Samsung Galaxy A17 4/128gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806097668565-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDQ4NnxpbWFnZS93ZWJwfGFEUXdMMmhpWXk4eE5UTXhOVEl6TVRZd05EYzJOaTg0T0RBMk1EazNOalk0TlRZMVh6QXdNVjgzTlRCWGVEYzFNRWd8MTViY2U3MmQyZTAyYWUxNzBlOWU0MTNmOTAwNWY2ODM5NTBmODAzOTc2YzZhYTc4Y2Y2MTZjZWQxZWViMjY3ZA",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+   {
+    product: "Celular Samsung Galaxy A26 8/256gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "998",
+    price: "1,090,000",
+    description:
+      "Celular Samsung Galaxy A26 8/256gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806097113362-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w5NjQ4fGltYWdlL3dlYnB8YUdReEwyZ3dNUzh4TlRBeU1UTXlNRFUyT0RnMk1pODRPREEyTURrM01URXpNell5WHpBd01WODNOVEJYZURjMU1FZ3wyMTZkYTkzYTgwYjMwNGU5NTQyOTdiZDkyY2FjY2IxYTAzMjg5N2YxYmI1NThhZjQ0YTNlNmFiM2NlZDAyNWY4",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+   {
+    product: "Celular Samsung Galaxy A36 8/256gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "999",
+    price: "1,299,000",
+    description:
+      "Celular Samsung Galaxy A36 8/256gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806097113928-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w5NTMyfGltYWdlL3dlYnB8YURabUwyaGpOUzh4TlRBeE5UZ3pPVE13TVRZMk1pODRPREEyTURrM01URXpPVEk0WHpBd01WODNOVEJYZURjMU1FZ3wyZGYyMGFmM2YxMDE1OTg1NTBhMDBhM2ZkZjA3YTQ3MzVmMWY0YzNhODI1Yzg2MzU2MWZmNGNlNzlkYjdmNTg0",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+  {
+    product: "Celular Samsung Galaxy M55 8/256gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "1000",
+    price: "989,000",
+    description:
+      "Celular Samsung Galaxy M55 8/256gb",
+    images_url:
+      "https://media.falabella.com/falabellaCO/143449631_01/w=1500,h=1500,fit=pad",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+  {
+    product: "Celular Samsung Galaxy S24 Ultra 12/256gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "1001",
+    price: "3,990,000",
+    description:
+      "Celular Samsung Galaxy S24 Ultra 12/256gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806095303413-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMjEzOHxpbWFnZS93ZWJwfGFHSXhMMmd4Wmk4eE5Ea3lOVFV3TWpnd09EQTVOQzg0T0RBMk1EazFNekF6TkRFelh6QXdNVjgzTlRCWGVEYzFNRWd8NjRkOTA2MTI0MzcyZTZhZDc4MDkxMzZiN2JkYjU0ZDU3NjA3NmIwZTExZWY0MmFlMDFlMWUxMzlhZGRhYmY4Ng",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+  {
+    product: "Celular Samsung Galaxy S25 Ultra 12/256gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "1002",
+    price: "6,400,000",
+    description:
+      "Celular Samsung Galaxy S25 Ultra 12/256gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806095871066-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTQzMnxpbWFnZS93ZWJwfGFEQmtMMmhrTUM4eE5Ea3lNRFkzTmpjd05ESTROaTg0T0RBMk1EazFPRGN4TURZMlh6QXdNVjgzTlRCWGVEYzFNRWd8YjNjZDk0MDBlNDFlNWEwODkwNzZlMDgwYjBkNzBkYTA3YmE0MzE4ZDZiMWQ1ZmRiYjQ1YzNiZTVhMTZhZTgzZg",
+    category: "tecnología",
+    sub_category: "samsung",
+  },
+  {
+    product: "Celular Samsung Galaxy S25 Ultra 12/512gb",
+    disponibilidad: true,
+    descuento: false,
+    id: "1003",
+    price: "6,900,000",
+    description:
+      "Celular Samsung Galaxy S25 Ultra 12/512gb",
+    images_url:
+      "https://www.alkosto.com/medias/8806097017929-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTEzNnxpbWFnZS93ZWJwfGFEazFMMmcyTWk4eE5Ea3lNRFk1TmpNMk5UQTROaTg0T0RBMk1EazNNREUzT1RJNVh6QXdNVjgzTlRCWGVEYzFNRWd8ZDRmNzkyMGM2MjE2MmRlYmJkYTliYjNiYjQ1OWJhNTQzMDc1MzQyZGQ1ZTRkYmRhNjMxOWI5OTc5MGRhNzFiMg",
+    category: "tecnología",
+    sub_category: "samsung",
   },
   ];
