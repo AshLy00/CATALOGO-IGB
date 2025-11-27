@@ -888,22 +888,9 @@ export const database = [
     category: "tecnología",
     sub_category: "samsung",
   },
-   {
-    product: "motorola g84 256 5g",
-    disponibilidad: false,
-    descuento: false,
-    id: 100,
-    price: "879,000",
-    description:
-      'Compatible con redes 5G.\nPantalla POLED de 6.5".\nTiene 2 cámaras traseras de 50Mpx/8Mpx.\nCámaras delanteras de 16Mpx.\nProcesador Snapdragon 695 Octa-Core de 2.2GHz con 8GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 256GB.\nCon reconocimiento facial y sensor de huella dactilar.\nTarjeta eSIM incluida en tu dispositivo.',
-    images_url:
-      "https://www.alcarrito.com/media/catalog/product/m/a/magenta_1.jpg?width=600&height=600&canvas=600,600&optimize=medium&bg-color=255,255,255&fit=bounds",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
+    {
     product: "motorola g72 128gb",
-    disponibilidad: true,
+    disponibilidad: false,
     descuento: false,
     id: 101,
     price: "799,900",
@@ -914,124 +901,7 @@ export const database = [
     category: "tecnología",
     sub_category: "motorola",
   },
-  {
-    product: "motorola g54 128gb 5g",
-    disponibilidad: true,
-    descuento: false,
-    id: 102,
-    price: "689,000",
-    description:
-      'Compatible con redes 5G.\nPantalla de 6.5".\nTiene 2 cámaras traseras de 50Mpx/2Mpx.\nCámaras delanteras de 16Mpx.\nProcesador MediaTek Dimensity 7020 Octa-Core de 2.2GHz con 8GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nCon reconocimiento facial y sensor de huella dactilar.\nTarjeta eSIM incluida en tu dispositivo.',
-    images_url:
-      "https://www.ktronix.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-840023252518-006.jpg?context=bWFzdGVyfGltYWdlc3wyMTgxMDB8aW1hZ2UvanBlZ3xhRGs1TDJneE1DOHhOREExTWpRMk5Ua3pORE0yTmk4M05UQlhlRGMxTUVoZmJXRnpkR1Z5TDJodmRHWnZiR1JsY2k5MGNtRnVjMlpsY2k5cGJtTnZiV2x1Wnk5a1pYQnZjMmwwTDJoNVluSnBjeTFwYm5SbGNtWmhZMlZ6TDBsT0wyMWxaR2xoTDNCeWIyUjFZM1F2T0RRd01ESXpNalV5TlRFNFh6QXdOaTVxY0djfDc1NzUzOTUzNmNlZjFhYjU4OTA1NDMzYzI2NWZjZWEzYTIzZGI2NzExNzBkMTcxMjE3Y2UzMDIxZjFkNzA4NmQ",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
-    product: "motorola g52 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: 103,
-    price: "629,900",
-    description:
-      'Pantalla POLED de 6.6".\nTiene 3 cámaras traseras de 50Mpx/8Mpx/2Mpx.\nCámara delantera de 16Mpx.\nProcesador Snapdragon 680 Octa-Core de 2.4GHz con 6GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente a las salpicaduras.\nCon reconocimiento facial y sensor de huella dactilar.\nResistente al polvo.',
-    images_url:
-      "https://www.puntocenter.com.co/wp-content/uploads/2023/06/1-6.jpeg",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
-    product: "motorola g51 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: 104,
-    price: "690,000",
-    description:
-      'Compatible con redes 5G.\nPantalla IPS de 6.8".\nTiene 3 cámaras traseras de 50Mpx/8Mpx/2Mpx.\nCámara delantera de 13Mpx.\nProcesador Snapdragon 480 Plus Octa-Core de 2.2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente a las salpicaduras.\nCon reconocimiento facial y sensor de huella dactilar.\nResistente al polvo.',
-    images_url:
-      "https://www.alkosto.com/medias/840023222795-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMDI4NjJ8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGlaUzlvWVRZdk1URTFNamN4TmpZeE5qVXdNakl1YW5Cbnw3ZTgxZjg2NmZlOGZiNzAyN2NhNDg3ODAxMWRjNzg2ZGQxNmQxMWM5ODY5ODFmOGViNjY1ZDc1NjFiMTI2ZWFi",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
-    product: "motorola g23 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: 105,
-    price: "569,900",
-    description:
-      'Pantalla IPS de 6.5".\nTiene 3 cámaras traseras de 50Mpx/5Mpx/2Mpx.\nCámara delantera de 16Mpx.\nProcesador Mediatek MT6769Z Helio G85 Octa-Core de 2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente al agua.\nCon sensor de huella dactilar.',
-    images_url:
-      "https://www.phonelectrics.com/cdn/shop/files/MotorolaG23-1_1000x1000.jpg?v=1685743523",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
-    product: "motorola g14 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: 106,
-    price: "540,000",
-    description:
-      'Pantalla IPS de 6.5".\nTiene 2 cámaras traseras de 50Mpx/2Mpx.\nCámara delantera de 8Mpx.\nProcesador Unisoc T616 Octa-Core de 2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente al agua.\nCon reconocimiento facial y sensor de huella dactilar.\nResistente al polvo.',
-    images_url:
-      "https://www.korolos.com.co/wp-content/uploads/2023/11/MOTOG14KOROLOS11.jpg",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
-    product: "motorola g13 128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: 107,
-    price: "499,000",
-    description:
-      'Pantalla IPS de 6.5".\nTiene 3 cámaras traseras de 50Mpx/2Mpx/2Mpx.\nCámara delantera de 8Mpx.\nProcesador MediaTek Helio G85 Octa-Core de 2GHz con 4GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nResistente a las salpicaduras.\nCon reconocimiento facial y sensor de huella dactilar.',
-    images_url:
-      "https://carulla.vtexassets.com/arquivos/ids/14120743/Celular-MOTOROLA-Moto-G13-128-GB-Azul-3358626_a.jpg?v=638363548414170000",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
-    product: "motorola e30 32gb",
-    disponibilidad: true,
-    descuento: false,
-    id: 108,
-    price: "450,000",
-    description:
-      'Pantalla IPS de 6.5".\nTiene 3 cámaras traseras de 48Mpx/2Mpx/2Mpx.\nCámara delantera de 8Mpx.\nProcesador Unisoc T700 Octa-Core de 1.8GHz con 2GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 32GB.\nResistente a las salpicaduras.\nCon sensor de huella dactilar.',
-    images_url:
-      "https://www.alkosto.com/medias/840023222948-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNTYwNTZ8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzBOQzlvWVdRdk1URTBPVE14TURneE1qRTJNekF1YW5Cbnw3OGQ0YThjZWQ4NjRmNmIxYjgyYzZhMmUxM2Q3MzJlMmQ3NjYxOWZkMDM4NWI4ZTcyMjJlNTRhYmRjYjVjZjQx",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
-    product: "motorola e22 4/128gb",
-    disponibilidad: true,
-    descuento: false,
-    id: 109,
-    price: "399,000",
-    description:
-      'Pantalla IPS de 6.5".\nTiene 2 cámaras traseras de 16Mpx/2Mpx.\nCámara delantera de 5Mpx.\nProcesador Mediatek MT6765V/CB Helio G37 Octa-Core de 2.3GHz con 4GB de RAM.\nBatería de 4020mAh.\nMemoria interna de 128GB.\nResistente al agua.\nCon reconocimiento facial y sensor de huella dactilar.',
-    images_url:
-      "https://falabella.scene7.com/is/image/FalabellaCO/124385523_1?wid=800&hei=800&qlt=70",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
-    product: "motorola e13 64gb",
-    disponibilidad: true,
-    descuento: false,
-    id: 110,
-    price: "349,000",
-    description:
-      'Pantalla IPS de 6.5".\nCámara trasera de 13Mpx.\nCámara delantera de 5Mpx.\nProcesador Unisoc T606 Octa-Core de 1.6GHz con 2GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 64GB.\nResistente a las salpicaduras.\nCon reconocimiento facial.',
-    images_url:
-      "https://falabella.scene7.com/is/image/Falabella/16996621_1?wid=800&hei=800&qlt=70",
-    category: "tecnología",
-    sub_category: "motorola",
-  },
-  {
+     {
     product: "memoria micro sd con adaptador 128gb corn",
     disponibilidad: true,
     descuento: false,
@@ -11777,5 +11647,83 @@ export const database = [
       "https://www.alkosto.com/medias/195949036095-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjAwOHxpbWFnZS93ZWJwfGFHUXlMMmhsWXk4eE5ETTFOakExTWpBME9UazFNQzh4T1RVNU5Ea3dNell3T1RWZk1EQXhYemMxTUZkNE56VXdTQXw1NmY5NTA5N2ZhZTViYTA3NjFjMDE3MTBlNzc3MjYwNzE5NjQ4MTlhZmI2YjFmZWQxMzk3YjRjYzk2MTdiMDFj",
     category: "tecnología",
     sub_category: "iphone",
+  },
+   {
+    product: "Celular MOTOROLA E15 4/64GB ",
+    disponibilidad: true,
+    descuento: false,
+    id: 1006,
+    price: "430,000",
+    description:
+      'Celular MOTOROLA E15 4/64GB ',
+    images_url:
+      "https://www.alkosto.com/medias/840023280412-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w0MTM5NHxpbWFnZS93ZWJwfGFHWXdMMmc0T1M4eE5URXdNemsxTmpnME5EVTNOQzg0TkRBd01qTXlPREEwTVRKZk1EQXhYemMxTUZkNE56VXdTQXw2YTJmZGRlZmIwNDc5N2YzMDRmZTRhOGUwZTY1ZGE0ZDcxMTJhOTg4MzdmMDYyNWQ3MjcyODdhYjMyZWYwMzE4",
+    category: "tecnología",
+    sub_category: "motorola",
+  },
+  {
+    product: "Celular MOTOROLA G05 4/128GB ",
+    disponibilidad: true,
+    descuento: false,
+    id: 1007,
+    price: "376,000",
+    description:
+      'Celular MOTOROLA G05 4/128GB ',
+    images_url:
+      "https://www.alkosto.com/medias/840023280436-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wzNjU2OHxpbWFnZS93ZWJwfGFHWmpMMmcwTUM4eE5EazNOak0wTlRZMk9UWTJNaTg0TkRBd01qTXlPREEwTXpaZk1EQXhYemMxTUZkNE56VXdTQXxmOTZmMDAwNjBjMmQzNGY5M2JhMmMyMjMzZGI2ZGI0NTk0NzU3NDE2NTRhZDY0MWE0YTgwMjdlYWZiZWM2Yjcz",
+    category: "tecnología",
+    sub_category: "motorola",
+  },
+  {
+    product: "Celular MOTOROLA G05 4/256GB ",
+    disponibilidad: true,
+    descuento: false,
+    id: 1008,
+    price: "459,000",
+    description:
+      'Celular MOTOROLA G05 4/256GB ',
+    images_url:
+      "https://www.alkosto.com/medias/840023280481-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wzNzg0NnxpbWFnZS93ZWJwfGFESTRMMmhsTkM4eE5EazNOak0xTVRVMk56a3dNaTg0TkRBd01qTXlPREEwT0RGZk1EQXhYemMxTUZkNE56VXdTQXwxM2Y4NTRiZWMwNTQzYWY1OGY5N2E4MDY4ZjMxOWMzMjU1NTQ4ODNlZDk4NmMxOGU1ZDNiN2Y2YmEwMGUwYjhk",
+    category: "tecnología",
+    sub_category: "motorola",
+  },
+   {
+    product: "Celular MOTOROLA G06 4/128GB ",
+    disponibilidad: true,
+    descuento: false,
+    id: 1009,
+    price: "400,000",
+    description:
+      'Celular MOTOROLA G06 4/128GB ',
+    images_url:
+      "https://www.alkosto.com/medias/840493602639-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyODM0MHxpbWFnZS93ZWJwfGFEazRMMmc1WlM4eE5USTNPRFU1T0RZMU1Ua3pOQzg0TkRBME9UTTJNREkyTXpsZk1EQXhYemMxTUZkNE56VXdTQXxiMjEwMTY2YjA2MWY0NjU4ZDBkN2YwZDhjNTM4NWZlOTEzNWJkY2ZmZTE3ZTM2NTkyMTg4YTllM2U1YWU5ODU5",
+    category: "tecnología",
+    sub_category: "motorola",
+  },
+   {
+    product: "Celular MOTOROLA G06 4/256GB ",
+    disponibilidad: true,
+    descuento: false,
+    id: 1010,
+    price: "490,000",
+    description:
+      'Celular MOTOROLA G06 4/256GB ',
+    images_url:
+      "https://www.alkosto.com/medias/840493602561-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxODU1MHxpbWFnZS93ZWJwfGFESXpMMmhtWXk4eE5USTNPRFUwT1RrMU9EWTROaTg0TkRBME9UTTJNREkxTmpGZk1EQXhYemMxTUZkNE56VXdTQXxkNTc5NGI5MDkwNTNjN2IyMzMxZWU3MTI4M2JhMTVkMDRmNTFmMjA2ODJhZTI2NzViODJiZjk3NGNlNzFiNDk5",
+    category: "tecnología",
+    sub_category: "motorola",
+  },
+  {
+    product: "Celular MOTOROLA G15 4/512GB ",
+    disponibilidad: true,
+    descuento: false,
+    id: 1011,
+    price: "559,000",
+    description:
+      'Celular MOTOROLA G15 4/512GB ',
+    images_url:
+      "https://www.alkosto.com/medias/840023291487-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wzNDIxNnxpbWFnZS93ZWJwfGFEUmxMMmhqTUM4eE5URTVOalkxTkRBM05Ua3pOQzg0TkRBd01qTXlPVEUwT0RkZk1EQXhYemMxTUZkNE56VXdTQXw4ZDRhOGRhN2M2MGQxMTUyNDljYTczMjUyZjFjMjA4MDk5ZjE1NWM0Y2VjNDc0YTBhNWUwZDc5OGI2MmZkZmRl",
+    category: "tecnología",
+    sub_category: "motorola",
   },
   ];
