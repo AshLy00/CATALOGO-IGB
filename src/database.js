@@ -897,7 +897,7 @@ export const database = [
     description:
       'Pantalla POLED de 6.6".\nTiene 3 cámaras traseras de 108Mpx/8Mpx/2Mpx.\nCámara delantera de 16Mpx.\nProcesador MediaTek Helio G99 Octa-Core de 2.2GHz con 6GB de RAM.\nBatería de 5000mAh.\nMemoria interna de 128GB.\nCon reconocimiento facial y sensor de huella dactilar.',
     images_url:
-      "https://www.alkomprar.com/medias/750Wx750H-master-hotfolder-transfer-incoming-deposit-hybris-interfaces-IN-media-product-840023251504-001.jpg?context=bWFzdGVyfGltYWdlc3wyMTY1OTV8aW1hZ2UvanBlZ3xhREU0TDJobE5TOHhNemcwTWpreE9UZzRNamM0TWk4M05UQlhlRGMxTUVoZmJXRnpkR1Z5TDJodmRHWnZiR1JsY2k5MGNtRnVjMlpsY2k5cGJtTnZiV2x1Wnk5a1pYQnZjMmwwTDJoNVluSnBjeTFwYm5SbGNtWmhZMlZ6TDBsT0wyMWxaR2xoTDNCeWIyUjFZM1F2T0RRd01ESXpNalV4TlRBMFh6QXdNUzVxY0djfDVlZmY0NGMzYjFhYWNmNjMxMzgyYjUxZGQ4ODQ2YmQwNmVjZWI4N2UxYzUyM2JmNWEzYjVjODlhMzQyOTVlYjc",
+      "https://i.ebayimg.com/images/g/VFQAAOSwmhJlDHjm/s-l1600.webp",
     category: "tecnología",
     sub_category: "motorola",
   },
