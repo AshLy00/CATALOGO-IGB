@@ -897,7 +897,7 @@ export const database = [
     description:
       "Pantalla de 6.6 pulgadas con alta resolución\nCamara Principal de 48MP\nBatería de 5000 mAh de larga duración\nMemoria expandible hasta 1TB\nEscaner de huella en pantalla",
     images_url:
-      "https://falabella.scene7.com/is/image/Falabella/gsc_126011320_4409432_1?wid=1500&hei=1500&qlt=70",
+      "https://www.clevercel.co/cdn/shop/files/Portadas_SamsungA34_700x.webp?v=1757093018",
     category: "tecnología",
     sub_category: "samsung",
   },
